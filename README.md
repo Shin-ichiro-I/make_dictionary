@@ -69,3 +69,16 @@ SELECT ?item ?label_ja ?label_en ?altLabel_ja ?altLabel_en ?synonym_ja ?synonym_
   }
 }
 ```  
+
+### Wikidata収録アイテム数(2025.02.19)
+```
+SELECT (COUNT(?item) AS ?count) WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q178593 .  # インスタンスが高分子、またはそのサブクラスであるアイテムをカウント
+}
+```
+- Q178593 (高分子): 1148429
+- Q11173 (化合物)：
+- Q35758 (物質)：
+- Q214609 (材料)：
+- Q79529 (化学物質)：
+- Q11344 (元素)：

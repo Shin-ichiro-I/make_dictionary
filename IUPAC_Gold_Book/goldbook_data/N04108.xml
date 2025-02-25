@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04108</id>
+  <doi>10.1351/goldbook.N04108</doi>
+  <code>N04108</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Nernst's diffusion layer</longtitle>
+  <title>Nernst's diffusion layer</title>
+  <contains>effective thickness of diffusion layer</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A fictitious layer corresponding to the dotted straight lines of the diagram which shows the concentration profile along the direction perpendicular to an electrode surface. The thickness δ of this layer is called the effective (or equivalent) thickness of the diffusion layer. Its definition is apparent from the figure. It is the thickness which the diffusion layer would have if the concentration profile were a straight line coinciding with the tangent to the true concentration profile at the interface, and that straight line were extended up to the point where the bulk concentration is reached. δ has a formal significance only. It is simply another way of writing the mass transfer coefficientkd defined in terms of a resistivity instead of a conductivity. [image: Diffusion layer diagram]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Diffusion layer diagram</title>
+          <file>https://goldbook.iupac.org/img/inline/N04108.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>diffusion layer</title>
+          <url>https://goldbook.iupac.org/terms/view/D01725</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>mass transfer coefficient (in electrochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03754</url>
+        </item>
+        <item>
+          <title>diffusion layer</title>
+          <url>https://goldbook.iupac.org/terms/view/D01725</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>mass transfer coefficient (in electrochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03754</url>
+        </item>
+        <item>
+          <title>diffusion</title>
+          <url>https://goldbook.iupac.org/terms/view/D01716</url>
+        </item>
+        <item>
+          <title>resistivity (in electrochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05316</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>δ</alttext>
+          <latex>\delta </latex>
+        </item>
+        <item>
+          <alttext>δ</alttext>
+          <latex>\delta </latex>
+        </item>
+        <item>
+          <meaning>Mass transfer coefficient</meaning>
+          <type>quantity</type>
+          <alttext>kd</alttext>
+          <latex>k_{\text{d}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1981, 53, 1827. 'Nomenclature for transport phenomena in electrolytic systems' on page 1837 (https://doi.org/10.1351/pac198153101827)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04108/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04108/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04108/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04108/plain</plain>
+  </links>
+  <citation>Citation: 'Nernst's diffusion layer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04108</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:53:40+00:00</accessed>
+</term>

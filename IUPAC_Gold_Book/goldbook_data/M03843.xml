@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03843</id>
+  <doi>10.1351/goldbook.M03843</doi>
+  <code>M03843</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mesolytic cleavage</longtitle>
+  <title>mesolytic cleavage</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Cleavage of a bond in a radical ion whereby a radical and an ion are formed. The term reflects the mechanistic duality of the process, which can be viewed as homolytic or heterolytic depending on how the electrons are attributed to the fragments.</text>
+      <links>
+        <item>
+          <title>radical ion</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+        <item>
+          <title>radical</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1139 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03843/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03843/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03843/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03843/plain</plain>
+  </links>
+  <citation>Citation: 'mesolytic cleavage' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03843</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:38:53+00:00</accessed>
+</term>

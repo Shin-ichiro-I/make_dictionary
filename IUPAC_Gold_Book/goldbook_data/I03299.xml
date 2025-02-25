@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03299</id>
+  <doi>10.1351/goldbook.I03299</doi>
+  <code>I03299</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isomorphous structures in polymers</longtitle>
+  <title>isomorphous structures</title>
+  <contains>enantiomorphous structures <span class="in">in polymers</span></contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In the crystalline state, polymer chains are generally parallel to one another but neighbouring chains of equivalent conformation may differ in chirality and/or orientation. Chains of identical chirality and conformation are isomorphous. Chains of opposite chirality but equivalent conformation are enantiomorphous. For example, two ...TG+TG+TG+... helices of isotactic poly(propylene) are isomorphous. Isotactic poly(propylene) chains of the ...TG+TG+TG+... and ...G−TG−TG−T... types are mutually enantiomorphous. With regard to orientation, consider a repeating side group originating at atom A1i, the first atom of the side group being Bαi. For certain chain symmetries (helical, for instance) the bond vectors b(→) (A1i/Bαi) have the same components (positive or negative) b(→)·c(→)/|c(→)| along the c axis for every i. [image: Not defined] Two equivalent (isomorphous or enantiomorphous) chains in the crystal lattice, having identical components of the bond vectors along c, both positive or both negative, are designated isoclined; two equivalent chains having bond vectors along c of the same magnitude but opposite sign are designated anticlined.</text>
+      <contexts>
+        <in>
+          <item>polymers</item>
+        </in>
+      </contexts>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/I03299.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>side group</title>
+          <url>https://goldbook.iupac.org/terms/view/P04472</url>
+        </item>
+        <item>
+          <title>conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>side group</title>
+          <url>https://goldbook.iupac.org/terms/view/P04472</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>A1i</alttext>
+          <latex>A_{1}^{i}</latex>
+        </item>
+        <item>
+          <alttext>Bαi</alttext>
+          <latex>B_{\alpha }^{i}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>b(→) (A1i/Bαi)</alttext>
+          <latex>\overset{\rightarrow }{\mathbf{b}}(A_{1}^{i},B_{\alpha }^{i})</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>b(→)·c(→)/|c(→)|</alttext>
+          <latex>\frac{\overset{\rightarrow }{\mathbf{b}}\cdot \overset{\rightarrow }{\mathbf{c}}}{|\overset{\rightarrow }{\mathbf{c}}|}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Purple Book, 1st ed., p. 43 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03299/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03299/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03299/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03299/plain</plain>
+  </links>
+  <citation>Citation: 'isomorphous structures' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03299</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:13:36+00:00</accessed>
+</term>

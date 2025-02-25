@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00758</id>
+  <doi>10.1351/goldbook.B00758</doi>
+  <code>B00758</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Bunnett–Olsen equations</longtitle>
+  <title>Bunnett–Olsen equations</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The equations for the relation between log10([SH+]/[S]) + H0 and log10[H+] + H0 for base S in aqueous mineral acid solution, where H0 is Hammett's acidity function and log10[H+] + H0 represents the activity function log10(γS.γH+)/γ.SH+ for the nitroaniline reference bases to build H0.  </text>
+      <links>
+        <item>
+          <title>Cox–Yates equation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01386</url>
+        </item>
+        <item>
+          <title>Cox–Yates equation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01386</url>
+        </item>
+        <item>
+          <title>acidity function</title>
+          <url>https://goldbook.iupac.org/terms/view/A00081</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>log10([SH+]/[S]) + H0</alttext>
+          <latex>\log _{10}(\frac{\text{[SH}^{+}\text{]}}{[S]})+\text{H}_{0}</latex>
+        </item>
+        <item>
+          <alttext>log10[H+] + H0</alttext>
+          <latex>\log _{10}\text{[H}^{+}\text{]}+\text{H}_{0}</latex>
+        </item>
+        <item>
+          <alttext>H0</alttext>
+          <latex>\text{H}_{0}</latex>
+        </item>
+        <item>
+          <alttext>log10[H+] + H0</alttext>
+          <latex>\log _{10}\text{[H}^{+}\text{]}+\text{H}_{0}</latex>
+        </item>
+        <item>
+          <alttext>log10(γS.γH+)/γ.SH+</alttext>
+          <latex>\frac{\log _{10}(\gamma _{S}\ \gamma _{H^{+}})}{\gamma _{\text{SH}^{+}}}</latex>
+        </item>
+        <item>
+          <alttext>H0</alttext>
+          <latex>\text{H}_{0}</latex>
+        </item>
+        <item>
+          <alttext>log10([SH+]/[S]) - log10([H+]) = (Φ - 1)(log10([H+]) + H0) + pKSH+</alttext>
+          <latex>\log _{10}(\frac{[\text{SH}^{+}]}{[\text{S}]})- \log _{10}[\text{H}^{+}]=(\varPhi - 1)\ (\log _{10}\text{[H}^{+}\text{]}+\text{H}_{0})+pK_{\text{SH}^{+}}</latex>
+        </item>
+        <item>
+          <alttext>log10([SH+]/[S]) + H0 = Φ(log10([H+]) + H0) + pKSH+</alttext>
+          <latex>\log _{10}(\frac{[\text{SH}^{+}]}{[\text{S}]})+H_{0}=\varPhi \ (\log _{10}[\text{H}^{+}]+\text{H}_{0})+pK_{\text{SH}^{+}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1091 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00758/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00758/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00758/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00758/plain</plain>
+  </links>
+  <citation>Citation: 'Bunnett–Olsen equations' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00758</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:17:05+00:00</accessed>
+</term>

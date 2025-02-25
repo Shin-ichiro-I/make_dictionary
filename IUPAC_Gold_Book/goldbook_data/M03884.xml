@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03884</id>
+  <doi>10.1351/goldbook.M03884</doi>
+  <code>M03884</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - metre</longtitle>
+  <title>metre</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2021-01-01</lastupdated>
+  <definitions>
+    <item>
+      <id>2</id>
+      <text>The metre, symbol m, is the SI unit of length. It is defined by taking the fixed numerical value of the speed of light in vacuum c to be 299 792 458 when expressed in the unit m s-1, where the second is defined in terms of the caesium frequency ∆νCs.</text>
+      <links>
+        <item>
+          <title>speed of light in a vacuum</title>
+          <url>https://goldbook.iupac.org/terms/view/S05854</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Caesium frequency (SI definition)</meaning>
+          <type>quantity</type>
+          <alttext>Δν(Cs)</alttext>
+          <latex>\Delta\nu_\text{Cs}</latex>
+        </item>
+        <item>
+          <meaning>speed of light in a vacuum</meaning>
+          <type>symbol</type>
+          <alttext>c</alttext>
+          <latex>c</latex>
+        </item>
+      </math>
+      <sources>
+        <item>BIPM, The International System of Units, SI Brochure, 9th ed. (2019), p. 131 (https://www.bipm.org/en/publications/si-brochure/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Metro (it)</title>
+      <url>https://it.wikipedia.org/wiki/Metro</url>
+    </item>
+    <item>
+      <title>Wikipedia - متر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/متر</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03884/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03884/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03884/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03884/plain</plain>
+  </links>
+  <citation>Citation: 'metre' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03884</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:40:51+00:00</accessed>
+</term>

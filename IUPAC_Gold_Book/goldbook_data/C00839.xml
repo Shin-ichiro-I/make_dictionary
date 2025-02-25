@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00839</id>
+  <doi>10.1351/goldbook.C00839</doi>
+  <code>C00839</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbonium ion</longtitle>
+  <title>carbonium ion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <intro>The term should be used with great care since several incompatible meanings are currently in use. It is not acceptable as the root for systematic nomenclature for @C00817@.</intro>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In most of the existing literature the term is used in its traditional sense for what is here defined as carbenium ion.</text>
+      <links>
+        <item>
+          <title>carbenium ion</title>
+          <url>https://goldbook.iupac.org/terms/view/C00812</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>A carbocation, real or hypothetical, that contains at least one five-coordinate carbon atom.</text>
+      <links>
+        <item>
+          <title>carbocation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00817</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>A carbocation, real or hypothetical, whose structure cannot adequately be described by two-electron two-centre bonds only. (The structure may involve carbon atoms with a coordination number greater than five.)</text>
+      <links>
+        <item>
+          <title>carbocation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00817</url>
+        </item>
+        <item>
+          <title>carbocation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00817</url>
+        </item>
+        <item>
+          <title>coordination number</title>
+          <url>https://goldbook.iupac.org/terms/view/C01331</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' Moss, G.P.;Smith, P.A.S.;Tavernier, D.; Pure and Applied Chemistry 1995 67(8-9) 1307</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Carbenium ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Carbenium_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbocation (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Carbocation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbokation (da)</title>
+      <url>https://da.wikipedia.org/wiki/Carbokation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbonio (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Carbonio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbonium ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Carbonium_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carboniumion (de)</title>
+      <url>https://de.wikipedia.org/wiki/Carboniumion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbênium (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Carbênium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composé onium (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Composé_onium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karbeniový ion (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Karbeniový_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karbokation (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Karbokation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Methanium (en)</title>
+      <url>https://en.wikipedia.org/wiki/Methanium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metánium (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Metánium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Onium compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Onium_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Onium ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Onium_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Onium-Verbindung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Onium-Verbindung</url>
+    </item>
+    <item>
+      <title>Wikipedia - کربونیم (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/کربونیم</url>
+    </item>
+    <item>
+      <title>Wikipedia - கார்போனியம் அயனி (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/கார்போனியம்_அயனி</url>
+    </item>
+    <item>
+      <title>Wikipedia - 甲 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/甲</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00839/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00839/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00839/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00839/plain</plain>
+  </links>
+  <citation>Citation: 'carbonium ion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00839</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:21:24+00:00</accessed>
+</term>

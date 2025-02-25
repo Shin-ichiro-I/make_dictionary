@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04747</id>
+  <doi>10.1351/goldbook.P04747</doi>
+  <code>P04747</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymolecularity correction</longtitle>
+  <title>polymolecularity correction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A correction applied to relationships between a property and the molar mass or relative molecular mass, obtained from polymers non-uniform with respect to relative molecular mass, in order to obtain the corresponding relationship for polymers strictly uniform with respect to relative molecular mass.</text>
+      <links>
+        <item>
+          <title>relative molecular mass</title>
+          <url>https://goldbook.iupac.org/terms/view/R05271</url>
+        </item>
+      </links>
+      <sources>
+        <item>Purple Book, 1st ed., p. 57 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04747/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04747/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04747/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04747/plain</plain>
+  </links>
+  <citation>Citation: 'polymolecularity correction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04747</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:28:37+00:00</accessed>
+</term>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06319</id>
+  <doi>10.1351/goldbook.T06319</doi>
+  <code>T06319</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - thermodynamic isotope effect</longtitle>
+  <title>thermodynamic isotope effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The effect of isotopic substitution on an equilibrium constant is referred to as a thermodynamic (or equilibrium) isotope effect. For example, the effect of isotopic substitution in reactant A that participates in the equilibrium: A+B⇌C of the equilibrium constant for the reaction in which A contains the light isotope to that in which it contains the heavy isotope. The ratio can be expressed as the equilibrium constant for the isotopic exchange reaction:  in which reactants such as B that are not isotopically substituted do not appear. The potential energy surfaces of isotopic molecules are identical to a high degree of approximation, so thermodynamic isotope effects can only arise from the effect of isotopic mass on the nuclear motions of the reactants and products, and can be expressed quantitatively in terms of partition function ratios for nuclear motion:  Although the nuclear partition function is a product of the translational, rotational and vibrational partition functions, the isotope effect is determined almost entirely by the last named, specifically by vibrational modes involving motion of isotopically different atoms. In the case of light atoms (i.e. protium vs. deuterium or tritium) at moderate temperatures, the isotope effect is dominated by zero-point energy differences.</text>
+      <links>
+        <item>
+          <title>isotopic fractionation factor</title>
+          <url>https://goldbook.iupac.org/terms/view/I03343</url>
+        </item>
+        <item>
+          <title>isotopic fractionation factor</title>
+          <url>https://goldbook.iupac.org/terms/view/I03343</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>isotope effect</title>
+          <url>https://goldbook.iupac.org/terms/view/I03327</url>
+        </item>
+        <item>
+          <title>isotopically substituted</title>
+          <url>https://goldbook.iupac.org/terms/view/I03338</url>
+        </item>
+        <item>
+          <title>partition function</title>
+          <url>https://goldbook.iupac.org/terms/view/P04439</url>
+        </item>
+        <item>
+          <title>partition</title>
+          <url>https://goldbook.iupac.org/terms/view/P04435</url>
+        </item>
+        <item>
+          <title>protium</title>
+          <url>https://goldbook.iupac.org/terms/view/P04903</url>
+        </item>
+        <item>
+          <title>deuterium</title>
+          <url>https://goldbook.iupac.org/terms/view/D01648</url>
+        </item>
+        <item>
+          <title>tritium</title>
+          <url>https://goldbook.iupac.org/terms/view/T06513</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>A+B⇌C</alttext>
+          <latex>\text{A}+\text{B}\rightleftharpoons \text{C}</latex>
+        </item>
+        <item>
+          <meaning>Ratio of equilibrium constants for light and heavy isotopes</meaning>
+          <type>quantity</type>
+          <alttext>Kl/Kh</alttext>
+          <latex>\frac{K^{\text{l}}}{K^{\text{h}}}</latex>
+        </item>
+        <item>
+          <type>reaction</type>
+          <alttext>Al + Ch ⇌ Ah + Cl</alttext>
+          <latex>\text{A}^{\text{l}}+\text{C}^{\text{h}}\rightleftharpoons \text{A}^{\text{h}}+\text{C}^{\text{l}}</latex>
+        </item>
+        <item>
+          <meaning>Ratio of equilibrium constants for light and heavy isotopes</meaning>
+          <type>equation</type>
+          <alttext>Kl/Kh = (Qnucl/Qnuch)C/(Qnucl/Qnuch)A</alttext>
+          <latex>\frac{K^{\text{l}}}{K^{\text{h}}} = \frac{(Q_{\text{nuc}}^{\text{l}}/Q_{\text{nuc}}^{\text{h}})_{\text{C}}}
+{(Q_{\text{nuc}}^{\text{l}}/Q_{\text{nuc}}^{\text{h}})_{\text{A}}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1131 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06319/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06319/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06319/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06319/plain</plain>
+  </links>
+  <citation>Citation: 'thermodynamic isotope effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06319</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:40:50+00:00</accessed>
+</term>

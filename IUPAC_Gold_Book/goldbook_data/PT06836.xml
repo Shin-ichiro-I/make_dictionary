@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06836</id>
+  <doi>10.1351/goldbook.PT06836</doi>
+  <code>PT06836</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - phase I reaction of biotransformation</longtitle>
+  <title>phase I reaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Enzymic modification of a substance by oxidation, reduction, hydrolysis, hydration, dehydrochlorination, or other reactions catalyzed by enzymes of the cytosol, of the endoplasmic reticulum (microsomal enzymes) or of other cell organelles.</text>
+      <contexts>
+        <of>
+          <item>biotransformation</item>
+        </of>
+      </contexts>
+      <links>
+        <item>
+          <title>oxidation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04362</url>
+        </item>
+        <item>
+          <title>hydrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/H02902</url>
+        </item>
+        <item>
+          <title>hydration</title>
+          <url>https://goldbook.iupac.org/terms/view/H02876</url>
+        </item>
+        <item>
+          <title>enzymes</title>
+          <url>https://goldbook.iupac.org/terms/view/E02159</url>
+        </item>
+        <item>
+          <title>organelles</title>
+          <url>https://goldbook.iupac.org/terms/view/O04324</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 1033. 'Glossary of terms used in toxicokinetics (IUPAC Recommendations 2003)' on page 1064 (https://doi.org/10.1351/pac200476051033)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT06836/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT06836/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT06836/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT06836/plain</plain>
+  </links>
+  <citation>Citation: 'phase I reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT06836</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:16:42+00:00</accessed>
+</term>

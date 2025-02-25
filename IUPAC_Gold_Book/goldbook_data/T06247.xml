@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06247</id>
+  <doi>10.1351/goldbook.T06247</doi>
+  <code>T06247</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Taft equation</longtitle>
+  <title>Taft equation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Various equations are associated with R.W. Taft, but the term is most often used to designate the family of equations that emerged from Taft's analysis of the reactivities of aliphatic esters, and which involved the polar substituent constant σ * and the steric substituent constant E s: log 10 k = log 10 k 0 + ρ * σ *  is usually replaced by the related constant σ I.</text>
+      <links>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>ρ-value</title>
+          <url>https://goldbook.iupac.org/terms/view/V05019</url>
+        </item>
+        <item>
+          <title>σ-constant</title>
+          <url>https://goldbook.iupac.org/terms/view/C05438</url>
+        </item>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>ρ-value</title>
+          <url>https://goldbook.iupac.org/terms/view/V05019</url>
+        </item>
+        <item>
+          <title>σ-constant</title>
+          <url>https://goldbook.iupac.org/terms/view/C05438</url>
+        </item>
+        <item>
+          <title>esters</title>
+          <url>https://goldbook.iupac.org/terms/view/E02219</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>σ *</alttext>
+          <latex>\sigma \text{*}</latex>
+        </item>
+        <item>
+          <alttext>E s</alttext>
+          <latex>E_{\text{s}}</latex>
+        </item>
+        <item>
+          <alttext>log 10 k = log 10 k 0 + ρ * σ * </alttext>
+          <latex>\log _{10}k = \log _{10}k_{0}+\rho \text{*}\ \sigma \text{*}+\delta \ E_{\text{s}}</latex>
+        </item>
+        <item>
+          <alttext>σ *</alttext>
+          <latex>\sigma \text{*}</latex>
+        </item>
+        <item>
+          <alttext>σ I</alttext>
+          <latex>\sigma _{I}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1171 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Talk:Acid dissociation constant (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Acid_dissociation_constant</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06247/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06247/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06247/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06247/plain</plain>
+  </links>
+  <citation>Citation: 'Taft equation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06247</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:37:32+00:00</accessed>
+</term>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03391</id>
+  <doi>10.1351/goldbook.K03391</doi>
+  <code>K03391</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - kilogram</longtitle>
+  <title>kilogram</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2021-01-01</lastupdated>
+  <definitions>
+    <item>
+      <id>2</id>
+      <text>The kilogram, symbol kg, is the SI unit of mass. It is defined by taking the fixed numerical value of the Planck constant h to be 6.626 070 15 × 10−34 when expressed in the unit J s, which is equal to kg m2 s-1, where the metre and the second are defined in terms of c and ∆νCs.</text>
+      <links>
+        <item>
+          <title>Planck constant</title>
+          <url>https://goldbook.iupac.org/terms/view/P04685</url>
+        </item>
+        <item>
+          <title>c</title>
+          <url>https://goldbook.iupac.org/terms/view/S05854</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Kilogram meter squared per second</meaning>
+          <type>unit</type>
+          <alttext>kg m2 s-1</alttext>
+          <latex>\pu{kg m2 s-1}</latex>
+        </item>
+        <item>
+          <meaning>Joule second</meaning>
+          <type>unit</type>
+          <alttext>J s</alttext>
+          <latex>\text{J s}</latex>
+        </item>
+        <item>
+          <meaning>Planck constant</meaning>
+          <type>symbol</type>
+          <alttext>h</alttext>
+          <latex>h</latex>
+        </item>
+        <item>
+          <meaning>Planck constant</meaning>
+          <type>numeric value</type>
+          <alttext>6.626 070 15 × 10E−34</alttext>
+          <latex>6.626\ 070\ 15\times 10^{-34}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>BIPM, The International System of Units, SI Brochure, 9th ed. (2019), p. 131 (https://www.bipm.org/en/publications/si-brochure/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chilogrammo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chilogrammo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chilogrammu (sc)</title>
+      <url>https://sc.wikipedia.org/wiki/Chilogrammu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chiłogramo (vec)</title>
+      <url>https://vec.wikipedia.org/wiki/Chiłogramo</url>
+    </item>
+    <item>
+      <title>Wikipedia - كيلوغرام (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كيلوغرام</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/K03391/html</html>
+    <json>https://goldbook.iupac.org/terms/view/K03391/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/K03391/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/K03391/plain</plain>
+  </links>
+  <citation>Citation: 'kilogram' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.K03391</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:17:49+00:00</accessed>
+</term>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03276</id>
+  <doi>10.1351/goldbook.I03276</doi>
+  <code>I03276</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isoelectronic</longtitle>
+  <title>isoelectronic</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Two or more molecular entities are described as isoelectronic if they have the same number of valence electrons and the same structure, i.e. number and connectivity of atoms, but differ in some of the elements involved. Thus: CO, N2 and NO+ are isoelectronic. CH2=C=O and CH2=N=N are isoelectronic. CH3COCH3 and CH3N=NCH3 have the same number of electrons, but have different structures, hence they are not described as isoelectronic.</text>
+      <links>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>connectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01274</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>connectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01274</url>
+        </item>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1128 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hiilimonoksidi (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Hiilimonoksidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isoelectronicity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Isoelectronicity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isoelektroniko (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Isoelektroniko</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isoelektronisch (de)</title>
+      <url>https://de.wikipedia.org/wiki/Isoelektronisch</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isoelektronisitas (id)</title>
+      <url>https://id.wikipedia.org/wiki/Isoelektronisitas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isoelektronisuus (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Isoelektronisuus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isoelettronico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Isoelettronico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Izoelektronicita (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Izoelektronicita</url>
+    </item>
+    <item>
+      <title>Wikipedia - Izoelektronicita (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Izoelektronicita</url>
+    </item>
+    <item>
+      <title>Wikipedia - Izoelektronowość (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Izoelektronowość</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vodonično podrobni atom (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Vodonično_podrobni_atom</url>
+    </item>
+    <item>
+      <title>Wikipedia - İzoelektronik (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/İzoelektronik</url>
+    </item>
+    <item>
+      <title>Wikipedia - 等电子体 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/等电子体</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03276/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03276/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03276/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03276/plain</plain>
+  </links>
+  <citation>Citation: 'isoelectronic' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03276</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:12:30+00:00</accessed>
+</term>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01048</id>
+  <doi>10.1351/goldbook.C01048</doi>
+  <code>C01048</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemisorption (chemical adsorption)</longtitle>
+  <title>chemisorption</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Adsorption which results from chemical bond formation (strong interaction) between the adsorbent and the adsorbate in a monolayer on the surface.</text>
+      <links>
+        <item>
+          <title>adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/A00155</url>
+        </item>
+        <item>
+          <title>adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/A00155</url>
+        </item>
+        <item>
+          <title>chemical bond</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07009</url>
+        </item>
+        <item>
+          <title>adsorbent</title>
+          <url>https://goldbook.iupac.org/terms/view/A00153</url>
+        </item>
+        <item>
+          <title>adsorbate</title>
+          <url>https://goldbook.iupac.org/terms/view/A00152</url>
+        </item>
+        <item>
+          <title>monolayer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04015</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2179 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Benutzer Diskussion:Roland.chem (de)</title>
+      <url>https://de.wikipedia.org/wiki/Benutzer_Diskussion:Roland.chem</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemisorption (de)</title>
+      <url>https://de.wikipedia.org/wiki/Chemisorption</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Chemisorption (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Chemisorption</url>
+    </item>
+    <item>
+      <title>Wikipedia - Physisorption (de)</title>
+      <url>https://de.wikipedia.org/wiki/Physisorption</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01048/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01048/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01048/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01048/plain</plain>
+  </links>
+  <citation>Citation: 'chemisorption' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01048</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:31:41+00:00</accessed>
+</term>

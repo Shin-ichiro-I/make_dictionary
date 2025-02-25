@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01386</id>
+  <doi>10.1351/goldbook.C01386</doi>
+  <code>C01386</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Cox–Yates equation</longtitle>
+  <title>Cox–Yates equation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A modification of the Bunnett–Olsen equation of the form: log10([SH+]/[S]) - log10[H+] = m*.X + pKSH+ is called the excess acidity because it gives a measure of the difference between the acidity of a solution and that of an ideal solution of the same concentration. In practice  and .</text>
+      <links>
+        <item>
+          <title>Bunnett–Olsen equation</title>
+          <url>https://goldbook.iupac.org/terms/view/B00758</url>
+        </item>
+        <item>
+          <title>Bunnett–Olsen equation</title>
+          <url>https://goldbook.iupac.org/terms/view/B00758</url>
+        </item>
+        <item>
+          <title>excess acidity</title>
+          <url>https://goldbook.iupac.org/terms/view/E02234</url>
+        </item>
+        <item>
+          <title>acidity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00079</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>log10([SH+]/[S]) - log10[H+] = m*.X + pKSH+</alttext>
+          <latex>\log _{10}(\frac{[\text{SH}^{+}]}{[\text{S}]})- \log _{10}[\text{H}^{+}] = m^{*}\ X + \text{pK}_{\text{SH}^{+}}</latex>
+        </item>
+        <item>
+          <alttext>log10(γS.γH+/γSH+)</alttext>
+          <latex>\log _{10}(\frac{\gamma _{\text{S}}\ \gamma _{\text{H}^{+}}}{\gamma _{\text{SH}^{+}}})</latex>
+        </item>
+        <item>
+          <alttext>X</alttext>
+          <latex>X</latex>
+        </item>
+        <item>
+          <alttext>X = -(H0 + log10[H+])</alttext>
+          <latex>X=- (\mathrm{H}_{0}+\log _{10}[\mathrm{H}^{+}])</latex>
+        </item>
+        <item>
+          <alttext>m* = 1 - Φ</alttext>
+          <latex>m^{*}=1- \mathit{\Phi }</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1101 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01386/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01386/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01386/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01386/plain</plain>
+  </links>
+  <citation>Citation: 'Cox–Yates equation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01386</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:47:34+00:00</accessed>
+</term>

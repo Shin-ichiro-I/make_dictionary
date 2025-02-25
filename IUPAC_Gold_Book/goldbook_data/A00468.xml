@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00468</id>
+  <doi>10.1351/goldbook.A00468</doi>
+  <code>A00468</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ashing in analysis</longtitle>
+  <title>ashing</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Dry or wet mineralization as a method of preconcentration of trace substances.</text>
+      <contexts>
+        <in>
+          <item>analysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>charring</title>
+          <url>https://goldbook.iupac.org/terms/view/C01010</url>
+        </item>
+        <item>
+          <title>charring</title>
+          <url>https://goldbook.iupac.org/terms/view/C01010</url>
+        </item>
+        <item>
+          <title>preconcentration (in trace analysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04803</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1979, 51, 1195. 'Separation and Preconcentration of Trace Substances. I-Preconcentration for Inorganic Trace Analysis' on page 1200 (https://doi.org/10.1351/pac197951051195)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Abu (analisis kimia) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Abu_(analisis_kimia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ash (analytical chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ash_(analytical_chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - ছাই (বিশ্লেষণমূলক রসায়ন) (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ছাই_(বিশ্লেষণমূলক_রসায়ন)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 灰分 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/灰分</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00468/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00468/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00468/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00468/plain</plain>
+  </links>
+  <citation>Citation: 'ashing' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00468</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:00:02+00:00</accessed>
+</term>

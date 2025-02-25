@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07207</id>
+  <doi>10.1351/goldbook.HT07207</doi>
+  <code>HT07207</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - halato-telechelic polymer</longtitle>
+  <title>halato-telechelic polymer</title>
+  <contains>halatopolymer</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Polymer composed of linear macromolecules having ionic or ionizable end-groups.</text>
+      <notes>
+        <item>The term halato-telechelic polymer is used to denote a polymer composed of macromolecules having stable (long-lived) ionic or ionizable groups, such as carboxylate or quaternary ammonium groups, as chain ends. It should not be used to describe a polymer composed of macromolecules having chain ends that are transient intermediates in ionic polymerizations initiated by difunctional initiators.</item>
+        <item>The term halatopolymer is used for a linear polymer formed by the coupling of halato-telechelic polymer molecules, for example, for the linear polymer formed by the coupling of carboxylate end-groups with divalent metal cations.</item>
+      </notes>
+      <links>
+        <item>
+          <title>telechelic polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/TT07167</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>linear polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/L03556</url>
+        </item>
+        <item>
+          <title>coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/C01025</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2006, 78, 2067. 'Terminology of polymers containing ionizable or ionic groups and of polymers containing ions (IUPAC Recommendations 2006)' on page 2070 (https://doi.org/10.1351/pac200678112067)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Telechelic polymer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Telechelic_polymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Telechelický polymer (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Telechelický_polymer</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/HT07207/html</html>
+    <json>https://goldbook.iupac.org/terms/view/HT07207/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/HT07207/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/HT07207/plain</plain>
+  </links>
+  <citation>Citation: 'halato-telechelic polymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.HT07207</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:46:23+00:00</accessed>
+</term>

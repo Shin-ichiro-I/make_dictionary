@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03622</id>
+  <doi>10.1351/goldbook.L03622</doi>
+  <code>L03622</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - long-lived collision complex</longtitle>
+  <title>long-lived collision complex</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>When a potential-energy surface is such that the system performs a number of vibrations and rotations in the region of a col, the corresponding intermediate is known as a long-lived collision complex, and the reaction is said to be indirect.</text>
+      <links>
+        <item>
+          <title>col</title>
+          <url>https://goldbook.iupac.org/terms/view/C01145</url>
+        </item>
+        <item>
+          <title>intermediate</title>
+          <url>https://goldbook.iupac.org/terms/view/I03096</url>
+        </item>
+        <item>
+          <title>col</title>
+          <url>https://goldbook.iupac.org/terms/view/C01145</url>
+        </item>
+        <item>
+          <title>intermediate</title>
+          <url>https://goldbook.iupac.org/terms/view/I03096</url>
+        </item>
+        <item>
+          <title>collision complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01160</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1981, 53, 753. 'Symbolism and Terminology in Chemical Kinetics' on page 767 (https://doi.org/10.1351/pac198153030753)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03622/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03622/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03622/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03622/plain</plain>
+  </links>
+  <citation>Citation: 'long-lived collision complex' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03622</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:28:54+00:00</accessed>
+</term>

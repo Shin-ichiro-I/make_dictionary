@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05676</id>
+  <doi>10.1351/goldbook.S05676</doi>
+  <code>S05676</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - simple shear</longtitle>
+  <title>simple shear</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An idealized treatment of a fluid between two large parallel plates (to permit ignoring edge effects) of area A, separated by a distance h. If one plate moves relative to the other with a constant velocity V, requiring a force F acting in the direction of movement, and the density, pressure, and viscosity throughout the fluid are constant, the Newtonian equation can be coupled with the equations of motion and of continuity to show that the velocity gradient in the fluid is constant (= V h), and that F/A = η.V/h. This idealized case (simple shear) is sometimes used to define shear viscosity.</text>
+      <links>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>shear viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05642</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>h</alttext>
+          <latex>h</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>F</alttext>
+          <latex>F</latex>
+        </item>
+        <item>
+          <alttext>V h</alttext>
+          <latex>\frac{V}{h}</latex>
+        </item>
+        <item>
+          <alttext>F/A = η.V/h</alttext>
+          <latex>\frac{F}{A} = \frac{\eta \ V}{h}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1979, 51, 1213. 'Terminology and Symbols in Colloid and Surface Chemistry Part 1.13. Definitions, Terminology and Symbols for Rheological Properties' on page 1216 (https://doi.org/10.1351/pac197951051213)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Taux de cisaillement (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Taux_de_cisaillement</url>
+    </item>
+    <item>
+      <title>Wikipedia - قص بسيط (هندسة) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قص_بسيط_(هندسة)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05676/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05676/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05676/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05676/plain</plain>
+  </links>
+  <citation>Citation: 'simple shear' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05676</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:10:04+00:00</accessed>
+</term>

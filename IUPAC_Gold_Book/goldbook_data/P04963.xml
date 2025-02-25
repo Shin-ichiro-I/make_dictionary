@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04963</id>
+  <doi>10.1351/goldbook.P04963</doi>
+  <code>P04963</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pyrolytic carbon</longtitle>
+  <title>pyrolytic carbon</title>
+  <abbrevs>
+    <item>CVD</item>
+    <item>PVD</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A carbon material deposited from gaseous hydrocarbon compounds on suitable underlying substrates (carbon materials, metals, ceramics) at temperatures ranging from 1000 to 2500 K (chemical vapour deposition).</text>
+      <notes>
+        <item>A wide range of microstructures, e.g. isotropic, lamellar, substrate-nucleated and a varied content of remaining hydrogen, can occur in pyrolytic carbons, depending on the deposition conditions (temperature, type, concentration and flow rate of the source gas, surface area of the underlying substrate, etc.). 'Pyrocarbon' which is synonymous with pyrolytic carbon was introduced as a trademark and should not be used as a term. The term pyrolytic carbon does not describe the large range of carbon materials obtained by thermal degradation (thermolysis, pyrolysis) of organic compounds when they are not formed by chemical vapour deposition (CVD). Also, carbon materials, obtained by physical vapour deposition (PVD) are not covered by the term pyrolytic carbon.</item>
+      </notes>
+      <links>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>thermolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/T06326</url>
+        </item>
+        <item>
+          <title>pyrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04961</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>thermolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/T06326</url>
+        </item>
+        <item>
+          <title>pyrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04961</url>
+        </item>
+        <item>
+          <title>carbon material</title>
+          <url>https://goldbook.iupac.org/terms/view/C00841</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>1000</alttext>
+          <latex>1000</latex>
+        </item>
+        <item>
+          <alttext>2500 K</alttext>
+          <latex>2500\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 502 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - كربون التحلل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كربون_التحلل</url>
+    </item>
+    <item>
+      <title>Wikipedia - كربون متحلل حراريا (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كربون_متحلل_حراريا</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04963/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04963/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04963/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04963/plain</plain>
+  </links>
+  <citation>Citation: 'pyrolytic carbon' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04963</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:37:55+00:00</accessed>
+</term>

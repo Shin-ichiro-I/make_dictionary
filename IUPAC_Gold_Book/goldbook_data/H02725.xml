@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02725</id>
+  <doi>10.1351/goldbook.H02725</doi>
+  <code>H02725</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - halochromism</longtitle>
+  <title>halochromism</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The colour change which occurs on addition of acid (or base, or a salt) to a solution of a compound. A chemical reaction (e.g. ion formation) transforms a colourless compound into a coloured one.</text>
+      <links>
+        <item>
+          <title>acid</title>
+          <url>https://goldbook.iupac.org/terms/view/A00071</url>
+        </item>
+        <item>
+          <title>base</title>
+          <url>https://goldbook.iupac.org/terms/view/B00601</url>
+        </item>
+        <item>
+          <title>salt</title>
+          <url>https://goldbook.iupac.org/terms/view/S05447</url>
+        </item>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1119 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - הלוכרומיזם (he)</title>
+      <url>https://he.wikipedia.org/wiki/הלוכרומיזם</url>
+    </item>
+    <item>
+      <title>Wikipedia - تلون حمضي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تلون_حمضي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02725/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02725/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02725/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02725/plain</plain>
+  </links>
+  <citation>Citation: 'halochromism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02725</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:46:56+00:00</accessed>
+</term>

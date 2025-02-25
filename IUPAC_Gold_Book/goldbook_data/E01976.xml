@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01976</id>
+  <doi>10.1351/goldbook.E01976</doi>
+  <code>E01976</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electron acceptor</longtitle>
+  <title>electron acceptor</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A substance to which an electron may be transferred; for example 1,4-dinitrobenzene or the dication 1,1'-dimethyl-4,4'-bipyridyldiium.</text>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1109 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+    <item>
+      <id>2</id>
+      <text> [obsolete] A Lewis acid. This usage is discouraged.</text>
+      <links>
+        <item>
+          <title>Lewis acid</title>
+          <url>https://goldbook.iupac.org/terms/view/L03508</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acceptor de electron (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Acceptor_de_electron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Accettore di elettroni (it)</title>
+      <url>https://it.wikipedia.org/wiki/Accettore_di_elettroni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aceptor de electróns (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Aceptor_de_electróns</url>
+    </item>
+    <item>
+      <title>Wikipedia - Akceptor elektronu (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Akceptor_elektronu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Akseptor elektron (id)</title>
+      <url>https://id.wikipedia.org/wiki/Akseptor_elektron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electron acceptor (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electron_acceptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronenakzeptor (de)</title>
+      <url>https://de.wikipedia.org/wiki/Elektronenakzeptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronový akceptor (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Elektronový_akceptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oksidacioni agens (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Oksidacioni_agens</url>
+    </item>
+    <item>
+      <title>Wikipedia - مستقبل إلكترونات (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مستقبل_إلكترونات</url>
+    </item>
+    <item>
+      <title>Wikipedia - مستقبل الكترونات (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مستقبل_الكترونات</url>
+    </item>
+    <item>
+      <title>Wikipedia - 전자수용체 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/전자수용체</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01976/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01976/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01976/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01976/plain</plain>
+  </links>
+  <citation>Citation: 'electron acceptor' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01976</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:12:54+00:00</accessed>
+</term>

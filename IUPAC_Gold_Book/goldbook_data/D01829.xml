@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01829</id>
+  <doi>10.1351/goldbook.D01829</doi>
+  <code>D01829</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dolichols</longtitle>
+  <title>dolichols</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A group of prenol derivatives in which n in the general formula H–[CH2–C(CH3)=CH–CH2]n–OH is greater than 4 and in which the residue that carries the hydroxy group is saturated, i.e. 2,3-dihydropolyprenols.</text>
+      <notes>
+        <item>The collective term prenol should not be used without qualification to include dolichols since these are derivatives of prenols.</item>
+      </notes>
+      <links>
+        <item>
+          <title>prenols</title>
+          <url>https://goldbook.iupac.org/terms/view/P04816</url>
+        </item>
+        <item>
+          <title>prenol</title>
+          <url>https://goldbook.iupac.org/terms/view/P04816</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+      </math>
+      <sources>
+        <item>White Book, 2nd ed., p. 255 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Dolichole (de)</title>
+      <url>https://de.wikipedia.org/wiki/Dolichole</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01829/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01829/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01829/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01829/plain</plain>
+  </links>
+  <citation>Citation: 'dolichols' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01829</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:06:05+00:00</accessed>
+</term>

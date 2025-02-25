@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03459</id>
+  <doi>10.1351/goldbook.L03459</doi>
+  <code>L03459</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - laser</longtitle>
+  <title>laser</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A source of ultraviolet, visible, or infrared radiation which produces light amplification by stimulated emission of radiation from which the acronym is derived. The light emitted is coherent except for superradiance emission. The essential elements of a laser are: 1, an active medium; 2, a pumping process to make a population inversion; and 3, suitable geometry of optical feedback elements. The active medium consists of a host material (gas, liquid or solid) containing an active species.</text>
+      <links>
+        <item>
+          <title>lasing</title>
+          <url>https://goldbook.iupac.org/terms/view/L03479</url>
+        </item>
+        <item>
+          <title>lasing</title>
+          <url>https://goldbook.iupac.org/terms/view/L03479</url>
+        </item>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>infrared</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07399</url>
+        </item>
+        <item>
+          <title>stimulated emission</title>
+          <url>https://goldbook.iupac.org/terms/view/S06015</url>
+        </item>
+        <item>
+          <title>superradiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S06145</url>
+        </item>
+        <item>
+          <title>active medium</title>
+          <url>https://goldbook.iupac.org/terms/view/A00106</url>
+        </item>
+        <item>
+          <title>population inversion</title>
+          <url>https://goldbook.iupac.org/terms/view/P04759</url>
+        </item>
+        <item>
+          <title>active species</title>
+          <url>https://goldbook.iupac.org/terms/view/A00110</url>
+        </item>
+        <item>
+          <title>lasing</title>
+          <url>https://goldbook.iupac.org/terms/view/L03479</url>
+        </item>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>infrared</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07399</url>
+        </item>
+        <item>
+          <title>stimulated emission</title>
+          <url>https://goldbook.iupac.org/terms/view/S06015</url>
+        </item>
+        <item>
+          <title>superradiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S06145</url>
+        </item>
+        <item>
+          <title>active medium</title>
+          <url>https://goldbook.iupac.org/terms/view/A00106</url>
+        </item>
+        <item>
+          <title>population inversion</title>
+          <url>https://goldbook.iupac.org/terms/view/P04759</url>
+        </item>
+        <item>
+          <title>active species</title>
+          <url>https://goldbook.iupac.org/terms/view/A00110</url>
+        </item>
+        <item>
+          <title>argon ion laser</title>
+          <url>https://goldbook.iupac.org/terms/view/A00439</url>
+        </item>
+        <item>
+          <title>atomic laser</title>
+          <url>https://goldbook.iupac.org/terms/view/A00495</url>
+        </item>
+        <item>
+          <title>CO2 laser</title>
+          <url>https://goldbook.iupac.org/terms/view/C00828</url>
+        </item>
+        <item>
+          <title>chemical laser</title>
+          <url>https://goldbook.iupac.org/terms/view/C01028</url>
+        </item>
+        <item>
+          <title>copper vapour laser</title>
+          <url>https://goldbook.iupac.org/terms/view/C01338</url>
+        </item>
+        <item>
+          <title>crystal laser</title>
+          <url>https://goldbook.iupac.org/terms/view/C01430</url>
+        </item>
+        <item>
+          <title>diode laser</title>
+          <url>https://goldbook.iupac.org/terms/view/D01747</url>
+        </item>
+        <item>
+          <title>dye laser</title>
+          <url>https://goldbook.iupac.org/terms/view/D01870</url>
+        </item>
+        <item>
+          <title>excimer laser</title>
+          <url>https://goldbook.iupac.org/terms/view/E02243</url>
+        </item>
+        <item>
+          <title>free electron laser</title>
+          <url>https://goldbook.iupac.org/terms/view/F02514</url>
+        </item>
+        <item>
+          <title>free-running laser</title>
+          <url>https://goldbook.iupac.org/terms/view/F02521</url>
+        </item>
+        <item>
+          <title>gas laser</title>
+          <url>https://goldbook.iupac.org/terms/view/G02585</url>
+        </item>
+        <item>
+          <title>glass laser</title>
+          <url>https://goldbook.iupac.org/terms/view/G02638</url>
+        </item>
+        <item>
+          <title>helium–cadmium laser</title>
+          <url>https://goldbook.iupac.org/terms/view/H02765</url>
+        </item>
+        <item>
+          <title>helium–neon laser</title>
+          <url>https://goldbook.iupac.org/terms/view/H02768</url>
+        </item>
+        <item>
+          <title>ion laser</title>
+          <url>https://goldbook.iupac.org/terms/view/I03219</url>
+        </item>
+        <item>
+          <title>krypton ion laser</title>
+          <url>https://goldbook.iupac.org/terms/view/K03417</url>
+        </item>
+        <item>
+          <title>mode-locked laser</title>
+          <url>https://goldbook.iupac.org/terms/view/M03959</url>
+        </item>
+        <item>
+          <title>molecular laser</title>
+          <url>https://goldbook.iupac.org/terms/view/M03991</url>
+        </item>
+        <item>
+          <title>neodymium laser</title>
+          <url>https://goldbook.iupac.org/terms/view/N04103</url>
+        </item>
+        <item>
+          <title>nitrogen laser</title>
+          <url>https://goldbook.iupac.org/terms/view/N04160</url>
+        </item>
+        <item>
+          <title>organic dye laser</title>
+          <url>https://goldbook.iupac.org/terms/view/O04325</url>
+        </item>
+        <item>
+          <title>Q-switched laser</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04967</url>
+        </item>
+        <item>
+          <title>ruby laser</title>
+          <url>https://goldbook.iupac.org/terms/view/R05427</url>
+        </item>
+        <item>
+          <title>solid state lasers</title>
+          <url>https://goldbook.iupac.org/terms/view/S05736</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1913. 'Nomenclature, symbols, units, and their usage in spectrochemical analysis-XV. Laser-based molecular spectroscopy for chemical analysis - laser fundamentals (IUPAC Recommendations 1995)' on page 1915 (https://doi.org/10.1351/pac199567111913)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2251 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Lampada (it)</title>
+      <url>https://it.wikipedia.org/wiki/Lampada</url>
+    </item>
+    <item>
+      <title>Wikipedia - Laser (it)</title>
+      <url>https://it.wikipedia.org/wiki/Laser</url>
+    </item>
+    <item>
+      <title>Wikipedia - Laxer (vec)</title>
+      <url>https://vec.wikipedia.org/wiki/Laxer</url>
+    </item>
+    <item>
+      <title>Wikipedia - ليزر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ليزر</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03459/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03459/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03459/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03459/plain</plain>
+  </links>
+  <citation>Citation: 'laser' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03459</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:20:43+00:00</accessed>
+</term>

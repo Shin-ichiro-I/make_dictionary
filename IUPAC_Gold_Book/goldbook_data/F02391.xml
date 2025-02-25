@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02391</id>
+  <doi>10.1351/goldbook.F02391</doi>
+  <code>F02391</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Fischer projection (Fischer–Tollens projection)</longtitle>
+  <title>Fischer projection </title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A projection formula in which vertically drawn bonds are considered to lie below the projection plane and horizontal bonds to lie above that plane. Thus for the molecule Cabcd: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02391.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>projection formula</title>
+          <url>https://goldbook.iupac.org/terms/view/P04873</url>
+        </item>
+      </links>
+      <sources>
+        <item>Blue Book, p. 484 (https://www.acdlabs.com/iupac/nomenclature/)</item>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2208 (https://doi.org/10.1351/pac199668122193)</item>
+        <item>White Book, 2nd ed., p. 128 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Proiezione di Fischer (it)</title>
+      <url>https://it.wikipedia.org/wiki/Proiezione_di_Fischer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Projection de Fischer (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Projection_de_Fischer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Проекция Фишера (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Проекция_Фишера</url>
+    </item>
+    <item>
+      <title>Wikipedia - Проєкція Фішера (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Проєкція_Фішера</url>
+    </item>
+    <item>
+      <title>Wikipedia - إسقاط فيشر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إسقاط_فيشر</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02391/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02391/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02391/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02391/plain</plain>
+  </links>
+  <citation>Citation: 'Fischer projection ' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02391</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:31:23+00:00</accessed>
+</term>

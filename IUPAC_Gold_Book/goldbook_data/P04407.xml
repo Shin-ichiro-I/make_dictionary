@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04407</id>
+  <doi>10.1351/goldbook.P04407</doi>
+  <code>P04407</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - partial anodic (cathodic) current</longtitle>
+  <title>partial anodic (cathodic) current</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>When a single electrochemical reaction occurs at an electrode (i.e. all other electrochemical reactions may be neglected): I = Ia + Ic is the total current, Ia is the positive partial anodic current and Ic is the negative partial cathodic current. When more than one reaction is significant the reactions may be numbered and the numbers used as subscripts: I1,a, I1,c, I2,a, etc. Then: </text>
+      <math>
+        <item>
+          <type>equation</type>
+          <alttext>I = Ia + Ic</alttext>
+          <latex>I=I_{\text{a}}+I_{\text{c}}</latex>
+        </item>
+        <item>
+          <alttext>I</alttext>
+          <latex>I</latex>
+        </item>
+        <item>
+          <meaning>Positive partial anodic current</meaning>
+          <type>quantity</type>
+          <alttext>Ia</alttext>
+          <latex>I_{\text{a}}</latex>
+        </item>
+        <item>
+          <alttext>Ic</alttext>
+          <latex>I_{\text{c}}</latex>
+        </item>
+        <item>
+          <meaning>Positive partial anodic current for reaction 1</meaning>
+          <type>quantity</type>
+          <alttext>I1,a</alttext>
+          <latex>I_{\text{1,a}}</latex>
+        </item>
+        <item>
+          <meaning>Negative partial cathodic current for reaction 1</meaning>
+          <type>quantity</type>
+          <alttext>I1,c</alttext>
+          <latex>I_{\text{1,c}}</latex>
+        </item>
+        <item>
+          <meaning>Positive partial anodic current for reaction 2</meaning>
+          <type>quantity</type>
+          <alttext>I2,a</alttext>
+          <latex>I_{\text{2,a}}</latex>
+        </item>
+        <item>
+          <alttext>I = ∑ Ii,a + ∑ Ii,c</alttext>
+          <latex>I=\sum I_{i,\text{a}}+\sum I_{i,\text{c}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1974, 37, 499. 'Electrochemical nomenclature' on page 512 (https://doi.org/10.1351/pac197437040499)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Charge transfer coefficient (en)</title>
+      <url>https://en.wikipedia.org/wiki/Charge_transfer_coefficient</url>
+    </item>
+    <item>
+      <title>Wikipedia - Partial current (en)</title>
+      <url>https://en.wikipedia.org/wiki/Partial_current</url>
+    </item>
+    <item>
+      <title>Wikipedia - ضریب انتقال بار (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ضریب_انتقال_بار</url>
+    </item>
+    <item>
+      <title>Wikipedia - 电荷转移因子 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/电荷转移因子</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04407/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04407/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04407/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04407/plain</plain>
+  </links>
+  <citation>Citation: 'partial anodic (cathodic) current' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04407</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:10:06+00:00</accessed>
+</term>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03852</id>
+  <doi>10.1351/goldbook.M03852</doi>
+  <code>M03852</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mesophiles</longtitle>
+  <title>mesophiles</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Microorganisms which grow at moderate temperatures in the range 20-45 °C – 30-39 °C, and which have an optimum growth temperature in the range  – .</text>
+      <math>
+        <item>
+          <alttext>20-45 °C</alttext>
+          <latex>20{-}45^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+        <item>
+          <alttext>30-39 °C</alttext>
+          <latex>30{-}39^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 160 (https://doi.org/10.1351/pac199264010143)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Mesofilo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Mesofilo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mesófilo (organismo) (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Mesófilo_(organismo)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03852/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03852/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03852/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03852/plain</plain>
+  </links>
+  <citation>Citation: 'mesophiles' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03852</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:39:20+00:00</accessed>
+</term>

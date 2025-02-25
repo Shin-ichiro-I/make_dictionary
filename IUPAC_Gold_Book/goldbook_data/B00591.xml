@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00591</id>
+  <doi>10.1351/goldbook.B00591</doi>
+  <code>B00591</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - baking in carbon chemistry</longtitle>
+  <title>baking</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The process in which the carbonaceous binder, usually coal tar pitch or petroleum pitch, as part of a shaped carbon mix is converted to carbon yielding a rigid carbon body by the slow application of heat. The process can take as little as 14 days in coarse-grained, electrothermic grades (low binder level) and as long as 36 days in ultra-fine-grained, speciality grades (high binder level). The final baking temperature can be in the range of 1100-1500 K – , depending on the grade.</text>
+      <contexts>
+        <in>
+          <item>carbon chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>binder</title>
+          <url>https://goldbook.iupac.org/terms/view/B00646</url>
+        </item>
+        <item>
+          <title>coal tar pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/C01121</url>
+        </item>
+        <item>
+          <title>petroleum pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04523</url>
+        </item>
+        <item>
+          <title>carbon mix</title>
+          <url>https://goldbook.iupac.org/terms/view/C00842</url>
+        </item>
+        <item>
+          <title>carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/C00821</url>
+        </item>
+        <item>
+          <title>binder</title>
+          <url>https://goldbook.iupac.org/terms/view/B00646</url>
+        </item>
+        <item>
+          <title>coal tar pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/C01121</url>
+        </item>
+        <item>
+          <title>petroleum pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04523</url>
+        </item>
+        <item>
+          <title>carbon mix</title>
+          <url>https://goldbook.iupac.org/terms/view/C00842</url>
+        </item>
+        <item>
+          <title>carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/C00821</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>14 days</alttext>
+          <latex>14\ \text{days}</latex>
+        </item>
+        <item>
+          <alttext>36 days</alttext>
+          <latex>36\ \text{days}</latex>
+        </item>
+        <item>
+          <alttext>1100-1500 K</alttext>
+          <latex>1100{-}1500\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 477 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00591/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00591/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00591/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00591/plain</plain>
+  </links>
+  <citation>Citation: 'baking' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00591</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:06:40+00:00</accessed>
+</term>

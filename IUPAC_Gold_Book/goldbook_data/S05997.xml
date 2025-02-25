@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05997</id>
+  <doi>10.1351/goldbook.S05997</doi>
+  <code>S05997</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - steric effect</longtitle>
+  <title>steric effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The effect on a chemical or physical property (structure, rate or equilibrium constant) upon introduction of substituents having different steric requirements. The steric effect in a reaction is ascribed to the difference in steric energy between, on the one hand, reactants and, on the other hand, a transition state (or products). A steric effect on a rate process may result in a rate increase ('steric acceleration') or a decrease ('steric retardation'). (The adjective 'steric' is not to be confused with stereochemical.) Steric effects arise from contributions ascribed to strain as the sum of (1) non-bonded repulsions, (2) bond angle strain and (3) bond stretches or compressions. For the purpose of correlation analysis or linear free-energy relations various scales of steric parameters have been proposed, notably A values, Taft's E s and Charton's ν scales. In a reactant molecule RY and an appropriate reference molecule RoY, the 'primary steric effect' of R is the direct result of differences in compressions which occur because R differs from Ro in the vicinity of the reaction centre Y. A 'secondary steric effect' involves the differential moderation of electron delocalization by non-bonded compressions. Some authors make a distinction between 'steric' effects attributed to van der Waals repulsions alone, and 'strain' effects, attributed to deviations of bond angles from 'ideal' values.</text>
+      <links>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>acceleration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+        <item>
+          <title>angle strain</title>
+          <url>https://goldbook.iupac.org/terms/view/A00349</url>
+        </item>
+        <item>
+          <title>delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01583</url>
+        </item>
+        <item>
+          <title>strain</title>
+          <url>https://goldbook.iupac.org/terms/view/S06037</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>acceleration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+        <item>
+          <title>angle strain</title>
+          <url>https://goldbook.iupac.org/terms/view/A00349</url>
+        </item>
+        <item>
+          <title>delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01583</url>
+        </item>
+        <item>
+          <title>strain</title>
+          <url>https://goldbook.iupac.org/terms/view/S06037</url>
+        </item>
+        <item>
+          <title>substituents</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>correlation analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/C01346</url>
+        </item>
+        <item>
+          <title>linear free-energy relations</title>
+          <url>https://goldbook.iupac.org/terms/view/L03551</url>
+        </item>
+        <item>
+          <title>A values</title>
+          <url>https://goldbook.iupac.org/terms/view/A00012</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>acceleration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+        <item>
+          <title>angle strain</title>
+          <url>https://goldbook.iupac.org/terms/view/A00349</url>
+        </item>
+        <item>
+          <title>delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01583</url>
+        </item>
+        <item>
+          <title>strain</title>
+          <url>https://goldbook.iupac.org/terms/view/S06037</url>
+        </item>
+        <item>
+          <title>substituents</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>correlation analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/C01346</url>
+        </item>
+        <item>
+          <title>linear free-energy relations</title>
+          <url>https://goldbook.iupac.org/terms/view/L03551</url>
+        </item>
+        <item>
+          <title>A values</title>
+          <url>https://goldbook.iupac.org/terms/view/A00012</url>
+        </item>
+        <item>
+          <title>Taft equation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06247</url>
+        </item>
+        <item>
+          <title>van der Waals forces</title>
+          <url>https://goldbook.iupac.org/terms/view/V06597</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>E s</alttext>
+          <latex>E_{\text{s}}</latex>
+        </item>
+        <item>
+          <alttext>ν</alttext>
+          <latex>\nu </latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1168 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Efekty steryczne (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Efekty_steryczne</url>
+    </item>
+    <item>
+      <title>Wikipedia - אפקט סטרי (he)</title>
+      <url>https://he.wikipedia.org/wiki/אפקט_סטרי</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05997/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05997/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05997/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05997/plain</plain>
+  </links>
+  <citation>Citation: 'steric effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05997</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:25:17+00:00</accessed>
+</term>

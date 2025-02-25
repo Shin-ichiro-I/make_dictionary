@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05561</id>
+  <doi>10.1351/goldbook.S05561</doi>
+  <code>S05561</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - selective solvent in polymer chemistry</longtitle>
+  <title>selective solvent</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A medium that is a solvent for at least one component of a mixture of polymers, or for at least one block of a block or graft polymer, but a non-solvent for the other component(s) or block(s).</text>
+      <contexts>
+        <in>
+          <item>polymer chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>block</title>
+          <url>https://goldbook.iupac.org/terms/view/B00682</url>
+        </item>
+        <item>
+          <title>block</title>
+          <url>https://goldbook.iupac.org/terms/view/B00682</url>
+        </item>
+        <item>
+          <title>block</title>
+          <url>https://goldbook.iupac.org/terms/view/B00685</url>
+        </item>
+        <item>
+          <title>graft polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/G02679</url>
+        </item>
+      </links>
+      <sources>
+        <item>Purple Book, 1st ed., p. 59 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05561/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05561/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05561/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05561/plain</plain>
+  </links>
+  <citation>Citation: 'selective solvent' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05561</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:04:42+00:00</accessed>
+</term>

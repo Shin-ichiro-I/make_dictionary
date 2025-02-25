@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05376</id>
+  <doi>10.1351/goldbook.R05376</doi>
+  <code>R05376</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - reversed-phase chromatography</longtitle>
+  <title>reversed-phase chromatography</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An elution procedure used in liquid chromatography in which the mobile phase is significantly more polar then the stationary phase, e.g. a microporous silica-based material with chemically bonded alkyl chains. The term 'reverse phase' is an incorrect expression to be avoided.</text>
+      <links>
+        <item>
+          <title>elution</title>
+          <url>https://goldbook.iupac.org/terms/view/E02042</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 93 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 826 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Kromatografi fasa terbalik (id)</title>
+      <url>https://id.wikipedia.org/wiki/Kromatografi_fasa_terbalik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pöördfaaskromatograafia (et)</title>
+      <url>https://et.wikipedia.org/wiki/Pöördfaaskromatograafia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reversed-phase chromatography (en)</title>
+      <url>https://en.wikipedia.org/wiki/Reversed-phase_chromatography</url>
+    </item>
+    <item>
+      <title>Wikipedia - Обращённо-фазная хроматография (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Обращённо-фазная_хроматография</url>
+    </item>
+    <item>
+      <title>Wikipedia - 反相色谱法 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/反相色谱法</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05376/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05376/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05376/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05376/plain</plain>
+  </links>
+  <citation>Citation: 'reversed-phase chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05376</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:56:36+00:00</accessed>
+</term>

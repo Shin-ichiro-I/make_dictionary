@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03306</id>
+  <doi>10.1351/goldbook.I03306</doi>
+  <code>I03306</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isoprenoids</longtitle>
+  <title>isoprenoids</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds formally derived from isoprene (2-methylbuta-1,3-diene), the skeleton of which can generally be discerned in repeated occurrence in the molecule. The skeleton of isoprenoids may differ from strict additivity of isoprene units by loss or shift of a fragment, commonly a methyl group. The class includes both hydrocarbons and oxygenated derivatives.</text>
+      <links>
+        <item>
+          <title>carotenoids</title>
+          <url>https://goldbook.iupac.org/terms/view/C00858</url>
+        </item>
+        <item>
+          <title>steroids</title>
+          <url>https://goldbook.iupac.org/terms/view/S06005</url>
+        </item>
+        <item>
+          <title>terpenes</title>
+          <url>https://goldbook.iupac.org/terms/view/T06278</url>
+        </item>
+        <item>
+          <title>terpenoids</title>
+          <url>https://goldbook.iupac.org/terms/view/T06279</url>
+        </item>
+        <item>
+          <title>prenols</title>
+          <url>https://goldbook.iupac.org/terms/view/P04816</url>
+        </item>
+        <item>
+          <title>carotenoids</title>
+          <url>https://goldbook.iupac.org/terms/view/C00858</url>
+        </item>
+        <item>
+          <title>steroids</title>
+          <url>https://goldbook.iupac.org/terms/view/S06005</url>
+        </item>
+        <item>
+          <title>terpenes</title>
+          <url>https://goldbook.iupac.org/terms/view/T06278</url>
+        </item>
+        <item>
+          <title>terpenoids</title>
+          <url>https://goldbook.iupac.org/terms/view/T06279</url>
+        </item>
+        <item>
+          <title>prenols</title>
+          <url>https://goldbook.iupac.org/terms/view/P04816</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1345 (https://doi.org/10.1351/pac199567081307)</item>
+        <item>White Book, 2nd ed., p. 255 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Terpenoidy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Terpenoidy</url>
+    </item>
+    <item>
+      <title>Wikipedia - テルペン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/テルペン</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03306/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03306/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03306/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03306/plain</plain>
+  </links>
+  <citation>Citation: 'isoprenoids' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03306</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:13:54+00:00</accessed>
+</term>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02773</id>
+  <doi>10.1351/goldbook.H02773</doi>
+  <code>H02773</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hemes (heme derivatives)</longtitle>
+  <title>hemes (heme derivatives)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Complexes consisting of an iron ion coordinated to a porphyrin acting as a tetradentate ligand, and to one or two axial ligands. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02773.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>ligands</title>
+          <url>https://goldbook.iupac.org/terms/view/L03518</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1339 (https://doi.org/10.1351/pac199567081307)</item>
+        <item>White Book, 2nd ed., p. 311 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hem (chémia) (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Hem_(chémia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heme (en)</title>
+      <url>https://en.wikipedia.org/wiki/Heme</url>
+    </item>
+    <item>
+      <title>Wikipedia - Гем (биохимия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Гем_(биохимия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - হিম (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/হিম</url>
+    </item>
+    <item>
+      <title>Wikipedia - 헴 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/헴</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02773/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02773/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02773/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02773/plain</plain>
+  </links>
+  <citation>Citation: 'hemes (heme derivatives)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02773</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:49:35+00:00</accessed>
+</term>

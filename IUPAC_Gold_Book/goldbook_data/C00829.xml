@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00829</id>
+  <doi>10.1351/goldbook.C00829</doi>
+  <code>C00829</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbon electrode</longtitle>
+  <title>carbon electrode</title>
+  <contains>graphite electrode</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An electrode for an electrical application. In its green state it comprises granular carbon material bound with pitch. The granular carbon material may be either needle coke, fine-grained or isotropiccoke or reclaimed graphite powder. Electrodes for use in steel production can only be manufactured from needle coke, and the green electrodes are fired at temperatures above around 2800 K to produce highly graphite electrodes. The other granular carbon materials may be used for aluminium electrodes where the duty is not so severe, and the green electrodes are generally fired to lower temperatures.</text>
+      <notes>
+        <item>In both cases it is essential that the granular carbons and the pitch binders used in the production of the green electrodes have a low sulfur content as the release of sulfur during the high-temperature firing can lead to the production of significant porosity.</item>
+      </notes>
+      <links>
+        <item>
+          <title>puffing</title>
+          <url>https://goldbook.iupac.org/terms/view/P04941</url>
+        </item>
+        <item>
+          <title>graphitic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02689</url>
+        </item>
+        <item>
+          <title>graphitization heat treatment</title>
+          <url>https://goldbook.iupac.org/terms/view/G02692</url>
+        </item>
+        <item>
+          <title>isotropic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/I03354</url>
+        </item>
+        <item>
+          <title>puffing</title>
+          <url>https://goldbook.iupac.org/terms/view/P04941</url>
+        </item>
+        <item>
+          <title>graphitic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02689</url>
+        </item>
+        <item>
+          <title>graphitization heat treatment</title>
+          <url>https://goldbook.iupac.org/terms/view/G02692</url>
+        </item>
+        <item>
+          <title>isotropic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/I03354</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>granular carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02682</url>
+        </item>
+        <item>
+          <title>needle coke</title>
+          <url>https://goldbook.iupac.org/terms/view/N04095</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>puffing</title>
+          <url>https://goldbook.iupac.org/terms/view/P04941</url>
+        </item>
+        <item>
+          <title>graphitic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02689</url>
+        </item>
+        <item>
+          <title>graphitization heat treatment</title>
+          <url>https://goldbook.iupac.org/terms/view/G02692</url>
+        </item>
+        <item>
+          <title>isotropic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/I03354</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>granular carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02682</url>
+        </item>
+        <item>
+          <title>needle coke</title>
+          <url>https://goldbook.iupac.org/terms/view/N04095</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>porosity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04762</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>coke</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>2800 K</alttext>
+          <latex>2800\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 480 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00829/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00829/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00829/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00829/plain</plain>
+  </links>
+  <citation>Citation: 'carbon electrode' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00829</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:20:40+00:00</accessed>
+</term>

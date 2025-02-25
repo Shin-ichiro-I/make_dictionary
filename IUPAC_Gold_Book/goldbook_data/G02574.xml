@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02574</id>
+  <doi>10.1351/goldbook.G02574</doi>
+  <code>G02574</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Galvani potential difference</longtitle>
+  <title>Galvani potential difference</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An electric potential difference between points in the bulk of two phases. It is measurable only when the two phases have identical composition (e.g. two copper wires). It is the difference of inner electric potentials in two phases. Symbol: Δαβϕ.</text>
+      <links>
+        <item>
+          <title>electric potential</title>
+          <url>https://goldbook.iupac.org/terms/view/E01935</url>
+        </item>
+        <item>
+          <title>inner electric potentials</title>
+          <url>https://goldbook.iupac.org/terms/view/I03046</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Δαβϕ</alttext>
+          <latex>\Delta _{\unicode[Times]{x3B1} }^{\unicode[Times]{x3B2} }\phi </latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 59 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Diskussion:Donnan-Gleichgewicht (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Donnan-Gleichgewicht</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Galvani-Spannung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Galvani-Spannung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Galvani potential (en)</title>
+      <url>https://en.wikipedia.org/wiki/Galvani_potential</url>
+    </item>
+    <item>
+      <title>Wikipedia - Galvani-Spannung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Galvani-Spannung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Potencjał Galvaniego (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Potencjał_Galvaniego</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02574/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02574/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02574/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02574/plain</plain>
+  </links>
+  <citation>Citation: 'Galvani potential difference' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02574</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:39:20+00:00</accessed>
+</term>

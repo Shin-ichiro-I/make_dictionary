@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05864</id>
+  <doi>10.1351/goldbook.S05864</doi>
+  <code>S05864</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spin density</longtitle>
+  <title>spin density</title>
+  <abbrevs>
+    <item>EPR</item>
+    <item>ESR</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The unpaired electron density at a position of interest, usually at carbon, in a radical It is often measured experimentally by electron paramagneticresonance [EPR, ESR (electron spin resonance)] spectroscopy through hyperfine coupling constants of the atom or an attached hydrogen.</text>
+      <links>
+        <item>
+          <title>radical centre</title>
+          <url>https://goldbook.iupac.org/terms/view/R05069</url>
+        </item>
+        <item>
+          <title>radical centre</title>
+          <url>https://goldbook.iupac.org/terms/view/R05069</url>
+        </item>
+        <item>
+          <title>electron density</title>
+          <url>https://goldbook.iupac.org/terms/view/E01986</url>
+        </item>
+        <item>
+          <title>radical</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>radical centre</title>
+          <url>https://goldbook.iupac.org/terms/view/R05069</url>
+        </item>
+        <item>
+          <title>electron density</title>
+          <url>https://goldbook.iupac.org/terms/view/E01986</url>
+        </item>
+        <item>
+          <title>radical</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>paramagnetic</title>
+          <url>https://goldbook.iupac.org/terms/view/P04404</url>
+        </item>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+        <item>
+          <title>spectroscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/S05848</url>
+        </item>
+        <item>
+          <title>hyperfine coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/HT07052</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1166 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Electron density (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electron_density</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronová hustota (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Elektronová_hustota</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kerapatan elektron (id)</title>
+      <url>https://id.wikipedia.org/wiki/Kerapatan_elektron</url>
+    </item>
+    <item>
+      <title>Wikipedia - كثافة إلكترونية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كثافة_إلكترونية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05864/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05864/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05864/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05864/plain</plain>
+  </links>
+  <citation>Citation: 'spin density' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05864</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:18:57+00:00</accessed>
+</term>

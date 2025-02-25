@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05434</id>
+  <doi>10.1351/goldbook.S05434</doi>
+  <code>S05434</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - σ, π (sigma, pi)</longtitle>
+  <title>σ, π (sigma, pi)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The terms are symmetry designations, π molecular orbitals being antisymmetric with respect to a defining plane containing at least one atom (e.g. the molecular plane of ethene) and σ molecular orbitals symmetric with respect to the same plane. In practice the terms are used both in this rigorous sense (for orbitals encompassing the entire molecule) and also for localized two-centre orbitals or bonds, and it is necessary to make a clear distinction between the two usages. In the case of two-centre bonds, a π-bond has a nodal plane that includes the internuclear bond axis, whereas a σ-bond has no such nodal plane. (A δ-bond in organometallic or inorganic molecular species has two nodes.) Radicals are classified by analogy into σ- and π-radicals. Such two-centre orbitals may take part in molecular orbitals of σ- or π-symmetry. For example, the methyl group in propene contains three C–H bonds, each of which is of local σ-symmetry (i.e. without a nodal plane including the internuclear axis), but these three 'σ-bonds' can in turn be combined to form a set of group orbitals one of which has π-symmetry with respect to the principal molecular plane and can accordingly interact with the two-centre orbital of π-symmetry (π-bond) of the double-bonded carbon atoms, to form a molecular orbital of π-symmetry. Such an interaction between the CH3 group and the double bond is an example of what is called hyperconjugation. This cannot rigorously be described as 'σ–π conjugation' since σ and π here refer to different defining planes, and interaction between orbitals of different symmetries (with respect to the same defining plane) is forbidden.</text>
+      <links>
+        <item>
+          <title>nodal plane</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07082</url>
+        </item>
+        <item>
+          <title>molecular orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/M03996</url>
+        </item>
+        <item>
+          <title>conjugation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>nodal plane</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07082</url>
+        </item>
+        <item>
+          <title>molecular orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/M03996</url>
+        </item>
+        <item>
+          <title>conjugation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>Radicals</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>hyperconjugation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02924</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1163 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Enllaç sigma (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Enllaç_sigma</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ikatan sigma (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Ikatan_sigma</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sigma bond (en)</title>
+      <url>https://en.wikipedia.org/wiki/Sigma_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sigma veza (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Sigma_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sigma veza (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Sigma_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Δεσμός σ (el)</title>
+      <url>https://el.wikipedia.org/wiki/Δεσμός_σ</url>
+    </item>
+    <item>
+      <title>Wikipedia - Пі-зв'язок (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Пі-зв'язок</url>
+    </item>
+    <item>
+      <title>Wikipedia - Сигма веза (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Сигма_веза</url>
+    </item>
+    <item>
+      <title>Wikipedia - Сигма-врска (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Сигма-врска</url>
+    </item>
+    <item>
+      <title>Wikipedia - Сигма-зв'язок (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Сигма-зв'язок</url>
+    </item>
+    <item>
+      <title>Wikipedia - सिग्मा आबन्ध (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/सिग्मा_आबन्ध</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05434/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05434/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05434/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05434/plain</plain>
+  </links>
+  <citation>Citation: 'σ, π (sigma, pi)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05434</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:37:14+00:00</accessed>
+</term>

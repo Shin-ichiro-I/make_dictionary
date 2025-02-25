@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04218</id>
+  <doi>10.1351/goldbook.N04218</doi>
+  <code>N04218</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Norrish Type II photoreaction</longtitle>
+  <title>Norrish Type II photoreaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Intramolecularabstraction of a γ-hydrogen by an excited carbonyl compound to produce a 1,4-diradical as a primary photoproduct.</text>
+      <notes>
+        <item>An example is: N04218.png</item>
+      </notes>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Norrish Type II photoreaction</title>
+          <file>https://goldbook.iupac.org/img/inline/N04218.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>abstraction</title>
+          <url>https://goldbook.iupac.org/terms/view/A00045</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 375 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Norrish reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Norrish_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Norrish-Reaktion (de)</title>
+      <url>https://de.wikipedia.org/wiki/Norrish-Reaktion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Norrishova reakce (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Norrishova_reakce</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reazioni di Norrish (it)</title>
+      <url>https://it.wikipedia.org/wiki/Reazioni_di_Norrish</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04218/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04218/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04218/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04218/plain</plain>
+  </links>
+  <citation>Citation: 'Norrish Type II photoreaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04218</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:00:14+00:00</accessed>
+</term>

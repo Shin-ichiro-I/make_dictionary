@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02976</id>
+  <doi>10.1351/goldbook.I02976</doi>
+  <code>I02976</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - immobilized enzyme</longtitle>
+  <title>immobilized enzyme</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A soluble enzyme bound to an insoluble organic or inorganic matrix, or encapsulated within a membrane in order to increase its stability and make possible its repeated or continued use.</text>
+      <links>
+        <item>
+          <title>enzyme</title>
+          <url>https://goldbook.iupac.org/terms/view/E02159</url>
+        </item>
+        <item>
+          <title>enzyme</title>
+          <url>https://goldbook.iupac.org/terms/view/E02159</url>
+        </item>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2587. 'Glossary of bioanalytical nomenclature - Part 1: General terminology, body fluids, enzymology, immunology (IUPAC Recommendations 1994)' on page 2593 (https://doi.org/10.1351/pac199466122587)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - الإنزيم المثبت (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/الإنزيم_المثبت</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02976/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02976/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02976/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02976/plain</plain>
+  </links>
+  <citation>Citation: 'immobilized enzyme' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02976</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:00:14+00:00</accessed>
+</term>

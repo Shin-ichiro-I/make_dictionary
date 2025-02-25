@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03093</id>
+  <doi>10.1351/goldbook.I03093</doi>
+  <code>I03093</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - interfering substance, in electroanalytical chemistry</longtitle>
+  <title>interfering substance</title>
+  <abbrevs>
+    <item>PVC</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any substance, other than the ion being measured, whose presence in the sample solution affects the measured emf of a cell. Interfering substances fall into two classes: 'electrode/electrochemical' interferences and 'chemical' interferences. Examples of the first class include:  Those substances which give a similar response to the ion being measured and whose presence generally results in an apparent increase in the activity (or concentration) of the ion to be determined (e.g. Na+ for the Ca2+ electrode).   Electrolytes present at a high concentration that give rise to appreciable liquid junction potential differences or results in a significant activity coefficient decrease, or incipient Donnan exclusion failure. The second class of substances that should be recognized as chemical interferences includes:   Species that interact with the ion being measured so as to decrease its activity or apparent concentration. The electrode continues to report the true activity (e.g. CN− present in the measurement of Ag+), but a considerable gap will occur between the activity and concentration of the ions even in very dilute solutions. Under these circumstances the determination of ionic concentration may be problematic.   Substances interacting with the membrane itself, blocking the surface or changing its chemical composition [i.e. organic solvents for the liquid or poly(vinyl chloride) (PVC) membrane electrodes] are grouped as interferences or electrode poisons.  </text>
+      <contexts>
+        <in>
+          <item>electroanalytical chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>liquid junction</title>
+          <url>https://goldbook.iupac.org/terms/view/L03584</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>Donnan exclusion</title>
+          <url>https://goldbook.iupac.org/terms/view/DT06889</url>
+        </item>
+        <item>
+          <title>ionic concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/I03174</url>
+        </item>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2527. 'Recommendations for nomenclature of ionselective electrodes (IUPAC Recommendations 1994)' on page 2530 (https://doi.org/10.1351/pac199466122527)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03093/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03093/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03093/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03093/plain</plain>
+  </links>
+  <citation>Citation: 'interfering substance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03093</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:05:49+00:00</accessed>
+</term>

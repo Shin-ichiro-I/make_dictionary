@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00090</id>
+  <doi>10.1351/goldbook.A00090</doi>
+  <code>A00090</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - activated carbon</longtitle>
+  <title>activated carbon</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A porous carbon material, a char which has been subjected to reaction with gases, sometimes with the addition of chemicals, e.g. ZnCl2, before, during or after carbonization in order to increase its adsorptive properties.</text>
+      <notes>
+        <item>Activated carbons have a large adsorption capacity, preferably for small molecules, and are used for purification of liquids and gases. By controlling the process of carbonization and activation, a variety of active carbons having different porosity can be obtained. Activated carbons are used mainly in granular and powdered forms, but can also be produced in textile form by controlled carbonization and activation of textile fibres. Other terms used in the literature: active carbons, active charcoals.</item>
+      </notes>
+      <links>
+        <item>
+          <title>adsorption capacity</title>
+          <url>https://goldbook.iupac.org/terms/view/A00156</url>
+        </item>
+        <item>
+          <title>carbonization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00840</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>porosity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04762</url>
+        </item>
+        <item>
+          <title>carbon material</title>
+          <url>https://goldbook.iupac.org/terms/view/C00841</url>
+        </item>
+        <item>
+          <title>char</title>
+          <url>https://goldbook.iupac.org/terms/view/C00974</url>
+        </item>
+        <item>
+          <title>adsorptive</title>
+          <url>https://goldbook.iupac.org/terms/view/A00166</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 476 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aktiivsüsi (et)</title>
+      <url>https://et.wikipedia.org/wiki/Aktiivsüsi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbone attivo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Carbone_attivo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbonio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Carbonio</url>
+    </item>
+    <item>
+      <title>Wikipedia - كربون نشط (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كربون_نشط</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00090/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00090/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00090/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00090/plain</plain>
+  </links>
+  <citation>Citation: 'activated carbon' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00090</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:41:19+00:00</accessed>
+</term>

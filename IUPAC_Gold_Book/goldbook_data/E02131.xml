@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02131</id>
+  <doi>10.1351/goldbook.E02131</doi>
+  <code>E02131</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - enthalpimetric analysis</longtitle>
+  <title>enthalpimetric analysis</title>
+  <synonyms>
+    <item>analytical solution calorimetry</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The generic designation for a family of analytical methods in which the enthalpy change of a chemical reaction is measured, directly or indirectly, in order to perform a quantitative determination of a reactant or catalyst. In general, at least one reactant is a liquid or solution. It is a subset of calorimetry in which the system is maintained at constant (usually atmospheric pressure), and the emphasis is on a quantitative determination in a reasonable length of time. Analytical solution calorimetry is a synonymous designation that may be used but is not preferred. Thermochemical analysis has been used but is not recommended because of potential confusion and overlap with the methods of thermal analysis. The adjective thermometric is also associated with the names of some of these methods, but is not recommended as a general designation.</text>
+      <links>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>thermochemical analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/T06310</url>
+        </item>
+        <item>
+          <title>thermometric</title>
+          <url>https://goldbook.iupac.org/terms/view/T06329</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>thermochemical analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/T06310</url>
+        </item>
+        <item>
+          <title>thermometric</title>
+          <url>https://goldbook.iupac.org/terms/view/T06329</url>
+        </item>
+        <item>
+          <title>calorimetry</title>
+          <url>https://goldbook.iupac.org/terms/view/C00786</url>
+        </item>
+        <item>
+          <title>thermal analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/T06295</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2487. 'Nomenclature of thermometric and enthalpimetric methods in chemical analysis (IUPAC Recommendations 1994)' on page 2489 (https://doi.org/10.1351/pac199466122487)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02131/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02131/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02131/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02131/plain</plain>
+  </links>
+  <citation>Citation: 'enthalpimetric analysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02131</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:20:36+00:00</accessed>
+</term>

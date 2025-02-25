@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06737</id>
+  <doi>10.1351/goldbook.Z06737</doi>
+  <code>Z06737</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Z-value</longtitle>
+  <title><em>Z</em>-value</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An index of the ionizing power of a solvent based on the frequency of the longest wavelength electronic absorption maximum of 1-ethyl-4-methoxycarbonylpyridinium iodide in the solvent. The Z-value is defined by: Z = 2.859 x 10^4/λ is in kcal mol-1 and λ is in nm.</text>
+      <links>
+        <item>
+          <title>Dimroth–Reichardt ET parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/D01746</url>
+        </item>
+        <item>
+          <title>Grunwald–Winstein equation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02710</url>
+        </item>
+        <item>
+          <title>Dimroth–Reichardt ET parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/D01746</url>
+        </item>
+        <item>
+          <title>Grunwald–Winstein equation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02710</url>
+        </item>
+        <item>
+          <title>ionizing power</title>
+          <url>https://goldbook.iupac.org/terms/view/I03215</url>
+        </item>
+        <item>
+          <title>Dimroth–Reichardt ET parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/D01746</url>
+        </item>
+        <item>
+          <title>Grunwald–Winstein equation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02710</url>
+        </item>
+        <item>
+          <title>ionizing power</title>
+          <url>https://goldbook.iupac.org/terms/view/I03215</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Z-value</meaning>
+          <type>equation</type>
+          <alttext>Z = 2.859 x 10^4/λ</alttext>
+          <latex>Z = \frac{2.859\,\times\,10^{4}}{\lambda}</latex>
+        </item>
+        <item>
+          <meaning>Z-value</meaning>
+          <type>quantity</type>
+          <alttext>Z</alttext>
+          <latex>Z</latex>
+        </item>
+        <item>
+          <meaning>Kilocalories per mole</meaning>
+          <type>unit</type>
+          <alttext>kcal mol-1</alttext>
+          <latex>\pu{kcal mol-1}</latex>
+        </item>
+        <item>
+          <meaning>Wavelength</meaning>
+          <type>quantity</type>
+          <alttext>λ</alttext>
+          <latex>\lambda </latex>
+        </item>
+        <item>
+          <meaning>Nanometers</meaning>
+          <type>unit</type>
+          <alttext>nm</alttext>
+          <latex>\text{nm}</latex>
+        </item>
+        <item>
+          <meaning>Dimroth–Reichardt parameter</meaning>
+          <type>quantity</type>
+          <alttext>E T</alttext>
+          <latex>E_{\text{T}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1176 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/Z06737/html</html>
+    <json>https://goldbook.iupac.org/terms/view/Z06737/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/Z06737/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/Z06737/plain</plain>
+  </links>
+  <citation>Citation: '<em>Z</em>-value' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.Z06737</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:59:37+00:00</accessed>
+</term>

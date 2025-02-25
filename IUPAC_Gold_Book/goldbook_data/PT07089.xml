@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07089</id>
+  <doi>10.1351/goldbook.PT07089</doi>
+  <code>PT07089</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Pauli exclusion principle</longtitle>
+  <title>Pauli exclusion principle</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A rule, complementary to the aufbau principle, of building up the electronic configuration of atoms and molecules: a maximum of two electrons can occupy an orbital and then only providing that the spins of the electrons are paired, i.e. opposed. The principle demands that the wavefunction for a many-electron system must be asymmetric with respect to the permutation of the space-spin coordinates for every pair of electrons.</text>
+      <links>
+        <item>
+          <title>antisymmetry principle</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06989</url>
+        </item>
+        <item>
+          <title>antisymmetry principle</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06989</url>
+        </item>
+        <item>
+          <title>aufbau principle</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06996</url>
+        </item>
+        <item>
+          <title>antisymmetry principle</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06989</url>
+        </item>
+        <item>
+          <title>aufbau principle</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06996</url>
+        </item>
+        <item>
+          <title>electronic configuration</title>
+          <url>https://goldbook.iupac.org/terms/view/C01248</url>
+        </item>
+        <item>
+          <title>asymmetric</title>
+          <url>https://goldbook.iupac.org/terms/view/A00478</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1956 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Configuración electrónica (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Configuración_electrónica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Configuration électronique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Configuration_électronique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Configuração eletrônica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Configuração_eletrônica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electron configuration (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electron_configuration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konfigurasi elektron (id)</title>
+      <url>https://id.wikipedia.org/wiki/Konfigurasi_elektron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Principio di esclusione di Pauli (it)</title>
+      <url>https://it.wikipedia.org/wiki/Principio_di_esclusione_di_Pauli</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sous-couche électronique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Sous-couche_électronique</url>
+    </item>
+    <item>
+      <title>Wikipedia - مبدأ استبعاد باولي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مبدأ_استبعاد_باولي</url>
+    </item>
+    <item>
+      <title>Wikipedia - ইলেকট্রন বিন্যাস (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ইলেকট্রন_বিন্যাস</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07089/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07089/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07089/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07089/plain</plain>
+  </links>
+  <citation>Citation: 'Pauli exclusion principle' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07089</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:12:08+00:00</accessed>
+</term>

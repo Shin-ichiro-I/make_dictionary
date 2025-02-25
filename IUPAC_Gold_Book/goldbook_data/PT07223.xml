@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07223</id>
+  <doi>10.1351/goldbook.PT07223</doi>
+  <code>PT07223</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polyelectrolyte network</longtitle>
+  <title>polyelectrolyte network</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Polymer network containing ionic or ionizable groups in a substantial fraction of its constitutional units.</text>
+      <notes>
+        <item>A polyelectrolyte network is sometimes called a crosslinked polyelectrolyte. Use of the latter term is not recommended unless the polyelectrolyte network is formed by the crosslinking of existing polyelectrolyte macromolecules rather than by non-linear polymerisation.</item>
+        <item>In contrast to a polyelectrolyte, a polyelectrolyte network is always insoluble, although swelling or contraction can occur when it is immersed in a solvent.</item>
+        <item>A polyelectrolyte network in contact with a solution of a salt is able to exchange counter-ions (in an ion exchanger, in colloid chemistry) (cations or anions) with ionic species in the solution and act as an ion exchanger (in an ion exchanger, in colloid chemistry). Therefore, a polyelectrolyte network is frequently described as an ion-exchange polymer (in an ion exchanger, in colloid chemistry).</item>
+      </notes>
+      <links>
+        <item>
+          <title>polyelectrolyte</title>
+          <url>https://goldbook.iupac.org/terms/view/P04728</url>
+        </item>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+        <item>
+          <title>crosslinking</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07136</url>
+        </item>
+        <item>
+          <title>salt</title>
+          <url>https://goldbook.iupac.org/terms/view/S05447</url>
+        </item>
+        <item>
+          <title>counter-ions (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01371</url>
+        </item>
+        <item>
+          <title>ion exchanger (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03171</url>
+        </item>
+        <item>
+          <title>ion-exchange polymer (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07155</url>
+        </item>
+        <item>
+          <title>polymer network (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04742</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2006, 78, 2067. 'Terminology of polymers containing ionizable or ionic groups and of polymers containing ions (IUPAC Recommendations 2006)' on page 2073 (https://doi.org/10.1351/pac200678112067)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07223/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07223/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07223/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07223/plain</plain>
+  </links>
+  <citation>Citation: 'polyelectrolyte network' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07223</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:26:29+00:00</accessed>
+</term>

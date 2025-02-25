@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07336</id>
+  <doi>10.1351/goldbook.BT07336</doi>
+  <code>BT07336</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Brewster angle</longtitle>
+  <title>Brewster angle</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>When an unpolarized planar electromagnetic wavefront impinges on a flat dielectric surface, there is a unique angle (θB), commonly referred to as Brewster angle, at which the reflected waves are all polarized into a single plane.</text>
+      <notes>
+        <item>Expression for Brewster angle: θB = arctan(n2/n1) = arctan(ɛ2/ɛ1)^(1/2) where n2 and n1 are the refractive indices of the receiving surface and the initial medium, respectively, and ɛ2 and ɛ1 are the relative static permittivities (formerly called dielectric constants).</item>
+        <item>For a randomly polarized beam incident at Brewster angle, the electric fields of the reflected and refracted waves are perpendicular to each other</item>
+        <item>For a wave incident from air on water (n = 1.333), glass (n = 1.515), and diamond (n = 2.417), the Brewster angles are 53, 57, and 67.5 degrees, respectively.</item>
+      </notes>
+      <links>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>diamond</title>
+          <url>https://goldbook.iupac.org/terms/view/D01671</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Brewster angle</meaning>
+          <type>quantity</type>
+          <alttext>θB</alttext>
+          <latex>\theta_{\text{B}}</latex>
+        </item>
+        <item>
+          <meaning>Brewster angle equation</meaning>
+          <type>equation</type>
+          <alttext>θB = arctan(n2/n1) = arctan(ɛ2/ɛ1)^(1/2)</alttext>
+          <latex>\theta_{\text{B}} = \text{arctan} \frac{n_{2}}{n_{1}} = \text{arctan} \left (\frac{\varepsilon_{2}}{\varepsilon_{1}} \right)^{1/2}</latex>
+        </item>
+        <item>
+          <meaning>refractive index of receiving surface</meaning>
+          <type>quantity</type>
+          <alttext>n2</alttext>
+          <latex>n_{2}</latex>
+        </item>
+        <item>
+          <meaning>refractive index of initial medium</meaning>
+          <type>quantity</type>
+          <alttext>n1</alttext>
+          <latex>n_{1}</latex>
+        </item>
+        <item>
+          <meaning>relative static permittivity of receiving surface</meaning>
+          <type>quantity</type>
+          <alttext>ɛ2</alttext>
+          <latex>\varepsilon_{2}</latex>
+        </item>
+        <item>
+          <meaning>relative static permittivity of initial medium</meaning>
+          <type>quantity</type>
+          <alttext>ɛ1</alttext>
+          <latex>\varepsilon_{1}</latex>
+        </item>
+        <item>
+          <meaning>refractive index of water</meaning>
+          <type>numeric value with unit</type>
+          <alttext>n = 1.333</alttext>
+          <latex>n = 1.333</latex>
+        </item>
+        <item>
+          <meaning>refractive index of glass</meaning>
+          <type>numeric value with unit</type>
+          <alttext>n = 1.515</alttext>
+          <latex>n = 1.515</latex>
+        </item>
+        <item>
+          <meaning>refractive index of diamond</meaning>
+          <type>numeric value with unit</type>
+          <alttext>n = 2.417</alttext>
+          <latex>n = 2.417</latex>
+        </item>
+        <item>
+          <meaning>Brewster angle for water</meaning>
+          <type>numeric value</type>
+          <alttext>53</alttext>
+          <latex>53</latex>
+        </item>
+        <item>
+          <meaning>Brewster angle for glass</meaning>
+          <type>numeric value</type>
+          <alttext>57</alttext>
+          <latex>57</latex>
+        </item>
+        <item>
+          <meaning>Brewster angle for diamond</meaning>
+          <type>numeric value with unit</type>
+          <alttext>67.5 degrees</alttext>
+          <latex>67.5\ \text{degrees}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 310 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Angolo di Brewster (it)</title>
+      <url>https://it.wikipedia.org/wiki/Angolo_di_Brewster</url>
+    </item>
+    <item>
+      <title>Wikipedia - Brewsters vinkel (no)</title>
+      <url>https://no.wikipedia.org/wiki/Brewsters_vinkel</url>
+    </item>
+    <item>
+      <title>Wikipedia - زاوية الاستقطاب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/زاوية_الاستقطاب</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/BT07336/html</html>
+    <json>https://goldbook.iupac.org/terms/view/BT07336/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/BT07336/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/BT07336/plain</plain>
+  </links>
+  <citation>Citation: 'Brewster angle' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.BT07336</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:15:15+00:00</accessed>
+</term>

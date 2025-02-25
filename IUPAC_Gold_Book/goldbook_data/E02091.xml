@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02091</id>
+  <doi>10.1351/goldbook.E02091</doi>
+  <code>E02091</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - endergonic (or endoergic) reaction</longtitle>
+  <title>endergonic reaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This is usually taken to be a reaction for which the overall standard Gibbs energy change ΔG° is positive. Some workers use this term with respect to a positive value of ΔH° at the absolute zero of temperature.</text>
+      <math>
+        <item>
+          <alttext>ΔG°</alttext>
+          <latex>\Delta G^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>ΔH°</alttext>
+          <latex>\Delta H^{\,\unicode{x26ac}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 164 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussione:Energia libera (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Energia_libera</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussioni categoria:Termodinamica chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussioni_categoria:Termodinamica_chimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussioni utente:Ary29 (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussioni_utente:Ary29</url>
+    </item>
+    <item>
+      <title>Wikipedia - Réaction endergonique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Réaction_endergonique</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02091/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02091/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02091/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02091/plain</plain>
+  </links>
+  <citation>Citation: 'endergonic reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02091</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:18:40+00:00</accessed>
+</term>

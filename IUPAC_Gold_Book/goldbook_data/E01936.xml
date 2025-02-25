@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01936</id>
+  <doi>10.1351/goldbook.E01936</doi>
+  <code>E01936</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electric resistance, R</longtitle>
+  <title>electric resistance</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>To direct current, the potential difference divided by the current when there is no electromotive force in the conductor.</text>
+      <links>
+        <item>
+          <title>direct current</title>
+          <url>https://goldbook.iupac.org/terms/view/D01767</url>
+        </item>
+        <item>
+          <title>electromotive force</title>
+          <url>https://goldbook.iupac.org/terms/view/E01974</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>To alternating current, the real part of impedance.</text>
+      <links>
+        <item>
+          <title>alternating current</title>
+          <url>https://goldbook.iupac.org/terms/view/A00252</url>
+        </item>
+        <item>
+          <title>impedance</title>
+          <url>https://goldbook.iupac.org/terms/view/I02988</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' Lehmann, H.P.;Fuentes-arderiu, X.;Bertello, L.F.; Pure and Applied Chemistry 1996 68(4) 957</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Resistenza elettrica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Resistenza_elettrica</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01936/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01936/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01936/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01936/plain</plain>
+  </links>
+  <citation>Citation: 'electric resistance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01936</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:10:56+00:00</accessed>
+</term>

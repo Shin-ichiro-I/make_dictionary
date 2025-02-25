@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04303</id>
+  <doi>10.1351/goldbook.O04303</doi>
+  <code>O04303</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - optical activity</longtitle>
+  <title>optical activity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A sample of material able to rotate the plane of polarization of a beam of transmitted plane-polarized light is said to possess optical activity (or to be optically active). This optical rotation is the classical distinguishing characteristic (sufficient but not necessary) of systems containing unequal amounts of corresponding enantiomers. An enantiomer causing rotation in a clockwise direction (when viewed in the direction facing the oncoming light beam) under specified conditions is called dextrorotatory and its chemical name or formula is designated by the prefix (+)-; one causing rotation in the opposite sense is laevorotatory and designated by the prefix (−)-. Materials with optical activity also exhibit other chiroptic phenomena.</text>
+      <links>
+        <item>
+          <title>polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04712</url>
+        </item>
+        <item>
+          <title>optical rotation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04312</url>
+        </item>
+        <item>
+          <title>polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04712</url>
+        </item>
+        <item>
+          <title>optical rotation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04312</url>
+        </item>
+        <item>
+          <title>enantiomers</title>
+          <url>https://goldbook.iupac.org/terms/view/E02069</url>
+        </item>
+        <item>
+          <title>chiroptic</title>
+          <url>https://goldbook.iupac.org/terms/view/C01064</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2212 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussione:Potere rotatorio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Potere_rotatorio</url>
+    </item>
+    <item>
+      <title>Wikipedia - تدوير ضوئي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تدوير_ضوئي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04303/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04303/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04303/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04303/plain</plain>
+  </links>
+  <citation>Citation: 'optical activity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04303</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:05:01+00:00</accessed>
+</term>

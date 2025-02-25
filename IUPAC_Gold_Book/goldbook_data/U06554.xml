@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06554</id>
+  <doi>10.1351/goldbook.U06554</doi>
+  <code>U06554</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - unified atomic mass unit</longtitle>
+  <title>unified atomic mass unit</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-SI unit of mass (equal to the atomic mass constant), defined as one twelfth of the mass of a carbon-12 atom in its ground state and used to express masses of atomic particles, u ≈ 1.660 5402 10 x 10E-27 kg.</text>
+      <links>
+        <item>
+          <title>atomic mass constant</title>
+          <url>https://goldbook.iupac.org/terms/view/A00497</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>u ≈ 1.660 5402 10 x 10E-27 kg</alttext>
+          <latex>\rm{u} \approx \pu{1.6605402(10)E-27 kg}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 75 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 997 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aatommassiühik (et)</title>
+      <url>https://et.wikipedia.org/wiki/Aatommassiühik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amedeo Avogadro (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Amedeo_Avogadro</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atom ağırlığı (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Atom_ağırlığı</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atomimassayksikkö (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Atomimassayksikkö</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atommasseenhed (da)</title>
+      <url>https://da.wikipedia.org/wiki/Atommasseenhed</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atomo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Atomo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Avogadro constant (en)</title>
+      <url>https://en.wikipedia.org/wiki/Avogadro_constant</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bağıl atom kütlesi (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Bağıl_atom_kütlesi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbone 12 (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Carbone_12</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dalton (satuan) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Dalton_(satuan)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dalton (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dalton_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - IUPAC jelölésrendszer (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/IUPAC_jelölésrendszer</url>
+    </item>
+    <item>
+      <title>Wikipedia - IUPAC-jelölésrendszer (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/IUPAC-jelölésrendszer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Masa atomowa (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Masa_atomowa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Massa atòmica (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Massa_atòmica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Periodesystemet (no)</title>
+      <url>https://no.wikipedia.org/wiki/Periodesystemet</url>
+    </item>
+    <item>
+      <title>Wikipedia - Relative atomic mass (en)</title>
+      <url>https://en.wikipedia.org/wiki/Relative_atomic_mass</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Dalton (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Dalton_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Unified atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Unified_atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unidad de masa atómica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Unidad_de_masa_atómica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unidade de massa atômica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Unidade_de_massa_atômica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unified atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Unified_atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unitat de massa atòmica (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Unitat_de_massa_atòmica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unità di massa atomica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Unità_di_massa_atomica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Јединица атомске масе (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Јединица_атомске_масе</url>
+    </item>
+    <item>
+      <title>Wikipedia - Амедео Авогадро (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Амедео_Авогадро</url>
+    </item>
+    <item>
+      <title>Wikipedia - Атамная адзінка масы (be)</title>
+      <url>https://be.wikipedia.org/wiki/Атамная_адзінка_масы</url>
+    </item>
+    <item>
+      <title>Wikipedia - Атомна одиниця маси (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Атомна_одиниця_маси</url>
+    </item>
+    <item>
+      <title>Wikipedia - Атомная единица массы (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Атомная_единица_массы</url>
+    </item>
+    <item>
+      <title>Wikipedia - Единица за атомна маса (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Единица_за_атомна_маса</url>
+    </item>
+    <item>
+      <title>Wikipedia - Массăн атомла пĕрчи (cv)</title>
+      <url>https://cv.wikipedia.org/wiki/Массăн_атомла_пĕрчи</url>
+    </item>
+    <item>
+      <title>Wikipedia - Массаның атом берәмеге (ba)</title>
+      <url>https://ba.wikipedia.org/wiki/Массаның_атом_берәмеге</url>
+    </item>
+    <item>
+      <title>Wikipedia - وحدة كتل ذرية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/وحدة_كتل_ذرية</url>
+    </item>
+    <item>
+      <title>Wikipedia - 原子质量单位 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/原子质量单位</url>
+    </item>
+    <item>
+      <title>Wikipedia - 原子量 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/原子量</url>
+    </item>
+    <item>
+      <title>Wikipedia - 道尔顿 (单位) (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/道尔顿_(单位)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 원자 질량 단위 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/원자_질량_단위</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/U06554/html</html>
+    <json>https://goldbook.iupac.org/terms/view/U06554/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/U06554/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/U06554/plain</plain>
+  </links>
+  <citation>Citation: 'unified atomic mass unit' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.U06554</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:51:33+00:00</accessed>
+</term>

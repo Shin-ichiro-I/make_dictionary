@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02239</id>
+  <doi>10.1351/goldbook.E02239</doi>
+  <code>E02239</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - exchange extraction</longtitle>
+  <title>exchange extraction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An extraction operation or process in which a metal from one phase is exchanged with the equivalent amount of a second metal from the other phase.</text>
+      <notes>
+        <item>This term may be used in connection with any step (e.g. loading, scrubbing (in solvent extraction) (in solvent extration, in atmospheric chemistry) or stripping (in solvent extraction) (in solvent extration, in atmospheric chemistry) in a process).</item>
+        <item>This applies also to organic or molecular species.</item>
+      </notes>
+      <links>
+        <item>
+          <title>crowding (in solvent extraction)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01420</url>
+        </item>
+        <item>
+          <title>crowding (in solvent extraction)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01420</url>
+        </item>
+        <item>
+          <title>scrubbing (in solvent extraction) (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05511</url>
+        </item>
+        <item>
+          <title>stripping (in solvent extraction) (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S06054</url>
+        </item>
+        <item>
+          <title>extraction (in solvent extraction) (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02301</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2387 (https://doi.org/10.1351/pac199365112373)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02239/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02239/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02239/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02239/plain</plain>
+  </links>
+  <citation>Citation: 'exchange extraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02239</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:24:28+00:00</accessed>
+</term>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07393</id>
+  <doi>10.1351/goldbook.HT07393</doi>
+  <code>HT07393</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hula-twist (HT) mechanism</longtitle>
+  <title>hula-twist (HT) mechanism</title>
+  <abbrevs>
+    <item>HT</item>
+    <item>OBF</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Volume-conserving mechanism of photoisomerization of a double bond in a conjugated system involving simultaneous configurational and conformational isomerization, e.g., the photoinitiated concerted rotation of two adjacent double and single bonds. [image: Not defined]</text>
+      <notes>
+        <item>Under unconstrained conditions, the conventional one-bond-flip (OBF) process is the dominant process with the hula-twist (HT) being an undetectable higher energy process. It has been proposed that under confined conditions (e.g., a conjugated double bond chromophore in a protein cavity or in a solid matrix), the additional viscosity-dependent barriers make the OBF a less favourable process, allowing the volume-conserving HT to be the dominant process for photoisomerization.</item>
+      </notes>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/HT07393.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>one-bond-flip</title>
+          <url>https://goldbook.iupac.org/terms/view/OT07432</url>
+        </item>
+        <item>
+          <title>chromophore</title>
+          <url>https://goldbook.iupac.org/terms/view/C01076</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>photoisomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04622</url>
+        </item>
+        <item>
+          <title>isomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03295</url>
+        </item>
+        <item>
+          <title>one-bond-flip</title>
+          <url>https://goldbook.iupac.org/terms/view/OT07432</url>
+        </item>
+        <item>
+          <title>chromophore</title>
+          <url>https://goldbook.iupac.org/terms/view/C01076</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>photoisomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04622</url>
+        </item>
+        <item>
+          <title>isomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03295</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 352 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/HT07393/html</html>
+    <json>https://goldbook.iupac.org/terms/view/HT07393/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/HT07393/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/HT07393/plain</plain>
+  </links>
+  <citation>Citation: 'hula-twist (HT) mechanism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.HT07393</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:54:28+00:00</accessed>
+</term>

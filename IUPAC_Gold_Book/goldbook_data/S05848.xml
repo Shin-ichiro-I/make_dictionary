@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05848</id>
+  <doi>10.1351/goldbook.S05848</doi>
+  <code>S05848</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spectroscopy</longtitle>
+  <title>spectroscopy</title>
+  <contains>spectrometry</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The study of physical systems by the electromagnetic radiation with which they interact or that they produce. Spectrometry is the measurement of such radiations as a means of obtaining information about the systems and their components. In certain types of optical spectroscopy, the radiation originates from an external source and is modified by the system, whereas in other types, the radiation originates within the system itself.</text>
+      <links>
+        <item>
+          <title>optical spectroscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/O04314</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1986, 58, 1737. 'Quantities and units in clinical chemistry: Nebulizer and flame properties in flame emission and absorption spectrometry (Recommendations 1986)' on page 1738 (https://doi.org/10.1351/pac198658121737)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Molecule (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molecule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekul (id)</title>
+      <url>https://id.wikipedia.org/wiki/Molekul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spettroscopia (it)</title>
+      <url>https://it.wikipedia.org/wiki/Spettroscopia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Spectroscopy (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Spectroscopy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Մոլեկուլ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Մոլեկուլ</url>
+    </item>
+    <item>
+      <title>Wikipedia - مطيافية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مطيافية</url>
+    </item>
+    <item>
+      <title>Wikipedia - மூலக்கூறு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மூலக்கூறு</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/分子</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/分子</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05848/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05848/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05848/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05848/plain</plain>
+  </links>
+  <citation>Citation: 'spectroscopy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05848</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:18:17+00:00</accessed>
+</term>

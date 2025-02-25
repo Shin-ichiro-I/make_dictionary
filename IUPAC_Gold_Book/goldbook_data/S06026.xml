@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06026</id>
+  <doi>10.1351/goldbook.S06026</doi>
+  <code>S06026</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stoichiometry</longtitle>
+  <title>stoichiometry</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The term refers to the relationship between the amounts of substances that react together in a particular chemical reaction, and the amounts of products that are formed. The general stoichiometric equation: aA + bB + ... → ... + yY + zZ , and X is formed in substantial amounts during the course of the process, the relationship between the amounts of A, X and Y will vary with time, and no one stoichiometric equation can represent the reaction at all times.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/S06026-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>stoichiometric</title>
+          <url>https://goldbook.iupac.org/terms/view/S06021</url>
+        </item>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>aA + bB + ... → ... + yY + zZ</alttext>
+          <latex>a\text{A}\,+\,b\text{B}\,+\,...\,\rightarrow\,...\,+\,y\text{Y}\,+\,z\text{Z}</latex>
+        </item>
+        <item>
+          <type>reaction</type>
+          <alttext>A → X → Y</alttext>
+          <latex>\text{A}\rightarrow \text{X}\rightarrow \text{Y}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 187 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chemical substance (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_substance</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estequiometria (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Estequiometria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stechiometria (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stechiometria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stoichiometry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Stoichiometry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stöchiometrie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Stöchiometrie</url>
+    </item>
+    <item>
+      <title>Wikipedia - قياس اتحادية العناصر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قياس_اتحادية_العناصر</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06026/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06026/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06026/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06026/plain</plain>
+  </links>
+  <citation>Citation: 'stoichiometry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06026</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:26:47+00:00</accessed>
+</term>

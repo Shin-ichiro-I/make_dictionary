@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04421</id>
+  <doi>10.1351/goldbook.P04421</doi>
+  <code>P04421</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - partial rate factor</longtitle>
+  <title>partial rate factor</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The rate of substitution at one specific site in an aromatic compound relative to the rate of substitution at one position in benzene. For example, the partial rate factor fpZ for para-substitution in a monosubstituted benzene C6H5Z is related to the rate constants k(C6H5Z) and k(C6H6) for the total reaction (i.e. at all positions) of C6H5Z and benzene, respectively, and % para (the percentage para-substitution in the total product formed from C6H5Z) by the relation: fpZ = 6k(C6H5Z)/k(C6H6).(%para/100) , m f Z, o f Z are also in use.) The term applies equally to the ipso position, and it can be extended to other substituted substrates undergoing parallel reactions at different sites with the same reagent according to the same rate law.</text>
+      <links>
+        <item>
+          <title>selectivity (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05565</url>
+        </item>
+        <item>
+          <title>selectivity (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05565</url>
+        </item>
+        <item>
+          <title>aromatic (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>rate law (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05141</url>
+        </item>
+        <item>
+          <title>selectivity (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05565</url>
+        </item>
+        <item>
+          <title>aromatic (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>rate law (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05141</url>
+        </item>
+        <item>
+          <title>parallel reactions (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04403</url>
+        </item>
+        <item>
+          <title>reagent (of a reagent)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>fpZ</alttext>
+          <latex>f_{p}^{\text{Z}}</latex>
+        </item>
+        <item>
+          <meaning>Rate constant for mono-substituted benenze</meaning>
+          <type>quantity</type>
+          <alttext>k(C6H5Z)</alttext>
+          <latex>k\left(\text{C}_{6}\text{H}_{5}\text{Z}\right)</latex>
+        </item>
+        <item>
+          <meaning>Rate constant for benenze</meaning>
+          <type>quantity</type>
+          <alttext>k(C6H6)</alttext>
+          <latex>k\left(\text{C}_{6}\text{H}_{6}\right)</latex>
+        </item>
+        <item>
+          <alttext>fpZ = 6k(C6H5Z)/k(C6H6).(%para/100) </alttext>
+          <latex>f_{p}^{\text{Z}} = \frac{6\ k\left(\text{C}_{6}\text{H}_{5}\text{Z}\right)}{k\left(\text{C}_{6}\text{H}_{6}\right)}\ \frac{\%\ \text{para}}{100}</latex>
+        </item>
+        <item>
+          <alttext>fmZ = 6k(C6H5Z)/2k(C6H6).(%meta/100)</alttext>
+          <latex>f_{m}^{\text{Z}} = \frac{6\ k\left(\text{C}_{6}\text{H}_{5}\text{Z}\right)}{2\ k\left(\text{C}_{6}\text{H}_{6}\right)}\ \frac{\%\ \text{meta}}{100}</latex>
+        </item>
+        <item>
+          <alttext>p f Z</alttext>
+          <latex>p_{f}^{\text{Z}}</latex>
+        </item>
+        <item>
+          <alttext>m f Z</alttext>
+          <latex>m_{f}^{\text{Z}}</latex>
+        </item>
+        <item>
+          <alttext>o f Z</alttext>
+          <latex>o_{f}^{\text{Z}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1149 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04421/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04421/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04421/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04421/plain</plain>
+  </links>
+  <citation>Citation: 'partial rate factor' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04421</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:10:41+00:00</accessed>
+</term>

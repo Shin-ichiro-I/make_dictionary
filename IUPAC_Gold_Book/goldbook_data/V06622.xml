@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06622</id>
+  <doi>10.1351/goldbook.V06622</doi>
+  <code>V06622</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - vinylic groups</longtitle>
+  <title>vinylic groups</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The vinyl group (CH2=CH–) and derivatives formed by substitution. Informally, a group, such as –OH, attached to the free valence of a (substituted) vinyl group is sometimes referred to as 'vinylic'.</text>
+      <links>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1374 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Gruppo vinilico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Gruppo_vinilico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vinylgruppe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Vinylgruppe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vinylová skupina (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Vinylová_skupina</url>
+    </item>
+    <item>
+      <title>Wikipedia - مجموعة فاينيل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مجموعة_فاينيل</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/V06622/html</html>
+    <json>https://goldbook.iupac.org/terms/view/V06622/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/V06622/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/V06622/plain</plain>
+  </links>
+  <citation>Citation: 'vinylic groups' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.V06622</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:54:50+00:00</accessed>
+</term>

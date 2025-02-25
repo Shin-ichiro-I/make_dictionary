@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00531</id>
+  <doi>10.1351/goldbook.A00531</doi>
+  <code>A00531</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - autoprotolysis</longtitle>
+  <title>autoprotolysis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A proton (hydron) transfer reaction between two identical molecules (usually a solvent), one acting as a Brønsted acid and the other as a Brønsted base. For example: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00531.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>proton (hydron) transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/P04915</url>
+        </item>
+        <item>
+          <title>Brønsted acid</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>Brønsted base</title>
+          <url>https://goldbook.iupac.org/terms/view/B00745</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1087 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Autoprotolisi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Autoprotolisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autoprotolisis (id)</title>
+      <url>https://id.wikipedia.org/wiki/Autoprotolisis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autoprotoliza (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Autoprotoliza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autoprotoliză (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Autoprotoliză</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autoprotolyse (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Autoprotolyse</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autoprotolysis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Autoprotolysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autoprotolyysi (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Autoprotolyysi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autoprotolízis (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Autoprotolízis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autoprotólisis (es)</title>
+      <url>https://es.wikipedia.org/wiki/Autoprotólisis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Protolyse (no)</title>
+      <url>https://no.wikipedia.org/wiki/Protolyse</url>
+    </item>
+    <item>
+      <title>Wikipedia - Самодиссоциация (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Самодиссоциация</url>
+    </item>
+    <item>
+      <title>Wikipedia - انتقال بروتون (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/انتقال_بروتون</url>
+    </item>
+    <item>
+      <title>Wikipedia - தன்நேர்மின்னணு மாற்றம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/தன்நேர்மின்னணு_மாற்றம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - 自己解離 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/自己解離</url>
+    </item>
+    <item>
+      <title>Wikipedia - 質子自遷移反應 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/質子自遷移反應</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00531/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00531/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00531/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00531/plain</plain>
+  </links>
+  <citation>Citation: 'autoprotolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00531</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:03:30+00:00</accessed>
+</term>

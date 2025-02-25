@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01968</id>
+  <doi>10.1351/goldbook.E01968</doi>
+  <code>E01968</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electrokinetic potential, ζ</longtitle>
+  <title>electrokinetic potential</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Potential drop across the mobile part of the double layer, that is responsible for electrokinetic phenomena. ζ is positive if the potential increases from the bulk of the liquid phase towards the interface. In calculating the electrokinetic potential from electrokinetic phenomena it is often asumed that the liquid adhering to the solid wall and the mobile liquid are separated by a sharp shear plane. As long as there is no reliable information on the values of the permittivity and the viscosity in the electrical double layer close to the interface, the calculation of the electrokinetic potential from electrokinetic experiments remains open to criticism. It is therefore essential to indicate in all cases which equations have been used in the calculation of ζ. It can be shown, however, that for the same assumptions about the permittivity and viscosity all electrokinetic phenomena must give the same value for the electrokinetic potential.</text>
+      <links>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>permittivity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04507</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ζ</alttext>
+          <latex>\zeta </latex>
+        </item>
+        <item>
+          <alttext>ζ</alttext>
+          <latex>\zeta </latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 60 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1994, 66, 891. 'Quantities and units for electrophoresis in the clinical laboratory (IUPAC Recommendations 1994)' on page 894 (https://doi.org/10.1351/pac199466040891)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 971 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussione:Potenziale zeta (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Potenziale_zeta</url>
+    </item>
+    <item>
+      <title>Wikipedia - Potencjał elektrokinetyczny (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Potencjał_elektrokinetyczny</url>
+    </item>
+    <item>
+      <title>Wikipedia - Potenziale zeta (it)</title>
+      <url>https://it.wikipedia.org/wiki/Potenziale_zeta</url>
+    </item>
+    <item>
+      <title>Wikipedia - Potențial zeta (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Potențial_zeta</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zeta potencijal (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Zeta_potencijal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zeta potential (en)</title>
+      <url>https://en.wikipedia.org/wiki/Zeta_potential</url>
+    </item>
+    <item>
+      <title>Wikipedia - پتانسیل زتا (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/پتانسیل_زتا</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01968/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01968/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01968/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01968/plain</plain>
+  </links>
+  <citation>Citation: 'electrokinetic potential' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01968</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:12:32+00:00</accessed>
+</term>

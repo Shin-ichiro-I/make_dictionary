@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07079</id>
+  <doi>10.1351/goldbook.NT07079</doi>
+  <code>NT07079</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - natural orbital</longtitle>
+  <title>natural orbital</title>
+  <abbrevs>
+    <item>CI</item>
+    <item>NO</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The orbitals defined (P. Lowdin) as the eigenfunctions of the spinless one-particle electron density matrix. For a configuration interaction wave-function constructed from orbitals Φ, the electron density function, ρ, is of the form: ρ = ∑ i ∑ j a i j Φ i * Φ j where the coefficients ai j are a set of numbers which form the density matrix. The NOs reduce the density matrix ρ to a diagonal form: ρ = ∑ k b k Φ k * Φ k where the coefficients bk are occupation numbers of each orbital. The importance of natural orbitals is in the fact that CI expansions based on these orbitals have generally the fastest convergence. If a CI calculation was carried out in terms of an arbitrary basis set and the subsequent diagonalisation of the density matrix ai j gave the natural orbitals, the same calculation repeated in terms of the natural orbitals thus obtained would lead to the wave-function for which only those configurations built up from natural orbitals with large occupation numbers were important.</text>
+      <links>
+        <item>
+          <title>electron density</title>
+          <url>https://goldbook.iupac.org/terms/view/E01986</url>
+        </item>
+        <item>
+          <title>electron density function</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07024</url>
+        </item>
+        <item>
+          <title>basis set</title>
+          <url>https://goldbook.iupac.org/terms/view/BT06999</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Φ</alttext>
+          <latex>\varPhi </latex>
+        </item>
+        <item>
+          <alttext>ρ</alttext>
+          <latex>\unicode[Times]{x3C1}</latex>
+        </item>
+        <item>
+          <alttext>ρ = ∑ i ∑ j a i j Φ i * Φ j</alttext>
+          <latex>\unicode[Times]{x3C1} = \sum_{i}\sum _{j}a_{ij}\,\varPhi_{i}^{*}\,\varPhi_{j}</latex>
+        </item>
+        <item>
+          <alttext>ai j</alttext>
+          <latex>a_{ij}</latex>
+        </item>
+        <item>
+          <alttext>ρ</alttext>
+          <latex>\unicode[Times]{x3C1}</latex>
+        </item>
+        <item>
+          <alttext>ρ = ∑ k b k Φ k * Φ k</alttext>
+          <latex>\unicode[Times]{x3C1} = \sum _{k}b_{k}\mathit{\Phi}_{k}^{*}\mathit{\Phi}_{k}</latex>
+        </item>
+        <item>
+          <alttext>bk</alttext>
+          <latex>b_{k}</latex>
+        </item>
+        <item>
+          <alttext>ai j</alttext>
+          <latex>\text{a}_{ij}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1954 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/NT07079/html</html>
+    <json>https://goldbook.iupac.org/terms/view/NT07079/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/NT07079/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/NT07079/plain</plain>
+  </links>
+  <citation>Citation: 'natural orbital' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.NT07079</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:52:45+00:00</accessed>
+</term>

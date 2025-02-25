@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00807</id>
+  <doi>10.1351/goldbook.C00807</doi>
+  <code>C00807</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbene analogues</longtitle>
+  <title>carbene analogues</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The electrically neutral mononuclear hydrides of group 14 having two non-bonding electrons, the electrically neutral mononuclear hydrides of group 15 having four non-bonding electrons, and also the compound HB:. The names of a number of these are shown below.   RB: boranylidenes RAs: arsanylidenes   RN: nitrenes R2Sn: stannylidenes   R2Si: silylenes RSb: stibanylidenes   RP: phosphanylidenes R2Pb: plumbylidenes   R2Ge: germylidenes     Note that if R = H, these compounds are parent hydrides; derivatives formed by substitution are named accordingly. However, if the substituent's first atom, bearing the free valence, is of the same element as the atom of the carbene analogue, other parent compounds may be required (see carbenes), e.g. HN: nitrene; CH3N: methylnitrene; H2NN:diazanylidene (synonym isodiazene, not aminonitrene).</text>
+      <links>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/C00806</url>
+        </item>
+        <item>
+          <title>diazanylidene</title>
+          <url>https://goldbook.iupac.org/terms/view/D01686</url>
+        </item>
+        <item>
+          <title>isodiazene</title>
+          <url>https://goldbook.iupac.org/terms/view/I03273</url>
+        </item>
+        <item>
+          <title>aminonitrene</title>
+          <url>https://goldbook.iupac.org/terms/view/A00280</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1324 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00807/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00807/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00807/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00807/plain</plain>
+  </links>
+  <citation>Citation: 'carbene analogues' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00807</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:19:37+00:00</accessed>
+</term>

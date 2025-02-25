@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02824</id>
+  <doi>10.1351/goldbook.H02824</doi>
+  <code>H02824</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - high-pressure graphitization</longtitle>
+  <title>high-pressure graphitization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A term which refers to the solid-state transformation of non-graphitic carbon into graphite by heat treatment under elevated pressure (e.g. 100 to 1000 MPa) so that a definitely higher degree of graphitization is achieved at lower temperature and/or for a shorter heat treatment time than in heat treatment of the same non-graphitic material at atmospheric pressure.</text>
+      <links>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>non-graphitic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/N04193</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>graphitization</title>
+          <url>https://goldbook.iupac.org/terms/view/G02691</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>100</alttext>
+          <latex>100</latex>
+        </item>
+        <item>
+          <alttext>1000 MPa</alttext>
+          <latex>1000\ \text{MPa}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 495 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02824/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02824/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02824/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02824/plain</plain>
+  </links>
+  <citation>Citation: 'high-pressure graphitization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02824</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:52:03+00:00</accessed>
+</term>

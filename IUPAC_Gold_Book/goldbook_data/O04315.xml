@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04315</id>
+  <doi>10.1351/goldbook.O04315</doi>
+  <code>O04315</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - optical yield</longtitle>
+  <title>optical yield</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In a chemical reaction involving chiral reactants and products, the ratio of the optical purity of the product to that of the precursor, reactant or catalyst. This should not be confused with enantiomeric excess. The optical yield is in no way related to the chemical yield of the reaction.</text>
+      <links>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>optical purity</title>
+          <url>https://goldbook.iupac.org/terms/view/O04310</url>
+        </item>
+        <item>
+          <title>enantiomeric excess</title>
+          <url>https://goldbook.iupac.org/terms/view/E02070</url>
+        </item>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>optical purity</title>
+          <url>https://goldbook.iupac.org/terms/view/O04310</url>
+        </item>
+        <item>
+          <title>enantiomeric excess</title>
+          <url>https://goldbook.iupac.org/terms/view/E02070</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>chemical yield</title>
+          <url>https://goldbook.iupac.org/terms/view/C01041</url>
+        </item>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>optical purity</title>
+          <url>https://goldbook.iupac.org/terms/view/O04310</url>
+        </item>
+        <item>
+          <title>enantiomeric excess</title>
+          <url>https://goldbook.iupac.org/terms/view/E02070</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>chemical yield</title>
+          <url>https://goldbook.iupac.org/terms/view/C01041</url>
+        </item>
+        <item>
+          <title>stereoselectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05991</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1146 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2212 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04315/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04315/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04315/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04315/plain</plain>
+  </links>
+  <citation>Citation: 'optical yield' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04315</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:05:36+00:00</accessed>
+</term>

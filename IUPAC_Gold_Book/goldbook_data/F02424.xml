@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02424</id>
+  <doi>10.1351/goldbook.F02424</doi>
+  <code>F02424</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - flavonoids (isoflavonoids and neoflavonoids)</longtitle>
+  <title>flavonoids (isoflavonoids and neoflavonoids)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Flavonoids, isoflavonoids and neoflavonoids are natural products derived from 2-phenylchromen-4-one (flavone), 3-phenylchromen-4-one and 4-phenylcoumarin, respectively. Derivations include reduction of the 2(3) carbon-carbon double bond (flavanones), reduction of the keto group (flavanols), and hydroxylation at various positions. [image: Not defined] [image: Not defined] [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02424-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02424-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02424-3.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>anthocyanins</title>
+          <url>https://goldbook.iupac.org/terms/view/A00380</url>
+        </item>
+        <item>
+          <title>chalcones</title>
+          <url>https://goldbook.iupac.org/terms/view/C00966</url>
+        </item>
+        <item>
+          <title>anthocyanins</title>
+          <url>https://goldbook.iupac.org/terms/view/A00380</url>
+        </item>
+        <item>
+          <title>chalcones</title>
+          <url>https://goldbook.iupac.org/terms/view/C00966</url>
+        </item>
+        <item>
+          <title>keto</title>
+          <url>https://goldbook.iupac.org/terms/view/K03382</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1335 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Flavonoid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Flavonoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Flavonoid (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Flavonoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Flavonoid (uz)</title>
+      <url>https://uz.wikipedia.org/wiki/Flavonoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Flavonoid (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Flavonoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Flavonoide (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Flavonoide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Flavonoidi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Flavonoidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Flavonoidă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Flavonoidă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isoflavonoide (es)</title>
+      <url>https://es.wikipedia.org/wiki/Isoflavonoide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Флавоноид (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Флавоноид</url>
+    </item>
+    <item>
+      <title>Wikipedia - Флавоноиды (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Флавоноиды</url>
+    </item>
+    <item>
+      <title>Wikipedia - فلافونيد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/فلافونيد</url>
+    </item>
+    <item>
+      <title>Wikipedia - 플라보노이드 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/플라보노이드</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02424/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02424/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02424/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02424/plain</plain>
+  </links>
+  <citation>Citation: 'flavonoids (isoflavonoids and neoflavonoids)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02424</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:32:41+00:00</accessed>
+</term>

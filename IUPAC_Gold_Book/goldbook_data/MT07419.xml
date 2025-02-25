@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07419</id>
+  <doi>10.1351/goldbook.MT07419</doi>
+  <code>MT07419</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - magic angle</longtitle>
+  <title>magic angle</title>
+  <abbrevs>
+    <item>NMR</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Upon excitation of an 'isotropic' sample (assuming an ultra short excitation pulse) the relationship between the fluorescence intensity detected at a time t and through a polarization analyser oriented at an angleβ with respect to the electric polarization of the exciting beam is given by I(t,β) ∝ N(t).[1 + (3 cos^2 ⁡β-1).R(t)]  is the degree of alignment of the emitting transition dipole in the laboratory frame and N(t) is the excited-state population, both at time t. For β = 54.7° (the magic angle), the dipole-alignment contribution vanishes and I(t,β=54.7°) ∝ Nt.</text>
+      <notes>
+        <item>This concept also applies for time-resolved absorption measurements in cases in which photoselection occurs because the detected species do not freely rotate fast enough to make the measurement isotropic within the time of the experiment.</item>
+        <item>Applies for steady-state measurements on fixed samples. In this case Iβ ∝ N[1 + (3 cos^2⁡ β-1).R] with I(β) the intensity of the effect observed at an analyser angle β with respect to the electric polarization of the exciting beam, N the excited-state population at steady-state equilibrium, and R the degree of alignment of the transition (dipole) moment of the excited molecular entity.</item>
+        <item>The term magic angle is also used in NMR spectroscopy.</item>
+      </notes>
+      <links>
+        <item>
+          <title>photoselection</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07461</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04712</url>
+        </item>
+        <item>
+          <title>transition (dipole) moment</title>
+          <url>https://goldbook.iupac.org/terms/view/T06460</url>
+        </item>
+        <item>
+          <title>spectroscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/S05848</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <alttext>β</alttext>
+          <latex>\beta</latex>
+        </item>
+        <item>
+          <meaning>Fluorescence intensity at time t relative to angle β</meaning>
+          <type>equation</type>
+          <alttext>I(t,β) ∝ N(t).[1 + (3 cos^2 ⁡β-1).R(t)] </alttext>
+          <latex>I(t,\beta ) \propto  N(t)\left [ 1 + (3\, \text{cos}^{2}\, \beta - 1)R(t) \right ]</latex>
+        </item>
+        <item>
+          <alttext>R(t)</alttext>
+          <latex>R(t)</latex>
+        </item>
+        <item>
+          <alttext>N(t)</alttext>
+          <latex>N(t)</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <alttext>β = 54.7°</alttext>
+          <latex>\beta = 54.7^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <meaning>Fluorescence intensity at time t relative to angle β (at magic angle)</meaning>
+          <type>equation</type>
+          <alttext>I(t,β=54.7°) ∝ Nt</alttext>
+          <latex>I(t,\,\beta = 54.7^{\,\unicode{x26ac}} ) \propto N(t)</latex>
+        </item>
+        <item>
+          <meaning>Fluorescence intensity at angle β</meaning>
+          <type>equation</type>
+          <alttext>Iβ ∝ N[1 + (3 cos^2⁡ β-1).R]</alttext>
+          <latex>I(\beta ) \propto  N\left [ 1 + (3\, \text{cos}^{2}\, \beta - 1)R \right ]</latex>
+        </item>
+        <item>
+          <meaning>Fluorescence intensity at angle β</meaning>
+          <type>quantity</type>
+          <alttext>I(β)</alttext>
+          <latex>I(\beta)</latex>
+        </item>
+        <item>
+          <alttext>β</alttext>
+          <latex>\beta</latex>
+        </item>
+        <item>
+          <alttext>N</alttext>
+          <latex>N</latex>
+        </item>
+        <item>
+          <alttext>R</alttext>
+          <latex>R</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 367 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/MT07419/html</html>
+    <json>https://goldbook.iupac.org/terms/view/MT07419/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/MT07419/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/MT07419/plain</plain>
+  </links>
+  <citation>Citation: 'magic angle' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.MT07419</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:31:34+00:00</accessed>
+</term>

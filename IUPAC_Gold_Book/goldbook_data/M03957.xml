@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03957</id>
+  <doi>10.1351/goldbook.M03957</doi>
+  <code>M03957</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Möbius aromaticity</longtitle>
+  <title>Möbius aromaticity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A monocyclic array of orbitals in which there is a single out-of-phase overlap (or, more generally, an odd number of out-of-phase overlaps) reveals the opposite pattern of aromatic character to Hückel systems; with 4n electrons it is stabilized (aromatic), whereas with 4n + 2 it is destabilized (antiaromatic). In the excited state4n + 2 Möbius π-electron systems are stabilized, and 4n systems are destabilized. No examples of ground-state Möbius π-electron systems are known, but the concept has been applied to transition states of pericyclic reactions [See: aromatic]. The name is derived from the topological analogy of such an arrangement of orbitals to a Möbius strip.</text>
+      <links>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>transition states</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>pericyclic reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04491</url>
+        </item>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>transition states</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>pericyclic reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04491</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>transition states</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>pericyclic reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04491</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>4n</alttext>
+          <latex>4\, n</latex>
+        </item>
+        <item>
+          <alttext>4n + 2</alttext>
+          <latex>4\, n+2</latex>
+        </item>
+        <item>
+          <alttext>4n + 2</alttext>
+          <latex>4\, n+2</latex>
+        </item>
+        <item>
+          <alttext>4n</alttext>
+          <latex>4\, n</latex>
+        </item>
+        <item>
+          <alttext>4n + 2</alttext>
+          <latex>4\, n+2</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1141 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - メビウス芳香族性 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/メビウス芳香族性</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03957/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03957/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03957/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03957/plain</plain>
+  </links>
+  <citation>Citation: 'Möbius aromaticity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03957</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:44:19+00:00</accessed>
+</term>

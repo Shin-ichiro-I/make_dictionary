@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07009</id>
+  <doi>10.1351/goldbook.CT07009</doi>
+  <code>CT07009</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical bond</longtitle>
+  <title>chemical bond</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>When forces acting between two atoms or groups of atoms lead to the formation of a stable independent molecular entity, a chemical bond is considered to exist between these atoms or groups. The principal characteristic of a bond in a molecule is the existence of a region between the nuclei of constant potential contours that allows the potential energy to improve substantially by atomic contraction at the expense of only a small increase in kinetic energy. Not only directed covalent bonds characteristic of organic compounds, but also bonds such as those existing between sodium cations and chloride anions in a crystal of sodium chloride or the bonds binding aluminium to six molecules of water in its environment, and even weak bonds that link two molecules of O2 into O4, are to be attributed to chemical bonds.</text>
+      <links>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>kinetic energy</title>
+          <url>https://goldbook.iupac.org/terms/view/K03402</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1930 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Diskussion:Chemische Bindung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Chemische_Bindung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legame chimico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Legame_chimico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Chemical bond (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Chemical_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - رابطة كيميائية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/رابطة_كيميائية</url>
+    </item>
+    <item>
+      <title>Wikipedia - พันธะเคมี (th)</title>
+      <url>https://th.wikipedia.org/wiki/พันธะเคมี</url>
+    </item>
+    <item>
+      <title>Wikipedia - พันธะไอออนิก (th)</title>
+      <url>https://th.wikipedia.org/wiki/พันธะไอออนิก</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT07009/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT07009/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT07009/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT07009/plain</plain>
+  </links>
+  <citation>Citation: 'chemical bond' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT07009</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:29:25+00:00</accessed>
+</term>

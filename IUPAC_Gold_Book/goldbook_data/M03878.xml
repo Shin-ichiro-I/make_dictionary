@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03878</id>
+  <doi>10.1351/goldbook.M03878</doi>
+  <code>M03878</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - metathesis</longtitle>
+  <title>metathesis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A bimolecular process formally involving the exchange of a bond (or bonds) between similar interacting chemical species so that the bonding affiliations in the products are identical (or closely similar) to those in the reactants. For example: [image: Not defined] (The term has its origin in inorganic chemistry with a different meaning, but this older usage is not applicable in physical organic chemistry.)</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/M03878.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>bimolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1139 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Diskussion:Tetraethylblei (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Tetraethylblei</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metates (kemi) (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Metates_(kemi)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metatesi (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Metatesi_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reacció de metàtesi (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Reacció_de_metàtesi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reacción de metátese (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Reacción_de_metátese</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reacción de metátesis (es)</title>
+      <url>https://es.wikipedia.org/wiki/Reacción_de_metátesis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reacție de metateză (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Reacție_de_metateză</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaksi metatesis (id)</title>
+      <url>https://id.wikipedia.org/wiki/Reaksi_metatesis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Salt metathesis reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Salt_metathesis_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Метатеза (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Метатеза</url>
+    </item>
+    <item>
+      <title>Wikipedia - Աղի փոխանակման ռեակցիա (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Աղի_փոխանակման_ռեակցիա</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفاعل تبادل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تفاعل_تبادل</url>
+    </item>
+    <item>
+      <title>Wikipedia - میتاتێزی (ckb)</title>
+      <url>https://ckb.wikipedia.org/wiki/میتاتێزی</url>
+    </item>
+    <item>
+      <title>Wikipedia - کارلێکی میتاتێزی خوێ (ckb)</title>
+      <url>https://ckb.wikipedia.org/wiki/کارلێکی_میتاتێزی_خوێ</url>
+    </item>
+    <item>
+      <title>Wikipedia - ਵਿਸਥਾਪਨ ਕਿਰਿਆਵਾਂ (pa)</title>
+      <url>https://pa.wikipedia.org/wiki/ਵਿਸਥਾਪਨ_ਕਿਰਿਆਵਾਂ</url>
+    </item>
+    <item>
+      <title>Wikipedia - 复分解反应 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/复分解反应</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03878/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03878/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03878/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03878/plain</plain>
+  </links>
+  <citation>Citation: 'metathesis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03878</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:40:35+00:00</accessed>
+</term>

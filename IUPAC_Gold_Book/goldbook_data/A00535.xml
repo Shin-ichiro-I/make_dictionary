@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00535</id>
+  <doi>10.1351/goldbook.A00535</doi>
+  <code>A00535</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - auxiliary electrode</longtitle>
+  <title>auxiliary electrode</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Three-electrode cells comprise (1) an indicator (or test) electrode or a working electrode, at the surface of which processes that are of interest may occur, (2) a reference electrode and (3) a third electrode, the auxiliary or counter electrode, which serves merely to carry the current flowing through the cell, and at the surface of which no processes of interest occur. If processes of interest occur at both the anode and the cathode of a cell (as in differential amperometry or controlled current potentiometric titration with two indicator electrodes), the cell should be said to comprise two indicator (or test) working electrodes.</text>
+      <links>
+        <item>
+          <title>working electrode</title>
+          <url>https://goldbook.iupac.org/terms/view/W06686</url>
+        </item>
+        <item>
+          <title>reference electrode</title>
+          <url>https://goldbook.iupac.org/terms/view/R05229</url>
+        </item>
+        <item>
+          <title>anode</title>
+          <url>https://goldbook.iupac.org/terms/view/A00370</url>
+        </item>
+        <item>
+          <title>cathode</title>
+          <url>https://goldbook.iupac.org/terms/view/C00905</url>
+        </item>
+        <item>
+          <title>titration</title>
+          <url>https://goldbook.iupac.org/terms/view/T06387</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 59 (https://media.iupac.org/publications/analytical_compendium/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Auxiliary electrode (en)</title>
+      <url>https://en.wikipedia.org/wiki/Auxiliary_electrode</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elettrodo ausiliario (it)</title>
+      <url>https://it.wikipedia.org/wiki/Elettrodo_ausiliario</url>
+    </item>
+    <item>
+      <title>Wikipedia - Électrode auxiliaire (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Électrode_auxiliaire</url>
+    </item>
+    <item>
+      <title>Wikipedia - قطب مساعد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قطب_مساعد</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00535/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00535/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00535/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00535/plain</plain>
+  </links>
+  <citation>Citation: 'auxiliary electrode' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00535</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:03:42+00:00</accessed>
+</term>

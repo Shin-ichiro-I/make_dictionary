@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01012</id>
+  <doi>10.1351/goldbook.C01012</doi>
+  <code>C01012</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chelation</longtitle>
+  <title>chelation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The formation or presence of bonds (or other attractive interactions) between two or more separate binding sites within the same ligand and a single central atom. A molecular entity in which there is chelation (and the corresponding chemical species) is called a 'chelate'. The terms bidentate (or didentate), tridentate, tetradentate, ... multidentate are used to indicate the number of potential binding sites of the ligand, at least two of which must be used by the ligand in forming a 'chelate'. For example, the bidentate ethylenediamine forms a chelate with CuI in which both nitrogen atoms of ethylenediamine are bonded to copper. (The use of the term is often restricted to metallic central atoms.) The phrase 'separate binding sites' is intended to exclude cases such as [PtCl3(CH2=CH2)]−, ferrocene and (benzene)tricarbonylchromium in which ethene, the cyclopentadienyl group and benzene, respectively, are considered to present single binding sites to the respective metal atom, and which are not normally thought of as chelates.</text>
+      <links>
+        <item>
+          <title>cryptand</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>η (eta or hapto) (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/H01881</url>
+        </item>
+        <item>
+          <title>cryptand</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>η (eta or hapto) (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/H01881</url>
+        </item>
+        <item>
+          <title>bonds (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>binding sites (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00649</url>
+        </item>
+        <item>
+          <title>molecular entity (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>chemical species (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>cryptand</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>η (eta or hapto) (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/H01881</url>
+        </item>
+        <item>
+          <title>bonds (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>binding sites (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00649</url>
+        </item>
+        <item>
+          <title>molecular entity (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>chemical species (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>central atom (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00930</url>
+        </item>
+        <item>
+          <title>chelate (in inorganic nomenclature)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01011</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1094 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>Red Book, 3rd ed., p. 147 (https://doi.org/10.1515/pac-2014-0718)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chelare (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Chelare</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chelasie (af)</title>
+      <url>https://af.wikipedia.org/wiki/Chelasie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chelatace (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Chelatace</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chelatacja (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Chelatacja</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chelation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chelation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chelazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chelazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chelácia (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Chelácia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Denticidad (es)</title>
+      <url>https://es.wikipedia.org/wiki/Denticidad</url>
+    </item>
+    <item>
+      <title>Wikipedia - Denticitat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Denticitat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Denticity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Denticity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Denticité (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Denticité</url>
+    </item>
+    <item>
+      <title>Wikipedia - Helacija (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Helacija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kelato (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Kelato</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pengelatan (id)</title>
+      <url>https://id.wikipedia.org/wiki/Pengelatan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pengkelatan (id)</title>
+      <url>https://id.wikipedia.org/wiki/Pengkelatan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Quelat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Quelat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Quelato (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Quelato</url>
+    </item>
+    <item>
+      <title>Wikipedia - Дентатність (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Дентатність</url>
+    </item>
+    <item>
+      <title>Wikipedia - כלציה (he)</title>
+      <url>https://he.wikipedia.org/wiki/כלציה</url>
+    </item>
+    <item>
+      <title>Wikipedia - استخلاب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/استخلاب</url>
+    </item>
+    <item>
+      <title>Wikipedia - تمخلب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تمخلب</url>
+    </item>
+    <item>
+      <title>Wikipedia - केलेशन (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/केलेशन</url>
+    </item>
+    <item>
+      <title>Wikipedia - ચેલેશન (gu)</title>
+      <url>https://gu.wikipedia.org/wiki/ચેલેશન</url>
+    </item>
+    <item>
+      <title>Wikipedia - 齿合度 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/齿合度</url>
+    </item>
+    <item>
+      <title>Wikipedia - 킬레이트 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/킬레이트</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01012/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01012/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01012/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01012/plain</plain>
+  </links>
+  <citation>Citation: 'chelation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01012</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:28:56+00:00</accessed>
+</term>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00374</id>
+  <doi>10.1351/goldbook.A00374</doi>
+  <code>A00374</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ansa compounds</longtitle>
+  <title>ansa compounds</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Benzene derivatives having para positions (or meta) bridged by a chain (commonly 10 to 12 atoms long) (Latin ansa, handle). By extension, any arene bridged by a chain constrained to lie over one of the two faces of the arene. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00374.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>cyclophanes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01504</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1318 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Phane (de)</title>
+      <url>https://de.wikipedia.org/wiki/Phane</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00374/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00374/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00374/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00374/plain</plain>
+  </links>
+  <citation>Citation: 'ansa compounds' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00374</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:55:30+00:00</accessed>
+</term>

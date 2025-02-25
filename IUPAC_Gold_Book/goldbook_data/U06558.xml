@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06558</id>
+  <doi>10.1351/goldbook.U06558</doi>
+  <code>U06558</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - uniform polymer</longtitle>
+  <title>uniform polymer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A polymer composed of molecules uniform with respect to relative molecular mass and constitution.</text>
+      <notes>
+        <item>A polymer comprising a mixture of linear and branched chains (in polymers), all of uniform relative molecular mass (in polymers), is not uniform.</item>
+        <item>A copolymer (in polymers) comprising linear molecules of uniform relative molecular mass (in polymers) and uniform elemental composition but different sequential arrangements of the various types of monomeric units (in polymers), is not uniform (e.g. a copolymer (in polymers) comprising molecules with a random arrangement as well as a block (in polymers) arrangement of monomeric units).</item>
+        <item>A polymer uniform with respect only to either relative molecular mass (in polymers) or constitution (in polymers) may be termed 'uniform', provided a suitable qualifier is used (e.g. 'a polymer uniform with respect to relative molecular mass (in polymers)').</item>
+        <item>The adjectives 'monodisperse' and 'polydisperse' are deeply rooted in the literature, despite the former being non-descriptive and self-contradictory. They are in common usage and it is recognized that they will continue to be used for some time; nevertheless, more satisfactory terms are clearly desirable. After an extensive search for possible replacements, the terms 'uniform' and 'non-uniform' have been selected and they are now the preferred adjectives.</item>
+      </notes>
+      <links>
+        <item>
+          <title>linear</title>
+          <url>https://goldbook.iupac.org/terms/view/L03546</url>
+        </item>
+        <item>
+          <title>branched chains (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00721</url>
+        </item>
+        <item>
+          <title>copolymer (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01335</url>
+        </item>
+        <item>
+          <title>monomeric units (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/M04018</url>
+        </item>
+        <item>
+          <title>polymer (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04735</url>
+        </item>
+        <item>
+          <title>relative molecular mass (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05271</url>
+        </item>
+        <item>
+          <title>linear</title>
+          <url>https://goldbook.iupac.org/terms/view/L03546</url>
+        </item>
+        <item>
+          <title>branched chains (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00721</url>
+        </item>
+        <item>
+          <title>copolymer (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01335</url>
+        </item>
+        <item>
+          <title>monomeric units (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/M04018</url>
+        </item>
+        <item>
+          <title>polymer (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04735</url>
+        </item>
+        <item>
+          <title>relative molecular mass (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05271</url>
+        </item>
+        <item>
+          <title>block (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00682</url>
+        </item>
+        <item>
+          <title>constitution (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01282</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2301 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/U06558/html</html>
+    <json>https://goldbook.iupac.org/terms/view/U06558/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/U06558/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/U06558/plain</plain>
+  </links>
+  <citation>Citation: 'uniform polymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.U06558</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:51:38+00:00</accessed>
+</term>

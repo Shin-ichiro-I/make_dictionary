@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04320</id>
+  <doi>10.1351/goldbook.O04320</doi>
+  <code>O04320</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - orbital symmetry</longtitle>
+  <title>orbital symmetry</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The behaviour of an atomic or localized molecular orbital under molecular symmetry operations characterizes its orbital symmetry. For example, under a reflection in an appropriate symmetry plane, the phase of the orbital may be unchanged (symmetric), or it may change sign (antisymmetric), i.e. the positive and negative lobes are interchanged. A principal context for the use of orbital symmetry is the discussion of chemical changes that involve 'conservation of orbital symmetry'. If a certain symmetry element (e.g. the reflection plane) is retained along a reaction pathway, that pathway is 'allowed' by orbital symmetry conservation if each of the occupied orbitals of the reactant(s) is of the same symmetry type as a similarly (e.g. singly or doubly) occupied orbital of the product(s). This principle permits the qualitative construction of correlation diagrams to show how molecular orbitals transform (and how their energies change) during idealized chemical changes (e.g. cycloadditions). An idealized single bond is a σ-bond, i.e. it has cylindrical symmetry, whereas a p-orbital or π-bond orbital has π-symmetry, i.e. it is antisymmetric with respect to reflection in a plane passing through the atomic centres with which it is associated. In ethene, the π-bonding orbital is symmetric with respect to reflection in a plane perpendicular to and bisecting the C–C bond, whereas the π*-antibonding orbital is antisymmetric with respect to this operation. Considerations of orbital symmetry are frequently grossly simplified in that, for example, the p-orbitals of a carbonyl group would be treated as having the same symmetry as those of ethene, and the fact that the carbonyl group in, for example, camphor, unlike that in formaldehyde, has no mirror planes would be ignored. These simplified considerations nevertheless afford the basis of one approach to the understanding of the rules which indicate whether pericyclic reactions are likely to occur under thermal or photochemical conditions.</text>
+      <links>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>molecular orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/M03996</url>
+        </item>
+        <item>
+          <title>cycloadditions</title>
+          <url>https://goldbook.iupac.org/terms/view/C01496</url>
+        </item>
+        <item>
+          <title>pericyclic reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04491</url>
+        </item>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>molecular orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/M03996</url>
+        </item>
+        <item>
+          <title>cycloadditions</title>
+          <url>https://goldbook.iupac.org/terms/view/C01496</url>
+        </item>
+        <item>
+          <title>pericyclic reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04491</url>
+        </item>
+        <item>
+          <title>conservation of orbital symmetry</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07012</url>
+        </item>
+        <item>
+          <title>bond orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/BT07004</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1147 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04320/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04320/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04320/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04320/plain</plain>
+  </links>
+  <citation>Citation: 'orbital symmetry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04320</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:05:55+00:00</accessed>
+</term>

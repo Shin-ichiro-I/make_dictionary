@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01335</id>
+  <doi>10.1351/goldbook.C01335</doi>
+  <code>C01335</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - copolymer</longtitle>
+  <title>copolymer</title>
+  <contains>bipolymer, quaterpolymer, terpolymer</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A polymer derived from more than one species of monomer.</text>
+      <notes>
+        <item>Copolymers that are obtained by copolymerization of two monomer species are sometimes termed bipolymers, those obtained from three monomers terpolymers, those obtained from four monomers quaterpolymers, etc.</item>
+      </notes>
+      <links>
+        <item>
+          <title>copolymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01336</url>
+        </item>
+        <item>
+          <title>polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/P04735</url>
+        </item>
+        <item>
+          <title>monomer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04017</url>
+        </item>
+        <item>
+          <title>copolymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01336</url>
+        </item>
+        <item>
+          <title>polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/P04735</url>
+        </item>
+        <item>
+          <title>monomer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04017</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2300 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Copolimer (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Copolimer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Copolimero (it)</title>
+      <url>https://it.wikipedia.org/wiki/Copolimero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Copolymer (de)</title>
+      <url>https://de.wikipedia.org/wiki/Copolymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Copolymer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Copolymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Copolymère (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Copolymère</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kopolimeer (af)</title>
+      <url>https://af.wikipedia.org/wiki/Kopolimeer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kopolimer (id)</title>
+      <url>https://id.wikipedia.org/wiki/Kopolimer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kopolimery (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Kopolimery</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimerizzazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Polimerizzazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Συμπολυμερές (el)</title>
+      <url>https://el.wikipedia.org/wiki/Συμπολυμερές</url>
+    </item>
+    <item>
+      <title>Wikipedia - بوليمر مشترك (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بوليمر_مشترك</url>
+    </item>
+    <item>
+      <title>Wikipedia - بوليمير مشترك (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بوليمير_مشترك</url>
+    </item>
+    <item>
+      <title>Wikipedia - مبلمر مشترك (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مبلمر_مشترك</url>
+    </item>
+    <item>
+      <title>Wikipedia - 共重合 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/共重合</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01335/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01335/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01335/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01335/plain</plain>
+  </links>
+  <citation>Citation: 'copolymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01335</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:45:41+00:00</accessed>
+</term>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05066</id>
+  <doi>10.1351/goldbook.R05066</doi>
+  <code>R05066</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - radical (free radical)</longtitle>
+  <title>radical (free radical)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A molecular entity such as .CH3 , .SnH3 , Cl. possessing an unpaired electron. (In these formulae the dot, symbolizing the unpaired electron, should be placed so as to indicate the atom of highest spin density, if this is possible.) Paramagnetic metal ions are not normally regarded as radicals. However, in the 'isolobal analogy' the similarity between certain paramagnetic metal ions and radicals becomes apparent. At least in the context of physical organic chemistry, it seems desirable to cease using the adjective 'free' in the general name of this type of chemical species and molecular entity, so that the term 'free radical' may in future be restricted to those radicals which do not form parts of radical pairs. Depending upon the core atom that possesses the unpaired electron, the radicals can be described as carbon-, oxygen-, nitrogen-, metal-centred radicals. If the unpaired electron occupies an orbital having considerable s or more or less pure p character, the respective radicals are termed σ- or π-radicals. In the past, the term 'radical' was used to designate a substituent group bound to a molecular entity, as opposed to 'free radical', which nowadays is simply called radical. The bound entities may be called groups or substituents, but should no longer be called radicals.</text>
+      <links>
+        <item>
+          <title>biradical</title>
+          <url>https://goldbook.iupac.org/terms/view/B00671</url>
+        </item>
+        <item>
+          <title>biradical</title>
+          <url>https://goldbook.iupac.org/terms/view/B00671</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>substituent group</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+        <item>
+          <title>groups</title>
+          <url>https://goldbook.iupac.org/terms/view/G02705</url>
+        </item>
+        <item>
+          <title>biradical</title>
+          <url>https://goldbook.iupac.org/terms/view/B00671</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>substituent group</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+        <item>
+          <title>groups</title>
+          <url>https://goldbook.iupac.org/terms/view/G02705</url>
+        </item>
+        <item>
+          <title>spin density</title>
+          <url>https://goldbook.iupac.org/terms/view/S05864</url>
+        </item>
+        <item>
+          <title>Paramagnetic</title>
+          <url>https://goldbook.iupac.org/terms/view/P04404</url>
+        </item>
+        <item>
+          <title>isolobal</title>
+          <url>https://goldbook.iupac.org/terms/view/I03288</url>
+        </item>
+        <item>
+          <title>free radical</title>
+          <url>https://goldbook.iupac.org/terms/view/F02519</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2209 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1155 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1362 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Diskussion:Molekül (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Molekül</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grupo funcional (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Grupo_funcional</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gốc tự do (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Gốc_tự_do</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydroxy group (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydroxy_group</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydroxyl radical (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydroxyl_radical</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polyatomic ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Polyatomic_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radical (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Radical_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radical (chemistry) (sco)</title>
+      <url>https://sco.wikipedia.org/wiki/Radical_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radical (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Radical_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radical (química) (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Radical_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radical hidroxilo (es)</title>
+      <url>https://es.wikipedia.org/wiki/Radical_hidroxilo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radicale libero (it)</title>
+      <url>https://it.wikipedia.org/wiki/Radicale_libero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radikaali (kemia) (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Radikaali_(kemia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rodniki (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Rodniki</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Hydroxyl radical (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Hydroxyl_radical</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Radical (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Radical_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vita:Gyök (kémia) (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Vita:Gyök_(kémia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vita:Szabad gyökök (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Vita:Szabad_gyökök</url>
+    </item>
+    <item>
+      <title>Wikipedia - Радикал (хими) (mn)</title>
+      <url>https://mn.wikipedia.org/wiki/Радикал_(хими)</url>
+    </item>
+    <item>
+      <title>Wikipedia - جذر كيميائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/جذر_كيميائي</url>
+    </item>
+    <item>
+      <title>Wikipedia - தனி உறுப்பு சேர்த்தல் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/தனி_உறுப்பு_சேர்த்தல்</url>
+    </item>
+    <item>
+      <title>Wikipedia - தனியுறுப்பு சேர்க்கை (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/தனியுறுப்பு_சேர்க்கை</url>
+    </item>
+    <item>
+      <title>Wikipedia - மூலிகம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மூலிகம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - റിയാക്ടീവ് ഇന്റർമീഡിയേറ്റ് (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/റിയാക്ടീവ്_ഇന്റർമീഡിയേറ്റ്</url>
+    </item>
+    <item>
+      <title>Wikipedia - ラジカル (化学) (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ラジカル_(化学)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05066/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05066/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05066/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05066/plain</plain>
+  </links>
+  <citation>Citation: 'radical (free radical)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05066</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:42:46+00:00</accessed>
+</term>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07384</id>
+  <doi>10.1351/goldbook.FT07384</doi>
+  <code>FT07384</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - frequency-domain fluorometry</longtitle>
+  <title>frequency-domain fluorometry</title>
+  <abbrevs>
+    <item>AC</item>
+    <item>DC</item>
+    <item>UV</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Technique that permits recovery of the parameters characterizing a fluorescence decay. Instead of using an exciting visible, UV, or infrared radiation pulse (see single-photon timing), the sample is excited by sinusoidally modulated radiation at high frequency. The fluoresence response is sinusoidally modulated at the same frequency as, but delayed in phase and partially demodulated with respect to the excitation.</text>
+      <notes>
+        <item>The modulation ratio is defined as the ratio of the modulation depth (AC/DC ratio) of the fluorescence and the modulation depth of the excitation. The phase shift and the modulation ratio characterize the harmonic response of the system. These parameters are measured as a function of the modulation frequency. No deconvolution is necessary because the data are directly analysed in the frequency domain.</item>
+        <item>Phase and modulation measurements can be done by using either a CW laser (or a xenon lamp) and an optical modulator (in general a Pockel cell) or the harmonic content of a pulsed laser.</item>
+      </notes>
+      <links>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>recovery</title>
+          <url>https://goldbook.iupac.org/terms/view/R05206</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>infrared</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07399</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>recovery</title>
+          <url>https://goldbook.iupac.org/terms/view/R05206</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>infrared</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07399</url>
+        </item>
+        <item>
+          <title>CW laser</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07348</url>
+        </item>
+        <item>
+          <title>xenon lamp</title>
+          <url>https://goldbook.iupac.org/terms/view/X06699</url>
+        </item>
+        <item>
+          <title>single-photon timing</title>
+          <url>https://goldbook.iupac.org/terms/view/S05689</url>
+        </item>
+        <item>
+          <title>frequency</title>
+          <url>https://goldbook.iupac.org/terms/view/F02525</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 346 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/FT07384/html</html>
+    <json>https://goldbook.iupac.org/terms/view/FT07384/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/FT07384/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/FT07384/plain</plain>
+  </links>
+  <citation>Citation: 'frequency-domain fluorometry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.FT07384</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:37:08+00:00</accessed>
+</term>

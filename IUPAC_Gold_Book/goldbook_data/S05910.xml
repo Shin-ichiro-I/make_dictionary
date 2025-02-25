@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05910</id>
+  <doi>10.1351/goldbook.S05910</doi>
+  <code>S05910</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - standard conditions for gases</longtitle>
+  <title>standard conditions for gases</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Temperature, 273.15 K (0°C) and pressure of 10E5 pascals. IUPAC recommends that the former use of the pressure of 1 atm as standard pressure (equivalent to 1.01325 x 10E5 Pa) should be discontinued.</text>
+      <links>
+        <item>
+          <title>standard pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/S05921</url>
+        </item>
+        <item>
+          <title>standard pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/S05921</url>
+        </item>
+        <item>
+          <title>STP</title>
+          <url>https://goldbook.iupac.org/terms/view/S06036</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>273.15 K</alttext>
+          <latex>273.15\ \text{K}</latex>
+        </item>
+        <item>
+          <alttext>0°C</alttext>
+          <latex>0\ ^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+        <item>
+          <alttext>10E5</alttext>
+          <latex>10^{5}</latex>
+        </item>
+        <item>
+          <alttext>1.01325 x 10E5 Pa</alttext>
+          <latex>1.01325\times 10^{5}\ \text{Pa}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2216 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Condiciones normalizadas de presión y temperatura (es)</title>
+      <url>https://es.wikipedia.org/wiki/Condiciones_normalizadas_de_presión_y_temperatura</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condicions estàndard (química) (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Condicions_estàndard_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condizioni standard (it)</title>
+      <url>https://it.wikipedia.org/wiki/Condizioni_standard</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condições normais de temperatura e pressão (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Condições_normais_de_temperatura_e_pressão</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussione:Condizioni standard (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Condizioni_standard</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Standardtryck och standardtemperatur (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Diskussion:Standardtryck_och_standardtemperatur</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estado estándar (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Estado_estándar_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keadaan standar (id)</title>
+      <url>https://id.wikipedia.org/wiki/Keadaan_standar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard conditions for temperature and pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_conditions_for_temperature_and_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard cubic feet per minute (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_cubic_feet_per_minute</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard state (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_state</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard temperature and pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_temperature_and_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardbedingungen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Standardbedingungen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardno stanje (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Standardno_stanje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardno stanje (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Standardno_stanje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stato standard (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_standard</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Standard conditions for temperature and pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Standard_conditions_for_temperature_and_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Volum (termodinamică) (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Volum_(termodinamică)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Volume (thermodynamics) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Volume_(thermodynamics)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Volumen (termodinámica) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Volumen_(termodinámica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Väte-elektrod (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Väte-elektrod</url>
+    </item>
+    <item>
+      <title>Wikipedia - Warunki standardowe (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Warunki_standardowe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стандардни услови за температуру и притисак (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Стандардни_услови_за_температуру_и_притисак</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стандартные условия (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Стандартные_условия</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالت استاندارد (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/حالت_استاندارد</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالت استاندارد ترمودینامیکی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/حالت_استاندارد_ترمودینامیکی</url>
+    </item>
+    <item>
+      <title>Wikipedia - شرایط استاندارد دما و فشار (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/شرایط_استاندارد_دما_و_فشار</url>
+    </item>
+    <item>
+      <title>Wikipedia - 标准状况 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/标准状况</url>
+    </item>
+    <item>
+      <title>Wikipedia - 标准状态 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/标准状态</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05910/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05910/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05910/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05910/plain</plain>
+  </links>
+  <citation>Citation: 'standard conditions for gases' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05910</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:21:13+00:00</accessed>
+</term>

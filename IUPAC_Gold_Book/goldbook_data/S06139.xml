@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06139</id>
+  <doi>10.1351/goldbook.S06139</doi>
+  <code>S06139</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - supercritical fluid chromatography (SFC)</longtitle>
+  <title>supercritical fluid chromatography</title>
+  <abbrevs>
+    <item>SFC</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A separation technique in which the mobile phase is a fluid above and relatively close to its critical temperature and pressure. In general the terms and definitions used in gas or liquid chromatography are equally applicable to supercritical fluidchromatography.</text>
+      <links>
+        <item>
+          <title>critical temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/C01402</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>supercritical fluid</title>
+          <url>https://goldbook.iupac.org/terms/view/S06138</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 825 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cromatografia a fluido supercritico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Cromatografia_a_fluido_supercritico</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06139/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06139/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06139/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06139/plain</plain>
+  </links>
+  <citation>Citation: 'supercritical fluid chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06139</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:31:59+00:00</accessed>
+</term>

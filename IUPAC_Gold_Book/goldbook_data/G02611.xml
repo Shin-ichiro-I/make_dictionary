@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02611</id>
+  <doi>10.1351/goldbook.G02611</doi>
+  <code>G02611</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - general force field</longtitle>
+  <title>general force field</title>
+  <acronyms>
+    <item>gff</item>
+  </acronyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A force field expressed in terms of 3N - 6 basis coordinates: V = 1 2 ∑ f i j S i S j (or Fij) are force constants and the basis coordinates S (or sometimes s) may be internal symmetry coordinates, local symmetry coordinates or any others suitable to the problem, but the number of the coordinates has to be reduced to 3N - 6 (3N - 5 for linear molecules), N being the number of atoms in the molecule.</text>
+      <links>
+        <item>
+          <title>force constants</title>
+          <url>https://goldbook.iupac.org/terms/view/F02481</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>3N - 6</alttext>
+          <latex>3\ N-6</latex>
+        </item>
+        <item>
+          <alttext>V = 1 2 ∑ f i j S i S j</alttext>
+          <latex>V=\frac{1}{2}\, \sum f_{ij}\ S_{i}\ S_{j}</latex>
+        </item>
+        <item>
+          <alttext>V = 1 2 ∑ F i j S i S j</alttext>
+          <latex>V=\frac{1}{2}\, \sum F_{ij}\ S_{i}\ S_{j}</latex>
+        </item>
+        <item>
+          <alttext>fij</alttext>
+          <latex>f_{ij}</latex>
+        </item>
+        <item>
+          <alttext>Fij</alttext>
+          <latex>F_{ij}</latex>
+        </item>
+        <item>
+          <alttext>S</alttext>
+          <latex>S</latex>
+        </item>
+        <item>
+          <alttext>s</alttext>
+          <latex>s</latex>
+        </item>
+        <item>
+          <alttext>3N - 6</alttext>
+          <latex>3\, N-6</latex>
+        </item>
+        <item>
+          <alttext>3N - 5</alttext>
+          <latex>3\, N-5</latex>
+        </item>
+        <item>
+          <alttext>N</alttext>
+          <latex>N</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1978, 50, 1707. 'Definition and Symbolism of Molecular Force Constants' on page 1709 (https://doi.org/10.1351/pac197850111707)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02611/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02611/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02611/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02611/plain</plain>
+  </links>
+  <citation>Citation: 'general force field' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02611</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:41:11+00:00</accessed>
+</term>

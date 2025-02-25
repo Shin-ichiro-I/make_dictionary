@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02238</id>
+  <doi>10.1351/goldbook.E02238</doi>
+  <code>E02238</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - exchange current of an electrode reaction</longtitle>
+  <title>exchange current</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The common value I0 of the anodic and cathodic partial currents when the reaction is at equilibrium I0 = Ia = -Ic. When more than one reaction is significant at a given electrode, subscripts to I0 may be used to distinguish exchange currents. I is not usually zero when only one of these reactions is at equilibrium.</text>
+      <contexts>
+        <of>
+          <item>an electrode reaction</item>
+        </of>
+      </contexts>
+      <math>
+        <item>
+          <alttext>I0</alttext>
+          <latex>I_{0}</latex>
+        </item>
+        <item>
+          <type>equation</type>
+          <alttext>I0 = Ia = -Ic</alttext>
+          <latex>I_{0}=I_{\text{a}}=- I_{\text{c}}</latex>
+        </item>
+        <item>
+          <alttext>I = 0</alttext>
+          <latex>I=0</latex>
+        </item>
+        <item>
+          <alttext>I0</alttext>
+          <latex>I_{0}</latex>
+        </item>
+        <item>
+          <alttext>I</alttext>
+          <latex>I</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1974, 37, 499. 'Electrochemical nomenclature' on page 513 (https://doi.org/10.1351/pac197437040499)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Densità di corrente di scambio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Densità_di_corrente_di_scambio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Обмінний струм (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Обмінний_струм</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02238/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02238/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02238/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02238/plain</plain>
+  </links>
+  <citation>Citation: 'exchange current' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02238</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:24:25+00:00</accessed>
+</term>

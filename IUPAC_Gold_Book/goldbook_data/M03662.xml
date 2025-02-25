@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03662</id>
+  <doi>10.1351/goldbook.M03662</doi>
+  <code>M03662</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - macrocycle</longtitle>
+  <title>macrocycle</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A cyclic macromolecule or a macromolecular cyclic portion of a macromolecule.</text>
+      <notes>
+        <item>In the literature, the term 'macrocycle' is sometimes used for molecules of low molecular mass that would not be considered 'macromolecules' as specified in the definition given in this book.</item>
+      </notes>
+      <links>
+        <item>
+          <title>macromolecule</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>macromolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>macromolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>chain (Note 2) (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00946</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2298 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Macrociclo (es)</title>
+      <url>https://es.wikipedia.org/wiki/Macrociclo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macrociclo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Macrociclo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macrociclo (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Macrociclo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macrocycle (en)</title>
+      <url>https://en.wikipedia.org/wiki/Macrocycle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macrocycle (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Macrocycle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macromolecola (it)</title>
+      <url>https://it.wikipedia.org/wiki/Macromolecola</url>
+    </item>
+    <item>
+      <title>Wikipedia - Makrociklo (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Makrociklo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Makrocyclische Verbindungen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Makrocyclische_Verbindungen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Makromolekulo (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Makromolekulo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Makrosykli (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Makrosykli</url>
+    </item>
+    <item>
+      <title>Wikipedia - Związki makrocykliczne (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Związki_makrocykliczne</url>
+    </item>
+    <item>
+      <title>Wikipedia - Макроцикл (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Макроцикл</url>
+    </item>
+    <item>
+      <title>Wikipedia - मैकरोसायकिल (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/मैकरोसायकिल</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03662/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03662/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03662/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03662/plain</plain>
+  </links>
+  <citation>Citation: 'macrocycle' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03662</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:30:41+00:00</accessed>
+</term>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02753</id>
+  <doi>10.1351/goldbook.H02753</doi>
+  <code>H02753</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - heat capacity, C</longtitle>
+  <title>heat capacity</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Heat brought to a system to increase its temperature divided by that temperature increase. At constant volume CV = (∂U/∂T)V at constant pressure Cp = (∂H/∂T)p, where U is the internal energy and H the enthalpy of the system.</text>
+      <links>
+        <item>
+          <title>internal energy</title>
+          <url>https://goldbook.iupac.org/terms/view/I03103</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>CV = (∂U/∂T)V</alttext>
+          <latex>C_{V}=(\frac{\partial U}{\partial T})_{V}</latex>
+        </item>
+        <item>
+          <alttext>Cp = (∂H/∂T)p</alttext>
+          <latex>C_{p}=(\frac{\partial H}{\partial T})_{p}</latex>
+        </item>
+        <item>
+          <alttext>U</alttext>
+          <latex>U</latex>
+        </item>
+        <item>
+          <alttext>H</alttext>
+          <latex>H</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 48 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 975 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Capacità termica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Capacità_termica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Internal energy (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Internal_energy</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02753/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02753/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02753/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02753/plain</plain>
+  </links>
+  <citation>Citation: 'heat capacity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02753</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:48:32+00:00</accessed>
+</term>

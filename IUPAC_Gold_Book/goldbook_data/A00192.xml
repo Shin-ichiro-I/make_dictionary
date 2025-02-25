@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00192</id>
+  <doi>10.1351/goldbook.A00192</doi>
+  <code>A00192</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - air mass in atmospheric chemistry</longtitle>
+  <title>air mass</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A qualitative term to describe a widespread body of air with approximately uniform characteristics which had been identified at a given time over a particular region of the earth's surface. Sometimes an air mass is marked by inert tracers such as SF6 which may be added to it. The composition of a given air mass undergoes alteration as it migrates, chemical changes occur, compounds are removed by dry and wet deposition and new impurities are added to the mass.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2172 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00192/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00192/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00192/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00192/plain</plain>
+  </links>
+  <citation>Citation: 'air mass' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00192</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:46:07+00:00</accessed>
+</term>

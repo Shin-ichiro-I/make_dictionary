@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00840</id>
+  <doi>10.1351/goldbook.C00840</doi>
+  <code>C00840</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbonization</longtitle>
+  <title>carbonization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A process by which solid residues with increasing content of the element carbon are formed from organic material usually by pyrolysis in an inert atmosphere.</text>
+      <notes>
+        <item>As with all pyrolytic reactions, carbonization is a complex process in which many reactions take place concurrently such as dehydrogenation, condensation, hydrogen transfer and isomerization. It differs from coalification in that its reaction rate is faster by many orders of magnitude. The final pyrolysis temperature applied controls the degree of carbonization and the residual content of foreign elements, e.g. at T ∼ 1200 K the carbon content of the residue exceeds a mass fraction of 90 wt.%, whereas at T ∼ 1600 K more than 99 wt.% carbon is found.</item>
+      </notes>
+      <links>
+        <item>
+          <title>isomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03295</url>
+        </item>
+        <item>
+          <title>pyrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04961</url>
+        </item>
+        <item>
+          <title>mass fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/M03722</url>
+        </item>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>isomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03295</url>
+        </item>
+        <item>
+          <title>pyrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04961</url>
+        </item>
+        <item>
+          <title>mass fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/M03722</url>
+        </item>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>coalification</title>
+          <url>https://goldbook.iupac.org/terms/view/C01120</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Temperature (in K)</meaning>
+          <type>quantity</type>
+          <alttext>T ∼ 1200 K</alttext>
+          <latex>T \sim 1200\ \text{K}</latex>
+        </item>
+        <item>
+          <meaning>Temperature (in K)</meaning>
+          <type>quantity</type>
+          <alttext>T ∼ 1600 K</alttext>
+          <latex>T \sim 1600\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 484 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Carbonización (es)</title>
+      <url>https://es.wikipedia.org/wiki/Carbonización</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbonization (en)</title>
+      <url>https://en.wikipedia.org/wiki/Carbonization</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion Projet:Chimie (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion_Projet:Chimie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karbonisasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Karbonisasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - פחמון (כימיה) (he)</title>
+      <url>https://he.wikipedia.org/wiki/פחמון_(כימיה)</url>
+    </item>
+    <item>
+      <title>Wikipedia - கார்பனாக்கல் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/கார்பனாக்கல்</url>
+    </item>
+    <item>
+      <title>Wikipedia - 碳化 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/碳化</url>
+    </item>
+    <item>
+      <title>Wikipedia - 碳化反應 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/碳化反應</url>
+    </item>
+    <item>
+      <title>Wikipedia - 탄화 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/탄화</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00840/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00840/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00840/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00840/plain</plain>
+  </links>
+  <citation>Citation: 'carbonization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00840</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:21:28+00:00</accessed>
+</term>

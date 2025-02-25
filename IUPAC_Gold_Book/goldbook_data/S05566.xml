@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05566</id>
+  <doi>10.1351/goldbook.S05566</doi>
+  <code>S05566</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - selectivity coefficient, k_A/B, in ion exchange chromatography</longtitle>
+  <title>selectivity coefficient</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The equilibrium coefficient obtained by application of the law of mass action to ion exchange and characterizing quantitatively the ability of an ion exchanger to select one of two ions present in the same solution. The ions involved in the exchange should be specified as subscripts. Examples: Exchange: Mg2+ – Ca2+ kMg/Ca = ([Mg]S/[Ca]S)/([Mg]M/[Ca]M) depends on the choice of the concentration scales in the ion exchanger and the external solution (molal scale, molar scale, mole fraction scale, etc.). Concentration units must be clearly stated for an exchange of ions of differing charges. The corrected selectivitycoefficient (kA/Ba) is calculated in a way identical to the selectivitycoefficient except that the concentrations in the external solutions are replaced by activities. This term should not be used as a synonym for separation factor.</text>
+      <contexts>
+        <in>
+          <item>ion exchange chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>ion exchange</title>
+          <url>https://goldbook.iupac.org/terms/view/I03167</url>
+        </item>
+        <item>
+          <title>ion exchanger</title>
+          <url>https://goldbook.iupac.org/terms/view/I03171</url>
+        </item>
+        <item>
+          <title>counter-ions (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01371</url>
+        </item>
+        <item>
+          <title>molal (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03969</url>
+        </item>
+        <item>
+          <title>mole fraction (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00296</url>
+        </item>
+        <item>
+          <title>selectivity (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05563</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>ion exchange</title>
+          <url>https://goldbook.iupac.org/terms/view/I03167</url>
+        </item>
+        <item>
+          <title>ion exchanger</title>
+          <url>https://goldbook.iupac.org/terms/view/I03171</url>
+        </item>
+        <item>
+          <title>counter-ions (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01371</url>
+        </item>
+        <item>
+          <title>molal (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03969</url>
+        </item>
+        <item>
+          <title>mole fraction (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00296</url>
+        </item>
+        <item>
+          <title>selectivity (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05563</url>
+        </item>
+        <item>
+          <title>separation factor (in an ion exchanger, in colloid chemistry) (in column chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05614</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Selectivity coefficient between Mg and Ca (example)</meaning>
+          <type>equation</type>
+          <alttext>kMg/Ca = ([Mg]S/[Ca]S)/([Mg]M/[Ca]M)</alttext>
+          <latex>k_{\text{Mg}/\text{Ca}}=\frac{\text{[Mg]}_{\text{S}}/\text{[Ca]}_{\text{S}}}{\text{[Mg]}_{\text{M}}/\text{[Ca]}_{\text{M}}}</latex>
+        </item>
+        <item>
+          <alttext>kSO4/Cl = ([SO4]S/[Cl]S^2)/([SO4]M/[Cl]M^2)</alttext>
+          <latex>k_{\text{SO}_{4}/\text{Cl}} = \frac{\text{[}\text{SO}_{4}\text{]}_{\text{S}}/\text{[Cl]}_{\text{S}}^{2}}{\text{[}\text{SO}_{4}\text{]}_{\text{M}}/\text{[Cl]}_{\text{M}}^{2}}</latex>
+        </item>
+        <item>
+          <alttext>kA/B</alttext>
+          <latex>k_{\text{A}/\text{B}}</latex>
+        </item>
+        <item>
+          <meaning>Corrected selectivity coefficient (in ion exchange chromatography)</meaning>
+          <type>quantity</type>
+          <alttext>kA/Ba</alttext>
+          <latex>k_{\text{A}/\text{B}}^{a}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2385 (https://doi.org/10.1351/pac199365112373)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 857 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Binding selectivity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Binding_selectivity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Selectividad de unión (es)</title>
+      <url>https://es.wikipedia.org/wiki/Selectividad_de_unión</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05566/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05566/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05566/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05566/plain</plain>
+  </links>
+  <citation>Citation: 'selectivity coefficient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05566</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:04:59+00:00</accessed>
+</term>

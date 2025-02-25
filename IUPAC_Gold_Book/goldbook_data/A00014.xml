@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00014</id>
+  <doi>10.1351/goldbook.A00014</doi>
+  <code>A00014</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - abeo-</longtitle>
+  <title>
+    <i>abeo-</i>
+  </title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Bond migration, i.e. the formal transfer of one end of a skeletal bond to another position, with a compensating transfer of a hydrogen atom, can be indicated by a prefix of the form 'x(y→z)abeo-abeo-'. The prefix is compiled as follows: a numeral denoting the stationary (unchanged) end of the migrating bond (x) is followed by parentheses enclosing the locant denoting the original position (y) from which the other end of this bond has migrated, an arrow, and the locant (z) denoting the new position to which the bond has moved. The closing parenthesis is followed by the italicized prefix abeo-(Latin: I go away) to indicate bond migration. The original numbering is retained for the new compound and is used for the numbers x, y and z. It is always necessary to specify the resulting stereochemistry. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00014-1.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>Bond migration</title>
+          <url>https://goldbook.iupac.org/terms/view/M03920</url>
+        </item>
+        <item>
+          <title>skeletal bond</title>
+          <url>https://goldbook.iupac.org/terms/view/S05707</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Bond migration prefix</meaning>
+          <type>reaction</type>
+          <alttext>x(y→z)abeo-</alttext>
+          <latex>x(y\rightarrow z)abeo-</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Blue Book Guide, p. 31 (https://doi.org/10.1351/pac199971071327)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00014/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00014/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00014/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00014/plain</plain>
+  </links>
+  <citation>Citation: '<i>abeo-</i>' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00014</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:37:31+00:00</accessed>
+</term>

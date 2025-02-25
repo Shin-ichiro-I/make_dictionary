@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02063</id>
+  <doi>10.1351/goldbook.E02063</doi>
+  <code>E02063</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - empirical formula</longtitle>
+  <title>empirical formula</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Formed by juxtaposition of the atomic symbols with their appropriate subscripts to give the simplest possible formula expressing the composition of a compound.</text>
+      <sources>
+        <item>Red Book, 3rd ed., p. 45 (https://doi.org/10.1515/pac-2014-0718)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Ampirik formül (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Ampirik_formül</url>
+    </item>
+    <item>
+      <title>Wikipedia - Empirical formula (en)</title>
+      <url>https://en.wikipedia.org/wiki/Empirical_formula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Empirijska formula (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Empirijska_formula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Empirijska formula (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Empirijska_formula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Empirisk formel (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Empirisk_formel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Formula empirik (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Formula_empirik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Formula minima (it)</title>
+      <url>https://it.wikipedia.org/wiki/Formula_minima</url>
+    </item>
+    <item>
+      <title>Wikipedia - Formule brute (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Formule_brute</url>
+    </item>
+    <item>
+      <title>Wikipedia - Formulă empirică (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Formulă_empirică</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fórmula empírica (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Fórmula_empírica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fórmula empírica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Fórmula_empírica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekul (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Molekul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tapasztalati képlet (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Tapasztalati_képlet</url>
+    </item>
+    <item>
+      <title>Wikipedia - Verhoudingsformule (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Verhoudingsformule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Verhältnisformel (de)</title>
+      <url>https://de.wikipedia.org/wiki/Verhältnisformel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Емпириска формула (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Емпириска_формула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Емпирична формула (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Емпирична_формула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекул (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Молекул</url>
+    </item>
+    <item>
+      <title>Wikipedia - Простейшая формула (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Простейшая_формула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Эмпирическая формула (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Эмпирическая_формула</url>
+    </item>
+    <item>
+      <title>Wikipedia - صيغة مجملة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/صيغة_مجملة</url>
+    </item>
+    <item>
+      <title>Wikipedia - அனுபவச் சூத்திரம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/அனுபவச்_சூத்திரம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ആനുഭവിക സൂത്രം (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/ആനുഭവിക_സൂത്രം</url>
+    </item>
+    <item>
+      <title>Wikipedia - 实验式 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/实验式</url>
+    </item>
+    <item>
+      <title>Wikipedia - 実験式 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/実験式</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02063/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02063/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02063/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02063/plain</plain>
+  </links>
+  <citation>Citation: 'empirical formula' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02063</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:16:58+00:00</accessed>
+</term>

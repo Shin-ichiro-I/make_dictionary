@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02141</id>
+  <doi>10.1351/goldbook.E02141</doi>
+  <code>E02141</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - enthalpy, H</longtitle>
+  <title>enthalpy</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Internal energy of a system plus the product of pressure and volume. Its change in a system is equal to the heat brought to the system at constant pressure.</text>
+      <links>
+        <item>
+          <title>internal energy</title>
+          <url>https://goldbook.iupac.org/terms/view/I03103</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 48 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2187 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 972 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Endotherme Reaktion (de)</title>
+      <url>https://de.wikipedia.org/wiki/Endotherme_Reaktion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entalpia (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Entalpia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entalpia (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Entalpia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entalpia (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Entalpia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entalpia (it)</title>
+      <url>https://it.wikipedia.org/wiki/Entalpia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entalpia (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Entalpia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entalpiya (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Entalpiya</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entalpía (es)</title>
+      <url>https://es.wikipedia.org/wiki/Entalpía</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enthalpie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Enthalpie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enthalpy (en)</title>
+      <url>https://en.wikipedia.org/wiki/Enthalpy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enthalpy (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Enthalpy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Enthalpy (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Enthalpy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Енталпија (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Енталпија</url>
+    </item>
+    <item>
+      <title>Wikipedia - Топлота реакције (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Топлота_реакције</url>
+    </item>
+    <item>
+      <title>Wikipedia - Энтальпи (mn)</title>
+      <url>https://mn.wikipedia.org/wiki/Энтальпи</url>
+    </item>
+    <item>
+      <title>Wikipedia - Энтальпия (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Энтальпия</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفاعل ماص للحرارة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تفاعل_ماص_للحرارة</url>
+    </item>
+    <item>
+      <title>Wikipedia - محتوى حراري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/محتوى_حراري</url>
+    </item>
+    <item>
+      <title>Wikipedia - অভ্যন্তরীণ তাপগতীয় বিভব (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/অভ্যন্তরীণ_তাপগতীয়_বিভব</url>
+    </item>
+    <item>
+      <title>Wikipedia - เอนทาลปี (th)</title>
+      <url>https://th.wikipedia.org/wiki/เอนทาลปี</url>
+    </item>
+    <item>
+      <title>Wikipedia - ᱮᱱᱛᱷᱟᱞᱯᱤ (sat)</title>
+      <url>https://sat.wikipedia.org/wiki/ᱮᱱᱛᱷᱟᱞᱯᱤ</url>
+    </item>
+    <item>
+      <title>Wikipedia - 엔탈피 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/엔탈피</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02141/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02141/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02141/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02141/plain</plain>
+  </links>
+  <citation>Citation: 'enthalpy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02141</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:21:08+00:00</accessed>
+</term>

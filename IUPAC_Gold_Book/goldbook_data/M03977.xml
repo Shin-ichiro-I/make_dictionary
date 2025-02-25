@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03977</id>
+  <doi>10.1351/goldbook.M03977</doi>
+  <code>M03977</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molarity</longtitle>
+  <title>molarity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Term sometimes used for amount concentration.</text>
+      <links>
+        <item>
+          <title>amount concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00295</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 42 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Concentrazione di quantità di sostanza (it)</title>
+      <url>https://it.wikipedia.org/wiki/Concentrazione_di_quantità_di_sostanza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molaire concentratie (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Molaire_concentratie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stężenie molalne (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stężenie_molalne</url>
+    </item>
+    <item>
+      <title>Wikipedia - تركيز مولي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تركيز_مولي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03977/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03977/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03977/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03977/plain</plain>
+  </links>
+  <citation>Citation: 'molarity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03977</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:45:35+00:00</accessed>
+</term>

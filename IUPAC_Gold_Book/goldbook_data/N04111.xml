@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04111</id>
+  <doi>10.1351/goldbook.N04111</doi>
+  <code>N04111</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - net electric charge, z of a particle in electrophoresis</longtitle>
+  <title>net electric charge</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The algebraic sum of the charges present at the surface of the particle divided by the elementary charge of the proton. The symbol z is also used for charge number of an ion.</text>
+      <contexts>
+        <in>
+          <item>electrophoresis</item>
+        </in>
+        <of>
+          <item>a particle</item>
+        </of>
+      </contexts>
+      <links>
+        <item>
+          <title>elementary charge</title>
+          <url>https://goldbook.iupac.org/terms/view/E02032</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+        <item>
+          <title>charge number</title>
+          <url>https://goldbook.iupac.org/terms/view/C00993</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>z</alttext>
+          <latex>z</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 891. 'Quantities and units for electrophoresis in the clinical laboratory (IUPAC Recommendations 1994)' on page 895 (https://doi.org/10.1351/pac199466040891)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04111/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04111/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04111/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04111/plain</plain>
+  </links>
+  <citation>Citation: 'net electric charge' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04111</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:53:45+00:00</accessed>
+</term>

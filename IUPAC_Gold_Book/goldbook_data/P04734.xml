@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04734</id>
+  <doi>10.1351/goldbook.P04734</doi>
+  <code>P04734</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polyketides</longtitle>
+  <title>polyketides</title>
+  <synonyms>
+    <item>acetogenins</item>
+    <item>ketides</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Natural compounds containing alternating carbonyl and methylene groups ('β-polyketones'), biogenetically derived from repeated condensation of acetyl coenzyme A (via malonyl coenzyme A), and usually the compounds derived from them by further condensations. Considered by many to be synonymous with the less frequently used terms acetogenins and ketides. [image: Not defined] </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/P04734.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>methylene</title>
+          <url>https://goldbook.iupac.org/terms/view/M03881</url>
+        </item>
+        <item>
+          <title>coenzyme</title>
+          <url>https://goldbook.iupac.org/terms/view/C01126</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1359 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Policetidă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Policetidă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polichetide (it)</title>
+      <url>https://it.wikipedia.org/wiki/Polichetide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Policétido (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Policétido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Poliketid (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Poliketid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polycétide (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Polycétide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polyketide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Polyketide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polyketidy (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Polyketidy</url>
+    </item>
+    <item>
+      <title>Wikipedia - ポリケチド (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ポリケチド</url>
+    </item>
+    <item>
+      <title>Wikipedia - 폴리케타이드 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/폴리케타이드</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04734/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04734/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04734/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04734/plain</plain>
+  </links>
+  <citation>Citation: 'polyketides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04734</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:26:57+00:00</accessed>
+</term>

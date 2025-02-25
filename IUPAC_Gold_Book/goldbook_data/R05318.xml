@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05318</id>
+  <doi>10.1351/goldbook.R05318</doi>
+  <code>R05318</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - resolution</longtitle>
+  <title>resolution</title>
+  <abbrevs>
+    <item>FWHM</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>(energy): By analogy with the peak width definition for mass resolution, a peak showing the number of ions as a function of their translational energy should be used to give a value for the energy resolution.</text>
+    </item>
+    <item>
+      <id>2</id>
+      <text>(10 per cent valley definition): Let two peaks of equal height in a mass spectrum at masses m and m- Δ m be separated by a valley which at its lowest point is just 10 per cent of the height of either peak. For similar peaks at a mass exceeding m, let the height of the valley at its lowest point be more (by any amount) than ten per cent of either peak height. Then the resolution (10 per cent valley definition) is m Δ m. It is usually a function of m. The ratio m Δ m should be given for a number of values of m.</text>
+      <links>
+        <item>
+          <title>mass spectrum</title>
+          <url>https://goldbook.iupac.org/terms/view/M03749</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>m</alttext>
+          <latex>m</latex>
+        </item>
+        <item>
+          <alttext>m- Δ m</alttext>
+          <latex>m- \Delta m</latex>
+        </item>
+        <item>
+          <alttext>m</alttext>
+          <latex>m</latex>
+        </item>
+        <item>
+          <alttext>m Δ m</alttext>
+          <latex>\frac{m}{\Delta m}</latex>
+        </item>
+        <item>
+          <alttext>m</alttext>
+          <latex>m</latex>
+        </item>
+        <item>
+          <alttext>m Δ m</alttext>
+          <latex>\frac{m}{\Delta m}</latex>
+        </item>
+        <item>
+          <alttext>m</alttext>
+          <latex>m</latex>
+        </item>
+      </math>
+    </item>
+    <item>
+      <id>3</id>
+      <text>(peak width definition): For a single peak made up of singly charged ions at mass m in a mass spectrum, the resolution may be expressed as m Δ m where Δ m is the width of the peak at a height which is a specified fraction of the maximum peak height. It is recommended that one of three values 50%, 5% or 0.5% should always be used. For an isolated symmetrical peak recorded with a system which is linear in the range between 5% and 10% levels of the peak, the 5% peak width definition is technically equivalent to the 10% valley definition. A common standard is the definition of resolution based upon Δ m being Full Width of the peak at Half its Maximum height, sometimes abbreviated 'FWHM'. This acronym should preferably be defined the first time it is used.</text>
+      <links>
+        <item>
+          <title>mass spectrum</title>
+          <url>https://goldbook.iupac.org/terms/view/M03749</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>m</alttext>
+          <latex>m</latex>
+        </item>
+        <item>
+          <alttext>m Δ m</alttext>
+          <latex>\frac{m}{\Delta m}</latex>
+        </item>
+        <item>
+          <alttext>Δ m</alttext>
+          <latex>\Delta m</latex>
+        </item>
+        <item>
+          <alttext>Δ m</alttext>
+          <latex>\Delta m</latex>
+        </item>
+      </math>
+    </item>
+  </definitions>
+  <sources>'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' Todd, J.F.J.; Pure and Applied Chemistry 1991 63(10) 1541</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Oppløsning (massespektrometri) (no)</title>
+      <url>https://no.wikipedia.org/wiki/Oppløsning_(massespektrometri)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Resolution (mass spectrometry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Resolution_(mass_spectrometry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Risoluzione (spettrometria di massa) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Risoluzione_(spettrometria_di_massa)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Разрешающая способность масс-спектрометра (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Разрешающая_способность_масс-спектрометра</url>
+    </item>
+    <item>
+      <title>Wikipedia - Роздільна здатність (мас-спектрометрія) (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Роздільна_здатність_(мас-спектрометрія)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Роздільність (мас-спектрометрія) (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Роздільність_(мас-спектрометрія)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05318/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05318/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05318/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05318/plain</plain>
+  </links>
+  <citation>Citation: 'resolution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05318</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:54:01+00:00</accessed>
+</term>

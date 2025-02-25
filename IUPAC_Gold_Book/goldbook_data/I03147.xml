@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03147</id>
+  <doi>10.1351/goldbook.I03147</doi>
+  <code>I03147</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - inversion height in atmospheric chemistry</longtitle>
+  <title>inversion height</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The height above ground level at which there is change in sign of the normal temperature 'lapse rate', dT/dz (the rate of change of the temperature with height). Several temperature inversions may be present in the air over a given site at different altitudes as result of various meteorological factors.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <math>
+        <item>
+          <alttext>dT/dz</alttext>
+          <latex>\frac{\text{d}T}{\text{d}z}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2197 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03147/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03147/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03147/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03147/plain</plain>
+  </links>
+  <citation>Citation: 'inversion height' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03147</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:08:17+00:00</accessed>
+</term>

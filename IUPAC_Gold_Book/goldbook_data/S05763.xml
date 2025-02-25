@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05763</id>
+  <doi>10.1351/goldbook.S05763</doi>
+  <code>S05763</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - solvophobicity parameter, S_p</longtitle>
+  <title>solvophobicity parameter</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A solvent parameter defined by: Sp = 1- M M hexadecane) of a series of solutes from water to numerous aqueous-organic mixtures and to pure solvents: Δ t G° to solvent = M R T + D is a solute parameter, and M and D characterize the solvent. The M values are used to define a solvent solvophobic effect so that Sp values are scaled from unity (water) to zero (hexadecane).</text>
+      <links>
+        <item>
+          <title>solvent parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/S05757</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Sp = 1- M M hexadecane</alttext>
+          <latex>Sp = 1 - \frac{M}{M\left(\text{hexadecane}\right)}</latex>
+        </item>
+        <item>
+          <alttext>Δ t G°</alttext>
+          <latex>\Delta _{\text{t}}G^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>Δ t G° to solvent = M R T + D</alttext>
+          <latex>\Delta _{\text{t}}G^{\,\unicode{x26ac}}\left(\text{to solvent}\right) = M\ R_{\text{T}}+D</latex>
+        </item>
+        <item>
+          <alttext>R T</alttext>
+          <latex>R_{\text{T}}</latex>
+        </item>
+        <item>
+          <alttext>M</alttext>
+          <latex>M</latex>
+        </item>
+        <item>
+          <alttext>D</alttext>
+          <latex>D</latex>
+        </item>
+        <item>
+          <alttext>M</alttext>
+          <latex>M</latex>
+        </item>
+        <item>
+          <alttext>Sp</alttext>
+          <latex>Sp</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1165 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05763/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05763/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05763/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05763/plain</plain>
+  </links>
+  <citation>Citation: 'solvophobicity parameter' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05763</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:14:56+00:00</accessed>
+</term>

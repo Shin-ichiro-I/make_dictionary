@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06644</id>
+  <doi>10.1351/goldbook.V06644</doi>
+  <code>V06644</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - volume of activation, Δ^‡V</longtitle>
+  <title>volume of activation</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A quantity derived from the pressure dependence of the rate constant of a reaction (mainly used for reactions in solution), defined by the equation: Δ ‡ V =- R T ( ∂ ( ln k ) ∂ p ) at a fixed temperature and pressure. The volume of activation is interpreted, according to transition state theory, as the difference between the partial molar volumes of the transition state (V) and the sums of the partial volumes of the reactants at the same temperature and pressure, i.e. Δ‡V = ‡ V- ∑ r V R is the order in the reactant R and V R its partial molar volume.</text>
+      <links>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>transition state theory</title>
+          <url>https://goldbook.iupac.org/terms/view/T06470</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>transition state theory</title>
+          <url>https://goldbook.iupac.org/terms/view/T06470</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Δ ‡ V =- R T ( ∂ ( ln k ) ∂ p )</alttext>
+          <latex>\Delta ^{\ddagger }V=- R\ T\ (\frac{\partial (\ln k)}{\partial p})_{T}</latex>
+        </item>
+        <item>
+          <alttext>mol dm-3</alttext>
+          <latex>\pu{mol dm-3}</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>Δ‡V = ‡ V- ∑ r V R</alttext>
+          <latex>\Delta ^{\ddagger}V = ^{\ddagger}V- \sum \left(r\ V_{\text{R}}\right)</latex>
+        </item>
+        <item>
+          <alttext>r</alttext>
+          <latex>r</latex>
+        </item>
+        <item>
+          <alttext>V R</alttext>
+          <latex>V_{\text{R}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 56 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 191 (https://doi.org/10.1351/pac199668010149)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1175 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/V06644/html</html>
+    <json>https://goldbook.iupac.org/terms/view/V06644/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/V06644/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/V06644/plain</plain>
+  </links>
+  <citation>Citation: 'volume of activation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.V06644</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:55:49+00:00</accessed>
+</term>

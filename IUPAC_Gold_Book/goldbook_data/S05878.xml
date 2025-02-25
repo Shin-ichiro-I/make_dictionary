@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05878</id>
+  <doi>10.1351/goldbook.S05878</doi>
+  <code>S05878</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spin trapping</longtitle>
+  <title>spin trapping</title>
+  <contains>spin adduct, spin counting</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In certain reactions in solution a transientradical will interact with a diamagneticreagent to form a more persistent radical. The product radical accumulates to a concentration where detection and, frequently, identification are possible by EPR/ESR spectroscopy. The key reaction is usually one of attachment; the diamagneticreagent is said to be a 'spin trap' and the persistent product radical is then the 'spin adduct'. The procedure is referred to as spin trapping, and is used for monitoring reactions involving the intermediacy of reactive radicals at concentrations too low for direct observation. Typical spin traps are C-nitroso compounds and nitrones, to which reactive radicals will rapidly add to form nitryl radicals. A quantitative development, in which essentially all reactive radicals generated in a particular system are intercepted, has been referred to as 'spin counting'. Spin trapping has also been adapted to the interception of radicals generated in both gaseous and solid phases. In these cases the spin adduct is in practice transferred to a liquid solution for observation in order to facilitate interpretation of the EPR/ESR spectra of the radicals obtained.</text>
+      <links>
+        <item>
+          <title>transient</title>
+          <url>https://goldbook.iupac.org/terms/view/T06451</url>
+        </item>
+        <item>
+          <title>radical</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>persistent</title>
+          <url>https://goldbook.iupac.org/terms/view/P04516</url>
+        </item>
+        <item>
+          <title>attachment</title>
+          <url>https://goldbook.iupac.org/terms/view/A00512</url>
+        </item>
+        <item>
+          <title>adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/A00138</url>
+        </item>
+        <item>
+          <title>reactive</title>
+          <url>https://goldbook.iupac.org/terms/view/R05180</url>
+        </item>
+        <item>
+          <title>transient</title>
+          <url>https://goldbook.iupac.org/terms/view/T06451</url>
+        </item>
+        <item>
+          <title>radical</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>persistent</title>
+          <url>https://goldbook.iupac.org/terms/view/P04516</url>
+        </item>
+        <item>
+          <title>attachment</title>
+          <url>https://goldbook.iupac.org/terms/view/A00512</url>
+        </item>
+        <item>
+          <title>adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/A00138</url>
+        </item>
+        <item>
+          <title>reactive</title>
+          <url>https://goldbook.iupac.org/terms/view/R05180</url>
+        </item>
+        <item>
+          <title>diamagnetic</title>
+          <url>https://goldbook.iupac.org/terms/view/D01668</url>
+        </item>
+        <item>
+          <title>reagent</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+        <item>
+          <title>spectroscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/S05848</url>
+        </item>
+        <item>
+          <title>trapping</title>
+          <url>https://goldbook.iupac.org/terms/view/T06492</url>
+        </item>
+        <item>
+          <title>monitoring</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06831</url>
+        </item>
+        <item>
+          <title>nitroso compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/N04169</url>
+        </item>
+        <item>
+          <title>nitrones</title>
+          <url>https://goldbook.iupac.org/terms/view/N04164</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1166 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Spin trapping (en)</title>
+      <url>https://en.wikipedia.org/wiki/Spin_trapping</url>
+    </item>
+    <item>
+      <title>Wikipedia - スピントラッピング (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/スピントラッピング</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05878/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05878/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05878/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05878/plain</plain>
+  </links>
+  <citation>Citation: 'spin trapping' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05878</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:19:09+00:00</accessed>
+</term>

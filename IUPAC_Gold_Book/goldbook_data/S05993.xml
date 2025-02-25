@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05993</id>
+  <doi>10.1351/goldbook.S05993</doi>
+  <code>S05993</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stereospecifically labelled tracer</longtitle>
+  <title>stereospecifically labelled tracer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A tracer in which the label is present in a stereospecific position.</text>
+      <links>
+        <item>
+          <title>tracer</title>
+          <url>https://goldbook.iupac.org/terms/view/T06422</url>
+        </item>
+        <item>
+          <title>label</title>
+          <url>https://goldbook.iupac.org/terms/view/L03424</url>
+        </item>
+        <item>
+          <title>stereospecific</title>
+          <url>https://goldbook.iupac.org/terms/view/S05994</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2513. 'Nomenclature for radioanalytical chemistry (IUPAC Recommendations 1994)' on page 2526 (https://doi.org/10.1351/pac199466122513)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05993/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05993/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05993/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05993/plain</plain>
+  </links>
+  <citation>Citation: 'stereospecifically labelled tracer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05993</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:25:11+00:00</accessed>
+</term>

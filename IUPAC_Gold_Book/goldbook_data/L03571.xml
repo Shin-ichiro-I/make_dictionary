@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03571</id>
+  <doi>10.1351/goldbook.L03571</doi>
+  <code>L03571</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - lipids</longtitle>
+  <title>lipids</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A loosely defined term for substances of biological origin that are soluble in nonpolar solvents. They consist of saponifiable lipids, such as glycerides (fats and oils) and phospholipids, as well as nonsaponifiable lipids, principally steroids.</text>
+      <links>
+        <item>
+          <title>glycerides</title>
+          <url>https://goldbook.iupac.org/terms/view/G02647</url>
+        </item>
+        <item>
+          <title>phospholipids</title>
+          <url>https://goldbook.iupac.org/terms/view/P04559</url>
+        </item>
+        <item>
+          <title>steroids</title>
+          <url>https://goldbook.iupac.org/terms/view/S06005</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1348 (https://doi.org/10.1351/pac199567081307)</item>
+        <item>White Book, 2nd ed., p. 180 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Lipid (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Lipid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Lipid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipid (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Lipid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipid (no)</title>
+      <url>https://no.wikipedia.org/wiki/Lipid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipid (sco)</title>
+      <url>https://sco.wikipedia.org/wiki/Lipid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipid (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Lipid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipid (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Lipid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipide (als)</title>
+      <url>https://als.wikipedia.org/wiki/Lipide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipide (de)</title>
+      <url>https://de.wikipedia.org/wiki/Lipide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipidi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Lipidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipidă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Lipidă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Makromolekula (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Makromolekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Липид (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Липид</url>
+    </item>
+    <item>
+      <title>Wikipedia - ليبيد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ليبيد</url>
+    </item>
+    <item>
+      <title>Wikipedia - ليبيدات (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ليبيدات</url>
+    </item>
+    <item>
+      <title>Wikipedia - 脂質 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/脂質</url>
+    </item>
+    <item>
+      <title>Wikipedia - 지질 (생물학) (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/지질_(생물학)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03571/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03571/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03571/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03571/plain</plain>
+  </links>
+  <citation>Citation: 'lipids' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03571</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:26:05+00:00</accessed>
+</term>

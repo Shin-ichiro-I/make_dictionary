@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00909</id>
+  <doi>10.1351/goldbook.C00909</doi>
+  <code>C00909</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - cation exchanger</longtitle>
+  <title>cation exchanger</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Ion exchanger with cations as counter-ions. The term cation-exchange resin may be used in the case of solid organic polymers. The acid form of a cation exchanger is the ionic form of a cation exchanger in which counter-ions are hydrogen ions (H-form) or the ionogenic groups have added a proton forming an undissociated acid.</text>
+      <links>
+        <item>
+          <title>ion exchanger</title>
+          <url>https://goldbook.iupac.org/terms/view/I03171</url>
+        </item>
+        <item>
+          <title>ion exchanger</title>
+          <url>https://goldbook.iupac.org/terms/view/I03171</url>
+        </item>
+        <item>
+          <title>counter-ions (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01371</url>
+        </item>
+        <item>
+          <title>cation (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>resin (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/RT07166</url>
+        </item>
+        <item>
+          <title>ionogenic groups (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03228</url>
+        </item>
+        <item>
+          <title>proton (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 855 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00909/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00909/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00909/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00909/plain</plain>
+  </links>
+  <citation>Citation: 'cation exchanger' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00909</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:24:25+00:00</accessed>
+</term>

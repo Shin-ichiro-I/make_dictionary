@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05276</id>
+  <doi>10.1351/goldbook.R05276</doi>
+  <code>R05276</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - relative retardation, R_rel, in planar chromatography</longtitle>
+  <title>relative retardation</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A term which is equivalent to relative retention used in column chromatography: the ratio of the R F value of a component to the R F value of a standard (reference) substance. Since the mobile phase front is common for the two components, the R F value can be expressed directly as the ratio of the distances travelled by the spot of the compound of interest (bi) and the reference substance (bst) respectively: R rel = R F i R F st = b i b st was used to express relative retardation in planar chromatography. Because of its identity with the symbol for peak resolution the symbol R rel is suggested for relative retardation in planar chromatography.</text>
+      <contexts>
+        <in>
+          <item>planar chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>column chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01182</url>
+        </item>
+        <item>
+          <title>planar chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/P04682</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>R F</alttext>
+          <latex>R_{\text{F}}</latex>
+        </item>
+        <item>
+          <alttext>R F</alttext>
+          <latex>R_{\text{F}}</latex>
+        </item>
+        <item>
+          <alttext>R F</alttext>
+          <latex>R_{\text{F}}</latex>
+        </item>
+        <item>
+          <alttext>bi</alttext>
+          <latex>b_{i}</latex>
+        </item>
+        <item>
+          <alttext>bst</alttext>
+          <latex>b_{\text{st}}</latex>
+        </item>
+        <item>
+          <alttext>R rel = R F i R F st = b i b st</alttext>
+          <latex>R_{\text{rel}}=\frac{R_{\text{F}\left(i\right)}}{R_{\text{F}\left(\text{st}\right)}}=\frac{b_{i}}{b_{\text{st}}}</latex>
+        </item>
+        <item>
+          <alttext>R s</alttext>
+          <latex>R_{\text{s}}</latex>
+        </item>
+        <item>
+          <alttext>R rel</alttext>
+          <latex>R_{\text{rel}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 845 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05276/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05276/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05276/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05276/plain</plain>
+  </links>
+  <citation>Citation: 'relative retardation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05276</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:52:10+00:00</accessed>
+</term>

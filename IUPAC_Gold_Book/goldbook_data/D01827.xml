@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01827</id>
+  <doi>10.1351/goldbook.D01827</doi>
+  <code>D01827</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Dobson unit in atmospheric chemistry</longtitle>
+  <title>Dobson unit</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Unit sometimes used in the description of the total ozone in a column of air overhead. It is given as the thickness (in units of 10E-3 cm or 10E-5 m) of that layer which would be formed by the total ozone in a column reduced to the pressure of 760 Torr and temperature of 0°C.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <math>
+        <item>
+          <alttext>10E-3 cm</alttext>
+          <latex>10^{-3}\ \text{cm}</latex>
+        </item>
+        <item>
+          <alttext>10E-5 m</alttext>
+          <latex>10^{-5}\ \text{m}</latex>
+        </item>
+        <item>
+          <alttext>760 Torr</alttext>
+          <latex>760\ \text{Torr}</latex>
+        </item>
+        <item>
+          <alttext>0°C</alttext>
+          <latex>0\ ^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2185 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Dobson unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dobson_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dobsonova jedinica (hr)</title>
+      <url>https://hr.wikipedia.org/wiki/Dobsonova_jedinica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dobsonova jedinica (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Dobsonova_jedinica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Jednostka Dobsona (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Jednostka_Dobsona</url>
+    </item>
+    <item>
+      <title>Wikipedia - Satuan Dobson (id)</title>
+      <url>https://id.wikipedia.org/wiki/Satuan_Dobson</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unitat Dobson (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Unitat_Dobson</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unité Dobson (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Unité_Dobson</url>
+    </item>
+    <item>
+      <title>Wikipedia - Единица Добсона (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Единица_Добсона</url>
+    </item>
+    <item>
+      <title>Wikipedia - Единица на Добсън (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Единица_на_Добсън</url>
+    </item>
+    <item>
+      <title>Wikipedia - Одиниця Добсона (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Одиниця_Добсона</url>
+    </item>
+    <item>
+      <title>Wikipedia - دوبسون (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/دوبسون</url>
+    </item>
+    <item>
+      <title>Wikipedia - டாப்சன் அலகு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/டாப்சன்_அலகு</url>
+    </item>
+    <item>
+      <title>Wikipedia - ドブソン単位 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ドブソン単位</url>
+    </item>
+    <item>
+      <title>Wikipedia - 多布森单位 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/多布森单位</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01827/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01827/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01827/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01827/plain</plain>
+  </links>
+  <citation>Citation: 'Dobson unit' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01827</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:05:57+00:00</accessed>
+</term>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00085</id>
+  <doi>10.1351/goldbook.A00085</doi>
+  <code>A00085</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aci-nitro compounds</longtitle>
+  <title><i>aci</i>-nitro compounds</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A class name for hydrocarbylideneazinic acids, R2C=N+(–O−)OH. The use of aci-nitro as a prefix in systematic nomenclature to name specific compounds is abandoned.</text>
+      <links>
+        <item>
+          <title>azinic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/A00558</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1351 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Nitronat (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Nitronat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nitronate (en)</title>
+      <url>https://en.wikipedia.org/wiki/Nitronate</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00085/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00085/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00085/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00085/plain</plain>
+  </links>
+  <citation>Citation: '<i>aci</i>-nitro compounds' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00085</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:40:19+00:00</accessed>
+</term>

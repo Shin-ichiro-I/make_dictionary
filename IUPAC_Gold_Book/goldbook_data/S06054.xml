@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06054</id>
+  <doi>10.1351/goldbook.S06054</doi>
+  <code>S06054</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stripping</longtitle>
+  <title>stripping</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The process of removing solute(s) from a loaded solvent or extract. Generally this refers to the main solute(s) present.</text>
+      <notes>
+        <item>Where appropriate, e.g. when liquid-liquid distribution is used for stripping, the term back-extraction can be used. The terms back-washing and re-extraction are not recommended.</item>
+        <item>The recent application of selective stripping of solutes as a separation method leads to some confusion between the terms stripping and scrubbing (in solvent extration, in atmospheric chemistry). It is recommended that the term scrubbing (in solvent extration, in atmospheric chemistry) be reserved for the operation of removing contaminants (impurities) from an extract (where the scrub raffinate (in solvent extration, in atmospheric chemistry) is often recycled to the loading step) and the term selective stripping be used where two or more main solutes are stripped successively from an extract, usually with different stripping agents, with a view to their subsequent separate recovery (in solvent extration, in atmospheric chemistry) from solution for analysis.</item>
+      </notes>
+      <links>
+        <item>
+          <title>extraction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02301</url>
+        </item>
+        <item>
+          <title>re-extraction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05225</url>
+        </item>
+        <item>
+          <title>scrubbing (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05511</url>
+        </item>
+        <item>
+          <title>raffinate (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05122</url>
+        </item>
+        <item>
+          <title>recovery (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05206</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 91 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2390 (https://doi.org/10.1351/pac199365112373)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Strippaggio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Strippaggio</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06054/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06054/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06054/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06054/plain</plain>
+  </links>
+  <citation>Citation: 'stripping' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06054</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:28:06+00:00</accessed>
+</term>

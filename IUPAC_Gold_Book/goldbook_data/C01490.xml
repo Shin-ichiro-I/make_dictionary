@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01490</id>
+  <doi>10.1351/goldbook.C01490</doi>
+  <code>C01490</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - cybotactic region</longtitle>
+  <title>cybotactic region</title>
+  <contains>cosphere</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>That part of a solution in the vicinity of a solute molecule in which the ordering of the solvent molecules is modified by the presence of the solute molecule. The term solvent 'cosphere' of the solute has also been used.</text>
+      <links>
+        <item>
+          <title>solvation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05747</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1103 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01490/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01490/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01490/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01490/plain</plain>
+  </links>
+  <citation>Citation: 'cybotactic region' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01490</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:51:03+00:00</accessed>
+</term>

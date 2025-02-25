@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01513</id>
+  <doi>10.1351/goldbook.D01513</doi>
+  <code>D01513</code>
+  <status>obsolete</status>
+  <longtitle>IUPAC Gold Book - d, l, dl</longtitle>
+  <title>d, l, dl</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Obsolete (usage strongly discouraged) alternatives for, respectively, the prefixes (+)- and (−)- [used to designate the sign of optical rotation of enantiomers under specified condition (and hence to distinguish the enantiomers)] and (±)- for a racemate.</text>
+      <links>
+        <item>
+          <title>optical rotation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04312</url>
+        </item>
+        <item>
+          <title>optical rotation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04312</url>
+        </item>
+        <item>
+          <title>enantiomers</title>
+          <url>https://goldbook.iupac.org/terms/view/E02069</url>
+        </item>
+        <item>
+          <title>racemate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05025</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2205 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Quiralidade (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Quiralidade</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01513/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01513/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01513/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01513/plain</plain>
+  </links>
+  <citation>Citation: 'd, l, dl' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01513</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:52:18+00:00</accessed>
+</term>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06983</id>
+  <doi>10.1351/goldbook.AT06983</doi>
+  <code>AT06983</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ab initio quantum mechanical methods</longtitle>
+  <title><i>ab initio</i> quantum mechanical methods</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Methods of quantum mechanical calculations independent of any experiment other than the determination of fundamental constants. The methods are based on the use of the full Schroedinger equation to treat all the electrons of a chemical system. In practice, approximations are necessary to restrict the complexity of the electronic wavefunction and to make its calculation possible.</text>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1921 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - 第一原理計算 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/第一原理計算</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/AT06983/html</html>
+    <json>https://goldbook.iupac.org/terms/view/AT06983/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/AT06983/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/AT06983/plain</plain>
+  </links>
+  <citation>Citation: '<i>ab initio</i> quantum mechanical methods' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.AT06983</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:37:26+00:00</accessed>
+</term>

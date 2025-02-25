@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06037</id>
+  <doi>10.1351/goldbook.S06037</doi>
+  <code>S06037</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - strain</longtitle>
+  <title>strain</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Strain is present in a molecular entity or transition structure if the energy is enhanced because of unfavourable bond lengths, bond angles or dihedral angles ('torsional strain') relative to a standard. It is quantitatively defined as the standard enthalpy of a structure relative to a strainless structure (real or hypothetical) made up from the same atoms with the same types of bonding. (The enthalpy of formation of cyclopropane is 53.6 kJ mol-1, whereas the enthalpy of formation based on three 'normal' methylene groups, from acyclic models, is -62 kJ mol^-1. On this basis cyclopropane is destabilized by ca.115 kJ mol-1 of strain energy.)</text>
+      <links>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>transition structure</title>
+          <url>https://goldbook.iupac.org/terms/view/T06471</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>transition structure</title>
+          <url>https://goldbook.iupac.org/terms/view/T06471</url>
+        </item>
+        <item>
+          <title>torsional strain</title>
+          <url>https://goldbook.iupac.org/terms/view/E01886</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>methylene</title>
+          <url>https://goldbook.iupac.org/terms/view/M03881</url>
+        </item>
+        <item>
+          <title>strain energy</title>
+          <url>https://goldbook.iupac.org/terms/view/ST07108</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>transition structure</title>
+          <url>https://goldbook.iupac.org/terms/view/T06471</url>
+        </item>
+        <item>
+          <title>torsional strain</title>
+          <url>https://goldbook.iupac.org/terms/view/E01886</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>methylene</title>
+          <url>https://goldbook.iupac.org/terms/view/M03881</url>
+        </item>
+        <item>
+          <title>strain energy</title>
+          <url>https://goldbook.iupac.org/terms/view/ST07108</url>
+        </item>
+        <item>
+          <title>molecular mechanics calculation</title>
+          <url>https://goldbook.iupac.org/terms/view/M03993</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>numeric value with unit</type>
+          <alttext>53.6 kJ mol-1</alttext>
+          <latex>\pu{53.6 kJ mol-1}</latex>
+        </item>
+        <item>
+          <type>numeric value with unit</type>
+          <alttext>-62 kJ mol^-1</alttext>
+          <latex>\pu{-62 kJ mol-1}</latex>
+        </item>
+        <item>
+          <type>numeric value with unit</type>
+          <alttext>115 kJ mol-1</alttext>
+          <latex>\pu{115 kJ mol-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1168 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06037/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06037/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06037/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06037/plain</plain>
+  </links>
+  <citation>Citation: 'strain' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06037</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:27:20+00:00</accessed>
+</term>

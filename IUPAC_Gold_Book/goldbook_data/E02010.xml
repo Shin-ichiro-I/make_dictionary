@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02010</id>
+  <doi>10.1351/goldbook.E02010</doi>
+  <code>E02010</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electron stopping power in X-ray emission spectroscopy</longtitle>
+  <title>electron stopping power</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>When a beam of electrons strikes a target or specimen there are three ways in which the electrons may lose energy (low energy collisions, X-ray production, and formation of a spectral continuum). The average energy loss per unit distance travelled along the electron path is called electron stopping power, dE/dx.</text>
+      <contexts>
+        <in>
+          <item>X-ray emission spectroscopy</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>stopping power</title>
+          <url>https://goldbook.iupac.org/terms/view/S06035</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>dE/dx</alttext>
+          <latex>\frac{\text{d}E}{\text{d}x}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1980, 52, 2541. 'Nomenclature, Symbols, Units and their Usage in Spectrochemical Analysis—IV X-Ray Emission Spectroscopy' on page 2545 (https://doi.org/10.1351/pac198052112541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02010/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02010/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02010/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02010/plain</plain>
+  </links>
+  <citation>Citation: 'electron stopping power' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02010</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:14:06+00:00</accessed>
+</term>

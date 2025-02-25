@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05308</id>
+  <doi>10.1351/goldbook.R05308</doi>
+  <code>R05308</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Re, Si</longtitle>
+  <title><i>Re</i>, <i>Si</i></title>
+  <abbrevs>
+    <item>CIP</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A stereoheterotopic face of a trigonal atom is designated Re if the ligands of the trigonal atom appear in a clockwise sense in order of CIP priority when viewed from that side of the face. The opposite arrangement is termed Si.,See also: enantiotopic, and illustrated under prochirality.</text>
+      <links>
+        <item>
+          <title>stereoheterotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/S05981</url>
+        </item>
+        <item>
+          <title>CIP priority</title>
+          <url>https://goldbook.iupac.org/terms/view/C01082</url>
+        </item>
+        <item>
+          <title>stereoheterotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/S05981</url>
+        </item>
+        <item>
+          <title>CIP priority</title>
+          <url>https://goldbook.iupac.org/terms/view/C01082</url>
+        </item>
+        <item>
+          <title>ligands</title>
+          <url>https://goldbook.iupac.org/terms/view/L03518</url>
+        </item>
+        <item>
+          <title>stereoheterotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/S05981</url>
+        </item>
+        <item>
+          <title>CIP priority</title>
+          <url>https://goldbook.iupac.org/terms/view/C01082</url>
+        </item>
+        <item>
+          <title>ligands</title>
+          <url>https://goldbook.iupac.org/terms/view/L03518</url>
+        </item>
+        <item>
+          <title>enantiotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/E02083</url>
+        </item>
+        <item>
+          <title>prochirality</title>
+          <url>https://goldbook.iupac.org/terms/view/P04859</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2216 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cahnov-Ingoldov-Prelogov R,S-systém (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Cahnov-Ingoldov-Prelogov_R,S-systém</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cahnova-Ingoldova-Prelogova nomenklatúra (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Cahnova-Ingoldova-Prelogova_nomenklatúra</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cahn–Ingold–Prelog priority rules (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cahn–Ingold–Prelog_priority_rules</url>
+    </item>
+    <item>
+      <title>Wikipedia - Citrate synthase (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Citrate_synthase</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prochirality (en)</title>
+      <url>https://en.wikipedia.org/wiki/Prochirality</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05308/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05308/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05308/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05308/plain</plain>
+  </links>
+  <citation>Citation: '<i>Re</i>, <i>Si</i>' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05308</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:46:47+00:00</accessed>
+</term>

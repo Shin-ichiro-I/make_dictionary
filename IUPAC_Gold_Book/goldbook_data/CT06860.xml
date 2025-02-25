@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06860</id>
+  <doi>10.1351/goldbook.CT06860</doi>
+  <code>CT06860</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - clearance</longtitle>
+  <title>clearance</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Volume of blood or plasma or mass of an organ effectively cleared of a substance by elimination (metabolism and excretion) divided by time of elimination.</text>
+      <notes>
+        <item>Total clearance is the sum of the clearances of each eliminating organ or tissue for a given substance.</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>toxicology</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>clearance</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01101</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>metabolism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03858</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>(in pulmonary toxicology) Volume or mass of lung cleared divided by time of elimination; used qualitatively to describe removal of any inhaled substance which deposits on the lining surface of the lung.</text>
+      <contexts>
+        <in>
+          <item>pulmonary toxicology</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>(in renal toxicology) Quantification of the removal of a substance by the kidneys by the processes of filtration and secretion; clearance is calculated by relating the rate of renal excretion to the plasma concentration.</text>
+      <contexts>
+        <in>
+          <item>renal toxicology</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>filtration</title>
+          <url>https://goldbook.iupac.org/terms/view/F02388</url>
+        </item>
+        <item>
+          <title>clearance</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01101</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of terms used in toxicokinetics (IUPAC Recommendations 2003)' Nordberg, M.;Duffus, J.;Templeton, D.M.; Pure and Applied Chemistry 2004 76(5) 1033</sources>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT06860/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT06860/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT06860/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT06860/plain</plain>
+  </links>
+  <citation>Citation: 'clearance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT06860</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:34:23+00:00</accessed>
+</term>

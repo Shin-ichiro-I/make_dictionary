@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04791</id>
+  <doi>10.1351/goldbook.P04791</doi>
+  <code>P04791</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - potentiometric selectivity coefficient</longtitle>
+  <title>potentiometric selectivity coefficient</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A coefficient which defines the ability of an ion-selective electrode to distinguish a particular ion from others. The selectivitycoefficient, KA,Bpot, is evaluated by means of the emf response of the ion-selective electrode in mixed solutions of the primary ion, A, and interfering ion, B (fixed interference method) or less desirable, in separate solutions of A and B (separate solution method). The activities of the primary ion, A, and the interfering ion, B, at which KA,Bpot is determined should always be specified, as the value of KA,Bpot is defined by the modified Nikolsky–Eisenman equation. The smaller the value of KA,Bpot the greater the electrode's preference for the principal ion, A. Comment: The terms selectivity constant and selectivity factor are frequently used instead of selectivitycoefficient. However, in order to standardize the terminology associated with ion-selective electrodes, use of the term selectivitycoefficient is recommended, as is the fixed interference method for its evaluation.This selectivitycoefficient is not identical to the similar term used in separation science.</text>
+      <links>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>selectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05563</url>
+        </item>
+        <item>
+          <title>selectivity factor</title>
+          <url>https://goldbook.iupac.org/terms/view/S05567</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Selectivity coefficient (in potentiometry)</meaning>
+          <type>quantity</type>
+          <alttext>KA,Bpot</alttext>
+          <latex>K_{\text{A,B}}^{\text{pot}}</latex>
+        </item>
+        <item>
+          <meaning>Selectivity coefficient (in potentiometry)</meaning>
+          <type>quantity</type>
+          <alttext>KA,Bpot</alttext>
+          <latex>K_{\text{A,B}}^{\text{pot}}</latex>
+        </item>
+        <item>
+          <meaning>Selectivity coefficient (in potentiometry)</meaning>
+          <type>quantity</type>
+          <alttext>KA,Bpot</alttext>
+          <latex>K_{\text{A,B}}^{\text{pot}}</latex>
+        </item>
+        <item>
+          <meaning>Selectivity coefficient (in potentiometry)</meaning>
+          <type>quantity</type>
+          <alttext>KA,Bpot</alttext>
+          <latex>K_{\text{A,B}}^{\text{pot}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 2527. 'Recommendations for nomenclature of ionselective electrodes (IUPAC Recommendations 1994)' on page 2532 (https://doi.org/10.1351/pac199466122527)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04791/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04791/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04791/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04791/plain</plain>
+  </links>
+  <citation>Citation: 'potentiometric selectivity coefficient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04791</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:30:10+00:00</accessed>
+</term>

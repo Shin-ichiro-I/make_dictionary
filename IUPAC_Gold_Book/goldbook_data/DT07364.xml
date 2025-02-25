@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07364</id>
+  <doi>10.1351/goldbook.DT07364</doi>
+  <code>DT07364</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Drude–Nernst equation (for electrostriction)</longtitle>
+  <title>Drude–Nernst equation (for electrostriction)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Equation describing the contraction (ΔVel) taking place in a dielectric medium of relative static permittivityɛr (formerly called dielectric constant) upon introduction of an ion of charge numberz and radius r: ΔVel = (-(ze)2/2r.ɛr)(d(lnɛr)dp) the elementary charge.</text>
+      <notes>
+        <item>Inasmuch as the derivative of lnɛr with respect to pressure, ∂(lnɛr)/∂p, is not known for all media, there are approximations to evaluate this term as a function of ɛr and of the isothermal compressibility of the medium, κ T.</item>
+      </notes>
+      <links>
+        <item>
+          <title>permittivity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04507</url>
+        </item>
+        <item>
+          <title>dielectric constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01697</url>
+        </item>
+        <item>
+          <title>charge number</title>
+          <url>https://goldbook.iupac.org/terms/view/C00993</url>
+        </item>
+        <item>
+          <title>elementary charge</title>
+          <url>https://goldbook.iupac.org/terms/view/E02032</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ΔVel</alttext>
+          <latex>\Delta V_{\text{el}}</latex>
+        </item>
+        <item>
+          <meaning>Relative permittivity (dielectric constant)</meaning>
+          <type>quantity</type>
+          <alttext>ɛr</alttext>
+          <latex>\varepsilon_{\text{r}}</latex>
+        </item>
+        <item>
+          <alttext>z</alttext>
+          <latex>z</latex>
+        </item>
+        <item>
+          <alttext>r</alttext>
+          <latex>r</latex>
+        </item>
+        <item>
+          <alttext>ΔVel = (-(ze)2/2r.ɛr)(d(lnɛr)dp)</alttext>
+          <latex>\Delta V_{\text{el}} = -\frac{\left ( z\,e \right )^{2}}{2\,r\,\varepsilon_{\text{r}}}\frac{\partial\left ( \text{ln}\varepsilon_{\text{r}}\right)}{\partial\,p}</latex>
+        </item>
+        <item>
+          <alttext>e</alttext>
+          <latex>e</latex>
+        </item>
+        <item>
+          <alttext>lnɛr</alttext>
+          <latex>\text{ln}\varepsilon_{\text{r}}</latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>∂(lnɛr)/∂p</alttext>
+          <latex>\frac{\partial (\text{ln}\varepsilon _{\text{r}})}{\partial p}</latex>
+        </item>
+        <item>
+          <meaning>Relative permittivity (dielectric constant)</meaning>
+          <type>quantity</type>
+          <alttext>ɛr</alttext>
+          <latex>\varepsilon_{\text{r}}</latex>
+        </item>
+        <item>
+          <alttext>κ T</alttext>
+          <latex>\kappa_{T}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 327 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Progetto:Fisica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Progetto:Fisica</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/DT07364/html</html>
+    <json>https://goldbook.iupac.org/terms/view/DT07364/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/DT07364/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/DT07364/plain</plain>
+  </links>
+  <citation>Citation: 'Drude–Nernst equation (for electrostriction)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.DT07364</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:07:38+00:00</accessed>
+</term>

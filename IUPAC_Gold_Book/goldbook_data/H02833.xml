@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02833</id>
+  <doi>10.1351/goldbook.H02833</doi>
+  <code>H02833</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hold-up volume (time), VM, tM in column chromatography</longtitle>
+  <title>hold-up volume</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The volume of the mobile phase (or the corresponding time) required to elute a component the concentration of which in the stationary phase is negligible compared to that in the mobile phase. In other words, this component is not retained at all by the stationary phase. Thus, the hold-up volume (time) is equal to the retention volume (time) of an unretained compound. The hold-up volume (time) includes any volumes contributed by the sample injector, the detector, and connectors. tM = VMFc) is the gas hold-up volume multiplied by the compression (compressibility) correction factor (j):  VMo = VMj is negligible, </text>
+      <contexts>
+        <in>
+          <item>column chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>elute</title>
+          <url>https://goldbook.iupac.org/terms/view/E02041</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Hold-up time</meaning>
+          <type>equation</type>
+          <alttext>tM = VMFc</alttext>
+          <latex>t_{\text{M}}=\frac{V_{\text{M}}}{F_{\text{c}}}</latex>
+        </item>
+        <item>
+          <meaning>Corrected hold-up volume</meaning>
+          <type>quantity</type>
+          <alttext>VMo</alttext>
+          <latex>V_{\text{M}}^{\text{o}}</latex>
+        </item>
+        <item>
+          <meaning>Compression correction factor</meaning>
+          <type>quantity</type>
+          <alttext>j</alttext>
+          <latex>j</latex>
+        </item>
+        <item>
+          <meaning>Corrected hold-up volume</meaning>
+          <type>equation</type>
+          <alttext>VMo = VMj</alttext>
+          <latex>V_{\text{M}}^{\text{o}}=V_{\text{M}}\ j</latex>
+        </item>
+        <item>
+          <meaning>Hold-up volume</meaning>
+          <type>quantity</type>
+          <alttext>VM</alttext>
+          <latex>V_{\text{M}}</latex>
+        </item>
+        <item>
+          <meaning>Corrected hold-up volume</meaning>
+          <type>equation</type>
+          <alttext>VMo = VG</alttext>
+          <latex>V_{\text{M}}^{\text{o}}=V_{\text{G}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 841 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02833/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02833/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02833/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02833/plain</plain>
+  </links>
+  <citation>Citation: 'hold-up volume' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02833</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:52:32+00:00</accessed>
+</term>

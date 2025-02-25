@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04505</id>
+  <doi>10.1351/goldbook.P04505</doi>
+  <code>P04505</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - permeation chromatography</longtitle>
+  <title>permeation chromatography</title>
+  <contains>gel permeation chromatography</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Separation based mainly upon exclusion effects, such as differences in molecular size and/or shape (e.g. molecular-sieve chromatography) or in charge (e.g. ion-exclusion chromatography). The term gel-permeation chromatography is widely used for the process when the stationary phase is a gel. The term gel-filtration is not recommended.</text>
+      <links>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>exclusion chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/E02261</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+        <item>
+          <title>filtration</title>
+          <url>https://goldbook.iupac.org/terms/view/F02388</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 94 (https://media.iupac.org/publications/analytical_compendium/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - استشراب عبور الهلام (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/استشراب_عبور_الهلام</url>
+    </item>
+    <item>
+      <title>Wikipedia - كروماتوغرافيا نفاذية الهلام (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كروماتوغرافيا_نفاذية_الهلام</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04505/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04505/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04505/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04505/plain</plain>
+  </links>
+  <citation>Citation: 'permeation chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04505</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:14:45+00:00</accessed>
+</term>

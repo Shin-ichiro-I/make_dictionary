@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06911</id>
+  <doi>10.1351/goldbook.NT06911</doi>
+  <code>NT06911</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - no observed adverse effect level (NOAEL)</longtitle>
+  <title>no observed adverse effect level</title>
+  <abbrevs>
+    <item>NOAEL</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Greatest concentration or amount found by experiment or observation, which causes no detectable adverse alteration of morphology, functional capacity, growth, development, or life span of the target organism under defined conditions.</text>
+      <links>
+        <item>
+          <title>morphology</title>
+          <url>https://goldbook.iupac.org/terms/view/MT07285</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2003. 'Glossary for chemists of terms used in toxicology (IUPAC Recommendations 1993)' on page 2076 (https://doi.org/10.1351/pac199365092003)</item>
+        <item>PAC, 2001, 73, 993. 'Risk assessment for occupational exposure to chemicals. A review of current methodology (IUPAC Technical Report)' on page 1023 (https://doi.org/10.1351/pac200173060993)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - NOAEL (it)</title>
+      <url>https://it.wikipedia.org/wiki/NOAEL</url>
+    </item>
+    <item>
+      <title>Wikipedia - مستوى التأثير الضار غير الملاحظ (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مستوى_التأثير_الضار_غير_الملاحظ</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/NT06911/html</html>
+    <json>https://goldbook.iupac.org/terms/view/NT06911/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/NT06911/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/NT06911/plain</plain>
+  </links>
+  <citation>Citation: 'no observed adverse effect level' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.NT06911</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:56:41+00:00</accessed>
+</term>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07106</id>
+  <doi>10.1351/goldbook.ST07106</doi>
+  <code>ST07106</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spin projection</longtitle>
+  <title>spin projection</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A component, M S, of the angular spin moment S along an arbitrary axis (usually chosen as the z-direction). M S can take the values between -S and S: -S, -S + 1,..., S- 1, S. The term is also used to denote an operation (spin-symmetry projection) allowing one to eliminate spin contamination in the cases where wavefunctions are not eigenfunctions of the operator S 2.</text>
+      <links>
+        <item>
+          <title>spin contamination</title>
+          <url>https://goldbook.iupac.org/terms/view/ST07103</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>M S</alttext>
+          <latex>M_{S}</latex>
+        </item>
+        <item>
+          <alttext>S</alttext>
+          <latex>S</latex>
+        </item>
+        <item>
+          <alttext>M S</alttext>
+          <latex>M_{S}</latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>-S</alttext>
+          <latex>-S</latex>
+        </item>
+        <item>
+          <alttext>S</alttext>
+          <latex>S</latex>
+        </item>
+        <item>
+          <alttext>-S</alttext>
+          <latex>-S</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>-S + 1</alttext>
+          <latex>-S + 1</latex>
+        </item>
+        <item>
+          <alttext>S- 1</alttext>
+          <latex>S- 1</latex>
+        </item>
+        <item>
+          <alttext>S</alttext>
+          <latex>S</latex>
+        </item>
+        <item>
+          <alttext>S 2</alttext>
+          <latex>S^{2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1963 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ST07106/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ST07106/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ST07106/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ST07106/plain</plain>
+  </links>
+  <citation>Citation: 'spin projection' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ST07106</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:19:06+00:00</accessed>
+</term>

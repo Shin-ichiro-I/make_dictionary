@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04799</id>
+  <doi>10.1351/goldbook.P04799</doi>
+  <code>P04799</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - precision</longtitle>
+  <title>precision</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The closeness of agreement between independent test results obtained by applying the experimental procedure under stipulated conditions. The smaller the random part of the experimental errors which affect the results, the more precise the procedure. A measure of precision (or imprecision) is the standard deviation.</text>
+      <notes>
+        <item>As recognized in VIM, precision is sometimes misused for accuracy (of measurement). This problem will be avoided if one recognizes that precision relates only to dispersion, not to deviation (of measurement) from the (conventional) true value. Imprecision has been defined as 'the standard error of the reported value'.</item>
+      </notes>
+      <links>
+        <item>
+          <title>standard deviation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05911</url>
+        </item>
+        <item>
+          <title>accuracy (of measurement)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00060</url>
+        </item>
+        <item>
+          <title>standard deviation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05911</url>
+        </item>
+        <item>
+          <title>accuracy (of measurement)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00060</url>
+        </item>
+        <item>
+          <title>deviation (of measurement)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01650</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 6 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1994, 66, 595. 'Nomenclature for the presentation of results of chemical analysis (IUPAC Recommendations 1994)' on page 598 (https://doi.org/10.1351/pac199466030595)</item>
+        <item>VIM (https://www.iso.org/standard/45321.html)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2207 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2174 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Precisione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Precisione</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04799/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04799/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04799/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04799/plain</plain>
+  </links>
+  <citation>Citation: 'precision' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04799</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:31:09+00:00</accessed>
+</term>

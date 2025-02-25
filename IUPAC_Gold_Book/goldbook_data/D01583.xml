@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01583</id>
+  <doi>10.1351/goldbook.D01583</doi>
+  <code>D01583</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - delocalization</longtitle>
+  <title>delocalization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A quantum mechanical concept most usually applied in organic chemistry to describe the π-bonding in a conjugated system. This bonding is not localized between two atoms: instead, each link has a 'fractional double bond character' or bond order. There is a corresponding 'delocalization energy', identifiable with the stabilization of the system compared with a hypothetical alternative in which formal (localized) single and double bonds are present. Some degree of delocalization is always present and can be estimated by quantum mechanical calculations. The effects are particularly evident in aromatic systems and in symmetrical molecular entities in which a lone pair of electrons or a vacant p-orbital is conjugated with a double bond (e.g. carboxylate ions, nitro compounds, enamines, the allyl cation). Delocalization in such species may be represented by partial bonds or as resonance (here symbolized by a two-headed arrow) between contributing structures. [image: Not defined] [image: Not defined] These examples also illustrate the concomitant delocalization of charge in ionic conjugated systems. Analogously, delocalization of the spin of an unpaired electron occurs in conjugated radicals.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01583-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01583-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>mesomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03845</url>
+        </item>
+        <item>
+          <title>mesomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03845</url>
+        </item>
+        <item>
+          <title>conjugated system</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>bond order</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>contributing structures</title>
+          <url>https://goldbook.iupac.org/terms/view/C01309</url>
+        </item>
+        <item>
+          <title>radicals</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>mesomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03845</url>
+        </item>
+        <item>
+          <title>conjugated system</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>bond order</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>contributing structures</title>
+          <url>https://goldbook.iupac.org/terms/view/C01309</url>
+        </item>
+        <item>
+          <title>radicals</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>nitro compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/N04158</url>
+        </item>
+        <item>
+          <title>enamines</title>
+          <url>https://goldbook.iupac.org/terms/view/E02066</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1104 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Delocalized electron (en)</title>
+      <url>https://en.wikipedia.org/wiki/Delocalized_electron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Delocalized electron (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Delocalized_electron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Delokalisierung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Delokalisierung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Delokalizace elektronů (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Delokalizace_elektronů</url>
+    </item>
+    <item>
+      <title>Wikipedia - Delokalizált elektron (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Delokalizált_elektron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deslocalização eletrônica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Deslocalização_eletrônica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Délocalisation électronique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Délocalisation_électronique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektron dinyahsetempatkan (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Elektron_dinyahsetempatkan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elettrone delocalizzato (it)</title>
+      <url>https://it.wikipedia.org/wiki/Elettrone_delocalizzato</url>
+    </item>
+    <item>
+      <title>Wikipedia - Leictreon dílocáilte (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Leictreon_dílocáilte</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Resonance (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Resonance_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wiązanie wielokrotne (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Wiązanie_wielokrotne</url>
+    </item>
+    <item>
+      <title>Wikipedia - Yöresizleşmiş elektron (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Yöresizleşmiş_elektron</url>
+    </item>
+    <item>
+      <title>Wikipedia - إلكترون غير متمركز (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إلكترون_غير_متمركز</url>
+    </item>
+    <item>
+      <title>Wikipedia - الکترون نامتمرکز (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/الکترون_نامتمرکز</url>
+    </item>
+    <item>
+      <title>Wikipedia - بحث:الکترون نامتمرکز (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/بحث:الکترون_نامتمرکز</url>
+    </item>
+    <item>
+      <title>Wikipedia - विस्थापित इलेक्ट्रॉन (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/विस्थापित_इलेक्ट्रॉन</url>
+    </item>
+    <item>
+      <title>Wikipedia - সঞ্চারিত ইলেকট্রন (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/সঞ্চারিত_ইলেকট্রন</url>
+    </item>
+    <item>
+      <title>Wikipedia - 離域電子 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/離域電子</url>
+    </item>
+    <item>
+      <title>Wikipedia - 非局在化電子 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/非局在化電子</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01583/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01583/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01583/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01583/plain</plain>
+  </links>
+  <citation>Citation: 'delocalization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01583</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:55:29+00:00</accessed>
+</term>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01799</id>
+  <doi>10.1351/goldbook.D01799</doi>
+  <code>D01799</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - disproportionation</longtitle>
+  <title>disproportionation</title>
+  <contains>radical disproportionation</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any chemical reaction of the type [image: Not defined], where A, A' and A'' are different chemical species. For example: [image: Not defined] The reverse of disproportionation is called comproportionation. A special case of disproportionation (or 'dismutation') is 'radical disproportionation', exemplified by: [image: Not defined] Reactions of the more general type: [image: Not defined] are also loosely described as radical disproportionations. Source:   PAC, 1994, 66, 1077 (Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994))  on page 1107  The following somewhat more restricted usage of the term prevails in inorganic chemistry.  PAC, 1994, 66, 577 (Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994))  on page 581 </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01799-0.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01799-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01799-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01799-3.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>comproportionation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01217</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1107 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+    <item>
+      <id>2</id>
+      <text>A reversible or irreversible transition in which species with the same oxidation state combine to yield one of higher oxidation state and one of lower oxidation state. Example: [image: Not defined] The term also applies to an internal oxidation-reduction process as occurs, for example, among the iron atoms of CaFeO3, where [image: Not defined], at Fe subarrays on lowering the temperature. Source:   PAC, 1994, 66, 577 (Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994))  on page 581 </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01799-4.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01799-5.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>reversible</title>
+          <url>https://goldbook.iupac.org/terms/view/R05379</url>
+        </item>
+        <item>
+          <title>irreversible transition</title>
+          <url>https://goldbook.iupac.org/terms/view/I03258</url>
+        </item>
+        <item>
+          <title>reversible</title>
+          <url>https://goldbook.iupac.org/terms/view/R05379</url>
+        </item>
+        <item>
+          <title>irreversible transition</title>
+          <url>https://goldbook.iupac.org/terms/view/I03258</url>
+        </item>
+        <item>
+          <title>oxidation state</title>
+          <url>https://goldbook.iupac.org/terms/view/O04365</url>
+        </item>
+        <item>
+          <title>oxidation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04362</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 581 (https://doi.org/10.1351/pac199466030577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Benson group increment theory (en)</title>
+      <url>https://en.wikipedia.org/wiki/Benson_group_increment_theory</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dismutazione (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Dismutazione_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disproporcionace (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Disproporcionace</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disproporcionēšanās (lv)</title>
+      <url>https://lv.wikipedia.org/wiki/Disproporcionēšanās</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disproportionation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Disproportionation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disproportionierung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Disproportionierung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dysproporcjonowanie (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Dysproporcjonowanie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Komproporcjonowanie (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Komproporcjonowanie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pendiskadaran (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Pendiskadaran</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Comproportionation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Comproportionation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tự oxy hóa khử (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Tự_oxy_hóa_khử</url>
+    </item>
+    <item>
+      <title>Wikipedia - Диспропорционација (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Диспропорционација</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفاعل عدم تناسب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تفاعل_عدم_تناسب</url>
+    </item>
+    <item>
+      <title>Wikipedia - 불균등화 반응 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/불균등화_반응</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01799/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01799/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01799/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01799/plain</plain>
+  </links>
+  <citation>Citation: 'disproportionation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01799</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:04:21+00:00</accessed>
+</term>

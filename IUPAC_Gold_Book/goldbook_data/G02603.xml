@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02603</id>
+  <doi>10.1351/goldbook.G02603</doi>
+  <code>G02603</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - geminate recombination</longtitle>
+  <title>geminate recombination</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This expression refers to the reaction, with each other, of two transient species produced from a common precursor in solution. If reaction occurs before any separation by diffusion has occurred, this is termed primary geminate recombination. If the mutually reactive entities have been separated, and come together by diffusion, this is termed secondary geminate recombination. This is illustrated in the reaction diagram below: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/G02603.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>cage</title>
+          <url>https://goldbook.iupac.org/terms/view/C00769</url>
+        </item>
+        <item>
+          <title>cage</title>
+          <url>https://goldbook.iupac.org/terms/view/C00769</url>
+        </item>
+        <item>
+          <title>transient species</title>
+          <url>https://goldbook.iupac.org/terms/view/T06451</url>
+        </item>
+        <item>
+          <title>cage</title>
+          <url>https://goldbook.iupac.org/terms/view/C00769</url>
+        </item>
+        <item>
+          <title>transient species</title>
+          <url>https://goldbook.iupac.org/terms/view/T06451</url>
+        </item>
+        <item>
+          <title>diffusion</title>
+          <url>https://goldbook.iupac.org/terms/view/D01716</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1117 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 166 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cage effect (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cage_effect</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02603/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02603/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02603/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02603/plain</plain>
+  </links>
+  <citation>Citation: 'geminate recombination' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02603</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:40:52+00:00</accessed>
+</term>

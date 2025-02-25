@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05996</id>
+  <doi>10.1351/goldbook.S05996</doi>
+  <code>S05996</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - steric-approach control</longtitle>
+  <title>steric-approach control</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Control of stereoselectivity of a reaction by steric hindrance towards attack of the reagent, which is directed to the less hindered face of the molecule. Partial bond making is strong enough at the transition state for steric control to take place. This suggests that the transition state should not be close to products.</text>
+      <links>
+        <item>
+          <title>product development control</title>
+          <url>https://goldbook.iupac.org/terms/view/P04863</url>
+        </item>
+        <item>
+          <title>product development control</title>
+          <url>https://goldbook.iupac.org/terms/view/P04863</url>
+        </item>
+        <item>
+          <title>stereoselectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05991</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>product development control</title>
+          <url>https://goldbook.iupac.org/terms/view/P04863</url>
+        </item>
+        <item>
+          <title>stereoselectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05991</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>steric hindrance</title>
+          <url>https://goldbook.iupac.org/terms/view/S06000</url>
+        </item>
+        <item>
+          <title>reagent</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1168 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05996/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05996/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05996/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05996/plain</plain>
+  </links>
+  <citation>Citation: 'steric-approach control' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05996</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:25:32+00:00</accessed>
+</term>

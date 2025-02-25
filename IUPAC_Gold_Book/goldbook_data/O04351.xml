@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04351</id>
+  <doi>10.1351/goldbook.O04351</doi>
+  <code>O04351</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - outer-sphere electron transfer</longtitle>
+  <title>outer-sphere electron transfer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An outer-sphere electron transfer is a reaction in which the electron transfer takes place with no or very weak (4-16 kJ mol-1 - ) electronic interaction between the reactants in the transition state. If instead the donor and the acceptor exhibit a strong electronic coupling, the reaction is described as inner-sphere electron transfer. The two terms derive from studies concerning metal complexes and it has been suggested that for organic reactions the term 'nonbonded' and 'bonded' electron transfer should be used.</text>
+      <links>
+        <item>
+          <title>inner-sphere electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03052</url>
+        </item>
+        <item>
+          <title>inner-sphere electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03052</url>
+        </item>
+        <item>
+          <title>electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02011</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/C01025</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>4-16 kilojoules per mole</meaning>
+          <type>numeric value</type>
+          <alttext>4-16 kJ mol-1</alttext>
+          <latex>\pu{4\!{-}\! 16 kJ mol-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1148 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2257 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Outer sphere electron transfer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Outer_sphere_electron_transfer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Přenos elektronu ve vnější sféře (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Přenos_elektronu_ve_vnější_sféře</url>
+    </item>
+    <item>
+      <title>Wikipedia - Přesun elektronu ve vnější sféře (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Přesun_elektronu_ve_vnější_sféře</url>
+    </item>
+    <item>
+      <title>Wikipedia - Redox (en)</title>
+      <url>https://en.wikipedia.org/wiki/Redox</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04351/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04351/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04351/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04351/plain</plain>
+  </links>
+  <citation>Citation: 'outer-sphere electron transfer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04351</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:07:36+00:00</accessed>
+</term>

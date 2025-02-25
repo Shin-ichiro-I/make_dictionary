@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01005</id>
+  <doi>10.1351/goldbook.C01005</doi>
+  <code>C01005</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - charge-transfer reaction, in mass spectrometry</longtitle>
+  <title>charge-transfer reaction</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An ion/neutral species reaction wherein the total charge on the reactant ion is transferred initially to the reactant neutral species so that the reactant ion becomes a neutral entity. Considering some of the possible reactions of ions M2+, M+ and M− with a neutral species X, these would be further categorized as follows: [image: Not defined] [image: Not defined] [image: Not defined] All are ion/neutral species reactions and also charge permutation reactions.</text>
+      <contexts>
+        <in>
+          <item>mass spectrometry</item>
+        </in>
+      </contexts>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C01005-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C01005-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C01005-3.png</file>
+        </item>
+      </chemicals>
+      <sources>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1555 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Gas-phase ion chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Gas-phase_ion_chemistry</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01005/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01005/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01005/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01005/plain</plain>
+  </links>
+  <citation>Citation: 'charge-transfer reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01005</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:28:41+00:00</accessed>
+</term>

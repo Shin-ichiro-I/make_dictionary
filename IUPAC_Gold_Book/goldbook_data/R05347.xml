@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05347</id>
+  <doi>10.1351/goldbook.R05347</doi>
+  <code>R05347</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - responsivity, R, in detection of radiation</longtitle>
+  <title>responsivity</title>
+  <contains>dark current, dark output, dark resistance, relative responsivity, spectral responsivity function, useful spectral range</contains>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Detector input can be e.g. radiant power, irradiation, radiant energy. It produces a measurable detector output which may be e.g. an electrical charge, an electrical current or potential or a change in pressure. The ratio of the detector output and the detector input is defined as the responsivity. It is given in e.g. ampere/watt, volt/watt. The responsivity is a special case of the general term sensitivity. Dark current is the term for the electrical output of a detector in the absence of input. This is a special case of the general term dark output. For photoconductive detectors the term dark resistance is used. If the responsivity is normalized with regard to that obtained from a reference radiation the resulting ratio is called relative responsivity. For measurements with monochromatic radiation at a given wavelength the term spectral responsivityR λ is used. In some cases the relative spectral responsivity, where the spectral responsivity is normalized with respect to the responsivity at some given wavelength, is used. The dependence of the spectral responsivity on the wavelength is described by the spectral responsivity function. The useful spectral range of the detector should be given as the wavelength range where the relative responsivity does not fall below a specified value.</text>
+      <contexts>
+        <in>
+          <item>detection of radiation</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05046</url>
+        </item>
+        <item>
+          <title>irradiation</title>
+          <url>https://goldbook.iupac.org/terms/view/I03255</url>
+        </item>
+        <item>
+          <title>radiant energy</title>
+          <url>https://goldbook.iupac.org/terms/view/R05039</url>
+        </item>
+        <item>
+          <title>ampere</title>
+          <url>https://goldbook.iupac.org/terms/view/A00300</url>
+        </item>
+        <item>
+          <title>watt</title>
+          <url>https://goldbook.iupac.org/terms/view/W06656</url>
+        </item>
+        <item>
+          <title>volt</title>
+          <url>https://goldbook.iupac.org/terms/view/V06634</url>
+        </item>
+        <item>
+          <title>wavelength (in metrology and analytical chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>spectral responsivity (in metrology and analytical chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05829</url>
+        </item>
+        <item>
+          <title>relative spectral responsivity (in metrology and analytical chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05279</url>
+        </item>
+        <item>
+          <title>radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05046</url>
+        </item>
+        <item>
+          <title>irradiation</title>
+          <url>https://goldbook.iupac.org/terms/view/I03255</url>
+        </item>
+        <item>
+          <title>radiant energy</title>
+          <url>https://goldbook.iupac.org/terms/view/R05039</url>
+        </item>
+        <item>
+          <title>ampere</title>
+          <url>https://goldbook.iupac.org/terms/view/A00300</url>
+        </item>
+        <item>
+          <title>watt</title>
+          <url>https://goldbook.iupac.org/terms/view/W06656</url>
+        </item>
+        <item>
+          <title>volt</title>
+          <url>https://goldbook.iupac.org/terms/view/V06634</url>
+        </item>
+        <item>
+          <title>wavelength (in metrology and analytical chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>spectral responsivity (in metrology and analytical chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05829</url>
+        </item>
+        <item>
+          <title>relative spectral responsivity (in metrology and analytical chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05279</url>
+        </item>
+        <item>
+          <title>sensitivity (in metrology and analytical chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05606</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>R λ</alttext>
+          <latex>R(\lambda)</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 1745. 'Nomenclature, symbols, units and their usage in spectrochemical analysis-XI. Detection of radiation (IUPAC Recommendations 1995)' on page 1749 (https://doi.org/10.1351/pac199567101745)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05347/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05347/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05347/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05347/plain</plain>
+  </links>
+  <citation>Citation: 'responsivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05347</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:55:27+00:00</accessed>
+</term>

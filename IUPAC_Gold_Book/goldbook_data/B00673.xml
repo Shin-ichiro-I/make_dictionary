@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00673</id>
+  <doi>10.1351/goldbook.B00673</doi>
+  <code>B00673</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - bisecting conformation (eclipsing conformation)</longtitle>
+  <title>bisecting conformation</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For a structure containing the grouping R3C–C(Y)=X (with identical or different groups R ) the conformation in which the torsion angle is such that X is antiperiplanar to one of the groups R , and, in a Newman projection, the double bond C=X bisects one of the R–C–R angles. In this conformation the bond C–Yeclipses one of the C–R bonds. The other conformation, in which X is synperiplanar to one of the groups R , is called an eclipsing conformation. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/B00673.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>torsion angle</title>
+          <url>https://goldbook.iupac.org/terms/view/T06406</url>
+        </item>
+        <item>
+          <title>antiperiplanar</title>
+          <url>https://goldbook.iupac.org/terms/view/A00402</url>
+        </item>
+        <item>
+          <title>Newman projection</title>
+          <url>https://goldbook.iupac.org/terms/view/N04134</url>
+        </item>
+        <item>
+          <title>eclipses</title>
+          <url>https://goldbook.iupac.org/terms/view/E01884</url>
+        </item>
+        <item>
+          <title>synperiplanar</title>
+          <url>https://goldbook.iupac.org/terms/view/S06231</url>
+        </item>
+        <item>
+          <title>eclipsing conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/E01885</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2201 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Конформация (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Конформация</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00673/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00673/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00673/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00673/plain</plain>
+  </links>
+  <citation>Citation: 'bisecting conformation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00673</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:11:44+00:00</accessed>
+</term>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03355</id>
+  <doi>10.1351/goldbook.I03355</doi>
+  <code>I03355</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isotropic pitch-based carbon fibres</longtitle>
+  <title>isotropic pitch-based carbon fibres</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Carbon fibres obtained by carbonization of isotropicpitch fibres after these have been stabilized (i.e. made non-fusible).</text>
+      <notes>
+        <item>During fabrication of isotropic pitch-based carbon fibres no means (neither mechanical nor chemical) are applied to achieve preferred orientation of the polyaromatic molecules in the fibre direction. They belong to the carbon fibres type LM (low modulus), and because of the relatively low values of strength and Young's modulus this pitch-based carbon fibres type is not used for high-performance reinforcement purposes.</item>
+      </notes>
+      <links>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>pitch-based carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/P04678</url>
+        </item>
+        <item>
+          <title>Young's modulus</title>
+          <url>https://goldbook.iupac.org/terms/view/M03966</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>pitch-based carbon fibre</title>
+          <url>https://goldbook.iupac.org/terms/view/P04678</url>
+        </item>
+        <item>
+          <title>Young's modulus</title>
+          <url>https://goldbook.iupac.org/terms/view/M03966</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>carbon fibres type LM</title>
+          <url>https://goldbook.iupac.org/terms/view/C00836</url>
+        </item>
+        <item>
+          <title>Carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00831</url>
+        </item>
+        <item>
+          <title>carbonization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00840</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 495 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03355/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03355/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03355/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03355/plain</plain>
+  </links>
+  <citation>Citation: 'isotropic pitch-based carbon fibres' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03355</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:15:55+00:00</accessed>
+</term>

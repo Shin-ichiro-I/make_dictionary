@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04073</id>
+  <doi>10.1351/goldbook.M04073</doi>
+  <code>M04073</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mutarotation</longtitle>
+  <title>mutarotation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The change in optical rotation accompanying epimerization. In sugar chemistry this term usually refers to epimerization at the hemiacetal carbon atom.</text>
+      <links>
+        <item>
+          <title>optical rotation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04312</url>
+        </item>
+        <item>
+          <title>epimerization</title>
+          <url>https://goldbook.iupac.org/terms/view/E02166</url>
+        </item>
+        <item>
+          <title>optical rotation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04312</url>
+        </item>
+        <item>
+          <title>epimerization</title>
+          <url>https://goldbook.iupac.org/terms/view/E02166</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2212 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Mutarotaatio (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Mutarotaatio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mutarotació (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Mutarotació</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mutarotation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Mutarotation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mutarotation (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Mutarotation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mutarotazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Mutarotazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mutarotație (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Mutarotație</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mutarotácia (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Mutarotácia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mutarrotación (es)</title>
+      <url>https://es.wikipedia.org/wiki/Mutarrotación</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mutarrotación (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Mutarrotación</url>
+    </item>
+    <item>
+      <title>Wikipedia - Мутаротация (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Мутаротация</url>
+    </item>
+    <item>
+      <title>Wikipedia - Мутаротація (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Мутаротація</url>
+    </item>
+    <item>
+      <title>Wikipedia - মিউটাঘূর্ণন (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/মিউটাঘূর্ণন</url>
+    </item>
+    <item>
+      <title>Wikipedia - 변광회전 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/변광회전</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M04073/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M04073/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M04073/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M04073/plain</plain>
+  </links>
+  <citation>Citation: 'mutarotation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M04073</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:51:25+00:00</accessed>
+</term>

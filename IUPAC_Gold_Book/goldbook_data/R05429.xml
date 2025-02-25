@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05429</id>
+  <doi>10.1351/goldbook.R05429</doi>
+  <code>R05429</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Rutherford backscattering (RBS)</longtitle>
+  <title>Rutherford backscattering</title>
+  <synonyms>
+    <item>backscattering spectroscopy</item>
+  </synonyms>
+  <abbrevs>
+    <item>BSS</item>
+    <item>RBS</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any technique using high energy particles directed toward a sample, in which the bombarding particles are detected and recorded as function of energy and/or angle. The technique is mostly used for determining depth distributions of elements based on the energy of the backscattered particle. In general, He+ or H+ particles are used at energies in the order of 100 keV to some MeV. Also referred to as backscattering spectrometry (BSS).</text>
+      <links>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>spectrometry</title>
+          <url>https://goldbook.iupac.org/terms/view/S05848</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>100 keV</alttext>
+          <latex>100\ \text{keV}</latex>
+        </item>
+        <item>
+          <alttext>MeV</alttext>
+          <latex>\mathrm{MeV}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1979, 51, 2243. 'General aspects of trace analytical methods—IV. Recommendations for nomenclature, standard procedures and reporting of experimental data for surface analysis techniques' on page 2246 (https://doi.org/10.1351/pac197951112243)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05429/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05429/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05429/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05429/plain</plain>
+  </links>
+  <citation>Citation: 'Rutherford backscattering' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05429</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:59:15+00:00</accessed>
+</term>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00465</id>
+  <doi>10.1351/goldbook.A00465</doi>
+  <code>A00465</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aryne</longtitle>
+  <title>aryne</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A hydrocarbon derived from an arene by abstraction of two hydrogen atoms from adjacent carbon atoms; thus 1,2-didehydroarene. Arynes are commonly represented with a formal triple bond. The analogous heterocyclic compounds are called heteroarynes or hetarynes. For example, benzyne: [image: Not defined] Arynes are usually transient species.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00465.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>benzynes</title>
+          <url>https://goldbook.iupac.org/terms/view/B00634</url>
+        </item>
+        <item>
+          <title>dehydroarenes</title>
+          <url>https://goldbook.iupac.org/terms/view/D01574</url>
+        </item>
+        <item>
+          <title>heteroarynes</title>
+          <url>https://goldbook.iupac.org/terms/view/H02793</url>
+        </item>
+        <item>
+          <title>benzynes</title>
+          <url>https://goldbook.iupac.org/terms/view/B00634</url>
+        </item>
+        <item>
+          <title>dehydroarenes</title>
+          <url>https://goldbook.iupac.org/terms/view/D01574</url>
+        </item>
+        <item>
+          <title>heteroarynes</title>
+          <url>https://goldbook.iupac.org/terms/view/H02793</url>
+        </item>
+        <item>
+          <title>hydrocarbon</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>arene</title>
+          <url>https://goldbook.iupac.org/terms/view/A00435</url>
+        </item>
+        <item>
+          <title>benzynes</title>
+          <url>https://goldbook.iupac.org/terms/view/B00634</url>
+        </item>
+        <item>
+          <title>dehydroarenes</title>
+          <url>https://goldbook.iupac.org/terms/view/D01574</url>
+        </item>
+        <item>
+          <title>heteroarynes</title>
+          <url>https://goldbook.iupac.org/terms/view/H02793</url>
+        </item>
+        <item>
+          <title>hydrocarbon</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>arene</title>
+          <url>https://goldbook.iupac.org/terms/view/A00435</url>
+        </item>
+        <item>
+          <title>abstraction</title>
+          <url>https://goldbook.iupac.org/terms/view/A00045</url>
+        </item>
+        <item>
+          <title>heterocyclic compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/H02798</url>
+        </item>
+        <item>
+          <title>hetarynes</title>
+          <url>https://goldbook.iupac.org/terms/view/H02789</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1086 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1320 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Arină (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Arină</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aryne (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aryne</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bensyn (af)</title>
+      <url>https://af.wikipedia.org/wiki/Bensyn</url>
+    </item>
+    <item>
+      <title>Wikipedia - أراين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أراين</url>
+    </item>
+    <item>
+      <title>Wikipedia - റിയാക്ടീവ് ഇന്റർമീഡിയേറ്റ് (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/റിയാക്ടീവ്_ഇന്റർമീഡിയേറ്റ്</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00465/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00465/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00465/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00465/plain</plain>
+  </links>
+  <citation>Citation: 'aryne' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00465</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:59:54+00:00</accessed>
+</term>

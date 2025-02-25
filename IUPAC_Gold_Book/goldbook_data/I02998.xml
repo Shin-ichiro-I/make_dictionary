@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02998</id>
+  <doi>10.1351/goldbook.I02998</doi>
+  <code>I02998</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - inclusion compound (inclusion complex)</longtitle>
+  <title>inclusion compound</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A complex in which one component (the host) forms a cavity or, in the case of a crystal, a crystal lattice containing spaces in the shape of long tunnels or channels in which molecular entities of a second chemical species (the guest) are located. There is no covalent bonding between guest and host, the attraction being generally due to van der Waals forces. If the spaces in the host lattice are enclosed on all sides so that the guest species is 'trapped' as in a cage, such compounds are known as clathrates or 'cage compounds'.</text>
+      <links>
+        <item>
+          <title>crown</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>cryptand, cryptate</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>intercalation compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/I03076</url>
+        </item>
+        <item>
+          <title>crown</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>cryptand, cryptate</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>intercalation compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/I03076</url>
+        </item>
+        <item>
+          <title>complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>host (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02859</url>
+        </item>
+        <item>
+          <title>guest (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02711</url>
+        </item>
+        <item>
+          <title>van der Waals forces (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/V06597</url>
+        </item>
+        <item>
+          <title>clathrates (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01097</url>
+        </item>
+        <item>
+          <title>crown</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>cryptand, cryptate</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>intercalation compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/I03076</url>
+        </item>
+        <item>
+          <title>complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>host (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02859</url>
+        </item>
+        <item>
+          <title>guest (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02711</url>
+        </item>
+        <item>
+          <title>van der Waals forces (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/V06597</url>
+        </item>
+        <item>
+          <title>clathrates (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01097</url>
+        </item>
+        <item>
+          <title>cage (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00769</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1124 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1344 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Complejo de inclusión (es)</title>
+      <url>https://es.wikipedia.org/wiki/Complejo_de_inclusión</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composé d'inclusion (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Composé_d'inclusion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Einschlussverbindungen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Einschlussverbindungen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Host–guest chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Host–guest_chemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Inclusion compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Inclusion_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Methanhydrat (de)</title>
+      <url>https://de.wikipedia.org/wiki/Methanhydrat</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02998/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02998/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02998/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02998/plain</plain>
+  </links>
+  <citation>Citation: 'inclusion compound' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02998</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:01:38+00:00</accessed>
+</term>

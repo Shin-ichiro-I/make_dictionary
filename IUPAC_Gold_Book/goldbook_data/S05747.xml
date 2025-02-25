@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05747</id>
+  <doi>10.1351/goldbook.S05747</doi>
+  <code>S05747</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - solvation</longtitle>
+  <title>solvation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any stabilizing interaction of a solute (or solute moiety) and the solvent or a similar interaction of solvent with groups of an insoluble material (i.e. the ionic groups of an ion-exchange resin). Such interactions generally involve electrostatic forces and van der Waals forces, as well as chemically more specific effects such as hydrogen bond formation.</text>
+      <links>
+        <item>
+          <title>cybotactic region</title>
+          <url>https://goldbook.iupac.org/terms/view/C01490</url>
+        </item>
+        <item>
+          <title>cybotactic region</title>
+          <url>https://goldbook.iupac.org/terms/view/C01490</url>
+        </item>
+        <item>
+          <title>moiety</title>
+          <url>https://goldbook.iupac.org/terms/view/M03968</url>
+        </item>
+        <item>
+          <title>resin</title>
+          <url>https://goldbook.iupac.org/terms/view/RT07166</url>
+        </item>
+        <item>
+          <title>cybotactic region</title>
+          <url>https://goldbook.iupac.org/terms/view/C01490</url>
+        </item>
+        <item>
+          <title>moiety</title>
+          <url>https://goldbook.iupac.org/terms/view/M03968</url>
+        </item>
+        <item>
+          <title>resin</title>
+          <url>https://goldbook.iupac.org/terms/view/RT07166</url>
+        </item>
+        <item>
+          <title>van der Waals forces</title>
+          <url>https://goldbook.iupac.org/terms/view/V06597</url>
+        </item>
+        <item>
+          <title>hydrogen bond</title>
+          <url>https://goldbook.iupac.org/terms/view/H02899</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1164 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Solvatación (es)</title>
+      <url>https://es.wikipedia.org/wiki/Solvatación</url>
+    </item>
+    <item>
+      <title>Wikipedia - Solvatazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Solvatazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Solvation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Solvation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Solvatisierung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Solvatisierung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Сольватациясь (mdf)</title>
+      <url>https://mdf.wikipedia.org/wiki/Сольватациясь</url>
+    </item>
+    <item>
+      <title>Wikipedia - تذاوب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تذاوب</url>
+    </item>
+    <item>
+      <title>Wikipedia - حلال‌پوشی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/حلال‌پوشی</url>
+    </item>
+    <item>
+      <title>Wikipedia - 溶劑化 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/溶劑化</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05747/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05747/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05747/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05747/plain</plain>
+  </links>
+  <citation>Citation: 'solvation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05747</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:14:10+00:00</accessed>
+</term>

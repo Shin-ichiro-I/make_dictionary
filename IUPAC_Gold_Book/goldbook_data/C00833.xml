@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00833</id>
+  <doi>10.1351/goldbook.C00833</doi>
+  <code>C00833</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbon fibres type HM</longtitle>
+  <title>carbon fibres type HM</title>
+  <abbrevs>
+    <item>HM</item>
+    <item>UHM</item>
+  </abbrevs>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Carbon fibres type HM (high modulus) are carbon fibres with a value of Young's modulus (tensile modulus) larger than 300 GPa (nearly 30% of the C11 elastic constant of a graphite single crystal).</text>
+      <notes>
+        <item>The level of the tensile modulus of carbon fibres is controlled by the degree of preferred orientation of the layer planes in the direction parallel to the fibre axis. C11, the elastic constant of graphite single crystals in the direction of the layer planes, is 1060 ± 20 GPa. In general, the ratio of tensile strength to tensile modulus is smaller than 1 x 10E-2 for carbon fibres type HM (but the tensile strength is influenced by flaws in the fibres and may be improved in the future). Carbon fibres type UHM (ultra-high modulus) have moduli of elasticity in excess of 600 GPa, surpassing 50% of the theoretical C11 number. Such high values of Young's modulus can be achieved most readily in mesophase pitch-based carbon fibres (MPP-based carbon fibres).</item>
+      </notes>
+      <links>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>Young's modulus</title>
+          <url>https://goldbook.iupac.org/terms/view/Y06733</url>
+        </item>
+        <item>
+          <title>mesophase pitch-based carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/M03851</url>
+        </item>
+        <item>
+          <title>MPP-based carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/M04038</url>
+        </item>
+        <item>
+          <title>carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00831</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>300 GPa</alttext>
+          <latex>300\ \text{GPa}</latex>
+        </item>
+        <item>
+          <alttext>C11</alttext>
+          <latex>C_{11}</latex>
+        </item>
+        <item>
+          <alttext>C11</alttext>
+          <latex>C_{11}</latex>
+        </item>
+        <item>
+          <alttext>1060 ± 20 GPa</alttext>
+          <latex>1060\ \pm 20\ \text{GPa}</latex>
+        </item>
+        <item>
+          <type>numeric value</type>
+          <alttext>1 x 10E-2</alttext>
+          <latex>1 \times 10^{-2}</latex>
+        </item>
+        <item>
+          <alttext>600 GPa</alttext>
+          <latex>600\ \text{GPa}</latex>
+        </item>
+        <item>
+          <alttext>C11</alttext>
+          <latex>C_{11}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 481 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fibra di carbonio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fibra_di_carbonio</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00833/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00833/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00833/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00833/plain</plain>
+  </links>
+  <citation>Citation: 'carbon fibres type HM' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00833</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:20:51+00:00</accessed>
+</term>

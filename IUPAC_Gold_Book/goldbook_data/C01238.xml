@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01238</id>
+  <doi>10.1351/goldbook.C01238</doi>
+  <code>C01238</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - condensation reaction</longtitle>
+  <title>condensation reaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A (usually stepwise) reaction in which two or more reactants (or remote reactive sites within the same molecular entity) yield a single main product with accompanying formation of water or of some other small molecule, e.g. ammonia, ethanol, acetic acid, hydrogen sulfide. The mechanism of many condensation reactions has been shown to comprise consecutive addition and elimination reactions, as in the base-catalysed formation of (E)-but-2-enal (crotonaldehyde) from acetaldehyde, via 3-hydroxybutanal (aldol). The overall reaction in this example is known as the aldol condensation. The term is sometimes also applied to cases where the formation of water or another simple molecule does not occur, as in 'benzoin condensation'.</text>
+      <links>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>addition</title>
+          <url>https://goldbook.iupac.org/terms/view/A00133</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1099 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Backbone chain (en)</title>
+      <url>https://en.wikipedia.org/wiki/Backbone_chain</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cadena principal (es)</title>
+      <url>https://es.wikipedia.org/wiki/Cadena_principal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condensation reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Condensation_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kondensaatioreaktio (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Kondensaatioreaktio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kondenzace (chemie) (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Kondenzace_(chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kondenzációs reakció (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Kondenzációs_reakció</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimerizzazione per condensazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Polimerizzazione_per_condensazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reacció de condensació (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Reacció_de_condensació</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reacción de condensación (es)</title>
+      <url>https://es.wikipedia.org/wiki/Reacción_de_condensación</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reakcija kondenzacije (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Reakcija_kondenzacije</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaksi kondensasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Reaksi_kondensasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reazione di condensazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Reazione_di_condensazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Réaction de condensation (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Réaction_de_condensation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Salkowskijev test (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Salkowskijev_test</url>
+    </item>
+    <item>
+      <title>Wikipedia - Кондензация (химия) (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Кондензация_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفاعل تكاثف (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تفاعل_تكاثف</url>
+    </item>
+    <item>
+      <title>Wikipedia - واکنش تراکمی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/واکنش_تراکمی</url>
+    </item>
+    <item>
+      <title>Wikipedia - ঘনীভবন বিক্রিয়া (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ঘনীভবন_বিক্রিয়া</url>
+    </item>
+    <item>
+      <title>Wikipedia - കണ്ടൻസേഷൻ റിയാക്ഷൻ (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/കണ്ടൻസേഷൻ_റിയാക്ഷൻ</url>
+    </item>
+    <item>
+      <title>Wikipedia - 主鎖 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/主鎖</url>
+    </item>
+    <item>
+      <title>Wikipedia - 縮合反應 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/縮合反應</url>
+    </item>
+    <item>
+      <title>Wikipedia - 축합 반응 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/축합_반응</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01238/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01238/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01238/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01238/plain</plain>
+  </links>
+  <citation>Citation: 'condensation reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01238</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:41:03+00:00</accessed>
+</term>

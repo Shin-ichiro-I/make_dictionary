@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01977</id>
+  <doi>10.1351/goldbook.E01977</doi>
+  <code>E01977</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electron affinity, Eea</longtitle>
+  <title>electron affinity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Energy required to detach an electron from the singly charged negative ion (energy for the process [image: Not defined]). The equivalent more common definition is the energy released (E initial- E final) when an additional electron is attached to a neutral atom or molecule.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/E01977-1.png</file>
+        </item>
+      </chemicals>
+      <math>
+        <item>
+          <alttext>E initial- E final</alttext>
+          <latex>E_{\textrm{initial}}- E_{\textrm{final}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 20 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1546 (https://doi.org/10.1351/pac199163101541)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1109 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Affinità elettronica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Affinità_elettronica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Afinitat electrònica (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Afinitat_electrònica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussione:Affinità elettronica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Affinità_elettronica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electron affinity (data page) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electron_affinity_(data_page)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electron affinity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electron_affinity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronaffinitet (no)</title>
+      <url>https://no.wikipedia.org/wiki/Elektronaffinitet</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronenaffinität (de)</title>
+      <url>https://de.wikipedia.org/wiki/Elektronenaffinität</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hasij (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Hasij</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hassium (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hassium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pertalian elektron (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Pertalian_elektron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Siklus Born–Haber (id)</title>
+      <url>https://id.wikipedia.org/wiki/Siklus_Born–Haber</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Electron affinity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Electron_affinity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unsur golongan 8 (id)</title>
+      <url>https://id.wikipedia.org/wiki/Unsur_golongan_8</url>
+    </item>
+    <item>
+      <title>Wikipedia - Спорідненість до електрона (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Спорідненість_до_електрона</url>
+    </item>
+    <item>
+      <title>Wikipedia - Էլեկտրոնային խնամակցություն (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Էլեկտրոնային_խնամակցություն</url>
+    </item>
+    <item>
+      <title>Wikipedia - זיקה אלקטרונית (he)</title>
+      <url>https://he.wikipedia.org/wiki/זיקה_אלקטרונית</url>
+    </item>
+    <item>
+      <title>Wikipedia - ألفة إلكترونية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ألفة_إلكترونية</url>
+    </item>
+    <item>
+      <title>Wikipedia - الکترون‌خواهی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/الکترون‌خواهی</url>
+    </item>
+    <item>
+      <title>Wikipedia - ইলেকট্রন আসক্তি (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ইলেকট্রন_আসক্তি</url>
+    </item>
+    <item>
+      <title>Wikipedia - ਇਲੈਕਟ੍ਰੋਨ ਅਫ਼ੀਨਿਟੀ (pa)</title>
+      <url>https://pa.wikipedia.org/wiki/ਇਲੈਕਟ੍ਰੋਨ_ਅਫ਼ੀਨਿਟੀ</url>
+    </item>
+    <item>
+      <title>Wikipedia - இலத்திரன் நாட்ட சக்தி (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/இலத்திரன்_நாட்ட_சக்தி</url>
+    </item>
+    <item>
+      <title>Wikipedia - 电子亲合能 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/电子亲合能</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01977/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01977/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01977/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01977/plain</plain>
+  </links>
+  <citation>Citation: 'electron affinity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01977</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:12:59+00:00</accessed>
+</term>

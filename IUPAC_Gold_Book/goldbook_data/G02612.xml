@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02612</id>
+  <doi>10.1351/goldbook.G02612</doi>
+  <code>G02612</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - generalized transition-state theory</longtitle>
+  <title>generalized transition-state theory</title>
+  <abbrevs>
+    <item>TST</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any form of transition-state theory (TST), such as microcanonical variational TST, canonical variational TST, and improved canonical variational TST, in which the transition state is not necessarily located at the saddle point, is referred to as generalized transition-state theory.</text>
+      <links>
+        <item>
+          <title>transition-state theory</title>
+          <url>https://goldbook.iupac.org/terms/view/T06470</url>
+        </item>
+        <item>
+          <title>microcanonical variational TST</title>
+          <url>https://goldbook.iupac.org/terms/view/M03897</url>
+        </item>
+        <item>
+          <title>canonical variational TST</title>
+          <url>https://goldbook.iupac.org/terms/view/C00790</url>
+        </item>
+        <item>
+          <title>improved canonical variational TST</title>
+          <url>https://goldbook.iupac.org/terms/view/I02993</url>
+        </item>
+        <item>
+          <title>transition-state theory</title>
+          <url>https://goldbook.iupac.org/terms/view/T06470</url>
+        </item>
+        <item>
+          <title>microcanonical variational TST</title>
+          <url>https://goldbook.iupac.org/terms/view/M03897</url>
+        </item>
+        <item>
+          <title>canonical variational TST</title>
+          <url>https://goldbook.iupac.org/terms/view/C00790</url>
+        </item>
+        <item>
+          <title>improved canonical variational TST</title>
+          <url>https://goldbook.iupac.org/terms/view/I02993</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>saddle point</title>
+          <url>https://goldbook.iupac.org/terms/view/C01145</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 166 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02612/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02612/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02612/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02612/plain</plain>
+  </links>
+  <citation>Citation: 'generalized transition-state theory' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02612</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:41:13+00:00</accessed>
+</term>

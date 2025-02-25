@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04141</id>
+  <doi>10.1351/goldbook.N04141</doi>
+  <code>N04141</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Nier–Johnson geometry</longtitle>
+  <title>Nier–Johnson geometry</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An arrangement for a double-focusing mass spectrometer in which a deflection of π 2 radians in a radial electrostatic field analyser is followed by a magnetic deflection of π 3 radians. The electrostatic analyser uses a symmetrical object-image arrangement and the magnetic analyser is used asymmetrically.</text>
+      <links>
+        <item>
+          <title>double-focusing mass spectrometer</title>
+          <url>https://goldbook.iupac.org/terms/view/D01845</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>π 2</alttext>
+          <latex>\frac{\pi}{2}</latex>
+        </item>
+        <item>
+          <alttext>π 3</alttext>
+          <latex>\frac{\pi}{3}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 201 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1546 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Sector mass spectrometer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Sector_mass_spectrometer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sektorfeld-Massenspektrometer (de)</title>
+      <url>https://de.wikipedia.org/wiki/Sektorfeld-Massenspektrometer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sektormassespektrometri (no)</title>
+      <url>https://no.wikipedia.org/wiki/Sektormassespektrometri</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sektorový hmotnostní spektrometr (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Sektorový_hmotnostní_spektrometr</url>
+    </item>
+    <item>
+      <title>Wikipedia - セクター型質量分析計 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/セクター型質量分析計</url>
+    </item>
+    <item>
+      <title>Wikipedia - 扇形質譜儀 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/扇形質譜儀</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04141/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04141/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04141/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04141/plain</plain>
+  </links>
+  <citation>Citation: 'Nier–Johnson geometry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04141</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:54:49+00:00</accessed>
+</term>

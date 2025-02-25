@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04100</id>
+  <doi>10.1351/goldbook.N04100</doi>
+  <code>N04100</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - neighbouring group participation</longtitle>
+  <title>neighbouring group participation</title>
+  <contains>anchimeric assistance, synartetic acceleration</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The direct interaction of the reaction centre (usually, but not necessarily, an incipient carbenium centre) with a lone pair of electrons of an atom or with the electrons of a σ- or π-bond contained within the parent molecule but not conjugated with the reaction centre. A distinction is sometimes made between n-, σ- and π-participation. A rate increase due to neighbouring group participation is known as 'anchimeric assistance'. 'Synartetic acceleration' is the special case of anchimeric assistance ascribed to participation by electrons binding a substituent to a carbon atom in a β-position relative to the leaving group attached to the α-carbon atom. According to the underlying model, these electrons then provide a three-centre bond (or 'bridge') 'fastening together' (as the word 'synartetic' is intended to suggest) the α- and β-carbon atoms between which the charge is divided in the intermediate bridged ion formed (and in the transition state preceding its formation). The term synartetic acceleration is not widely used.</text>
+      <links>
+        <item>
+          <title>intramolecular catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/I03131</url>
+        </item>
+        <item>
+          <title>multi-centre bond</title>
+          <url>https://goldbook.iupac.org/terms/view/M04042</url>
+        </item>
+        <item>
+          <title>intramolecular catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/I03131</url>
+        </item>
+        <item>
+          <title>multi-centre bond</title>
+          <url>https://goldbook.iupac.org/terms/view/M04042</url>
+        </item>
+        <item>
+          <title>carbenium centre</title>
+          <url>https://goldbook.iupac.org/terms/view/C00811</url>
+        </item>
+        <item>
+          <title>bridged ion</title>
+          <url>https://goldbook.iupac.org/terms/view/B00737</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>intramolecular catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/I03131</url>
+        </item>
+        <item>
+          <title>multi-centre bond</title>
+          <url>https://goldbook.iupac.org/terms/view/M04042</url>
+        </item>
+        <item>
+          <title>carbenium centre</title>
+          <url>https://goldbook.iupac.org/terms/view/C00811</url>
+        </item>
+        <item>
+          <title>bridged ion</title>
+          <url>https://goldbook.iupac.org/terms/view/B00737</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>leaving group</title>
+          <url>https://goldbook.iupac.org/terms/view/L03493</url>
+        </item>
+        <item>
+          <title>bridge</title>
+          <url>https://goldbook.iupac.org/terms/view/B00736</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1145 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Asistencia anquimérica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Asistencia_anquimérica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Neighbouring group participation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Neighbouring_group_participation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Анхімерний ефект (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Анхімерний_ефект</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04100/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04100/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04100/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04100/plain</plain>
+  </links>
+  <citation>Citation: 'neighbouring group participation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04100</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:53:17+00:00</accessed>
+</term>

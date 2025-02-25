@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01798</id>
+  <doi>10.1351/goldbook.D01798</doi>
+  <code>D01798</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - displacive transition</longtitle>
+  <title>displacive transition</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A transition in which a displacement of one or more kinds of atoms or ions in a crystal structure changes the lengths and/or directions of bonds, without severing the primary bonds. Examples: The transitions of the low-temperature polymorphs of SiO2 (quartz, tridymite and cristobalite) to their respective high-temperature polymorphs, which involve distortions or rotations of the SiO4 tetrahedra. Also Jahn–Teller and ferroic transitions.</text>
+      <links>
+        <item>
+          <title>Jahn–Teller</title>
+          <url>https://goldbook.iupac.org/terms/view/J03362</url>
+        </item>
+        <item>
+          <title>ferroic transitions</title>
+          <url>https://goldbook.iupac.org/terms/view/F02348</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 581 (https://doi.org/10.1351/pac199466030577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01798/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01798/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01798/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01798/plain</plain>
+  </links>
+  <citation>Citation: 'displacive transition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01798</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:04:17+00:00</accessed>
+</term>

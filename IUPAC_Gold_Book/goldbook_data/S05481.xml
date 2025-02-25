@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05481</id>
+  <doi>10.1351/goldbook.S05481</doi>
+  <code>S05481</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Saytzeff rule</longtitle>
+  <title>Saytzeff rule</title>
+  <synonyms>
+    <item>Zaitsev rule</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Dehydrohalogenation of secondary- and tertiary-alkyl halides proceeds by the preferential removal of the β-hydrogen from the carbon that has the smallest number of hydrogens. Originally formulated by A. Saytzeff (Zaitsev) to generalize the orientation in β-eliminationreactions of alkyl halides, this rule has been extended and modified, as follows: When two or more olefins can be produced in an elimination reaction, the thermodynamically most stable alkene will predominate. Exceptions to the Saytzeff rule are exemplified by the Hofmann rule.</text>
+      <links>
+        <item>
+          <title>Markownikoff rule</title>
+          <url>https://goldbook.iupac.org/terms/view/M03707</url>
+        </item>
+        <item>
+          <title>Markownikoff rule</title>
+          <url>https://goldbook.iupac.org/terms/view/M03707</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>Hofmann rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02830</url>
+        </item>
+        <item>
+          <title>Markownikoff rule</title>
+          <url>https://goldbook.iupac.org/terms/view/M03707</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>Hofmann rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02830</url>
+        </item>
+        <item>
+          <title>olefins</title>
+          <url>https://goldbook.iupac.org/terms/view/O04281</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1162 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Regla de Záitsev (es)</title>
+      <url>https://es.wikipedia.org/wiki/Regla_de_Záitsev</url>
+    </item>
+    <item>
+      <title>Wikipedia - قاعدة زايتسيف (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قاعدة_زايتسيف</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05481/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05481/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05481/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05481/plain</plain>
+  </links>
+  <citation>Citation: 'Saytzeff rule' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05481</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:01:16+00:00</accessed>
+</term>

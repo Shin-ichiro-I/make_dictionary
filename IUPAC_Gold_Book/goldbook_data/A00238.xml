@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00238</id>
+  <doi>10.1351/goldbook.A00238</doi>
+  <code>A00238</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - allenes</longtitle>
+  <title>allenes</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Hydrocarbons (and by extension, derivatives formed by substitution) having two double bonds from one carbon atom to two others R2C=C=CR2. (The simplest member, propadiene, is known as allene).</text>
+      <links>
+        <item>
+          <title>cumulenes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01440</url>
+        </item>
+        <item>
+          <title>dienes</title>
+          <url>https://goldbook.iupac.org/terms/view/D01699</url>
+        </item>
+        <item>
+          <title>cumulenes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01440</url>
+        </item>
+        <item>
+          <title>dienes</title>
+          <url>https://goldbook.iupac.org/terms/view/D01699</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1314 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alen (hemija) (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Alen_(hemija)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alen (hemija) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Alen_(hemija)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aleno (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Aleno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alleenit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Alleenit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Allene (chemie) (af)</title>
+      <url>https://af.wikipedia.org/wiki/Allene_(chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Allene (de)</title>
+      <url>https://de.wikipedia.org/wiki/Allene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Allene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Allene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Allenes (en)</title>
+      <url>https://en.wikipedia.org/wiki/Allenes</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alleni (it)</title>
+      <url>https://it.wikipedia.org/wiki/Alleni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alleny (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Alleny</url>
+    </item>
+    <item>
+      <title>Wikipedia - Allének (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Allének</url>
+    </item>
+    <item>
+      <title>Wikipedia - Al·lè (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Al·lè</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadieen (af)</title>
+      <url>https://af.wikipedia.org/wiki/Propadieen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadieeni (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Propadieeni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadien (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Propadien</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadien (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Propadien</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadien (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Propadien</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadien (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Propadien</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadiene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Propadiene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadieno (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Propadieno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadiè (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Propadiè</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propadién (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Propadién</url>
+    </item>
+    <item>
+      <title>Wikipedia - Аллены (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Аллены</url>
+    </item>
+    <item>
+      <title>Wikipedia - Олефины (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Олефины</url>
+    </item>
+    <item>
+      <title>Wikipedia - Пропадиен (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Пропадиен</url>
+    </item>
+    <item>
+      <title>Wikipedia - Пропадієн (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Пропадієн</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ալլեններ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Ալլեններ</url>
+    </item>
+    <item>
+      <title>Wikipedia - آلن (شیمی) (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/آلن_(شیمی)</url>
+    </item>
+    <item>
+      <title>Wikipedia - ألين (مركب) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ألين_(مركب)</url>
+    </item>
+    <item>
+      <title>Wikipedia - بروباديين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بروباديين</url>
+    </item>
+    <item>
+      <title>Wikipedia - புரோபாடையீன் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/புரோபாடையீன்</url>
+    </item>
+    <item>
+      <title>Wikipedia - അല്ലീൻ (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/അല്ലീൻ</url>
+    </item>
+    <item>
+      <title>Wikipedia - プロパジエン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/プロパジエン</url>
+    </item>
+    <item>
+      <title>Wikipedia - 丙二烯 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/丙二烯</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00238/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00238/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00238/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00238/plain</plain>
+  </links>
+  <citation>Citation: 'allenes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00238</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:49:07+00:00</accessed>
+</term>

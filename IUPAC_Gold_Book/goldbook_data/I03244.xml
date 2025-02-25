@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03244</id>
+  <doi>10.1351/goldbook.I03244</doi>
+  <code>I03244</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ion-selective electrode (ISE)</longtitle>
+  <title>ion-selective electrode</title>
+  <abbrevs>
+    <item>ISE</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An electrochemical sensor, based on thin films or selective membranes as recognition elements, and an electrochemical half-cell equivalent to other half-cells of the zeroth (inert metal in a redox electrolyte), 1st, 2nd and 3rd kinds. These devices are distinct from systems that involve redox reactions (electrodes of zeroth, 1st, 2nd and 3rd kinds), although they often contain a 2nd kind electrode as the 'inner' or 'internal' reference electrode. The potential difference response has, as its principal component, the Gibbs energy change associated with permselective mass transfer (by ion-exchange, solvent extraction or some other mechanism) across a phase boundary. The ion-selective electrode must be used in conjunction with a reference electrode (i.e. 'outer' or 'external' reference electrode) to form a complete electrochemical cell. The measured potential differences (ion-selective electrode vs. outer reference electrode potentials) are linearly dependent on the logarithm of the activity of a given ion in solution. Comment: The term 'ion-specific electrode' is not recommended. The term 'specific' implies that the electrode does not respond to additional ions. Since no electrode is truly specific for one ion, the term 'ion-selective' is recommended as more appropriate. 'Selective ion-sensitive electrode' is a little-used term to describe an ion-selective electrode. 'Principal' or 'primary' ions are those which an electrode is designed to measure. It is never certain that the 'principal' ion is most sensitively measured, e.g. nitrate ion-selective electrodes.</text>
+      <links>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>reference electrode</title>
+          <url>https://goldbook.iupac.org/terms/view/R05229</url>
+        </item>
+        <item>
+          <title>solvent extraction</title>
+          <url>https://goldbook.iupac.org/terms/view/S05752</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2527. 'Recommendations for nomenclature of ionselective electrodes (IUPAC Recommendations 1994)' on page 2531 (https://doi.org/10.1351/pac199466122527)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Elettrodo a membrana (it)</title>
+      <url>https://it.wikipedia.org/wiki/Elettrodo_a_membrana</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ionenselektive Elektrode (de)</title>
+      <url>https://de.wikipedia.org/wiki/Ionenselektive_Elektrode</url>
+    </item>
+    <item>
+      <title>Wikipedia - قطب انتقائي للأيون (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قطب_انتقائي_للأيون</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03244/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03244/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03244/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03244/plain</plain>
+  </links>
+  <citation>Citation: 'ion-selective electrode' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03244</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:09:33+00:00</accessed>
+</term>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01600</id>
+  <doi>10.1351/goldbook.D01600</doi>
+  <code>D01600</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - depolymerization</longtitle>
+  <title>depolymerization</title>
+  <contains>unzipping</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The process of converting a polymer into a monomer or a mixture of monomers.</text>
+      <notes>
+        <item>Unzipping is depolymerization occurring by a sequence of reactions, progressing along a macromolecule and yielding products, usually monomer molecules at each reaction step, from which macromolecules similar to the original can be regenerated.</item>
+      </notes>
+      <links>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>reaction step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05178</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>reaction step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05178</url>
+        </item>
+        <item>
+          <title>macromolecule</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>monomer molecules</title>
+          <url>https://goldbook.iupac.org/terms/view/M04019</url>
+        </item>
+        <item>
+          <title>polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/P04735</url>
+        </item>
+        <item>
+          <title>monomer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04017</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2309 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Depolimerizzazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Depolimerizzazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Depolymerisation (de)</title>
+      <url>https://de.wikipedia.org/wiki/Depolymerisation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Depolymerization (en)</title>
+      <url>https://en.wikipedia.org/wiki/Depolymerization</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dépolymérisation (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Dépolymérisation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Thermal depolymerization (en)</title>
+      <url>https://en.wikipedia.org/wiki/Thermal_depolymerization</url>
+    </item>
+    <item>
+      <title>Wikipedia - Деполимеризация (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Деполимеризация</url>
+    </item>
+    <item>
+      <title>Wikipedia - وابسپارش گرمایی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/وابسپارش_گرمایی</url>
+    </item>
+    <item>
+      <title>Wikipedia - তাপীয় বিপলিমারকরণ বিক্রিয়া (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/তাপীয়_বিপলিমারকরণ_বিক্রিয়া</url>
+    </item>
+    <item>
+      <title>Wikipedia - பலபடிநீக்கம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/பலபடிநீக்கம்</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01600/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01600/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01600/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01600/plain</plain>
+  </links>
+  <citation>Citation: 'depolymerization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01600</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:56:18+00:00</accessed>
+</term>

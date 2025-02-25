@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02458</id>
+  <doi>10.1351/goldbook.F02458</doi>
+  <code>F02458</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fluorimeter</longtitle>
+  <title>fluorimeter</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An instrument used to measure the intensity and the wavelength distribution of the light emitted as fluorescence from a molecule excited at a specific wavelength or wavelengths within the absorption band of a particular compound. Characteristic fluorescence bands may be used to identify specific pollutants such as the polynuclear aromatic hydrocarbons. Excitation spectra of impurities can be observed by scanning the wavelength of the excitation light which is incident on the sample over a range of wavelengths and observing the relative intensity of the fluorescence emitted at a given wavelength. These spectra are also characteristic of the impurity.</text>
+      <links>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2189 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fluorimetro (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fluorimetro</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02458/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02458/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02458/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02458/plain</plain>
+  </links>
+  <citation>Citation: 'fluorimeter' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02458</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:34:05+00:00</accessed>
+</term>

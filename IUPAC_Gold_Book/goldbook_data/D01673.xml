@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01673</id>
+  <doi>10.1351/goldbook.D01673</doi>
+  <code>D01673</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - diamond-like carbon films</longtitle>
+  <title>diamond-like carbon films</title>
+  <abbrevs>
+    <item>DLC</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Diamond-like carbon (DLC) films are hard, amorphous films with a significant fraction of sp3-hybridized carbon atoms and which can contain a significant amount of hydrogen. Depending on the deposition conditions, these films can be fully amorphous or contain diamond crystallites. These materials are not called diamond unless a full three-dimensional crystalline lattice of diamond is proven.</text>
+      <notes>
+        <item>diamond-like films without hydrogen can be prepared by carbon ion beam deposition, ion-assisted sputtering from graphite or by laser ablation of graphite. diamond-like carbon films containing significant contents of hydrogen are prepared by chemical vapour deposition. The hydrogen content is usually over 25 atomic %. The deposition parameters are (low) total pressure, hydrogen partial pressure, precursor molecules and plasma ionization. The plasma activation can be radio frequency, microwave or Ar+ ions. High ionization favours amorphous films while high atomic hydrogen contents favour diamond crystallite formation. Because of the confusion about structure engendered by the term diamond-like carbon films, the term hard amorphous carbon films has been suggested as a synonym.</item>
+      </notes>
+      <links>
+        <item>
+          <title>Diamond</title>
+          <url>https://goldbook.iupac.org/terms/view/D01671</url>
+        </item>
+        <item>
+          <title>sputtering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05895</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>partial pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04420</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>Diamond</title>
+          <url>https://goldbook.iupac.org/terms/view/D01671</url>
+        </item>
+        <item>
+          <title>sputtering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05895</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>partial pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04420</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>hard amorphous carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/H02741</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>sp3</alttext>
+          <latex>\mathrm{sp}^{3}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 487 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Allotropes of carbon (en)</title>
+      <url>https://en.wikipedia.org/wiki/Allotropes_of_carbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amorft kol (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Amorft_kol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amorphous carbon (en)</title>
+      <url>https://en.wikipedia.org/wiki/Amorphous_carbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbon vô định hình (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Carbon_vô_định_hình</url>
+    </item>
+    <item>
+      <title>Wikipedia - Period 2 element (en)</title>
+      <url>https://en.wikipedia.org/wiki/Period_2_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unsur periode 2 (id)</title>
+      <url>https://id.wikipedia.org/wiki/Unsur_periode_2</url>
+    </item>
+    <item>
+      <title>Wikipedia - Алотропски модификации на јаглеродот (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Алотропски_модификации_на_јаглеродот</url>
+    </item>
+    <item>
+      <title>Wikipedia - كربون لابلوري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كربون_لابلوري</url>
+    </item>
+    <item>
+      <title>Wikipedia - کربن آمورف (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/کربن_آمورف</url>
+    </item>
+    <item>
+      <title>Wikipedia - 无定形碳 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/无定形碳</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01673/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01673/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01673/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01673/plain</plain>
+  </links>
+  <citation>Citation: 'diamond-like carbon films' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01673</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:59:03+00:00</accessed>
+</term>

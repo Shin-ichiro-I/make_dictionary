@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03651</id>
+  <doi>10.1351/goldbook.L03651</doi>
+  <code>L03651</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - lux</longtitle>
+  <title>lux</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>SI derived unit of illuminance, lx = lm m-2 = cd sr m-2.</text>
+      <math>
+        <item>
+          <alttext>lx = lm m-2 = cd sr m-2</alttext>
+          <latex>\text{lx} = \text{lm m}^{-2}=\text{cd sr m}^{-2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 72 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 979 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Lukso (mezurunuo) (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Lukso_(mezurunuo)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lux (it)</title>
+      <url>https://it.wikipedia.org/wiki/Lux</url>
+    </item>
+    <item>
+      <title>Wikipedia - لكس (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/لكس</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03651/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03651/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03651/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03651/plain</plain>
+  </links>
+  <citation>Citation: 'lux' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03651</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:30:07+00:00</accessed>
+</term>

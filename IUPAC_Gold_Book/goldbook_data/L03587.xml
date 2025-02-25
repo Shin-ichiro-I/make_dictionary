@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03587</id>
+  <doi>10.1351/goldbook.L03587</doi>
+  <code>L03587</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - liquid-liquid extraction</longtitle>
+  <title>liquid-liquid extraction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This term may be used in place of liquid-liquid distribution when the emphasis is on the analyte(s) being distributed (or extracted).</text>
+      <notes>
+        <item>The distinction between the distribution constant&amp;nbsp;(KD) and the partition constant&amp;nbsp;(KDo) or the concentration distribution ratio &amp;nbsp;(Dc) is reaffirmed and it is recommended that the terms partition constant, partition coefficient and extinction constant should not be used as synonyms for the (analytical) distribution ratio (in liquid-liquid distribution), Dc. A distinction is drawn between the terms solvent and diluent, and the term extractant (in liquid-liquid distribution) is now restricted to the active substance in the solvent (i.e. the homogeneous 'organic phase' which comprises the extractant (in liquid-liquid distribution), the diluent and/or the modifier) which is primarily responsible for the transfer of solute from the 'aqueous' to the 'organic' phase.</item>
+      </notes>
+      <links>
+        <item>
+          <title>distribution constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01813</url>
+        </item>
+        <item>
+          <title>partition constant</title>
+          <url>https://goldbook.iupac.org/terms/view/P04438</url>
+        </item>
+        <item>
+          <title>partition coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/P04437</url>
+        </item>
+        <item>
+          <title>extinction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02293</url>
+        </item>
+        <item>
+          <title>extractant (in liquid-liquid distribution)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02299</url>
+        </item>
+        <item>
+          <title>distribution constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01813</url>
+        </item>
+        <item>
+          <title>partition constant</title>
+          <url>https://goldbook.iupac.org/terms/view/P04438</url>
+        </item>
+        <item>
+          <title>partition coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/P04437</url>
+        </item>
+        <item>
+          <title>extinction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02293</url>
+        </item>
+        <item>
+          <title>extractant (in liquid-liquid distribution)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02299</url>
+        </item>
+        <item>
+          <title>distribution ratio (in liquid-liquid distribution)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01817</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Distribution coefficient (in liquid-liquid chromatograpny)</meaning>
+          <type>quantity</type>
+          <alttext>KD</alttext>
+          <latex>K_{\text{D}}</latex>
+        </item>
+        <item>
+          <meaning>Partition constant</meaning>
+          <type>quantity</type>
+          <alttext>KDo</alttext>
+          <latex>K_{\text{D}}^{\text{o}}</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>Dc</alttext>
+          <latex>D_{\text{c}}</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>Dc</alttext>
+          <latex>D_{\text{c}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 88 (https://media.iupac.org/publications/analytical_compendium/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Estrazione liquido-liquido (it)</title>
+      <url>https://it.wikipedia.org/wiki/Estrazione_liquido-liquido</url>
+    </item>
+    <item>
+      <title>Wikipedia - استخلاص سائل-سائل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/استخلاص_سائل-سائل</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03587/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03587/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03587/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03587/plain</plain>
+  </links>
+  <citation>Citation: 'liquid-liquid extraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03587</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:27:20+00:00</accessed>
+</term>

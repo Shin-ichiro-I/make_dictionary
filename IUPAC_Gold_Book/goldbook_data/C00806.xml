@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00806</id>
+  <doi>10.1351/goldbook.C00806</doi>
+  <code>C00806</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbenes</longtitle>
+  <title>carbenes</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The electrically neutral species H2C: and its derivatives, in which the carbon is covalently bonded to two univalent groups of any kind or a divalent group and bears two nonbonding electrons, which may be spin-paired (singlet state) or spin-non-paired (triplet state). In systematic name formation, carbene is the name of the parent hydride:CH2 hence, the name dichlorocarbene for :CCl2. However, names for acyclic and cyclic hydrocarbons containing one or more divalent carbon atoms are derived from the name of the corresponding all-λ4-hydrocarbon using the suffix -ylidene. E.g. prop-2-en-1-ylidene, H2C=CHCH: ethenylidene, H2C=C:; cyclohexylidene,  [image: cyclohexylidene (carbene)]. Subclasses of carbenes include acyl carbenes [image: generic acyl carbene], imidoyl carbenes, [image: generic imidoyl carbene] and vinyl carbenes.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>cyclohexylidene (carbene)</title>
+          <file>https://goldbook.iupac.org/img/inline/C00806-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>generic acyl carbene</title>
+          <file>https://goldbook.iupac.org/img/inline/C00806-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>generic imidoyl carbene</title>
+          <file>https://goldbook.iupac.org/img/inline/C00806-3.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>singlet state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05699</url>
+        </item>
+        <item>
+          <title>triplet state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06503</url>
+        </item>
+        <item>
+          <title>systematic name</title>
+          <url>https://goldbook.iupac.org/terms/view/S06236</url>
+        </item>
+        <item>
+          <title>parent hydride</title>
+          <url>https://goldbook.iupac.org/terms/view/P04405</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>singlet state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05699</url>
+        </item>
+        <item>
+          <title>triplet state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06503</url>
+        </item>
+        <item>
+          <title>systematic name</title>
+          <url>https://goldbook.iupac.org/terms/view/S06236</url>
+        </item>
+        <item>
+          <title>parent hydride</title>
+          <url>https://goldbook.iupac.org/terms/view/P04405</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>acyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00121</url>
+        </item>
+        <item>
+          <title>imidoyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/I02953</url>
+        </item>
+        <item>
+          <title>vinyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/V06620</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>bonding number</meaning>
+          <type>symbol</type>
+          <alttext>λ4</alttext>
+          <latex>\lambda ^{4}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1092 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1324 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Carbene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Carbene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbene (it)</title>
+      <url>https://it.wikipedia.org/wiki/Carbene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbeno (es)</title>
+      <url>https://es.wikipedia.org/wiki/Carbeno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbeno (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Carbeno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbenă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Carbenă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbène (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Carbène</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion utilisateur:Snipre (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion_utilisateur:Snipre</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karbeenit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Karbeenit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karbeny (rodniki) (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Karbeny_(rodniki)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karbén (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Karbén</url>
+    </item>
+    <item>
+      <title>Wikipedia - Methylene (compound) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Methylene_(compound)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Methylene group (en)</title>
+      <url>https://en.wikipedia.org/wiki/Methylene_group</url>
+    </item>
+    <item>
+      <title>Wikipedia - Methylengruppe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Methylengruppe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metilen (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Metilen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metilen (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Metilen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metilè (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Metilè</url>
+    </item>
+    <item>
+      <title>Wikipedia - Καρβένια (el)</title>
+      <url>https://el.wikipedia.org/wiki/Καρβένια</url>
+    </item>
+    <item>
+      <title>Wikipedia - كربين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كربين</url>
+    </item>
+    <item>
+      <title>Wikipedia - مجموعة الميثيلين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مجموعة_الميثيلين</url>
+    </item>
+    <item>
+      <title>Wikipedia - مجموعة ميثيلين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مجموعة_ميثيلين</url>
+    </item>
+    <item>
+      <title>Wikipedia - ميثيلين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ميثيلين</url>
+    </item>
+    <item>
+      <title>Wikipedia - کاربن (شیمی) (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/کاربن_(شیمی)</url>
+    </item>
+    <item>
+      <title>Wikipedia - காபீன் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/காபீன்</url>
+    </item>
+    <item>
+      <title>Wikipedia - மெதிலீன் (சேர்மம்) (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மெதிலீன்_(சேர்மம்)</url>
+    </item>
+    <item>
+      <title>Wikipedia - คาร์บีน (th)</title>
+      <url>https://th.wikipedia.org/wiki/คาร์บีน</url>
+    </item>
+    <item>
+      <title>Wikipedia - カルベン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/カルベン</url>
+    </item>
+    <item>
+      <title>Wikipedia - 甲烯 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/甲烯</url>
+    </item>
+    <item>
+      <title>Wikipedia - 메틸렌 (화합물) (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/메틸렌_(화합물)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 카벤 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/카벤</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00806/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00806/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00806/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00806/plain</plain>
+  </links>
+  <citation>Citation: 'carbenes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00806</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:19:51+00:00</accessed>
+</term>

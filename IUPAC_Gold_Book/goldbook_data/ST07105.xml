@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07105</id>
+  <doi>10.1351/goldbook.ST07105</doi>
+  <code>ST07105</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spin polarization</longtitle>
+  <title>spin polarization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Static and dynamic spin polarization effects are distinguished. The static polarization of an electron spin occurs in the C–H bonds of aromatic radicals where the σ-electron closest to an unpaired π-electron tends to have its spin parallel to that of the π-electron. Likewise, static spin polarization arises in the π-system of conjugated radicals: the electron of the doubly occupied molecular orbital prefers to take a closer spatial position to the odd one, which spin is parallel to the latter. The effect reflects the energy unfavourable situation if an electron of opposite spin were to come nearby.</text>
+      <links>
+        <item>
+          <title>polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04712</url>
+        </item>
+        <item>
+          <title>molecular orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/M03996</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1963 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ST07105/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ST07105/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ST07105/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ST07105/plain</plain>
+  </links>
+  <citation>Citation: 'spin polarization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ST07105</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:19:02+00:00</accessed>
+</term>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01426</id>
+  <doi>10.1351/goldbook.C01426</doi>
+  <code>C01426</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - cryptand</longtitle>
+  <title>cryptand</title>
+  <contains>cryptate</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A molecular entity comprising a cyclic or polycyclic assembly of binding sites that contains three or more binding sites held together by covalent bonds, and which defines a molecular cavity in such a way as to bind (and thus 'hide' in the cavity) another molecular entity, the guest (a cation, an anion or a neutral species), more strongly than do the separate parts of the assembly (at the same total concentration of binding sites). The adduct thus formed is called a 'cryptate'. The term is usually restricted to bicyclic or oligocyclic molecular entities. Example: [image: Not defined] Corresponding monocyclic ligand assemblies crowns are sometimes included in this group, if they can be considered to define a cavity in which a guest can hide. The terms 'podand' and 'spherand' are used for certain specific ligand assemblies. Coplanar cyclic polydentate ligands, such as porphyrins, are not normally regarded as cryptands.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C01426.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>host (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02859</url>
+        </item>
+        <item>
+          <title>host (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02859</url>
+        </item>
+        <item>
+          <title>molecular entity (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>binding sites (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00649</url>
+        </item>
+        <item>
+          <title>covalent bonds (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>adduct (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00138</url>
+        </item>
+        <item>
+          <title>crowns (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>host (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02859</url>
+        </item>
+        <item>
+          <title>molecular entity (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>binding sites (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00649</url>
+        </item>
+        <item>
+          <title>covalent bonds (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>adduct (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00138</url>
+        </item>
+        <item>
+          <title>crowns (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>guest (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02711</url>
+        </item>
+        <item>
+          <title>cation (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>anion (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00358</url>
+        </item>
+        <item>
+          <title>ligands (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03518</url>
+        </item>
+        <item>
+          <title>porphyrins (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04765</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1102 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1329 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - 2.2.2-Cryptand (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/2.2.2-Cryptand</url>
+    </item>
+    <item>
+      <title>Wikipedia - Criptando (es)</title>
+      <url>https://es.wikipedia.org/wiki/Criptando</url>
+    </item>
+    <item>
+      <title>Wikipedia - Criptando (it)</title>
+      <url>https://it.wikipedia.org/wiki/Criptando</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cryptand (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cryptand</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kriptand (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Kriptand</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kryptand (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Kryptand</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kryptandit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Kryptandit</url>
+    </item>
+    <item>
+      <title>Wikipedia - كريبتاند (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كريبتاند</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01426/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01426/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01426/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01426/plain</plain>
+  </links>
+  <citation>Citation: 'cryptand' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01426</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:49:16+00:00</accessed>
+</term>

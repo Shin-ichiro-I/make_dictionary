@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00559</id>
+  <doi>10.1351/goldbook.A00559</doi>
+  <code>A00559</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - azlactones</longtitle>
+  <title>azlactones</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Oxazol-5(4H)-ones I, compounds derived by cyclization of N-acyl α-amino carboxylic acids, RC(=O)NHCR2C(=O)OH, through formal loss of the elements of water. 4-Hydrocarbylideneazlactones II are often referred to as 'unsaturated azlactones'. [image: Not defined] </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00559-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>cyclization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01494</url>
+        </item>
+        <item>
+          <title>carboxylic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/C00852</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1321 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Azlactone (de)</title>
+      <url>https://de.wikipedia.org/wiki/Azlactone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxazolona (es)</title>
+      <url>https://es.wikipedia.org/wiki/Oxazolona</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxazolone (de)</title>
+      <url>https://de.wikipedia.org/wiki/Oxazolone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxazolone (en)</title>
+      <url>https://en.wikipedia.org/wiki/Oxazolone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Азлактони (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Азлактони</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஆக்சசோலோன் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஆக்சசோலோன்</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00559/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00559/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00559/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00559/plain</plain>
+  </links>
+  <citation>Citation: 'azlactones' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00559</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:04:52+00:00</accessed>
+</term>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01395</id>
+  <doi>10.1351/goldbook.C01395</doi>
+  <code>C01395</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - critical micelle concentration</longtitle>
+  <title>critical micelle concentration</title>
+  <acronyms>
+    <item>cmc</item>
+  </acronyms>
+  <abbrevs>
+    <item>c.m.c.</item>
+    <item>cmc</item>
+  </abbrevs>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>There is a relatively small range of concentrations separating the limit below which virtually no micelles are detected and the limit above which virtually all additional surfactant molecules form micelles. Many properties of surfactant solutions, if plotted against the concentration, appear to change at a different rate above and below this range. By extrapolating the loci of such a property above and below this range until they intersect, a value may be obtained known as the critical micellization concentration (critical micelle concentration), symbol cM, abbreviation cmc (or c.m.c.). As values obtained using different properties are not quite identical, the method by which the cmc is determined should be clearly stated.</text>
+      <links>
+        <item>
+          <title>inverted micelle</title>
+          <url>https://goldbook.iupac.org/terms/view/I03151</url>
+        </item>
+        <item>
+          <title>inverted micelle</title>
+          <url>https://goldbook.iupac.org/terms/view/I03151</url>
+        </item>
+        <item>
+          <title>micelle</title>
+          <url>https://goldbook.iupac.org/terms/view/M03889</url>
+        </item>
+        <item>
+          <title>inverted micelle</title>
+          <url>https://goldbook.iupac.org/terms/view/I03151</url>
+        </item>
+        <item>
+          <title>micelle</title>
+          <url>https://goldbook.iupac.org/terms/view/M03889</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>cM</alttext>
+          <latex>c_{\text{M}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1101 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Concentrazione micellare critica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Concentrazione_micellare_critica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Critical micelle concentration (en)</title>
+      <url>https://en.wikipedia.org/wiki/Critical_micelle_concentration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kritická micelární koncentrace (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Kritická_micelární_koncentrace</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kritische Mizellbildungskonzentration (de)</title>
+      <url>https://de.wikipedia.org/wiki/Kritische_Mizellbildungskonzentration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kritisk micellekoncentration (da)</title>
+      <url>https://da.wikipedia.org/wiki/Kritisk_micellekoncentration</url>
+    </item>
+    <item>
+      <title>Wikipedia - ריכוז המיצלה הקריטי (he)</title>
+      <url>https://he.wikipedia.org/wiki/ריכוז_המיצלה_הקריטי</url>
+    </item>
+    <item>
+      <title>Wikipedia - 臨界ミセル濃度 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/臨界ミセル濃度</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01395/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01395/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01395/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01395/plain</plain>
+  </links>
+  <citation>Citation: 'critical micelle concentration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01395</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:48:03+00:00</accessed>
+</term>

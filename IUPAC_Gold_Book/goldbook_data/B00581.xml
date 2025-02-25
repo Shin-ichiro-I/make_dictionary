@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00581</id>
+  <doi>10.1351/goldbook.B00581</doi>
+  <code>B00581</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - backscatter</longtitle>
+  <title>backscatter</title>
+  <contains>forward scattering</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Scattering of radiation in a generally backward direction. In the assay of radioactivity, it applies to the scattering of radiation into the radiation detector from any material except the sample and the detector. In light scattering, it is said to occur when the scattering angle, θ, is 180°. Conversely, forward scattering occurs when θ is 0°.</text>
+      <links>
+        <item>
+          <title>Scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05487</url>
+        </item>
+        <item>
+          <title>assay</title>
+          <url>https://goldbook.iupac.org/terms/view/A00470</url>
+        </item>
+        <item>
+          <title>radioactivity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05092</url>
+        </item>
+        <item>
+          <title>radiation detector</title>
+          <url>https://goldbook.iupac.org/terms/view/R05054</url>
+        </item>
+        <item>
+          <title>light scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/L03525</url>
+        </item>
+        <item>
+          <title>scattering angle</title>
+          <url>https://goldbook.iupac.org/terms/view/S05488</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>θ</alttext>
+          <latex>\theta </latex>
+        </item>
+        <item>
+          <alttext>180°</alttext>
+          <latex>180^{\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>θ</alttext>
+          <latex>\theta </latex>
+        </item>
+        <item>
+          <alttext>0°</alttext>
+          <latex>0^{\unicode{x26ac}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 213 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1983, 55, 931. 'Definitions, terminology and symbols in colloid and surface chemistry. Part 1.14: Light scattering (Provisional)' on page 932 (https://doi.org/10.1351/pac198355060931)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00581/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00581/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00581/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00581/plain</plain>
+  </links>
+  <citation>Citation: 'backscatter' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00581</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:06:23+00:00</accessed>
+</term>

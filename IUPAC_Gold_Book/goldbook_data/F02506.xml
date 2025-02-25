@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02506</id>
+  <doi>10.1351/goldbook.F02506</doi>
+  <code>F02506</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fragmentation</longtitle>
+  <title>fragmentation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The heterolytic cleavage of a molecule according to the general reaction: [image: Not defined] where a-b is an electrofuge and X is a nucleofuge (which may emerge from the reaction in combined form), and the middle group affords the unsaturated fragment c=d. For example, [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02506-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02506-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>heterolytic</title>
+          <url>https://goldbook.iupac.org/terms/view/H02809</url>
+        </item>
+        <item>
+          <title>electrofuge</title>
+          <url>https://goldbook.iupac.org/terms/view/E01965</url>
+        </item>
+        <item>
+          <title>nucleofuge</title>
+          <url>https://goldbook.iupac.org/terms/view/N04246</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>The breakdown of a radical into a diamagnetic molecule or ion and a smaller radical, e.g. [image: Not defined] [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02506-3.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02506-4.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>radical</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>radical</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>diamagnetic</title>
+          <url>https://goldbook.iupac.org/terms/view/D01668</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>The breakdown of a radical ion in a mass spectrometer or in solution, forming an ion of lower molar mass and a radical, e.g. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02506-5.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>radical ion</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+        <item>
+          <title>radical ion</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+        <item>
+          <title>mass spectrometer</title>
+          <url>https://goldbook.iupac.org/terms/view/M03732</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' Muller, P.; Pure and Applied Chemistry 1994 66(5) 1077</sources>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02506/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02506/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02506/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02506/plain</plain>
+  </links>
+  <citation>Citation: 'fragmentation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02506</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:36:17+00:00</accessed>
+</term>

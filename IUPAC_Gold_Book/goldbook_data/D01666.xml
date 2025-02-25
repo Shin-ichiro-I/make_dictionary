@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01666</id>
+  <doi>10.1351/goldbook.D01666</doi>
+  <code>D01666</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dialysis</longtitle>
+  <title>dialysis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The process of separating a colloidalsol from a colloid-free solution by a membrane permeable to all components of the system except the colloidal ones, and allowing the exchange of the components of small molar mass to proceed for a certain time.</text>
+      <links>
+        <item>
+          <title>colloidal</title>
+          <url>https://goldbook.iupac.org/terms/view/C01172</url>
+        </item>
+        <item>
+          <title>colloid</title>
+          <url>https://goldbook.iupac.org/terms/view/C01171</url>
+        </item>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+        <item>
+          <title>colloidal</title>
+          <url>https://goldbook.iupac.org/terms/view/C01172</url>
+        </item>
+        <item>
+          <title>colloid</title>
+          <url>https://goldbook.iupac.org/terms/view/C01171</url>
+        </item>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+        <item>
+          <title>sol</title>
+          <url>https://goldbook.iupac.org/terms/view/S05727</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 608 (https://doi.org/10.1351/pac197231040577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Dialisi (fisica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Dialisi_(fisica)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01666/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01666/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01666/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01666/plain</plain>
+  </links>
+  <citation>Citation: 'dialysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01666</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:58:44+00:00</accessed>
+</term>

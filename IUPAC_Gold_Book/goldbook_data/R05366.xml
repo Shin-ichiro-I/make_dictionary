@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05366</id>
+  <doi>10.1351/goldbook.R05366</doi>
+  <code>R05366</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - retention volumes in chromatography</longtitle>
+  <title>retention volumes</title>
+  <contains>adjusted retention volume</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Retention measurements (and measurements of hold-up volume and peak width) may be made in terms of times or chart distances as well as volumes. If flow and recorder speeds are constant, the volumes are directly proportional to the times and chart distances. The following definitions are drawn up in terms of volume, and it is recommended that theoretical discussion should be couched in the same terms wherever possible. The total retention volume, V R, is the volume of eluentcarrier gas admitted to the column between the injection of the sample and the emergence of the peak maximum of the specified component. It includes the hold-up volume. In gas chromatography, the volume of carrier gas is specified at the outlet pressure and temperature of the column. Note: the word 'total' in this definition allows retention time to be used as a general term when specification of a particular quantity is not required. The adjusted retention volume, V R ', is the total retention volume less the hold-up volume, V M, i.e. V R ' = V R- V M = V ̄- V I is the peak elution volume and V I the interstitial volume. The net retention volume, V N, is the adjusted retention volume multiplied by the pressure-gradient correction factor: V N = j V R ', is the net retention volume per gram of stationary liquid, active solid or solvent-free gel. In liquid chromatography, except when conducted at very high pressures, the compression of the mobile phase is negligible, and the adjusted and net retention volumes are identical. The specific retention volume is then the adjusted retention volume per gram of stationary liquid, active solid, or solvent-free gel. It is recommended that, when appropriate, authors specify the drying conditions. At 0°C, V g = 273 V N w L T is the mass of the stationary liquid phase.</text>
+      <contexts>
+        <in>
+          <item>chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>eluent</title>
+          <url>https://goldbook.iupac.org/terms/view/E02040</url>
+        </item>
+        <item>
+          <title>carrier gas</title>
+          <url>https://goldbook.iupac.org/terms/view/C00863</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>elution</title>
+          <url>https://goldbook.iupac.org/terms/view/E02042</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>gram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02680</url>
+        </item>
+        <item>
+          <title>active solid</title>
+          <url>https://goldbook.iupac.org/terms/view/A00109</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>V R</alttext>
+          <latex>V_{\text{R}}</latex>
+        </item>
+        <item>
+          <alttext>V R '</alttext>
+          <latex>V_{\text{R}}^{'}</latex>
+        </item>
+        <item>
+          <alttext>V M</alttext>
+          <latex>V_{\text{M}}</latex>
+        </item>
+        <item>
+          <alttext>V R ' = V R- V M = V ̄- V I</alttext>
+          <latex>V_{\text{R}}^{'}=V_{\text{R}}- V_{\text{M}}=\overline{V}- V_{\text{I}}</latex>
+        </item>
+        <item>
+          <alttext>V ̄</alttext>
+          <latex>\overline{V}</latex>
+        </item>
+        <item>
+          <alttext>V I</alttext>
+          <latex>V_{\text{I}}</latex>
+        </item>
+        <item>
+          <alttext>V N</alttext>
+          <latex>V_{\text{N}}</latex>
+        </item>
+        <item>
+          <alttext>V N = j V R '</alttext>
+          <latex>V_{\text{N}}=j\ V_{\text{R}}^{'}</latex>
+        </item>
+        <item>
+          <alttext>V g</alttext>
+          <latex>V_{\text{g}}</latex>
+        </item>
+        <item>
+          <alttext>0°C</alttext>
+          <latex>0\ ^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+        <item>
+          <alttext>V g = 273 V N w L T</alttext>
+          <latex>V_{\text{g}}=273\ \frac{V_{\text{N}}}{w_{\text{L}}\ T}</latex>
+        </item>
+        <item>
+          <alttext>w L</alttext>
+          <latex>w_{\text{L}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 103 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 841 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Objętość retencji (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Objętość_retencji</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05366/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05366/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05366/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05366/plain</plain>
+  </links>
+  <citation>Citation: 'retention volumes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05366</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:56:08+00:00</accessed>
+</term>

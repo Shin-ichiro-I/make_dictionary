@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06470</id>
+  <doi>10.1351/goldbook.T06470</doi>
+  <code>T06470</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - transition state theory</longtitle>
+  <title>transition state theory</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A theory of the rates of elementary reactions which assumes a special type of equilibrium, having an equilibrium constantK‡, to exist between reactants and activated complexes. According to this theory the rate constant is given by: k = (kB.T/h).K‡ is the Boltzmann constant and h is the Planck constant. The rate constant can also be expressed as: k = (kB.T/h).exp(Δ‡S°/R).exp(-Δ‡H°/R.T), the entropy of activation, is the standard molar change of entropy when the activated complex is formed from reactants and k = (kB.T/h).exp(Δ‡S°/R).exp(-Δ‡H°/R.T), known as the Gibbs energy of activation, is the standard molar Gibbs energy change for the conversion of reactants into activated complex. A plot of standard molar Gibbs energy against a reaction coordinate is known as a Gibbs-energy profile; such plots, unlike potential-energy profiles, are temperature-dependent. In principle the equations above must be multiplied by a transmission coefficient, κ, which is the probability that an activated complex forms a particular set of products rather than reverting to reactants or forming alternative products. It is to be emphasized that Δ‡S°, Δ‡H° and Δ‡G° occurring in the former three equations are not ordinary thermodynamic quantities, since one degree of freedom in the activated complex is ignored. Transition-state theory has also been known as absolute rate theory, and as activated-complex theory, but these terms are no longer recommended.</text>
+      <links>
+        <item>
+          <title>elementary reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02108</url>
+        </item>
+        <item>
+          <title>Gibbs energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02631</url>
+        </item>
+        <item>
+          <title>potential-energy profiles</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>elementary reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02108</url>
+        </item>
+        <item>
+          <title>Gibbs energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02631</url>
+        </item>
+        <item>
+          <title>potential-energy profiles</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>Boltzmann constant</title>
+          <url>https://goldbook.iupac.org/terms/view/B00695</url>
+        </item>
+        <item>
+          <title>Planck constant</title>
+          <url>https://goldbook.iupac.org/terms/view/P04685</url>
+        </item>
+        <item>
+          <title>entropy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02150</url>
+        </item>
+        <item>
+          <title>entropy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02149</url>
+        </item>
+        <item>
+          <title>activated complex</title>
+          <url>https://goldbook.iupac.org/terms/view/A00092</url>
+        </item>
+        <item>
+          <title>enthalpy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02142</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/E02112</url>
+        </item>
+        <item>
+          <title>transmission coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/T06479</url>
+        </item>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>K‡</alttext>
+          <latex>K^{\ddagger }</latex>
+        </item>
+        <item>
+          <meaning>Rate constant (transition state)</meaning>
+          <type>equation</type>
+          <alttext>k = (kB.T/h).K‡</alttext>
+          <latex>k=\frac{k_{\text{B}}\ T}{h}\ K^{\ddagger }</latex>
+        </item>
+        <item>
+          <meaning>Boltzmann constant</meaning>
+          <type>constant</type>
+          <alttext>kB</alttext>
+          <latex>k_{B}</latex>
+        </item>
+        <item>
+          <alttext>h</alttext>
+          <latex>h</latex>
+        </item>
+        <item>
+          <meaning>Rate constant (transition state)</meaning>
+          <type>equation</type>
+          <alttext>k = (kB.T/h).exp(Δ‡S°/R).exp(-Δ‡H°/R.T)</alttext>
+          <latex>k=\frac{k_{\text{B}}\ T}{h}\ \exp (\frac{\Delta ^{\ddagger }S^{\,\unicode{x26ac}}}{R})\ \exp (- \frac{\Delta ^{\ddagger }H^{\,\unicode{x26ac}}}{R\ T})</latex>
+        </item>
+        <item>
+          <alttext>Δ‡S°</alttext>
+          <latex>\Delta ^{\ddagger}S^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>Δ‡H°</alttext>
+          <latex>\Delta ^{\ddagger}H^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>Ea</alttext>
+          <latex>E_{a}</latex>
+        </item>
+        <item>
+          <alttext>Δ‡H°</alttext>
+          <latex>\Delta ^{\ddagger}H^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <meaning>Rate constant (transition state)</meaning>
+          <type>equation</type>
+          <alttext>k = (kB.T/h).exp(-Δ‡G°/R.T)</alttext>
+          <latex>k=\frac{k_{\text{B}}\ T}{h}\ \exp (- \frac{\Delta ^{\ddagger }G^{\,\unicode{x26ac}}}{R\ T})</latex>
+        </item>
+        <item>
+          <alttext>Δ‡G°</alttext>
+          <latex>\Delta ^{\ddagger}G^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>κ</alttext>
+          <latex>\kappa </latex>
+        </item>
+        <item>
+          <alttext>Δ‡S°</alttext>
+          <latex>\Delta ^{\ddagger}S^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>Δ‡H°</alttext>
+          <latex>\Delta ^{\ddagger}H^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>Δ‡G°</alttext>
+          <latex>\Delta ^{\ddagger}G^{\,\unicode{x26ac}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 190 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Activated complex (en)</title>
+      <url>https://en.wikipedia.org/wiki/Activated_complex</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aktivált komplex (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Aktivált_komplex</url>
+    </item>
+    <item>
+      <title>Wikipedia - Complex activat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Complex_activat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Eyring-Theorie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Eyring-Theorie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gas-phase ion chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Gas-phase_ion_chemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stato di transizione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_di_transizione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoria de l'estat de transició (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Teoria_de_l'estat_de_transició</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoria dello stato di transizione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Teoria_dello_stato_di_transizione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoría del estado de transición (es)</title>
+      <url>https://es.wikipedia.org/wiki/Teoría_del_estado_de_transición</url>
+    </item>
+    <item>
+      <title>Wikipedia - Theorie des Übergangszustandes (de)</title>
+      <url>https://de.wikipedia.org/wiki/Theorie_des_Übergangszustandes</url>
+    </item>
+    <item>
+      <title>Wikipedia - Théorie de l'état de transition (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Théorie_de_l'état_de_transition</url>
+    </item>
+    <item>
+      <title>Wikipedia - Transition state theory (en)</title>
+      <url>https://en.wikipedia.org/wiki/Transition_state_theory</url>
+    </item>
+    <item>
+      <title>Wikipedia - Átmenetiállapot-elmélet (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Átmenetiállapot-elmélet</url>
+    </item>
+    <item>
+      <title>Wikipedia - نظرية تحول الحالة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نظرية_تحول_الحالة</url>
+    </item>
+    <item>
+      <title>Wikipedia - 活性錯合体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/活性錯合体</url>
+    </item>
+    <item>
+      <title>Wikipedia - 过渡态理论 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/过渡态理论</url>
+    </item>
+    <item>
+      <title>Wikipedia - 遷移状態理論 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/遷移状態理論</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06470/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06470/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06470/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06470/plain</plain>
+  </links>
+  <citation>Citation: 'transition state theory' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06470</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:47:25+00:00</accessed>
+</term>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06279</id>
+  <doi>10.1351/goldbook.T06279</doi>
+  <code>T06279</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - terpenoids</longtitle>
+  <title>terpenoids</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Natural products and related compounds formally derived from isoprene units (see isoprenoids). They contain oxygen in various functional groups. This class is subdivided according to the number of carbon atoms in the same manner as are terpenes. The skeleton of terpenoids may differ from strict additivity of isoprene units by the loss or shift of a fragment, generally a methyl group.</text>
+      <links>
+        <item>
+          <title>isoprenoids</title>
+          <url>https://goldbook.iupac.org/terms/view/I03306</url>
+        </item>
+        <item>
+          <title>isoprenoids</title>
+          <url>https://goldbook.iupac.org/terms/view/I03306</url>
+        </item>
+        <item>
+          <title>terpenes</title>
+          <url>https://goldbook.iupac.org/terms/view/T06278</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1371 (https://doi.org/10.1351/pac199567081307)</item>
+        <item>White Book, 2nd ed., p. 255 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Biología (es)</title>
+      <url>https://es.wikipedia.org/wiki/Biología</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diterpene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Diterpene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diterpeno (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Diterpeno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpen (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Terpen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Terpene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpenoid (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Terpenoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpenoid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Terpenoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpenoid (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Terpenoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpenoid (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Terpenoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpenoid (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Terpenoid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpenoide (de)</title>
+      <url>https://de.wikipedia.org/wiki/Terpenoide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpenoides (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Terpenoides</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpenoidy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Terpenoidy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Terpeny (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Terpeny</url>
+    </item>
+    <item>
+      <title>Wikipedia - Τερπενοειδή (el)</title>
+      <url>https://el.wikipedia.org/wiki/Τερπενοειδή</url>
+    </item>
+    <item>
+      <title>Wikipedia - Терпеноиды (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Терпеноиды</url>
+    </item>
+    <item>
+      <title>Wikipedia - Тэрпеноіды (be)</title>
+      <url>https://be.wikipedia.org/wiki/Тэрпеноіды</url>
+    </item>
+    <item>
+      <title>Wikipedia - টারপিনয়েড (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/টারপিনয়েড</url>
+    </item>
+    <item>
+      <title>Wikipedia - テルペノイド (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/テルペノイド</url>
+    </item>
+    <item>
+      <title>Wikipedia - テルペン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/テルペン</url>
+    </item>
+    <item>
+      <title>Wikipedia - 아이소프레노이드 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/아이소프레노이드</url>
+    </item>
+    <item>
+      <title>Wikipedia - 이소프레노이드 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/이소프레노이드</url>
+    </item>
+    <item>
+      <title>Wikipedia - 테르펜 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/테르펜</url>
+    </item>
+    <item>
+      <title>Wikipedia - 토론:테르펜 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/토론:테르펜</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06279/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06279/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06279/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06279/plain</plain>
+  </links>
+  <citation>Citation: 'terpenoids' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06279</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:39:04+00:00</accessed>
+</term>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01663</id>
+  <doi>10.1351/goldbook.D01663</doi>
+  <code>D01663</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - diagram level in X-ray spectroscopy</longtitle>
+  <title>diagram level</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A level described by the removal of one electron from the configuration of the neutral ground state. These levels form a spectrum similar to that of a one-electron or hydrogen-like atom but, being single-valency levels, have the energy scale reversed relative to that of single-electron levels. Diagram levels may be divided into valence levels and core levels according to the nature of the electron vacancy. Diagram levels with orbital angular momentum different from zero occur in pairs and form spin doublets.</text>
+      <contexts>
+        <in>
+          <item>X-ray spectroscopy</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>angular momentum</title>
+          <url>https://goldbook.iupac.org/terms/view/A00353</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1991, 63, 735. 'Nomenclature, symbols, units and their usage in spectrochemical analysis - VIII. Nomenclature system for X-ray spectroscopy (Recommendations 1991)' on page 738 (https://doi.org/10.1351/pac199163050735)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01663/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01663/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01663/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01663/plain</plain>
+  </links>
+  <citation>Citation: 'diagram level' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01663</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:58:36+00:00</accessed>
+</term>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06937</id>
+  <doi>10.1351/goldbook.CT06937</doi>
+  <code>CT06937</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - convex isotherm in chromatography</longtitle>
+  <title>convex isotherm</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Distribution isotherm, the slope of which is continuously decreasing.</text>
+      <notes>
+        <item>The resulting chromatographic peak is tailing (in chromatography). Adsorption isotherms are often of this type. A special case is the Langmuir adsorption isotherm.</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>tailing (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/T06249</url>
+        </item>
+        <item>
+          <title>distribution isotherm (in chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/DT06932</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 1591. 'Nomenclature for non-linear chromatography (IUPAC Recommendations 1996)' on page 1593 (https://doi.org/10.1351/pac199668081591)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT06937/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT06937/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT06937/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT06937/plain</plain>
+  </links>
+  <citation>Citation: 'convex isotherm' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT06937</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:45:04+00:00</accessed>
+</term>

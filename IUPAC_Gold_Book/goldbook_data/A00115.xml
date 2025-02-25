@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00115</id>
+  <doi>10.1351/goldbook.A00115</doi>
+  <code>A00115</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - activity</longtitle>
+  <title>activity</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Defined by the equation a = e((µ - µo)/RT) where R is the gas constant, T the thermodynamic temperature, µ the chemical potential and µ0 the standard chemical potential the definition of which depends on the choice of the standard state.</text>
+      <links>
+        <item>
+          <title>absolute activity</title>
+          <url>https://goldbook.iupac.org/terms/view/A00019</url>
+        </item>
+        <item>
+          <title>absolute activity</title>
+          <url>https://goldbook.iupac.org/terms/view/A00019</url>
+        </item>
+        <item>
+          <title>gas constant</title>
+          <url>https://goldbook.iupac.org/terms/view/G02579</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>standard chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/S05908</url>
+        </item>
+        <item>
+          <title>absolute activity</title>
+          <url>https://goldbook.iupac.org/terms/view/A00019</url>
+        </item>
+        <item>
+          <title>gas constant</title>
+          <url>https://goldbook.iupac.org/terms/view/G02579</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>standard chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/S05908</url>
+        </item>
+        <item>
+          <title>chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/C01032</url>
+        </item>
+        <item>
+          <title>standard state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05925</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Chemical activity</meaning>
+          <type>equation</type>
+          <alttext>a = e((µ - µo)/RT)</alttext>
+          <latex>a = e^{\frac{\mu - \mu^{o}}{R\,T}}</latex>
+        </item>
+        <item>
+          <meaning>Gas constant</meaning>
+          <type>constant</type>
+          <alttext>R</alttext>
+          <latex>R</latex>
+        </item>
+        <item>
+          <meaning>Temperature</meaning>
+          <type>quantity</type>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+        <item>
+          <meaning>Chemical potential</meaning>
+          <type>quantity</type>
+          <alttext>µ</alttext>
+          <latex>\mu</latex>
+        </item>
+        <item>
+          <meaning>Standard chemical potential</meaning>
+          <type>quantity</type>
+          <alttext>µ0</alttext>
+          <latex>\mu^{o}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 49 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 989 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aktivität (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Aktivität_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Happamuus (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Happamuus</url>
+    </item>
+    <item>
+      <title>Wikipedia - PH (en)</title>
+      <url>https://en.wikipedia.org/wiki/PH</url>
+    </item>
+    <item>
+      <title>Wikipedia - Thermodynamic activity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Thermodynamic_activity</url>
+    </item>
+    <item>
+      <title>Wikipedia - User:Doputadwadads (en)</title>
+      <url>https://en.wikipedia.org/wiki/User:Doputadwadads</url>
+    </item>
+    <item>
+      <title>Wikipedia - Активность (химия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Активность_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - فاعلية (كيمياء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/فاعلية_(كيمياء)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00115/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00115/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00115/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00115/plain</plain>
+  </links>
+  <citation>Citation: 'activity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00115</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:42:12+00:00</accessed>
+</term>

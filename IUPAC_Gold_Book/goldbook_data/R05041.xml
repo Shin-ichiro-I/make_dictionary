@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05041</id>
+  <doi>10.1351/goldbook.R05041</doi>
+  <code>R05041</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - radiant exitance, M</longtitle>
+  <title>radiant exitance</title>
+  <synonyms>
+    <item>radiant emittance</item>
+  </synonyms>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Radiant power, P, emitted at all wavelengths by an element of surface containing the source point under consideration divided by the area of the source. SI unit is W m-2.</text>
+      <notes>
+        <item>Mathematical definition: M = dP/dS. If the radiant power P is constant over the surface area considered, M = P/S.</item>
+        <item>Equivalent to the integration of the radiant power leaving a source over the solid angle and over the whole wavelength range. Mathematical definition: M = ∫(λ).Mλ.⁢dλ, where M λ is the spectral radiant exitance at wavelength λ.</item>
+        <item>Same as spherical radiant exitance. Formerly called radiant emittance.</item>
+      </notes>
+      <links>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>spectral radiant exitance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05825</url>
+        </item>
+        <item>
+          <title>exitance</title>
+          <url>https://goldbook.iupac.org/terms/view/E02264</url>
+        </item>
+        <item>
+          <title>Radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05046</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>W m-2</alttext>
+          <latex>\text{W m}^{-2}</latex>
+        </item>
+        <item>
+          <alttext>M = dP/dS</alttext>
+          <latex>M = \text{d}P/\text{d}S</latex>
+        </item>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>M = P/S</alttext>
+          <latex>M = P/S</latex>
+        </item>
+        <item>
+          <alttext>M = ∫(λ).Mλ.⁢dλ</alttext>
+          <latex>M = \int_{\lambda}M_{\lambda}\, \text{d}\lambda</latex>
+        </item>
+        <item>
+          <alttext>M λ</alttext>
+          <latex>M_{\lambda}</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 409 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - ابتعاث إشعاعي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ابتعاث_إشعاعي</url>
+    </item>
+    <item>
+      <title>Wikipedia - معامل انبعاث إشعاعي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/معامل_انبعاث_إشعاعي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05041/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05041/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05041/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05041/plain</plain>
+  </links>
+  <citation>Citation: 'radiant exitance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05041</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:41:43+00:00</accessed>
+</term>

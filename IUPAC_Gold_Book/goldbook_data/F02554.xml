@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02554</id>
+  <doi>10.1351/goldbook.F02554</doi>
+  <code>F02554</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - functional class name</longtitle>
+  <title>functional class name</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A name that expresses the characteristic group as a class term written as a separate word following the name of a parent structure or a name derived from a parent structure. In the latter case, when the derived name is that for a substituent group (formerly called a 'radical'), the method has been called 'radicofunctional nomenclature'.</text>
+      <sources>
+        <item>Blue Book Guide, p. 14 (https://doi.org/10.1351/pac199971071327)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02554/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02554/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02554/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02554/plain</plain>
+  </links>
+  <citation>Citation: 'functional class name' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02554</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:38:26+00:00</accessed>
+</term>

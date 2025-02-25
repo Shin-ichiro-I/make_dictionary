@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03229</id>
+  <doi>10.1351/goldbook.I03229</doi>
+  <code>I03229</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ionomer</longtitle>
+  <title>ionomer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Polymer composed of macromolecules in which a small but significant proportion of the constitutional units has ionic or ionizable groups, or both.</text>
+      <notes>
+        <item>Ionic groups are usually present in sufficient amounts (typically less than 10% of constitutional units) to cause micro-phase separation of ionic domains from the continuous polymer phase. The ionic domains act as physical crosslinks.</item>
+      </notes>
+      <links>
+        <item>
+          <title>micro</title>
+          <url>https://goldbook.iupac.org/terms/view/M03894</url>
+        </item>
+        <item>
+          <title>phase separation</title>
+          <url>https://goldbook.iupac.org/terms/view/P04534</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2006, 78, 2067. 'Terminology of polymers containing ionizable or ionic groups and of polymers containing ions (IUPAC Recommendations 2006)' on page 2071 (https://doi.org/10.1351/pac200678112067)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Progetto:Chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Progetto:Chimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - أيونومير (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أيونومير</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03229/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03229/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03229/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03229/plain</plain>
+  </links>
+  <citation>Citation: 'ionomer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03229</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:10:58+00:00</accessed>
+</term>

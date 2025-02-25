@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04362</id>
+  <doi>10.1351/goldbook.O04362</doi>
+  <code>O04362</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - oxidation</longtitle>
+  <title>oxidation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <outro>All oxidations meet criteria 1 and 2, and many meet criterion 3, but this is not always easy to demonstrate. Alternatively, an oxidation can be described as a @T06446@ of an organic substrate that can be rationally dissected into steps or @P04845@. The latter consist in removal of one or several electrons from the substrate followed or preceded by gain or loss of water and/or @H02904@ or hydroxide ions, or by @N04249@ substitution by water or its reverse and/or by an @I03130@ @M03997@. This formal definition allows the original idea of oxidation (combination with oxygen), together with its extension to removal of hydrogen, as well as processes closely akin to this type of @T06446@ transformation (and generally regarded in current usage of the term in organic chemistry to be oxidations and to be effected by 'oxidizing agents') to be descriptively related to definition 1. For example the oxidation of methane to chloromethane may be considered as follows: O04362.png</outro>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The complete, net removal of one or more electrons from a molecular entity (also called 'de-electronation').</text>
+      <links>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>de-electronation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01551</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>An increase in the oxidation number of any atom within any substrate.</text>
+      <links>
+        <item>
+          <title>oxidation number</title>
+          <url>https://goldbook.iupac.org/terms/view/O04363</url>
+        </item>
+        <item>
+          <title>substrate</title>
+          <url>https://goldbook.iupac.org/terms/view/S06082</url>
+        </item>
+        <item>
+          <title>primitive changes</title>
+          <url>https://goldbook.iupac.org/terms/view/P04845</url>
+        </item>
+        <item>
+          <title>hydrons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>nucleophilic</title>
+          <url>https://goldbook.iupac.org/terms/view/N04249</url>
+        </item>
+        <item>
+          <title>intramolecular molecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>rearrangement</title>
+          <url>https://goldbook.iupac.org/terms/view/M03997</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>Gain of oxygen and/or loss of hydrogen of an organic substrate.</text>
+    </item>
+  </definitions>
+  <sources>'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' Muller, P.; Pure and Applied Chemistry 1994 66(5) 1077</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Ossidazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Ossidazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxidation (de)</title>
+      <url>https://de.wikipedia.org/wiki/Oxidation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Redox (en)</title>
+      <url>https://en.wikipedia.org/wiki/Redox</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reduktion (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Reduktion_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Восстановление (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Восстановление</url>
+    </item>
+    <item>
+      <title>Wikipedia - Восстановление (химия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Восстановление_(химия)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04362/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04362/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04362/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04362/plain</plain>
+  </links>
+  <citation>Citation: 'oxidation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04362</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:07:59+00:00</accessed>
+</term>

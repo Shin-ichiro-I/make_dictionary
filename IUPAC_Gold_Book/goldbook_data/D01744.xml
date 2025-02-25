@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01744</id>
+  <doi>10.1351/goldbook.D01744</doi>
+  <code>D01744</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dimerization</longtitle>
+  <title>dimerization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The transformation of a molecular entityA to give a molecular entity A2. For example: [image: Not defined] [image: Not defined] [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01744-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01744-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01744-3.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>association</title>
+          <url>https://goldbook.iupac.org/terms/view/A00472</url>
+        </item>
+        <item>
+          <title>association</title>
+          <url>https://goldbook.iupac.org/terms/view/A00472</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1106 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Dimer (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Dimer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimer (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dimer_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimer (de)</title>
+      <url>https://de.wikipedia.org/wiki/Dimer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimer (hemija) (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Dimer_(hemija)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimer (kimia) (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Dimer_(kimia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimeri (hr)</title>
+      <url>https://hr.wikipedia.org/wiki/Dimeri</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimerisierung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Dimerisierung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimerization (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dimerization_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimerization (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dimerization</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimerizzazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Dimerizzazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dimér (chémia) (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Dimér_(chémia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dímero (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Dímero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dímero (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Dímero_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Dimer (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Dimer_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Dimerization (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Dimerization_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Димер (хімія) (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Димер_(хімія)</url>
+    </item>
+    <item>
+      <title>Wikipedia - دیمر (شیمی) (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/دیمر_(شیمی)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 二聚體 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/二聚體</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01744/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01744/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01744/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01744/plain</plain>
+  </links>
+  <citation>Citation: 'dimerization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01744</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:02:02+00:00</accessed>
+</term>

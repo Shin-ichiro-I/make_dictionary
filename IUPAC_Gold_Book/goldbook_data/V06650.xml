@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06650</id>
+  <doi>10.1351/goldbook.V06650</doi>
+  <code>V06650</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - volume viscosity (or dilatational viscosity)</longtitle>
+  <title>volume viscosity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A quantity ζ which enters into equations at any point where the flow involves a change in volume, i.e. is dilatational. If the deformation is purely dilatational, the average of three normal stress components is: σ = 1 3 ( σ x x + σ y y + σ z z  is the hydrostatic pressure at the point considered in the absence of motion.</text>
+      <links>
+        <item>
+          <title>normal stress</title>
+          <url>https://goldbook.iupac.org/terms/view/N04216</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>σ = 1 3 ( σ x x + σ y y + σ z z </alttext>
+          <latex>\sigma =\frac{1}{3}\ (\sigma _{xx}+\sigma _{yy}+\sigma _{zz})=- p+\zeta \ (\frac{\partial v_{x}}{\partial x}+\frac{\partial v_{y}}{\partial y}+\frac{\partial v_{z}}{\partial z})</latex>
+        </item>
+        <item>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1979, 51, 1213. 'Terminology and Symbols in Colloid and Surface Chemistry Part 1.13. Definitions, Terminology and Symbols for Rheological Properties' on page 1216 (https://doi.org/10.1351/pac197951051213)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Volume viscosity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Volume_viscosity</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/V06650/html</html>
+    <json>https://goldbook.iupac.org/terms/view/V06650/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/V06650/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/V06650/plain</plain>
+  </links>
+  <citation>Citation: 'volume viscosity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.V06650</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:56:02+00:00</accessed>
+</term>

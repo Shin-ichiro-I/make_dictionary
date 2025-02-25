@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00497</id>
+  <doi>10.1351/goldbook.A00497</doi>
+  <code>A00497</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - atomic mass constant</longtitle>
+  <title>atomic mass constant</title>
+  <index>constant</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>One twelfth of the mass of a carbon-12 atom in its nuclear and electronic ground state, mu = 1.660540210 x 10E-27 kg. It is equal to the unified atomic mass unit</text>
+      <links>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>unified atomic mass unit</title>
+          <url>https://goldbook.iupac.org/terms/view/U06554</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Atomic mass constant</meaning>
+          <type>unit</type>
+          <alttext>mu = 1.660540210 x 10E-27 kg</alttext>
+          <latex>m_{\rm{u}} = \pu{1.6605402(10)E-27 kg}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>CODATA Bull. 1986, 63, 1 (https://doi.org/10.6028/jres.092.010)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 962 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atomic mass constant (en)</title>
+      <url>https://en.wikipedia.org/wiki/Atomic_mass_constant</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Constante de masa atómica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Constante_de_masa_atómica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dalton (satuan) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Dalton_(satuan)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dalton (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dalton_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Јединица атомске масе (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Јединица_атомске_масе</url>
+    </item>
+    <item>
+      <title>Wikipedia - ডাল্টন (একক) (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ডাল্টন_(একক)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 統一原子質量単位 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/統一原子質量単位</url>
+    </item>
+    <item>
+      <title>Wikipedia - 道尔顿 (单位) (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/道尔顿_(单位)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00497/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00497/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00497/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00497/plain</plain>
+  </links>
+  <citation>Citation: 'atomic mass constant' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00497</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:01:42+00:00</accessed>
+</term>

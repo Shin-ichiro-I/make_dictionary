@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02269</id>
+  <doi>10.1351/goldbook.E02269</doi>
+  <code>E02269</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - exothermic reaction</longtitle>
+  <title>exothermic reaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A reaction for which the overall standard enthalpy change ΔH° is negative.</text>
+      <links>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ΔH°</alttext>
+          <latex>\Delta H^{\,\unicode{x26ac}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 165 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Egzotermna reakcija (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Egzotermna_reakcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Egzotermni proces (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Egzotermni_proces</url>
+    </item>
+    <item>
+      <title>Wikipedia - Eksoterminen reaktio (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Eksoterminen_reaktio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Erreakzio exotermiko (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Erreakzio_exotermiko</url>
+    </item>
+    <item>
+      <title>Wikipedia - Exotherme Reaktion (de)</title>
+      <url>https://de.wikipedia.org/wiki/Exotherme_Reaktion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Exothermic process (en)</title>
+      <url>https://en.wikipedia.org/wiki/Exothermic_process</url>
+    </item>
+    <item>
+      <title>Wikipedia - Exothermic reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Exothermic_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nuklearna fisija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Nuklearna_fisija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Phản ứng tỏa nhiệt (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Phản_ứng_tỏa_nhiệt</url>
+    </item>
+    <item>
+      <title>Wikipedia - Procés exotèrmic (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Procés_exotèrmic</url>
+    </item>
+    <item>
+      <title>Wikipedia - Réaction endothermique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Réaction_endothermique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Réaction exothermique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Réaction_exothermique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tindak balas eksotermik (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Tindak_balas_eksotermik</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفاعل طارد للحرارة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تفاعل_طارد_للحرارة</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفاعل ناشر للحرارة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تفاعل_ناشر_للحرارة</url>
+    </item>
+    <item>
+      <title>Wikipedia - তাপউৎপাদী বিক্রিয়া (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/তাপউৎপাদী_বিক্রিয়া</url>
+    </item>
+    <item>
+      <title>Wikipedia - তাপোৎপাদী বিক্রিয়া (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/তাপোৎপাদী_বিক্রিয়া</url>
+    </item>
+    <item>
+      <title>Wikipedia - กระบวนการคายความร้อน (อุณหพลศาสตร์) (th)</title>
+      <url>https://th.wikipedia.org/wiki/กระบวนการคายความร้อน_(อุณหพลศาสตร์)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02269/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02269/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02269/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02269/plain</plain>
+  </links>
+  <citation>Citation: 'exothermic reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02269</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:25:51+00:00</accessed>
+</term>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00367</id>
+  <doi>10.1351/goldbook.A00367</doi>
+  <code>A00367</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - annulation</longtitle>
+  <title>annulation</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A transformation involving fusion of a new ring to a molecule via two new bonds. Some authors use the term 'annelation' for the fusion of an additional ring to an already existing one, and 'annulation' for the formation of a ring from one or several acyclic precursors, but this distinction is not made generally.</text>
+      <links>
+        <item>
+          <title>cyclization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01494</url>
+        </item>
+        <item>
+          <title>cyclization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01494</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>annelation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00365</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1083 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Anelação (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Anelação</url>
+    </item>
+    <item>
+      <title>Wikipedia - Annulation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Annulation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anulacija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Anulacija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Danheiser benzannulation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Danheiser_benzannulation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ring forming reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ring_forming_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Réaction d'annélation (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Réaction_d'annélation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Анелювання (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Анелювання</url>
+    </item>
+    <item>
+      <title>Wikipedia - Аннелирование (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Аннелирование</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفاعل تحلق (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تفاعل_تحلق</url>
+    </item>
+    <item>
+      <title>Wikipedia - حلقه‌جوشی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/حلقه‌جوشی</url>
+    </item>
+    <item>
+      <title>Wikipedia - واکنش تشکیل حلقه (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/واکنش_تشکیل_حلقه</url>
+    </item>
+    <item>
+      <title>Wikipedia - 成环反应 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/成环反应</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00367/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00367/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00367/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00367/plain</plain>
+  </links>
+  <citation>Citation: 'annulation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00367</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:55:07+00:00</accessed>
+</term>

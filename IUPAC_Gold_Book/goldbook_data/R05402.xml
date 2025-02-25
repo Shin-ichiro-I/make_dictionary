@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05402</id>
+  <doi>10.1351/goldbook.R05402</doi>
+  <code>R05402</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Ritchie equation</longtitle>
+  <title>Ritchie equation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The linear free-energy relation log 10 k N = log 10 k 0 + N + is the rate constant for reaction of a given cation with a given nucleophilic system (i.e. given nucleophile in a given solvent). k0 is the rate constant for the same cation with water in water, and N + is a parameter which is characteristic of the nucleophilic system and independent of the cation. A surprising feature of the equation is the absence of a coefficient of N +, characteristic of the substrate (cf. the s in the Swain–Scott equation), even though values of N + vary over 13 log units. The equation thus involves a gigantic breakdown of the reactivity–selectivity principle. The equation has been extended both in form and in range of application.</text>
+      <links>
+        <item>
+          <title>linear free-energy relation</title>
+          <url>https://goldbook.iupac.org/terms/view/L03551</url>
+        </item>
+        <item>
+          <title>Swain–Scott equation</title>
+          <url>https://goldbook.iupac.org/terms/view/S06201</url>
+        </item>
+        <item>
+          <title>reactivity–selectivity principle</title>
+          <url>https://goldbook.iupac.org/terms/view/R05186</url>
+        </item>
+        <item>
+          <title>linear free-energy relation</title>
+          <url>https://goldbook.iupac.org/terms/view/L03551</url>
+        </item>
+        <item>
+          <title>Swain–Scott equation</title>
+          <url>https://goldbook.iupac.org/terms/view/S06201</url>
+        </item>
+        <item>
+          <title>reactivity–selectivity principle</title>
+          <url>https://goldbook.iupac.org/terms/view/R05186</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>log 10 k N = log 10 k 0 + N +</alttext>
+          <latex>\log _{10}k_{\text{N}} = \log _{10}k_{0}+N_{\text{+}}</latex>
+        </item>
+        <item>
+          <meaning>Rate constant for cation (in Ritchie equation)</meaning>
+          <type>quantity</type>
+          <alttext>kN</alttext>
+          <latex>k_{\text{N}}</latex>
+        </item>
+        <item>
+          <alttext>k0</alttext>
+          <latex>k_{0}</latex>
+        </item>
+        <item>
+          <alttext>N +</alttext>
+          <latex>N_{\text{+}}</latex>
+        </item>
+        <item>
+          <alttext>N +</alttext>
+          <latex>N_{\text{+}}</latex>
+        </item>
+        <item>
+          <alttext>s</alttext>
+          <latex>s</latex>
+        </item>
+        <item>
+          <alttext>N +</alttext>
+          <latex>N_{\text{+}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1161 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Nucleophile (en)</title>
+      <url>https://en.wikipedia.org/wiki/Nucleophile</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nucleófilo (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Nucleófilo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nukleofil (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Nukleofil</url>
+    </item>
+    <item>
+      <title>Wikipedia - Πυρηνόφιλο (el)</title>
+      <url>https://el.wikipedia.org/wiki/Πυρηνόφιλο</url>
+    </item>
+    <item>
+      <title>Wikipedia - Нуклеофил (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Нуклеофил</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05402/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05402/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05402/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05402/plain</plain>
+  </links>
+  <citation>Citation: 'Ritchie equation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05402</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:58:04+00:00</accessed>
+</term>

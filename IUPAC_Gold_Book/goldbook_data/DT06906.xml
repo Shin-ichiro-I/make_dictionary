@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06906</id>
+  <doi>10.1351/goldbook.DT06906</doi>
+  <code>DT06906</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dose-response and dose-effect relationships</longtitle>
+  <title>dose-response and dose-effect relationships</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The graph of the relation between dose and the proportion of individuals responding with an all-or-none effect; it is essentially the graph of the probability of an occurrence (or the proportion of a population exhibiting an effect) against dose. Typical examples of such all-or-none effects are mortality or the incidence of cancer.,The dose-effect curve is the graph of the relation between dose and the magnitude of the biological change produced measured in appropriate units. It applies to measurable changes giving a graded response to increasing doses of a drug or xenobiotic. It represents the effect on an individual animal or person, when biological variation is taken into account. An example is the increased effect of lead on the haem synthesis, e.g., on activity of the enzyme 6-amino laevulinic acid dehydratase in blood serum or coproporphyrin levels in urine.</text>
+      <links>
+        <item>
+          <title>dose</title>
+          <url>https://goldbook.iupac.org/terms/view/DT07361</url>
+        </item>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+        <item>
+          <title>drug (of a substance)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01863</url>
+        </item>
+        <item>
+          <title>haem (of a substance)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02714</url>
+        </item>
+        <item>
+          <title>serum (of a substance)</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06843</url>
+        </item>
+        <item>
+          <title>dose</title>
+          <url>https://goldbook.iupac.org/terms/view/DT07361</url>
+        </item>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+        <item>
+          <title>drug (of a substance)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01863</url>
+        </item>
+        <item>
+          <title>haem (of a substance)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02714</url>
+        </item>
+        <item>
+          <title>serum (of a substance)</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06843</url>
+        </item>
+        <item>
+          <title>dose (of a substance)</title>
+          <url>https://goldbook.iupac.org/terms/view/DT06810</url>
+        </item>
+        <item>
+          <title>xenobiotic (of a substance)</title>
+          <url>https://goldbook.iupac.org/terms/view/XT06755</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2001, 73, 993. 'Risk assessment for occupational exposure to chemicals. A review of current methodology (IUPAC Technical Report)' on page 1022 (https://doi.org/10.1351/pac200173060993)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/DT06906/html</html>
+    <json>https://goldbook.iupac.org/terms/view/DT06906/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/DT06906/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/DT06906/plain</plain>
+  </links>
+  <citation>Citation: 'dose-response and dose-effect relationships' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.DT06906</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:06:41+00:00</accessed>
+</term>

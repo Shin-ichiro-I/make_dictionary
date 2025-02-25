@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02971</id>
+  <doi>10.1351/goldbook.I02971</doi>
+  <code>I02971</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - immobile adsorption</longtitle>
+  <title>immobile adsorption</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A situation in which the freedom of molecules of adsorbate to move about the surface is limited. Adsorption is immobile when k.T is small compared to Δ E, the energy barrier separating adjacent sites. The adsorbate has little chance of migrating to neighbouring sites and such adsorption is necessarily localized.</text>
+      <links>
+        <item>
+          <title>adsorbate</title>
+          <url>https://goldbook.iupac.org/terms/view/A00152</url>
+        </item>
+        <item>
+          <title>adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/A00155</url>
+        </item>
+        <item>
+          <title>adsorbate</title>
+          <url>https://goldbook.iupac.org/terms/view/A00152</url>
+        </item>
+        <item>
+          <title>adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/A00155</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Rate constant times temperature</meaning>
+          <type>math</type>
+          <alttext>k.T</alttext>
+          <latex>k\ T</latex>
+        </item>
+        <item>
+          <alttext>Δ E</alttext>
+          <latex>\Delta E</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1976, 46, 71. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units - Appendix II. Definitions, Terminology and Symbols in Colloid and Surface Chemistry. Part II: Heterogeneous Catalysis' on page 76 (https://doi.org/10.1351/pac197646010071)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02971/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02971/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02971/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02971/plain</plain>
+  </links>
+  <citation>Citation: 'immobile adsorption' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02971</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:00:04+00:00</accessed>
+</term>

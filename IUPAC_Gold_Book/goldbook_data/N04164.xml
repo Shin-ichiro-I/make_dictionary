@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04164</id>
+  <doi>10.1351/goldbook.N04164</doi>
+  <code>N04164</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - nitrones</longtitle>
+  <title>nitrones</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The N-oxides of imines, that have the structure R2C=N+(O−)R' (R' ≠ H). Synonymous with azomethine oxides. N-Oxides R2C=N+(O−)H may be included.</text>
+      <links>
+        <item>
+          <title>dipolar compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/D01753</url>
+        </item>
+        <item>
+          <title>dipolar compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/D01753</url>
+        </item>
+        <item>
+          <title>imines</title>
+          <url>https://goldbook.iupac.org/terms/view/I02957</url>
+        </item>
+        <item>
+          <title>azomethine oxides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00563</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1351 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Nitrone (de)</title>
+      <url>https://de.wikipedia.org/wiki/Nitrone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nitrone (it)</title>
+      <url>https://it.wikipedia.org/wiki/Nitrone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nitronit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Nitronit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Нитроны (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Нитроны</url>
+    </item>
+    <item>
+      <title>Wikipedia - Нітрони (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Нітрони</url>
+    </item>
+    <item>
+      <title>Wikipedia - Оксиди амінів (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Оксиди_амінів</url>
+    </item>
+    <item>
+      <title>Wikipedia - Оксиды аминов (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Оксиды_аминов</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04164/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04164/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04164/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04164/plain</plain>
+  </links>
+  <citation>Citation: 'nitrones' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04164</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:56:09+00:00</accessed>
+</term>

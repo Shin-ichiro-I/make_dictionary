@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01497</id>
+  <doi>10.1351/goldbook.C01497</doi>
+  <code>C01497</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - cycloalkanes</longtitle>
+  <title>cycloalkanes</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Saturated monocyclic hydrocarbons (with or without side chains), e.g. cyclobutane. Unsaturated monocyclic hydrocarbons having one endocyclic double or one triple bond are called cycloalkenes and cycloalkynes, respectively. Those having more than one such multiple bond are cycloalkadienes, cycloalkatrienes, etc. The inclusive terms for any cyclic hydrocarbons having any number of such multiple bonds are cyclic olefins or cyclic acetylenes. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C01497.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>olefins</title>
+          <url>https://goldbook.iupac.org/terms/view/O04281</url>
+        </item>
+        <item>
+          <title>acetylenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00066</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>olefins</title>
+          <url>https://goldbook.iupac.org/terms/view/O04281</url>
+        </item>
+        <item>
+          <title>acetylenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00066</url>
+        </item>
+        <item>
+          <title>alicyclic compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/A00216</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1330 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alcà (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Alcà</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkany (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Alkany</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cicloalcani (it)</title>
+      <url>https://it.wikipedia.org/wiki/Cicloalcani</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cicloalcheni (it)</title>
+      <url>https://it.wikipedia.org/wiki/Cicloalcheni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cicloalchini (it)</title>
+      <url>https://it.wikipedia.org/wiki/Cicloalchini</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cycloalkane (de)</title>
+      <url>https://de.wikipedia.org/wiki/Cycloalkane</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cycloalkane (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cycloalkane</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cykloalkany (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Cykloalkany</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sikloalkaan (af)</title>
+      <url>https://af.wikipedia.org/wiki/Sikloalkaan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sikloalkana (id)</title>
+      <url>https://id.wikipedia.org/wiki/Sikloalkana</url>
+    </item>
+    <item>
+      <title>Wikipedia - Циклоалкан (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Циклоалкан</url>
+    </item>
+    <item>
+      <title>Wikipedia - Циклоалканы (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Циклоалканы</url>
+    </item>
+    <item>
+      <title>Wikipedia - Циклоалкены (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Циклоалкены</url>
+    </item>
+    <item>
+      <title>Wikipedia - ألكان حلقي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ألكان_حلقي</url>
+    </item>
+    <item>
+      <title>Wikipedia - 环烷烃 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/环烷烃</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01497/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01497/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01497/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01497/plain</plain>
+  </links>
+  <citation>Citation: 'cycloalkanes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01497</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:51:26+00:00</accessed>
+</term>

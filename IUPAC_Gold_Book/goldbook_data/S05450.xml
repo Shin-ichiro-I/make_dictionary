@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05450</id>
+  <doi>10.1351/goldbook.S05450</doi>
+  <code>S05450</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - salting out</longtitle>
+  <title>salting out</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The addition of particular electrolytes to an aqueous phase in order to increase the distribution ratio of a particular solute.</text>
+      <notes>
+        <item>The addition of electrolytes to improve phase separation behaviour should not be referred to as salting out.</item>
+        <item>The term is also used for the addition of electrolytes to reduce the mutual partial miscibility of two liquids.</item>
+        <item>It has no connection with synergism.</item>
+      </notes>
+      <links>
+        <item>
+          <title>phase separation</title>
+          <url>https://goldbook.iupac.org/terms/view/P04534</url>
+        </item>
+        <item>
+          <title>miscibility</title>
+          <url>https://goldbook.iupac.org/terms/view/MT07230</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2379 (https://doi.org/10.1351/pac199365112373)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Salting out (it)</title>
+      <url>https://it.wikipedia.org/wiki/Salting_out</url>
+    </item>
+    <item>
+      <title>Wikipedia - فصل بالتمليح (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/فصل_بالتمليح</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05450/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05450/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05450/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05450/plain</plain>
+  </links>
+  <citation>Citation: 'salting out' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05450</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:00:10+00:00</accessed>
+</term>

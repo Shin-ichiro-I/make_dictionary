@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02439</id>
+  <doi>10.1351/goldbook.F02439</doi>
+  <code>F02439</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - flow rate in chromatography</longtitle>
+  <title>flow rate</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The volume of mobile phase passing through the column in unit time. The flow rate is usually measured at column outlet, at ambient pressure (p a) and temperature (T a, in K); this value is indicated with the symbol F. If a water-containing flowmeter was used for the measurement (e.g. the so-called soap bubble flowmeter) then F must be corrected to dry gas conditions in order to obtain the mobile phase flow rate at ambient temperature (Fa): Fa = F(1 - pw/pa) is the partial pressure of water vapour at ambient temperature. In order to specify chromatographic conditions in column chromatography, the flow-rate (mobile phase flow rate at column temperature, Fc) must be expressed at T c (kelvin), the column temperature: </text>
+      <contexts>
+        <in>
+          <item>chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>soap</title>
+          <url>https://goldbook.iupac.org/terms/view/S05721</url>
+        </item>
+        <item>
+          <title>partial pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04420</url>
+        </item>
+        <item>
+          <title>column chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01182</url>
+        </item>
+        <item>
+          <title>kelvin</title>
+          <url>https://goldbook.iupac.org/terms/view/K03374</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>p a</alttext>
+          <latex>p_{\text{a}}</latex>
+        </item>
+        <item>
+          <alttext>T a</alttext>
+          <latex>T_{\text{a}}</latex>
+        </item>
+        <item>
+          <alttext>K</alttext>
+          <latex>\text{K}</latex>
+        </item>
+        <item>
+          <alttext>F</alttext>
+          <latex>F</latex>
+        </item>
+        <item>
+          <alttext>F</alttext>
+          <latex>F</latex>
+        </item>
+        <item>
+          <alttext>Fa</alttext>
+          <latex>F_{\text{a}}</latex>
+        </item>
+        <item>
+          <meaning>Flow rate at ambient temperature</meaning>
+          <alttext>Fa = F(1 - pw/pa)</alttext>
+          <latex>F_{\text{a}}=F\ (1- \frac{p_{\text{w}}}{p_{\text{a}}})</latex>
+        </item>
+        <item>
+          <alttext>p w</alttext>
+          <latex>p_{\text{w}}</latex>
+        </item>
+        <item>
+          <alttext>Fc</alttext>
+          <latex>F_{\text{c}}</latex>
+        </item>
+        <item>
+          <alttext>T c</alttext>
+          <latex>T_{\text{c}}</latex>
+        </item>
+        <item>
+          <alttext>Fc = Fa.(Tc/Ta)</alttext>
+          <latex>F_{\text{c}}=F_{\text{a}}\ \frac{T_{\text{c}}}{T_{\text{a}}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 839 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02439/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02439/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02439/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02439/plain</plain>
+  </links>
+  <citation>Citation: 'flow rate' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02439</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:33:15+00:00</accessed>
+</term>

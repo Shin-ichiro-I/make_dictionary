@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02449</id>
+  <doi>10.1351/goldbook.F02449</doi>
+  <code>F02449</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fluid coke</longtitle>
+  <title>fluid coke</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The carbonization product of high-boiling hydrocarbon fractions (heavy residues of petroleum or coal processing) produced by the fluid coking process.</text>
+      <notes>
+        <item>Fluid coke consists of spherulitic grains with a spherical layer structure and is generally less graphitizable than delayed coke. Therefore, it is not suitable as filler coke for polygranular graphite products and is also less suitable for polycrystalline carbon products. Because of its isotropy it is less suitable to produce an anisotropic synthetic graphite. All coke contain a fraction of matter that can be released as volatiles during heat treatment. This mass fraction, the so-called volatile matter, is in the case of fluid coke about 6 wt.%.</item>
+      </notes>
+      <links>
+        <item>
+          <title>coke</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+        <item>
+          <title>mass fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/M03722</url>
+        </item>
+        <item>
+          <title>coking</title>
+          <url>https://goldbook.iupac.org/terms/view/C01144</url>
+        </item>
+        <item>
+          <title>cokes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+        <item>
+          <title>mass fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/M03722</url>
+        </item>
+        <item>
+          <title>coking</title>
+          <url>https://goldbook.iupac.org/terms/view/C01144</url>
+        </item>
+        <item>
+          <title>delayed coke</title>
+          <url>https://goldbook.iupac.org/terms/view/D01577</url>
+        </item>
+        <item>
+          <title>filler coke</title>
+          <url>https://goldbook.iupac.org/terms/view/F02364</url>
+        </item>
+        <item>
+          <title>polygranular graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/P04731</url>
+        </item>
+        <item>
+          <title>synthetic graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/S06233</url>
+        </item>
+        <item>
+          <title>carbonization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00840</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 489 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02449/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02449/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02449/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02449/plain</plain>
+  </links>
+  <citation>Citation: 'fluid coke' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02449</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:33:40+00:00</accessed>
+</term>

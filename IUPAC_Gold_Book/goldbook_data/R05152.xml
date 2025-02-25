@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05152</id>
+  <doi>10.1351/goldbook.R05152</doi>
+  <code>R05152</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - rate of formation</longtitle>
+  <title>rate of formation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <intro>Like the @R05146@, the rate of formation of a specified product may be defined in two ways: </intro>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>As the time derivative of the amount of a product. Thus for a product Y, present at any time in amount nY. the rate of its formation may be given by: v(nY) = dnY/dt This definition is particularly appropriate for open systems.</text>
+      <math>
+        <item>
+          <alttext>nY</alttext>
+          <latex>n_{\text{Y}}</latex>
+        </item>
+        <item>
+          <alttext>v(nY) = dnY/dt</alttext>
+          <latex>\nu (n_{\text{Y}}) = \frac{\text{d}n_{\text{Y}}}{\text{d}t}</latex>
+        </item>
+      </math>
+    </item>
+    <item>
+      <id>2</id>
+      <text>For kinetics in closed systems it is more usual to define a rate of formation per unit volume, denoted v(cY): v(cY) = 1/V dnY/dt When the volume is constant this reduces to: v(cY) = 1/V dnY/dt = d[Y]/dt When the volume is not constant the relationship nY = [Y]V may be differentiated to give: dnY = Vd[Y] + [Y]dV and the rate of formation becomes: v(cY) = d[Y]/dt + [Y]/V dV/dt A rate of formation may be specified even for a reaction of time dependent stoichiometry or of unknown stoichiometry.</text>
+      <links>
+        <item>
+          <title>stoichiometry</title>
+          <url>https://goldbook.iupac.org/terms/view/S06026</url>
+        </item>
+        <item>
+          <title>rate of consumption</title>
+          <url>https://goldbook.iupac.org/terms/view/R05146</url>
+        </item>
+        <item>
+          <title>stoichiometry</title>
+          <url>https://goldbook.iupac.org/terms/view/S06026</url>
+        </item>
+        <item>
+          <title>rate of consumption</title>
+          <url>https://goldbook.iupac.org/terms/view/R05146</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>v(cY)</alttext>
+          <latex>\nu (c_{\text{Y}}) </latex>
+        </item>
+        <item>
+          <alttext>v(cY) = 1/V dnY/dt</alttext>
+          <latex>\nu (c_{\text{Y}}) = \frac{1}{V}\frac{\text{d}n_{\text{Y}}}{\text{d}t}</latex>
+        </item>
+        <item>
+          <alttext>v(cY) = 1/V dnY/dt = d[Y]/dt</alttext>
+          <latex>\nu (c_{\text{Y}}) = \frac{1}{V}\frac{\text{d}n_{\text{Y}}}{\text{d}t} = \frac{\text{d[Y]}}{\text{d}t}</latex>
+        </item>
+        <item>
+          <alttext>nY = [Y]V</alttext>
+          <latex>n_{\text{Y}} = [\text{Y}]V</latex>
+        </item>
+        <item>
+          <type>equation</type>
+          <alttext>dnY = Vd[Y] + [Y]dV</alttext>
+          <latex>{\text{d}}n_{\text{Y}} = V\text{d[Y]} + \text{[Y]d}V</latex>
+        </item>
+        <item>
+          <alttext>v(cY) = d[Y]/dt + [Y]/V dV/dt</alttext>
+          <latex>\nu (c_{\text{Y}}) = \frac{\text{d[Y]}}{\text{d}t} + \frac{\text{[Y]}}{V}\frac{\text{d}V}{\text{d}t}</latex>
+        </item>
+      </math>
+    </item>
+  </definitions>
+  <sources>'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' Laidler, K.J.; Pure and Applied Chemistry 1996 68(1) 149</sources>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05152/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05152/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05152/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05152/plain</plain>
+  </links>
+  <citation>Citation: 'rate of formation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05152</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:46:05+00:00</accessed>
+</term>

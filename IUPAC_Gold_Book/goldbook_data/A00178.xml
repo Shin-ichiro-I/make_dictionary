@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00178</id>
+  <doi>10.1351/goldbook.A00178</doi>
+  <code>A00178</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - affinity of reaction</longtitle>
+  <title>affinity of reaction</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Negative partial derivative of Gibbs energy with respect to extent of reaction at constant pressure and temperature. It is positive for spontaneous reactions.</text>
+      <links>
+        <item>
+          <title>driving force</title>
+          <url>https://goldbook.iupac.org/terms/view/D01860</url>
+        </item>
+        <item>
+          <title>driving force</title>
+          <url>https://goldbook.iupac.org/terms/view/D01860</url>
+        </item>
+        <item>
+          <title>extent of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02283</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 49 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - ألفة كيميائية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ألفة_كيميائية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00178/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00178/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00178/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00178/plain</plain>
+  </links>
+  <citation>Citation: 'affinity of reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00178</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:45:23+00:00</accessed>
+</term>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02948</id>
+  <doi>10.1351/goldbook.I02948</doi>
+  <code>I02948</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - imides</longtitle>
+  <title>imides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Diacyl derivatives of ammonia or primary amines, especially those cyclic compounds derived from diacids, e.g. [image: Not defined] </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/I02948.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>amines</title>
+          <url>https://goldbook.iupac.org/terms/view/A00274</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>In additive nomenclature, in which imide is analogous to oxide, the term is used to name compounds of the type R3Y+–N−R (Y = N, P) and R2Z+–N−R (Z = O, S, Se, Te), which are the products of formal attachment of an RN= group to N, P, O, S, Se, Te. E.g. amine imides, azomethine imides.</text>
+      <links>
+        <item>
+          <title>additive</title>
+          <url>https://goldbook.iupac.org/terms/view/A00134</url>
+        </item>
+        <item>
+          <title>attachment</title>
+          <url>https://goldbook.iupac.org/terms/view/A00512</url>
+        </item>
+        <item>
+          <title>amine imides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00271</url>
+        </item>
+        <item>
+          <title>azomethine imides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00562</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>Salts having the anion RN2−.</text>
+      <links>
+        <item>
+          <title>anion</title>
+          <url>https://goldbook.iupac.org/terms/view/A00358</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' Moss, G.P.;Smith, P.A.S.;Tavernier, D.; Pure and Applied Chemistry 1995 67(8-9) 1307</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Imid (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Imid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imida (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Imida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imida (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Imida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imida (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Imida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Imide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imidit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Imidit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imidă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Imidă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Immidi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Immidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Имиды (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Имиды</url>
+    </item>
+    <item>
+      <title>Wikipedia - Имиды карбоновых кислот (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Имиды_карбоновых_кислот</url>
+    </item>
+    <item>
+      <title>Wikipedia - אימיד (he)</title>
+      <url>https://he.wikipedia.org/wiki/אימיד</url>
+    </item>
+    <item>
+      <title>Wikipedia - إيميد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إيميد</url>
+    </item>
+    <item>
+      <title>Wikipedia - ایمید (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ایمید</url>
+    </item>
+    <item>
+      <title>Wikipedia - 이미드 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/이미드</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02948/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02948/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02948/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02948/plain</plain>
+  </links>
+  <citation>Citation: 'imides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02948</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:58:53+00:00</accessed>
+</term>

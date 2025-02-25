@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06075</id>
+  <doi>10.1351/goldbook.S06075</doi>
+  <code>S06075</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - substance fraction, x</longtitle>
+  <title>substance fraction</title>
+  <abbrevs>
+    <item>ISO</item>
+  </abbrevs>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Ratio of the amount-of-substance of the component to the total amount-of-substance in the system containing the component.</text>
+      <notes>
+        <item>The term substance fraction is recommended for clinical chemistry, IUPAC also uses mole fraction and mole fraction.</item>
+        <item>For clinical chemistry the term component is recommended, ISO uses 'substance'.</item>
+        <item>For clinical chemistry the term system is recommended, ISO uses mixture.</item>
+      </notes>
+      <links>
+        <item>
+          <title>mole fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/A00296</url>
+        </item>
+        <item>
+          <title>amount fraction x (y for gaseous mixtures)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00296</url>
+        </item>
+        <item>
+          <title>component</title>
+          <url>https://goldbook.iupac.org/terms/view/C01209</url>
+        </item>
+        <item>
+          <title>system</title>
+          <url>https://goldbook.iupac.org/terms/view/S06234</url>
+        </item>
+        <item>
+          <title>mixture</title>
+          <url>https://goldbook.iupac.org/terms/view/M03949</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 994 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Stoffmengenanteil (de)</title>
+      <url>https://de.wikipedia.org/wiki/Stoffmengenanteil</url>
+    </item>
+    <item>
+      <title>Wikipedia - كسر مولي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كسر_مولي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06075/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06075/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06075/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06075/plain</plain>
+  </links>
+  <citation>Citation: 'substance fraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06075</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:29:09+00:00</accessed>
+</term>

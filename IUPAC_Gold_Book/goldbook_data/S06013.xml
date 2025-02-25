@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06013</id>
+  <doi>10.1351/goldbook.S06013</doi>
+  <code>S06013</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - sticking probability in surface chemistry</longtitle>
+  <title>sticking probability</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Often used with the same meaning as sticking coefficient, but in principle it is a microscopic quantity concerned with the individual collision process.</text>
+      <contexts>
+        <in>
+          <item>surface chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>sticking coefficient (in surface chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S06012</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1976, 46, 71. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units - Appendix II. Definitions, Terminology and Symbols in Colloid and Surface Chemistry. Part II: Heterogeneous Catalysis' on page 78 (https://doi.org/10.1351/pac197646010071)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06013/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06013/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06013/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06013/plain</plain>
+  </links>
+  <citation>Citation: 'sticking probability' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06013</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:26:12+00:00</accessed>
+</term>

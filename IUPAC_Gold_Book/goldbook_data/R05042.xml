@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05042</id>
+  <doi>10.1351/goldbook.R05042</doi>
+  <code>R05042</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - radiant exposure</longtitle>
+  <title>radiant exposure</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Radiant energy, Q, incident from all upward directions on an small sphere divided by the cross-sectional area of that sphere. SI unit is J m-2.</text>
+      <notes>
+        <item>Equivalent definition: Irradiance, E integrated over the time of irradiation.</item>
+        <item>Mathematical definition: H = dQ/dS = ∫(t) E.dt. If Q is constant over the area, H = Q/S. If E is constant over the time interval, H = E.t.</item>
+        <item>This term refers to a beam not scattered or reflected by the target or its surroundings. For a beam incident from all directions fluence&amp;nbsp;(Ho, Fo) is an equivalent term.</item>
+      </notes>
+      <links>
+        <item>
+          <title>irradiation</title>
+          <url>https://goldbook.iupac.org/terms/view/I03255</url>
+        </item>
+        <item>
+          <title>radiant energy</title>
+          <url>https://goldbook.iupac.org/terms/view/R05039</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Q</alttext>
+          <latex>Q</latex>
+        </item>
+        <item>
+          <meaning>Radiant energy</meaning>
+          <type>unit</type>
+          <alttext>J m-2</alttext>
+          <latex>\text{J m}^{-2}</latex>
+        </item>
+        <item>
+          <alttext>E</alttext>
+          <latex>E</latex>
+        </item>
+        <item>
+          <alttext>H = dQ/dS = ∫(t) E.dt</alttext>
+          <latex>H = \text{d}Q/\text{d}S = \int _{t} E\, \text{d}t</latex>
+        </item>
+        <item>
+          <alttext>Q</alttext>
+          <latex>Q</latex>
+        </item>
+        <item>
+          <alttext>H = Q/S</alttext>
+          <latex>H = Q/S</latex>
+        </item>
+        <item>
+          <alttext>E</alttext>
+          <latex>E</latex>
+        </item>
+        <item>
+          <alttext>H = E.t</alttext>
+          <latex>H = E\, t</latex>
+        </item>
+        <item>
+          <alttext>Ho</alttext>
+          <latex>H_{\text{o}}</latex>
+        </item>
+        <item>
+          <alttext>Fo</alttext>
+          <latex>F_{\text{o}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 409 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Radiant exposure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Radiant_exposure</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05042/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05042/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05042/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05042/plain</plain>
+  </links>
+  <citation>Citation: 'radiant exposure' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05042</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:41:45+00:00</accessed>
+</term>

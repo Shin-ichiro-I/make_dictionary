@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04348</id>
+  <doi>10.1351/goldbook.O04348</doi>
+  <code>O04348</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Ostwald ripening</longtitle>
+  <title>Ostwald ripening</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Dissolution of small crystals or sol particles and the redeposition of the dissolved species on the surfaces of larger crystals or sol particles.</text>
+      <notes>
+        <item>The process occurs because smaller particles have a higher surface energy, hence higher total Gibbs energy, than larger particles, giving rise to an apparent higher solubility.</item>
+        <item>Modified from previous definition. The definition proposed here is recommended for its inclusion of sol particles.</item>
+      </notes>
+      <links>
+        <item>
+          <title>solubility</title>
+          <url>https://goldbook.iupac.org/terms/view/S05740</url>
+        </item>
+        <item>
+          <title>sol</title>
+          <url>https://goldbook.iupac.org/terms/view/S05727</url>
+        </item>
+        <item>
+          <title>dissolution</title>
+          <url>https://goldbook.iupac.org/terms/view/D01806</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1824 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Maduració d'Ostwald (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Maduració_d'Ostwald</url>
+    </item>
+    <item>
+      <title>Wikipedia - Maduración de Ostwald (es)</title>
+      <url>https://es.wikipedia.org/wiki/Maduración_de_Ostwald</url>
+    </item>
+    <item>
+      <title>Wikipedia - Maturazione di Ostwald (it)</title>
+      <url>https://it.wikipedia.org/wiki/Maturazione_di_Ostwald</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nanoparticle (en)</title>
+      <url>https://en.wikipedia.org/wiki/Nanoparticle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ostwald ripening (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ostwald_ripening</url>
+    </item>
+    <item>
+      <title>Wikipedia - تکامل استوالد (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/تکامل_استوالد</url>
+    </item>
+    <item>
+      <title>Wikipedia - オストヴァルト熟成 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/オストヴァルト熟成</url>
+    </item>
+    <item>
+      <title>Wikipedia - 奧斯瓦爾德熟化 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/奧斯瓦爾德熟化</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04348/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04348/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04348/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04348/plain</plain>
+  </links>
+  <citation>Citation: 'Ostwald ripening' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04348</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:07:23+00:00</accessed>
+</term>

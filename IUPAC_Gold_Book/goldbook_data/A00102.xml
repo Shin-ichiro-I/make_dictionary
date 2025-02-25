@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00102</id>
+  <doi>10.1351/goldbook.A00102</doi>
+  <code>A00102</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - activation energy (Arrhenius activation energy)</longtitle>
+  <title>activation energy</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An empirical parameter characterizing the exponential temperature dependence of the rate coefficient, k, Ea = RT^2.(d(lnk)/dT), where R is the gas constant and T the thermodynamic temperature. The term is also used for threshold energies in electronic potential surfaces, in which case the term requires careful definition.</text>
+      <links>
+        <item>
+          <title>rate coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/R05137</url>
+        </item>
+        <item>
+          <title>gas constant</title>
+          <url>https://goldbook.iupac.org/terms/view/G02579</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>threshold energies</title>
+          <url>https://goldbook.iupac.org/terms/view/T06366</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+        <item>
+          <meaning>Activation energy</meaning>
+          <type>equation</type>
+          <alttext>Ea = RT^2.(d(lnk)/dT)</alttext>
+          <latex>E_{a} = R\, T^{2}\frac{\text{d(ln}k\text{)}}{\text{d}T}</latex>
+        </item>
+        <item>
+          <alttext>R</alttext>
+          <latex>R</latex>
+        </item>
+        <item>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 55 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1993, 65, 2291. 'Nomenclature of kinetic methods of analysis (IUPAC Recommendations 1993)' on page 2294 (https://doi.org/10.1351/pac199365102291)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1112 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 151 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aktivierungsenergie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Aktivierungsenergie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Energia di attivazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Energia_di_attivazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Энергия активации (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Энергия_активации</url>
+    </item>
+    <item>
+      <title>Wikipedia - طاقة تنشيط (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/طاقة_تنشيط</url>
+    </item>
+    <item>
+      <title>Wikipedia - 活性化エネルギー (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/活性化エネルギー</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00102/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00102/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00102/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00102/plain</plain>
+  </links>
+  <citation>Citation: 'activation energy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00102</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:41:37+00:00</accessed>
+</term>

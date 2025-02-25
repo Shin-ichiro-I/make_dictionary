@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03659</id>
+  <doi>10.1351/goldbook.M03659</doi>
+  <code>M03659</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - µ- (mu) in inorganic nomenclature</longtitle>
+  <title>µ- (mu)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An affix used in names to signify that a group so designated bridges two or more centres of coordination.</text>
+      <contexts>
+        <in>
+          <item>inorganic nomenclature</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>coordination</title>
+          <url>https://goldbook.iupac.org/terms/view/C01329</url>
+        </item>
+      </links>
+      <sources>
+        <item>Blue Book, p. 465 (https://www.acdlabs.com/iupac/nomenclature/)</item>
+        <item>Red Book, 3rd ed., p. 245 (https://doi.org/10.1515/pac-2014-0718)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Dentatnost (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Dentatnost</url>
+    </item>
+    <item>
+      <title>Wikipedia - Denticidad (es)</title>
+      <url>https://es.wikipedia.org/wiki/Denticidad</url>
+    </item>
+    <item>
+      <title>Wikipedia - Denticitat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Denticitat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Denticity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Denticity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hapticitate (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Hapticitate</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hapticity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hapticity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ligand pontant (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Ligand_pontant</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lligand de pont (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Lligand_de_pont</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:IUPAC nomenclature of inorganic chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:IUPAC_nomenclature_of_inorganic_chemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Дентатність (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Дентатність</url>
+    </item>
+    <item>
+      <title>Wikipedia - تلامس (كيمياء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تلامس_(كيمياء)</url>
+    </item>
+    <item>
+      <title>Wikipedia - سنية (كيمياء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/سنية_(كيمياء)</url>
+    </item>
+    <item>
+      <title>Wikipedia - لیگاند واسطه (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/لیگاند_واسطه</url>
+    </item>
+    <item>
+      <title>Wikipedia - 哈普托數 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/哈普托數</url>
+    </item>
+    <item>
+      <title>Wikipedia - 齿合度 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/齿合度</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03659/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03659/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03659/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03659/plain</plain>
+  </links>
+  <citation>Citation: 'µ- (mu)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03659</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:51:39+00:00</accessed>
+</term>

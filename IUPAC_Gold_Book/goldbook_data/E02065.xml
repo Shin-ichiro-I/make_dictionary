@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02065</id>
+  <doi>10.1351/goldbook.E02065</doi>
+  <code>E02065</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - emulsion</longtitle>
+  <title>emulsion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A fluid colloidal system in which liquid droplets and/or liquid crystals are dispersed in a liquid. The droplets often exceed the usual limits for colloids in size. An emulsion is denoted by the symbol O/W if the continuous phase is an aqueous solution and by W/O if the continuous phase is an organic liquid (an 'oil'). More complicated emulsions such as O/W/O (i.e. oil droplets contained within aqueous droplets dispersed in a continuous oil phase) are also possible. Photographic emulsions, although colloidal systems, are not emulsions in the sense of this nomenclature.</text>
+      <links>
+        <item>
+          <title>colloidal</title>
+          <url>https://goldbook.iupac.org/terms/view/C01172</url>
+        </item>
+        <item>
+          <title>colloids</title>
+          <url>https://goldbook.iupac.org/terms/view/C01171</url>
+        </item>
+        <item>
+          <title>colloidal</title>
+          <url>https://goldbook.iupac.org/terms/view/C01172</url>
+        </item>
+        <item>
+          <title>colloids</title>
+          <url>https://goldbook.iupac.org/terms/view/C01171</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 606 (https://doi.org/10.1351/pac197231040577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Emulsion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Emulsion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Emulsione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Emulsione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Emulsión (es)</title>
+      <url>https://es.wikipedia.org/wiki/Emulsión</url>
+    </item>
+    <item>
+      <title>Wikipedia - Foam (en)</title>
+      <url>https://en.wikipedia.org/wiki/Foam</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nhũ tương (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Nhũ_tương</url>
+    </item>
+    <item>
+      <title>Wikipedia - Suspenzija (hemija) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Suspenzija_(hemija)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Емулзија (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Емулзија</url>
+    </item>
+    <item>
+      <title>Wikipedia - مستحلب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مستحلب</url>
+    </item>
+    <item>
+      <title>Wikipedia - エマルション (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/エマルション</url>
+    </item>
+    <item>
+      <title>Wikipedia - 유화액 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/유화액</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02065/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02065/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02065/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02065/plain</plain>
+  </links>
+  <citation>Citation: 'emulsion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02065</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:17:05+00:00</accessed>
+</term>

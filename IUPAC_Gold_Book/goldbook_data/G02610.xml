@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02610</id>
+  <doi>10.1351/goldbook.G02610</doi>
+  <code>G02610</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - general base catalysis</longtitle>
+  <title>general base catalysis</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The catalysis of a chemical reaction by a series of Brønsted bases (which may include the lyate ion) so that the rate of the catalysed part of the reaction is given by ∑kB[B] multiplied by some function of substrate concentration.</text>
+      <links>
+        <item>
+          <title>general acid catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/G02609</url>
+        </item>
+        <item>
+          <title>general acid catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/G02609</url>
+        </item>
+        <item>
+          <title>catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/C00874</url>
+        </item>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>Brønsted bases</title>
+          <url>https://goldbook.iupac.org/terms/view/B00745</url>
+        </item>
+        <item>
+          <title>lyate</title>
+          <url>https://goldbook.iupac.org/terms/view/L03653</url>
+        </item>
+        <item>
+          <title>substrate</title>
+          <url>https://goldbook.iupac.org/terms/view/S06082</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>∑kB[B]</alttext>
+          <latex>\sum k_{\text{B}}\ [\text{B}]</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1117 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02610/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02610/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02610/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02610/plain</plain>
+  </links>
+  <citation>Citation: 'general base catalysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02610</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:41:09+00:00</accessed>
+</term>

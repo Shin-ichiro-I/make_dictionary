@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02448</id>
+  <doi>10.1351/goldbook.F02448</doi>
+  <code>F02448</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fluence, F , Ψ , H0</longtitle>
+  <title>fluence</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>At a given point in space, the radiant energy incident on a small sphere divided by the cross-sectional area of that sphere. It is used in photochemistry to specify the energy delivered in a given time interval (for instance by a laser pulse).</text>
+      <links>
+        <item>
+          <title>dose</title>
+          <url>https://goldbook.iupac.org/terms/view/DT07361</url>
+        </item>
+        <item>
+          <title>photon fluence</title>
+          <url>https://goldbook.iupac.org/terms/view/P04634</url>
+        </item>
+        <item>
+          <title>dose</title>
+          <url>https://goldbook.iupac.org/terms/view/DT07361</url>
+        </item>
+        <item>
+          <title>photon fluence</title>
+          <url>https://goldbook.iupac.org/terms/view/P04634</url>
+        </item>
+        <item>
+          <title>radiant energy</title>
+          <url>https://goldbook.iupac.org/terms/view/R05039</url>
+        </item>
+        <item>
+          <title>photochemistry</title>
+          <url>https://goldbook.iupac.org/terms/view/P04588</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 31 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>ISO 31-05: 1992 (https://www.iso.org/iso/catalogue_detail.htm?csnumber=3635)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2242 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02448/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02448/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02448/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02448/plain</plain>
+  </links>
+  <citation>Citation: 'fluence' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02448</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:33:38+00:00</accessed>
+</term>

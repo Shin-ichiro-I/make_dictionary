@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06481</id>
+  <doi>10.1351/goldbook.T06481</doi>
+  <code>T06481</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - transmission electron microscopy (TEM)</longtitle>
+  <title>transmission electron microscopy</title>
+  <abbrevs>
+    <item>TEM</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any technique in which an electron transparent sample is bombarded with an electron beam and the intensity of the transmitted electrons which is determined by scattering phenomena (electron absorption phenomena) in the interior of the sample is recorded. TEM essentially provides a high resolution image of the microstructure of a thin sample. This technique is often just called electron microscopy. The term transmissionelectron microscopy is however recommended for the sake of a clear distinction from other electron microscopic techniques.</text>
+      <links>
+        <item>
+          <title>scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05487</url>
+        </item>
+        <item>
+          <title>electron microscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02002</url>
+        </item>
+        <item>
+          <title>transmission</title>
+          <url>https://goldbook.iupac.org/terms/view/T06477</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1983, 55, 2023. 'Nomenclature, symbols and units recommended for in situ microanalysis (Provisional)' on page 2024 (https://doi.org/10.1351/pac198355122023)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Microscopio elettronico a trasmissione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Microscopio_elettronico_a_trasmissione</url>
+    </item>
+    <item>
+      <title>Wikipedia - مجهر إلكتروني نافذ (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مجهر_إلكتروني_نافذ</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06481/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06481/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06481/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06481/plain</plain>
+  </links>
+  <citation>Citation: 'transmission electron microscopy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06481</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:47:50+00:00</accessed>
+</term>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00529</id>
+  <doi>10.1351/goldbook.A00529</doi>
+  <code>A00529</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - autophobicity</longtitle>
+  <title>autophobicity</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>If adsorption equilibrium and mutual saturation of the phases is not achieved instantly, it is possible to distinguish the initial spreading tension, σ_i^αβδ, from the final spreading tension, σ_f^αβδ, when equilibrium has been reached. In the case in which σ_i^αβδ is positive, while σ_f^αβδ is negative, the system is said to exhibit autophobicity.</text>
+      <links>
+        <item>
+          <title>saturation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05472</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>σ_i^αβδ</alttext>
+          <latex>\sigma _{\text{i}}^{\unicode[Times]{x3B1} \unicode[Times]{x3B2} \unicode[Times]{x3B4} }</latex>
+        </item>
+        <item>
+          <alttext>σ_f^αβδ</alttext>
+          <latex>\sigma _{\text{i}}^{\unicode[Times]{x3B1} \unicode[Times]{x3B2} \unicode[Times]{x3B4} }</latex>
+        </item>
+        <item>
+          <alttext>σ_i^αβδ</alttext>
+          <latex>\sigma _{\text{i}}^{\unicode[Times]{x3B1} \unicode[Times]{x3B2} \unicode[Times]{x3B4} }</latex>
+        </item>
+        <item>
+          <alttext>σ_f^αβδ</alttext>
+          <latex>\sigma _{\text{i}}^{\unicode[Times]{x3B1} \unicode[Times]{x3B2} \unicode[Times]{x3B4} }</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 598 (https://doi.org/10.1351/pac197231040577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00529/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00529/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00529/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00529/plain</plain>
+  </links>
+  <citation>Citation: 'autophobicity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00529</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:03:23+00:00</accessed>
+</term>

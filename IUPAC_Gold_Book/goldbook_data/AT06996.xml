@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06996</id>
+  <doi>10.1351/goldbook.AT06996</doi>
+  <code>AT06996</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aufbau principle</longtitle>
+  <title>aufbau principle</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A rule for building up the electronic configuration of atoms and molecules. It states that a maximum of two electrons are put into orbitals in the order of increasing orbital energy: the lowest-energy orbitals are filled before electrons are placed in higher-energy orbitals.</text>
+      <links>
+        <item>
+          <title>electronic configuration</title>
+          <url>https://goldbook.iupac.org/terms/view/E01995</url>
+        </item>
+        <item>
+          <title>orbital energy</title>
+          <url>https://goldbook.iupac.org/terms/view/O04318</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1925 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Configuración electrónica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Configuración_electrónica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cumraíocht leictreon (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Cumraíocht_leictreon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electron configuration (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electron_configuration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kernel (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Kernel_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konfigurasi elektron (id)</title>
+      <url>https://id.wikipedia.org/wiki/Konfigurasi_elektron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Principio dell'Aufbau (it)</title>
+      <url>https://it.wikipedia.org/wiki/Principio_dell'Aufbau</url>
+    </item>
+    <item>
+      <title>Wikipedia - Електронска конфигурација (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Електронска_конфигурација</url>
+    </item>
+    <item>
+      <title>Wikipedia - مبدأ أوفباو (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مبدأ_أوفباو</url>
+    </item>
+    <item>
+      <title>Wikipedia - 構造原理 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/構造原理</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/AT06996/html</html>
+    <json>https://goldbook.iupac.org/terms/view/AT06996/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/AT06996/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/AT06996/plain</plain>
+  </links>
+  <citation>Citation: 'aufbau principle' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.AT06996</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:02:52+00:00</accessed>
+</term>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07162</id>
+  <doi>10.1351/goldbook.PT07162</doi>
+  <code>PT07162</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymer reactant</longtitle>
+  <title>polymer reactant</title>
+  <contains>polymer reagent, polymer-supported reagent</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Reactant (reagent) that is or is attached to a high-molar-mass linear polymer or a polymer network.</text>
+      <notes>
+        <item>The attachment may be by chemical bonds, by weaker interactions such as hydrogen bonds, or simply by inclusion.</item>
+      </notes>
+      <links>
+        <item>
+          <title>attachment</title>
+          <url>https://goldbook.iupac.org/terms/view/A00512</url>
+        </item>
+        <item>
+          <title>reagent</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+        <item>
+          <title>linear polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/L03556</url>
+        </item>
+        <item>
+          <title>polymer network</title>
+          <url>https://goldbook.iupac.org/terms/view/P04742</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 897 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07162/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07162/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07162/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07162/plain</plain>
+  </links>
+  <citation>Citation: 'polymer reactant' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07162</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:27:45+00:00</accessed>
+</term>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04652</id>
+  <doi>10.1351/goldbook.P04652</doi>
+  <code>P04652</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - photosensitization</longtitle>
+  <title>photosensitization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The process by which a photochemical or photophysical alteration occurs in one molecular entity as a result of initial absorption of radiation by another molecular entity called a photosensitizer. In mechanistic photochemistry the term is limited to cases in which the photosensitizer is not consumed in the reaction.</text>
+      <links>
+        <item>
+          <title>photosensitizer</title>
+          <url>https://goldbook.iupac.org/terms/view/P04653</url>
+        </item>
+        <item>
+          <title>photochemistry</title>
+          <url>https://goldbook.iupac.org/terms/view/P04588</url>
+        </item>
+        <item>
+          <title>photosensitizer</title>
+          <url>https://goldbook.iupac.org/terms/view/P04653</url>
+        </item>
+        <item>
+          <title>photochemistry</title>
+          <url>https://goldbook.iupac.org/terms/view/P04588</url>
+        </item>
+        <item>
+          <title>energy transfer (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02116</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1981, 53, 753. 'Symbolism and Terminology in Chemical Kinetics' on page 762 (https://doi.org/10.1351/pac198153030753)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2265 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fotosensibilizador (es)</title>
+      <url>https://es.wikipedia.org/wiki/Fotosensibilizador</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotosensibilizzante (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fotosensibilizzante</url>
+    </item>
+    <item>
+      <title>Wikipedia - Photopolymerisation (de)</title>
+      <url>https://de.wikipedia.org/wiki/Photopolymerisation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Photosensitizer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Photosensitizer</url>
+    </item>
+    <item>
+      <title>Wikipedia - تحسيس ضوئي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تحسيس_ضوئي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04652/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04652/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04652/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04652/plain</plain>
+  </links>
+  <citation>Citation: 'photosensitization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04652</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:22:45+00:00</accessed>
+</term>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>08058</id>
+  <doi>10.1351/goldbook.08058</doi>
+  <code>08058</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - audit</longtitle>
+  <title>audit</title>
+  <termversion>5.0.0</termversion>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Systematic, independent, and documented process for obtaining objective evidence and evaluating it objectively to determine the extent to which the audit criteria are fulfilled.</text>
+      <notes>
+        <item>The fundamental elements of an audit include the determination of the conformity of an object according to a procedure carried out by personnel not being responsible for the object audited.</item>
+        <item>An audit can be an internal audit (first party) or an external audit (second party or third party), and it can be a combined audit or a joint audit.</item>
+        <item>Internal audits, sometimes termed first-party audits, are conducted by, or on behalf of, the organization itself for management review and other internal purposes and can form the basis for an organization's declaration of conformity. Independence can be demonstrated by the freedom from responsibility for the activity being audited.</item>
+        <item>External audits include those generally termed second and third-party audits. Second-party audits are conducted by parties having an interest in the organization, such as customers, or by other persons on their behalf. Third-party audits are conducted by external, independent auditing organizations such as those providing certification/registration of conformity or governmental agencies.</item>
+      </notes>
+      <links>
+        <item>
+          <title>determination</title>
+          <url>https://goldbook.iupac.org/terms/view/08018</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2021, 93, 997. 'Metrological and quality concepts in analytical chemistry (IUPAC Recommendations 2021)' on page 1020 (https://doi.org/10.1515/pac-2019-0819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/08058/html</html>
+    <json>https://goldbook.iupac.org/terms/view/08058/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/08058/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/08058/plain</plain>
+  </links>
+  <citation>Citation: 'audit' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.08058</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:02:49+00:00</accessed>
+</term>

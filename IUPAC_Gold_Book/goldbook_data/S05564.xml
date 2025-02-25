@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05564</id>
+  <doi>10.1351/goldbook.S05564</doi>
+  <code>S05564</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - selectivity</longtitle>
+  <title>selectivity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>(qualitative): The extent to which other substances interfere with the determination of a substance according to a given procedure.</text>
+    </item>
+    <item>
+      <id>2</id>
+      <text>(quantitative): A term used in conjunction with another substantive (e.g. constant, coefficient, index, factor, number) for the quantitative characterization of interferences.</text>
+      <links>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>interferences (in analysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03089</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Recommendations for the usage of selective, selectivity and related terms in analytical chemistry' Den Boef, G.;Hulanicki, A.; Pure and Applied Chemistry 1983 55(3) 553</sources>
+  <seealso>'Glossary of atmospheric chemistry terms (Recommendations 1990)' Calvert, J.G.; Pure and Applied Chemistry 1990 62(11) 2167</seealso>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05564/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05564/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05564/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05564/plain</plain>
+  </links>
+  <citation>Citation: 'selectivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05564</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:04:56+00:00</accessed>
+</term>

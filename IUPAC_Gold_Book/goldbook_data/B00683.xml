@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00683</id>
+  <doi>10.1351/goldbook.B00683</doi>
+  <code>B00683</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - block copolymer</longtitle>
+  <title>block copolymer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A copolymer that is a block polymer. In the constituent macromolecules of a blockcopolymer, adjacent blocks are constitutionally different, i.e. adjacent blocks comprise constitutional units derived from different species of monomer or from the same species of monomer but with a different composition or sequence distribution of constitutional units.</text>
+      <links>
+        <item>
+          <title>copolymer</title>
+          <url>https://goldbook.iupac.org/terms/view/C01335</url>
+        </item>
+        <item>
+          <title>block polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/B00685</url>
+        </item>
+        <item>
+          <title>constitutional units</title>
+          <url>https://goldbook.iupac.org/terms/view/C01288</url>
+        </item>
+        <item>
+          <title>monomer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04017</url>
+        </item>
+        <item>
+          <title>copolymer</title>
+          <url>https://goldbook.iupac.org/terms/view/C01335</url>
+        </item>
+        <item>
+          <title>block polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/B00685</url>
+        </item>
+        <item>
+          <title>constitutional units</title>
+          <url>https://goldbook.iupac.org/terms/view/C01288</url>
+        </item>
+        <item>
+          <title>monomer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04017</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>block</title>
+          <url>https://goldbook.iupac.org/terms/view/B00682</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2303 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Copolymer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Copolymer</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00683/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00683/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00683/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00683/plain</plain>
+  </links>
+  <citation>Citation: 'block copolymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00683</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:12:17+00:00</accessed>
+</term>

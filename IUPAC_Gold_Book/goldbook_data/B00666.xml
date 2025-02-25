@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00666</id>
+  <doi>10.1351/goldbook.B00666</doi>
+  <code>B00666</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - biotechnology</longtitle>
+  <title>biotechnology</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The integration of natural sciences and engineering sciences in order to achieve the application of organisms, cells, parts thereof and molecular analogues for products and services.</text>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 148 (https://doi.org/10.1351/pac199264010143)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Agronomija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Agronomija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biotechnology (en)</title>
+      <url>https://en.wikipedia.org/wiki/Biotechnology</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biotechnology (ha)</title>
+      <url>https://ha.wikipedia.org/wiki/Biotechnology</url>
+    </item>
+    <item>
+      <title>Wikipedia - Organsko jedinjenje (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Organsko_jedinjenje</url>
+    </item>
+    <item>
+      <title>Wikipedia - بائيو ٽيڪنالاجي (sd)</title>
+      <url>https://sd.wikipedia.org/wiki/بائيو_ٽيڪنالاجي</url>
+    </item>
+    <item>
+      <title>Wikipedia - تقانة حيوية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تقانة_حيوية</url>
+    </item>
+    <item>
+      <title>Wikipedia - ဇီဝအနယ်ꩻပညာႏ (blk)</title>
+      <url>https://blk.wikipedia.org/wiki/ဇီဝအနယ်ꩻပညာႏ</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00666/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00666/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00666/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00666/plain</plain>
+  </links>
+  <citation>Citation: 'biotechnology' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00666</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:11:23+00:00</accessed>
+</term>

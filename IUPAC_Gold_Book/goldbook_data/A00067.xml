@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00067</id>
+  <doi>10.1351/goldbook.A00067</doi>
+  <code>A00067</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - acetylides</longtitle>
+  <title>acetylides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds arising by replacement of one or both hydrogen atoms of acetylene (ethyne) by a metal or other cationic group. E.g., NaC≡CH monosodium acetylide. By extension, analogous compounds derived from terminal acetylenes, RC≡CH.</text>
+      <links>
+        <item>
+          <title>acetylenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00066</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1311 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acetiluri (it)</title>
+      <url>https://it.wikipedia.org/wiki/Acetiluri</url>
+    </item>
+    <item>
+      <title>Wikipedia - Acetilură (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Acetilură</url>
+    </item>
+    <item>
+      <title>Wikipedia - Acetylide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Acetylide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Acetylidy (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Acetylidy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia talk:WikiProject Chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Chemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - أسيتيليد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أسيتيليد</url>
+    </item>
+    <item>
+      <title>Wikipedia - استیلید (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/استیلید</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00067/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00067/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00067/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00067/plain</plain>
+  </links>
+  <citation>Citation: 'acetylides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00067</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:40:08+00:00</accessed>
+</term>

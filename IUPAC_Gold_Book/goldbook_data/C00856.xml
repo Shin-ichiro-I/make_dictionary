@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00856</id>
+  <doi>10.1351/goldbook.C00856</doi>
+  <code>C00856</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbynium ions</longtitle>
+  <title>carbynium ions</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The cationic species H2C.+ or substitution derivatives thereof, formally derived by adding a hydron to a carbyne or subtracting an electron from a carbene.</text>
+      <links>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>carbyne</title>
+          <url>https://goldbook.iupac.org/terms/view/C00854</url>
+        </item>
+        <item>
+          <title>carbene</title>
+          <url>https://goldbook.iupac.org/terms/view/C00806</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 1321. 'A new approach to enhancing the efficiency and specificity of interaction in duplexes by the use of tandem structure' on page 1326 (https://doi.org/10.1351/pac199668061321)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00856/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00856/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00856/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00856/plain</plain>
+  </links>
+  <citation>Citation: 'carbynium ions' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00856</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:22:07+00:00</accessed>
+</term>

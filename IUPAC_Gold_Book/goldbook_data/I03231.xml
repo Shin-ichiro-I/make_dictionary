@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03231</id>
+  <doi>10.1351/goldbook.I03231</doi>
+  <code>I03231</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ion pair</longtitle>
+  <title>ion pair</title>
+  <contains>contact ion pair, intimate ion pair, loose ion pair, solvent-separated ion pair, solvent-shared ion pair, tight ion pair</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A pair of oppositely charged ions held together by Coulomb attraction without formation of a covalent bond. Experimentally, an ion pair behaves as one unit in determining conductivity, kinetic behaviour, osmotic properties, etc. Following Bjerrum, oppositely charged ions with their centres closer together than a distance: q = 8.36 x 10 6 z + z- ɛ r T pm and z- are the charge numbers of the ions, and ɛr is the relative permittivity (or dielectric constant) of the medium.] An ion pair, the constituent ions of which are in direct contact (and not separated by an intervening solvent or other neutral molecule) is designated as a 'tight ion pair' (or 'intimate' or 'contact ion pair'). A tight ion pair of X+ and Y− is symbolically represented as X+Y−. By contrast, an ion pair whose constituent ions are separated by one or several solvent or other neutral molecules is described as a 'loose ion pair', symbolically represented as X+ || Y−. The members of a loose ion pair can readily interchange with other free or loosely paired ions in the solution. This interchange may be detectable (e.g. by isotopic labelling) and thus afford an experimental distinction between tight and loose ion pairs. A further conceptual distinction has sometimes been made between two types of loose ion pairs. In 'solvent-shared ion pairs' the ionic constituents of the pair are separated by only a single solvent molecule, whereas in 'solvent-separated ion pairs' more than one solvent molecule intervenes. However, the term 'solvent-separated ion pair' must be used and interpreted with care since it has also widely been used as a less specific term for 'loose' ion pair.</text>
+      <links>
+        <item>
+          <title>common-ion effect</title>
+          <url>https://goldbook.iupac.org/terms/view/C01191</url>
+        </item>
+        <item>
+          <title>dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01801</url>
+        </item>
+        <item>
+          <title>ion-pair return</title>
+          <url>https://goldbook.iupac.org/terms/view/I03233</url>
+        </item>
+        <item>
+          <title>special salt effect</title>
+          <url>https://goldbook.iupac.org/terms/view/S05783</url>
+        </item>
+        <item>
+          <title>common-ion effect</title>
+          <url>https://goldbook.iupac.org/terms/view/C01191</url>
+        </item>
+        <item>
+          <title>dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01801</url>
+        </item>
+        <item>
+          <title>ion-pair return</title>
+          <url>https://goldbook.iupac.org/terms/view/I03233</url>
+        </item>
+        <item>
+          <title>special salt effect</title>
+          <url>https://goldbook.iupac.org/terms/view/S05783</url>
+        </item>
+        <item>
+          <title>coulomb</title>
+          <url>https://goldbook.iupac.org/terms/view/C01365</url>
+        </item>
+        <item>
+          <title>relative permittivity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05273</url>
+        </item>
+        <item>
+          <title>dielectric constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01697</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>isotopic labelling</title>
+          <url>https://goldbook.iupac.org/terms/view/I03345</url>
+        </item>
+        <item>
+          <title>common-ion effect</title>
+          <url>https://goldbook.iupac.org/terms/view/C01191</url>
+        </item>
+        <item>
+          <title>dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01801</url>
+        </item>
+        <item>
+          <title>ion-pair return</title>
+          <url>https://goldbook.iupac.org/terms/view/I03233</url>
+        </item>
+        <item>
+          <title>special salt effect</title>
+          <url>https://goldbook.iupac.org/terms/view/S05783</url>
+        </item>
+        <item>
+          <title>coulomb</title>
+          <url>https://goldbook.iupac.org/terms/view/C01365</url>
+        </item>
+        <item>
+          <title>relative permittivity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05273</url>
+        </item>
+        <item>
+          <title>dielectric constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01697</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>isotopic labelling</title>
+          <url>https://goldbook.iupac.org/terms/view/I03345</url>
+        </item>
+        <item>
+          <title>covalent bond</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>q = 8.36 x 10 6 z + z- ɛ r T pm</alttext>
+          <latex>q = \frac{8.36\times 10^{6}\ z^{+}\ z^{-}}{\varepsilon_{\text{r}}\ T}\ \text{pm}</latex>
+        </item>
+        <item>
+          <alttext>z +</alttext>
+          <latex>z^{+}</latex>
+        </item>
+        <item>
+          <alttext>z-</alttext>
+          <latex>z^{-}</latex>
+        </item>
+        <item>
+          <meaning>Relative permittivity (dielectric constant)</meaning>
+          <type>quantity</type>
+          <alttext>ɛr</alttext>
+          <latex>\varepsilon_{\text{r}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1126 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1344 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Coppia ionica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Coppia_ionica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ionenassoziation (de)</title>
+      <url>https://de.wikipedia.org/wiki/Ionenassoziation</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03231/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03231/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03231/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03231/plain</plain>
+  </links>
+  <citation>Citation: 'ion pair' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03231</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:08:57+00:00</accessed>
+</term>

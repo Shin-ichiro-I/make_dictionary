@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02562</id>
+  <doi>10.1351/goldbook.F02562</doi>
+  <code>F02562</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - furocoumarins</longtitle>
+  <title>furocoumarins</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Derivatives (mostly of natural origin) of the linear furocoumarin skeleton, psoralen, or its angular isomer, angelicin, variously substituted with hydroxy, methoxy, alkyl, or hydroxymethyl groups, among others. [image: Not defined] </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/F02562.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>isomer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03289</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1337 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Furanocoumarin (en)</title>
+      <url>https://en.wikipedia.org/wiki/Furanocoumarin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Furanocumarine (it)</title>
+      <url>https://it.wikipedia.org/wiki/Furanocumarine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Furanokumariinit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Furanokumariinit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Furanokumarin (id)</title>
+      <url>https://id.wikipedia.org/wiki/Furanokumarin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Furanokumarin (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Furanokumarin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Furanokumarin (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Furanokumarin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Furokumarin (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Furokumarin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Фуранокумарины (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Фуранокумарины</url>
+    </item>
+    <item>
+      <title>Wikipedia - فورانوکومارین (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/فورانوکومارین</url>
+    </item>
+    <item>
+      <title>Wikipedia - フラノクマリン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/フラノクマリン</url>
+    </item>
+    <item>
+      <title>Wikipedia - 呋喃香豆素 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/呋喃香豆素</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02562/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02562/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02562/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02562/plain</plain>
+  </links>
+  <citation>Citation: 'furocoumarins' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02562</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:39:03+00:00</accessed>
+</term>

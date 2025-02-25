@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01081</id>
+  <doi>10.1351/goldbook.C01081</doi>
+  <code>C01081</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - cine-substitution</longtitle>
+  <title>cine-substitution</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A substitution reaction (generally aromatic) in which the entering group takes up a position adjacent to that occupied by the leaving group. For example, [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C01081.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>tele-substitution</title>
+          <url>https://goldbook.iupac.org/terms/view/T06256</url>
+        </item>
+        <item>
+          <title>tele-substitution</title>
+          <url>https://goldbook.iupac.org/terms/view/T06256</url>
+        </item>
+        <item>
+          <title>substitution reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/S06078</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>leaving group</title>
+          <url>https://goldbook.iupac.org/terms/view/L03493</url>
+        </item>
+        <item>
+          <title>tele-substitution</title>
+          <url>https://goldbook.iupac.org/terms/view/T06256</url>
+        </item>
+        <item>
+          <title>substitution reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/S06078</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>leaving group</title>
+          <url>https://goldbook.iupac.org/terms/view/L03493</url>
+        </item>
+        <item>
+          <title>entering group</title>
+          <url>https://goldbook.iupac.org/terms/view/E02130</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1097 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Arene substitution pattern (en)</title>
+      <url>https://en.wikipedia.org/wiki/Arene_substitution_pattern</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cine-Substitution (de)</title>
+      <url>https://de.wikipedia.org/wiki/Cine-Substitution</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nomenclature des dérivés benzéniques (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Nomenclature_des_dérivés_benzéniques</url>
+    </item>
+    <item>
+      <title>Wikipedia - Názvosloví derivátů arenů (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Názvosloví_derivátů_arenů</url>
+    </item>
+    <item>
+      <title>Wikipedia - Padróns de substitución en arenos (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Padróns_de_substitución_en_arenos</url>
+    </item>
+    <item>
+      <title>Wikipedia - Patrones de sustitución en hidrocarburos aromáticos (es)</title>
+      <url>https://es.wikipedia.org/wiki/Patrones_de_sustitución_en_hidrocarburos_aromáticos</url>
+    </item>
+    <item>
+      <title>Wikipedia - Patrons de substitució en hidrocarburs aromàtics (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Patrons_de_substitució_en_hidrocarburs_aromàtics</url>
+    </item>
+    <item>
+      <title>Wikipedia - Substitutionsmuster (de)</title>
+      <url>https://de.wikipedia.org/wiki/Substitutionsmuster</url>
+    </item>
+    <item>
+      <title>Wikipedia - نمط الاستبدال في الحلقات العطرية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نمط_الاستبدال_في_الحلقات_العطرية</url>
+    </item>
+    <item>
+      <title>Wikipedia - அரீன் பதிலீட்டு வகைகள் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/அரீன்_பதிலீட்டு_வகைகள்</url>
+    </item>
+    <item>
+      <title>Wikipedia - 방향족 치환기 패턴 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/방향족_치환기_패턴</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01081/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01081/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01081/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01081/plain</plain>
+  </links>
+  <citation>Citation: 'cine-substitution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01081</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:33:22+00:00</accessed>
+</term>

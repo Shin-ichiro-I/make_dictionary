@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05225</id>
+  <doi>10.1351/goldbook.R05225</doi>
+  <code>R05225</code>
+  <status>obsolete</status>
+  <longtitle>IUPAC Gold Book - re-extraction</longtitle>
+  <title>re-extraction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Since the prefix 're' can signify 'back' as well as 'again' this term is ambiguous and should be avoided, except where the process of extraction(e.g. from aqueous solution to an organic phase) in a single direction is repeated (following stripping). It should not be used as a synonym for stripping or back-extraction.</text>
+      <links>
+        <item>
+          <title>extraction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02301</url>
+        </item>
+        <item>
+          <title>stripping</title>
+          <url>https://goldbook.iupac.org/terms/view/S06054</url>
+        </item>
+        <item>
+          <title>extraction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02301</url>
+        </item>
+        <item>
+          <title>stripping</title>
+          <url>https://goldbook.iupac.org/terms/view/S06054</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2379 (https://doi.org/10.1351/pac199365112373)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05225/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05225/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05225/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05225/plain</plain>
+  </links>
+  <citation>Citation: 're-extraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05225</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:46:44+00:00</accessed>
+</term>

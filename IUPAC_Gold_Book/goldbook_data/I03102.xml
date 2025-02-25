@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03102</id>
+  <doi>10.1351/goldbook.I03102</doi>
+  <code>I03102</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - internal conversion</longtitle>
+  <title>internal conversion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A photophysical process. An isoenenergetic radiationless transition between two electronic states of the same multiplicity. When the transition results in a vibrationally excited molecular entity in the lower electronic state, this usually undergoes deactivation to its lowest vibrational level, provided the final state is not unstable to dissociation.</text>
+      <links>
+        <item>
+          <title>radiationless transition</title>
+          <url>https://goldbook.iupac.org/terms/view/R05057</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+        <item>
+          <title>deactivation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01528</url>
+        </item>
+        <item>
+          <title>unstable</title>
+          <url>https://goldbook.iupac.org/terms/view/U06569</url>
+        </item>
+        <item>
+          <title>dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01801</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 187 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2248 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Conversione interna (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Conversione_interna_(chimica)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03102/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03102/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03102/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03102/plain</plain>
+  </links>
+  <citation>Citation: 'internal conversion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03102</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:06:20+00:00</accessed>
+</term>

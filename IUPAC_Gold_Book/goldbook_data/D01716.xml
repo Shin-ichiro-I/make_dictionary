@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01716</id>
+  <doi>10.1351/goldbook.D01716</doi>
+  <code>D01716</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - diffusion</longtitle>
+  <title>diffusion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The spreading or scattering of a gaseous or liquid material. Eddy diffusion in the atmosphere is the process of transport of gases due to turbulent mixing in the presence of a composition gradient. Molecular diffusion is the net transport of molecules which results from their molecular motions alone in the absence of turbulent mixing; it occurs when the concentration gradient of a particular gas in a mixture differs from its equilibrium value. Eddy diffusion is the most important mixing process in the lower atmosphere, while molecular diffusion becomes significant at the lower pressures of the upper atmosphere.</text>
+      <links>
+        <item>
+          <title>scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05487</url>
+        </item>
+        <item>
+          <title>eddy</title>
+          <url>https://goldbook.iupac.org/terms/view/E01888</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>concentration gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01227</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2185 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - 拡散 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/拡散</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01716/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01716/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01716/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01716/plain</plain>
+  </links>
+  <citation>Citation: 'diffusion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01716</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:00:55+00:00</accessed>
+</term>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03806</id>
+  <doi>10.1351/goldbook.M03806</doi>
+  <code>M03806</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - median</longtitle>
+  <title>median</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Depending on whether the number of observations is even or odd, the median can be estimated as follows:   If n = 2 m + 1: The middle value of a series of observations, arranged in increasing or decreasing order.   If n = 2 m: The arithmetic mean of the two middle values of a series of observations, arranged in increasing or decreasing order.   Comment: The use of the median when reporting results of chemical analysis is generally not recommended, because its statistical efficiency is less than that of the mean. In certain cases, however, especially when treating small sets of data, the median may offer advantages because it is a so-called 'robust statistic', i.e. it offers considerable resistance to the effects of isolated outliers.</text>
+      <links>
+        <item>
+          <title>resistance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05315</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>n = 2 m + 1</alttext>
+          <latex>n=2\ m+1</latex>
+        </item>
+        <item>
+          <alttext>n = 2 m</alttext>
+          <latex>n=2\ m</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 595. 'Nomenclature for the presentation of results of chemical analysis (IUPAC Recommendations 1994)' on page 603 (https://doi.org/10.1351/pac199466030595)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Mediana (statistica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Mediana_(statistica)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03806/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03806/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03806/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03806/plain</plain>
+  </links>
+  <citation>Citation: 'median' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03806</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:37:10+00:00</accessed>
+</term>

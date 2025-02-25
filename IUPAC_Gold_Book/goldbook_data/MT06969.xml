@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06969</id>
+  <doi>10.1351/goldbook.MT06969</doi>
+  <code>MT06969</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molecular dynamics in drug design</longtitle>
+  <title>molecular dynamics</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Molecular dynamics is a simulation procedure consisting of the computation of the motion of atoms in a molecule or of individual atoms or molecules in solids, liquids and gases, according to Newton's laws of motion. The forces acting on the atoms, required to simulate their motions, are generally calculated using molecular mechanics force fields.</text>
+      <contexts>
+        <in>
+          <item>drug design</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>molecular dynamics</title>
+          <url>https://goldbook.iupac.org/terms/view/M03985</url>
+        </item>
+        <item>
+          <title>Newton</title>
+          <url>https://goldbook.iupac.org/terms/view/N04135</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1997, 69, 1137. 'Glossary of terms used in computational drug design (IUPAC Recommendations 1997)' on page 1146 (https://doi.org/10.1351/pac199769051137)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - ديناميكا جزيئية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ديناميكا_جزيئية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/MT06969/html</html>
+    <json>https://goldbook.iupac.org/terms/view/MT06969/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/MT06969/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/MT06969/plain</plain>
+  </links>
+  <citation>Citation: 'molecular dynamics' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.MT06969</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:46:12+00:00</accessed>
+</term>

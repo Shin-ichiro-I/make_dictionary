@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01170</id>
+  <doi>10.1351/goldbook.C01170</doi>
+  <code>C01170</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - collision theory</longtitle>
+  <title>collision theory</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Various collision theories, dealing with the frequency of collision between reactant molecules, have been put forward. In the earliest theories reactant molecules were regarded as hard spheres, and a collision was considered to occur when the distance d between the centres of two molecules was equal to the sum of their radii. For a gas containing only one type of molecule, A, the collision density is given by simple collision theory as: Z AA = 2 π σ 2 u N A 2 2 is the number density of molecules and u is the mean molecular speed, given by kinetic theory to be 8kB.Tπm, where m is the molecular mass, and σ = π d AA 2. Thus: Z AA = 2 N A 2 σ 2 π k B T m for two unlike molecules A and B, of masses m A and m B is: Z AB = N A N B σ 2 π k B T µ is the reduced massm A m B m A + m B, and σ = π d AB 2. For the collision frequency factor these formulations lead to the following expression: z AA or z AB = L σ 2 8 π k B T µ is the Avogadro constant. More advanced collision theories, not involving the assumption that molecules behave as hard spheres, are known as generalized kinetic theories.</text>
+      <links>
+        <item>
+          <title>reactant</title>
+          <url>https://goldbook.iupac.org/terms/view/R05163</url>
+        </item>
+        <item>
+          <title>reactant</title>
+          <url>https://goldbook.iupac.org/terms/view/R05163</url>
+        </item>
+        <item>
+          <title>collision density</title>
+          <url>https://goldbook.iupac.org/terms/view/C01162</url>
+        </item>
+        <item>
+          <title>number density</title>
+          <url>https://goldbook.iupac.org/terms/view/N04262</url>
+        </item>
+        <item>
+          <title>reduced mass</title>
+          <url>https://goldbook.iupac.org/terms/view/R05214</url>
+        </item>
+        <item>
+          <title>collision frequency</title>
+          <url>https://goldbook.iupac.org/terms/view/C01166</url>
+        </item>
+        <item>
+          <title>Avogadro constant</title>
+          <url>https://goldbook.iupac.org/terms/view/A00543</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>d</alttext>
+          <latex>d</latex>
+        </item>
+        <item>
+          <alttext>Z AA = 2 π σ 2 u N A 2 2</alttext>
+          <latex>Z_{\mathrm{AA}}=\frac{\sqrt{2}\ \pi \ \sigma ^{2}\ u\ N_{\text{A}}^{2}}{2}</latex>
+        </item>
+        <item>
+          <alttext>N A</alttext>
+          <latex>N_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>u</alttext>
+          <latex>u</latex>
+        </item>
+        <item>
+          <alttext>8kB.Tπm</alttext>
+          <latex>\sqrt{\frac{8\ k_{\text{B}}\ T}{\pi \ m}}</latex>
+        </item>
+        <item>
+          <alttext>m</alttext>
+          <latex>m</latex>
+        </item>
+        <item>
+          <alttext>σ = π d AA 2</alttext>
+          <latex>\sigma =\pi \ d_{\mathrm{AA}}^{2}</latex>
+        </item>
+        <item>
+          <alttext>Z AA = 2 N A 2 σ 2 π k B T m</alttext>
+          <latex>Z_{\mathrm{AA}}=2\ N_{\text{A}}^{2}\ \sigma ^{2}\ \sqrt{\frac{\pi \ k_{\text{B}}\ T}{m}}</latex>
+        </item>
+        <item>
+          <alttext>Z AB</alttext>
+          <latex>Z_{\mathrm{AB}}</latex>
+        </item>
+        <item>
+          <alttext>m A</alttext>
+          <latex>m_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>m B</alttext>
+          <latex>m_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>Z AB = N A N B σ 2 π k B T µ</alttext>
+          <latex>Z_{\mathrm{AB}}=N_{\text{A}}\ N_{\text{B}}\ \sigma ^{2}\ \sqrt{\frac{\pi \ k_{\text{B}}\ T}{\mu }}</latex>
+        </item>
+        <item>
+          <alttext>µ</alttext>
+          <latex>\mu </latex>
+        </item>
+        <item>
+          <alttext>m A m B m A + m B</alttext>
+          <latex>\frac{m_{\text{A}}\ m_{\text{B}}}{m_{\text{A}}+m_{\text{B}}}</latex>
+        </item>
+        <item>
+          <alttext>σ = π d AB 2</alttext>
+          <latex>\sigma =\pi \ d_{\mathrm{AB}}^{2}</latex>
+        </item>
+        <item>
+          <alttext>z AA or z AB = L σ 2 8 π k B T µ</alttext>
+          <latex>z_{\mathrm{AA}}\quad \text{or}\quad z_{\mathrm{AB}}=L\ \sigma ^{2}\ \sqrt{\frac{8\ \pi \ k_{\text{B}}\ T}{\mu }}</latex>
+        </item>
+        <item>
+          <alttext>L</alttext>
+          <latex>L</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 160 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Collision theory (en)</title>
+      <url>https://en.wikipedia.org/wiki/Collision_theory</url>
+    </item>
+    <item>
+      <title>Wikipedia - Efecto caja (es)</title>
+      <url>https://es.wikipedia.org/wiki/Efecto_caja</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teori tumbukan (id)</title>
+      <url>https://id.wikipedia.org/wiki/Teori_tumbukan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoria ciocnirilor (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Teoria_ciocnirilor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoria das colisões (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Teoria_das_colisões</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoria delle collisioni (it)</title>
+      <url>https://it.wikipedia.org/wiki/Teoria_delle_collisioni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoría de las colisiones (es)</title>
+      <url>https://es.wikipedia.org/wiki/Teoría_de_las_colisiones</url>
+    </item>
+    <item>
+      <title>Wikipedia - Théorie des collisions (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Théorie_des_collisions</url>
+    </item>
+    <item>
+      <title>Wikipedia - Törmäysteoria (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Törmäysteoria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Теорија за судирите (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Теорија_за_судирите</url>
+    </item>
+    <item>
+      <title>Wikipedia - نظرية التصادم (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نظرية_التصادم</url>
+    </item>
+    <item>
+      <title>Wikipedia - نظریه برخورد (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/نظریه_برخورد</url>
+    </item>
+    <item>
+      <title>Wikipedia - 충돌모형 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/충돌모형</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01170/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01170/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01170/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01170/plain</plain>
+  </links>
+  <citation>Citation: 'collision theory' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01170</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:36:59+00:00</accessed>
+</term>

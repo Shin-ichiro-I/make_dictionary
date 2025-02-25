@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05962</id>
+  <doi>10.1351/goldbook.S05962</doi>
+  <code>S05962</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - steady state</longtitle>
+  <title>steady state</title>
+  <contains>steady state approximation (treatment)</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In a kinetic analysis of a complex reaction involving unstable intermediates in low concentration, the rate of change of each such intermediate is set equal to zero, so that the rate equation can be expressed as a function of the concentrations of chemical species present in macroscopic amounts. For example, assume that X is an unstable intermediate in the reaction sequence: [image: Not defined] [image: Not defined] Conservation of mass requires that: [A] + [X] + [D] = [A]0 which, since [A]0 is constant, implies: -d[X]/dt = d[A]/dt + d[D]/dt. Since [X] is negligibly small, the rate of formation of D is essentially equal to the rate of disappearance of A, and the rate of change of [X] can be set equal to zero. Applying the steady state approximation (d[X]/dt = 0) allows the elimination of [X] from the kinetic equations, whereupon the rate of reaction is expressed: d[D]/dt = -d[A]/dt = k1.k2[A][C]/(k-1 + k2[C]) </text>
+      <notes>
+        <item>The steady-state approximation does not imply that [X] is even approximately constant, only that its absolute rate of change is very much smaller than that of [A] and [D]. Since according to the reaction scheme d[D]/dt = k2[X][C], the assumption that [X] is constant would lead, for the case in which C is in large excess, to the absurd conclusion that formation of the product D will continue at a constant rate even after the reactant A has been consumed.</item>
+      </notes>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/S05962-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/S05962-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>complex reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01208</url>
+        </item>
+        <item>
+          <title>unstable</title>
+          <url>https://goldbook.iupac.org/terms/view/U06569</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>rate of disappearance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05148</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>complex reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01208</url>
+        </item>
+        <item>
+          <title>unstable</title>
+          <url>https://goldbook.iupac.org/terms/view/U06569</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>rate of disappearance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05148</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>rate equation</title>
+          <url>https://goldbook.iupac.org/terms/view/R05141</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>equation</type>
+          <alttext>[A] + [X] + [D] = [A]0</alttext>
+          <latex>[\ce{A}] + [\ce{X}] + [\ce{D}] = [\ce{A}]_{0}</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[A]0</alttext>
+          <latex>[\ce{A}]_{0}</latex>
+        </item>
+        <item>
+          <meaning>Rate of reaction</meaning>
+          <type>equation</type>
+          <alttext>-d[X]/dt = d[A]/dt + d[D]/dt</alttext>
+          <latex>-\frac{{\rm{d}}[\ce{X}]}{{\rm{d}}t} = \frac{{\rm{d}}[\ce{A}]}{{\rm{d}}t} + \frac{{\rm{d}}[\ce{D}]}{{\rm{d}}t}.</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[X]</alttext>
+          <latex>[\ce{X}]</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[X]</alttext>
+          <latex>[\ce{X}]</latex>
+        </item>
+        <item>
+          <alttext>d[X]/dt = 0</alttext>
+          <latex>{\rm{d}}[\ce{X}]/{\rm{d}}t = 0</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[X]</alttext>
+          <latex>[\ce{X}]</latex>
+        </item>
+        <item>
+          <alttext>d[D]/dt = -d[A]/dt = k1.k2[A][C]/(k-1 + k2[C])</alttext>
+          <latex>\frac{{\rm{d}}[\ce{D}]}{{\rm{d}}t} = -\frac{{\rm{d}}[\ce{A}]}{{\rm{d}}t} = \frac{k_{1}k_{2}[\ce{A}][\ce{C}]}{k_{-1} + k_{2}[\ce{C}]}</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[X]</alttext>
+          <latex>[\ce{X}]</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[A]</alttext>
+          <latex>[\ce{A}]</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[D]</alttext>
+          <latex>[\ce{D}]</latex>
+        </item>
+        <item>
+          <alttext>d[D]/dt = k2[X][C]</alttext>
+          <latex>{\rm{d}}[\ce{X}]/{\rm{d}}t = k_{2}[\ce{X}][\ce{C}]</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[X]</alttext>
+          <latex>[\ce{X}]</latex>
+        </item>
+      </math>
+    </item>
+    <item>
+      <id>2</id>
+      <text>In a stirred flow reactor a steady state implies a regime so that all concentrations are independent of time.</text>
+      <links>
+        <item>
+          <title>flow reactor</title>
+          <url>https://goldbook.iupac.org/terms/view/F02443</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' Muller, P.; Pure and Applied Chemistry 1994 66(5) 1077</sources>
+  <seealso>'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' Laidler, K.J.; Pure and Applied Chemistry 1996 68(1) 149</seealso>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Approssimazione dello stato stazionario (it)</title>
+      <url>https://it.wikipedia.org/wiki/Approssimazione_dello_stato_stazionario</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estado estacionário (engenharia química) (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Estado_estacionário_(engenharia_química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Steady state (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Steady_state_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Steady state-approksimasjon (kjemi) (no)</title>
+      <url>https://no.wikipedia.org/wiki/Steady_state-approksimasjon_(kjemi)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoria stanu stacjonarnego (chemia) (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Teoria_stanu_stacjonarnego_(chemia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vakiotila (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Vakiotila</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05962/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05962/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05962/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05962/plain</plain>
+  </links>
+  <citation>Citation: 'steady state' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05962</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:23:39+00:00</accessed>
+</term>

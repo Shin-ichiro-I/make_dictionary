@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00072</id>
+  <doi>10.1351/goldbook.A00072</doi>
+  <code>A00072</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - acid anhydrides</longtitle>
+  <title>acid anhydrides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds consisting of two acyl groups bonded to the same oxygen atom acyl-O-acyl. Symmetric and mixed anhydrides have identical and different acyl groups, respectively. E.g. [image: Not defined]acetic anhydride, [image: Not defined] acetic benzenesulfonic anhydride, [image: Not defined] (thiobenzoic) anhydride.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00072-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00072-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00072-3.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>acyl groups</title>
+          <url>https://goldbook.iupac.org/terms/view/A00123</url>
+        </item>
+        <item>
+          <title>acyl groups</title>
+          <url>https://goldbook.iupac.org/terms/view/A00123</url>
+        </item>
+        <item>
+          <title>anhydrides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00354</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1311 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Anhidrid (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Anhidrid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anhidrid kiseline (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Anhidrid_kiseline</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anhidrid organske kiseline (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Anhidrid_organske_kiseline</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anhidrida asam (id)</title>
+      <url>https://id.wikipedia.org/wiki/Anhidrida_asam</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anhidridă acidă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Anhidridă_acidă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anhídrid d'àcid (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Anhídrid_d'àcid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anhídrido de ácido (es)</title>
+      <url>https://es.wikipedia.org/wiki/Anhídrido_de_ácido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anhídrido de ácido (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Anhídrido_de_ácido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anidride (it)</title>
+      <url>https://it.wikipedia.org/wiki/Anidride</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anidrido (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Anidrido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anidrido de ácido carboxílico (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Anidrido_de_ácido_carboxílico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Organic acid anhydride (en)</title>
+      <url>https://en.wikipedia.org/wiki/Organic_acid_anhydride</url>
+    </item>
+    <item>
+      <title>Wikipedia - Savanhidridek (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Savanhidridek</url>
+    </item>
+    <item>
+      <title>Wikipedia - Triossido di cromo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Triossido_di_cromo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ангидриды карбоновых кислот (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Ангидриды_карбоновых_кислот</url>
+    </item>
+    <item>
+      <title>Wikipedia - Анхидрид (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Анхидрид</url>
+    </item>
+    <item>
+      <title>Wikipedia - أنهيدريد حمض (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أنهيدريد_حمض</url>
+    </item>
+    <item>
+      <title>Wikipedia - அமில நீரிலி (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/அமில_நீரிலி</url>
+    </item>
+    <item>
+      <title>Wikipedia - 酸無水物 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/酸無水物</url>
+    </item>
+    <item>
+      <title>Wikipedia - 酸酐 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/酸酐</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00072/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00072/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00072/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00072/plain</plain>
+  </links>
+  <citation>Citation: 'acid anhydrides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00072</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:40:32+00:00</accessed>
+</term>

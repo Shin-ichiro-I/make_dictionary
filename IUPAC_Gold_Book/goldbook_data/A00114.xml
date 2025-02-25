@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00114</id>
+  <doi>10.1351/goldbook.A00114</doi>
+  <code>A00114</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - activity</longtitle>
+  <title>activity</title>
+  <synonyms>
+    <item>decay rate</item>
+    <item>disintegration rate</item>
+  </synonyms>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The number of nuclear decays occurring in a given quantity of material in a small time interval, divided by that time interval. Often, this term is referred to as absolute activity. Symbol A = -dN/dt. Synonymous with disintegration rate or decay rate.</text>
+      <contexts>
+        <of>
+          <item>a radioactive material</item>
+        </of>
+      </contexts>
+      <links>
+        <item>
+          <title>nuclear decays</title>
+          <url>https://goldbook.iupac.org/terms/view/N04227</url>
+        </item>
+        <item>
+          <title>nuclear decays</title>
+          <url>https://goldbook.iupac.org/terms/view/N04227</url>
+        </item>
+        <item>
+          <title>absolute activity</title>
+          <url>https://goldbook.iupac.org/terms/view/A00019</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Activity (in radioactivity)</meaning>
+          <type>equation</type>
+          <alttext>A = -dN/dt</alttext>
+          <latex>A=- \frac{\mathrm{d}N}{\mathrm{d}t}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 22 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1994, 66, 2513. 'Nomenclature for radioanalytical chemistry (IUPAC Recommendations 1994)' on page 2515 (https://doi.org/10.1351/pac199466122513)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 960 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00114/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00114/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00114/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00114/plain</plain>
+  </links>
+  <citation>Citation: 'activity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00114</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:42:18+00:00</accessed>
+</term>

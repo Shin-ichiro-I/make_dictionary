@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03667</id>
+  <doi>10.1351/goldbook.M03667</doi>
+  <code>M03667</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - macromolecule (polymer molecule)</longtitle>
+  <title>macromolecule</title>
+  <contains>macromolecular, polymeric</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A molecule of high relative molecular mass, the structure of which essentially comprises the multiple repetition of units derived, actually or conceptually, from molecules of low relative molecular mass.</text>
+      <notes>
+        <item>In many cases, especially for synthetic polymers, a molecule can be regarded as having a high relative molecular mass if the addition or removal of one or a few of the units has a negligible effect on the molecular properties. This statement fails in the case of certain macromolecules for which the properties may be critically dependent on fine details of the molecular structure.</item>
+        <item>If a part or the whole of the molecule has a high relative molecular mass and essentially comprises the multiple repetition of units derived, actually or conceptually, from molecules of low relative molecular mass, it may be described as either macromolecular or polymeric, or by polymer used adjectivally.</item>
+      </notes>
+      <links>
+        <item>
+          <title>relative molecular mass</title>
+          <url>https://goldbook.iupac.org/terms/view/R05271</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2289 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Copolymer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Copolymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Vliesstoff (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Vliesstoff</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macromolecola (it)</title>
+      <url>https://it.wikipedia.org/wiki/Macromolecola</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macromolecule (en)</title>
+      <url>https://en.wikipedia.org/wiki/Macromolecule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macromolècula (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Macromolècula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Macromolécule (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Macromolécule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Makromolekula (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Makromolekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Makromolekyyli (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Makromolekyyli</url>
+    </item>
+    <item>
+      <title>Wikipedia - Makromolekül (de)</title>
+      <url>https://de.wikipedia.org/wiki/Makromolekül</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molècula (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Molècula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molécula (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Molécula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimer (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Polimer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimero (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Polimero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimery (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Polimery</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polyme (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Polyme</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Polymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymer (sco)</title>
+      <url>https://sco.wikipedia.org/wiki/Polymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymer (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Polymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymère (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Polymère</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polímero (es)</title>
+      <url>https://es.wikipedia.org/wiki/Polímero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia talk:WikiProject Chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Chemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Макромолекула (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Макромолекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (ba)</title>
+      <url>https://ba.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Полимер (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Полимер</url>
+    </item>
+    <item>
+      <title>Wikipedia - جزيء ضخم (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/جزيء_ضخم</url>
+    </item>
+    <item>
+      <title>Wikipedia - 相転移 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/相転移</url>
+    </item>
+    <item>
+      <title>Wikipedia - 重合体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/重合体</url>
+    </item>
+    <item>
+      <title>Wikipedia - 高分子 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/高分子</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03667/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03667/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03667/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03667/plain</plain>
+  </links>
+  <citation>Citation: 'macromolecule' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03667</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:30:58+00:00</accessed>
+</term>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00464</id>
+  <doi>10.1351/goldbook.A00464</doi>
+  <code>A00464</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aryl groups</longtitle>
+  <title>aryl groups</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Groups derived from arenes by removal of a hydrogen atom from a ring carbon atom. Groups similarly derived from heteroarenes are sometimes subsumed in this definition. E.g. o-tolyl: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00464.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>arenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00435</url>
+        </item>
+        <item>
+          <title>heteroarenes</title>
+          <url>https://goldbook.iupac.org/terms/view/H02791</url>
+        </item>
+        <item>
+          <title>arenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00435</url>
+        </item>
+        <item>
+          <title>heteroarenes</title>
+          <url>https://goldbook.iupac.org/terms/view/H02791</url>
+        </item>
+        <item>
+          <title>heteroaryl groups</title>
+          <url>https://goldbook.iupac.org/terms/view/H02792</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1320 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aril (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Aril</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aril (id)</title>
+      <url>https://id.wikipedia.org/wiki/Aril</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aril (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Aril</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aril (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Aril</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aril (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Aril</url>
+    </item>
+    <item>
+      <title>Wikipedia - Arilcsoport (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Arilcsoport</url>
+    </item>
+    <item>
+      <title>Wikipedia - Arile (it)</title>
+      <url>https://it.wikipedia.org/wiki/Arile</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aryl (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Aryl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aryl (da)</title>
+      <url>https://da.wikipedia.org/wiki/Aryl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aryl (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aryl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aryl (no)</title>
+      <url>https://no.wikipedia.org/wiki/Aryl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aryl group (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aryl_group</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aryle (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Aryle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Arylgruppe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Arylgruppe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Arylová skupina (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Arylová_skupina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grup aril (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Grup_aril</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grupa arylowa (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Grupa_arylowa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grupa heteroarylowa (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Grupa_heteroarylowa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grupo arilo (es)</title>
+      <url>https://es.wikipedia.org/wiki/Grupo_arilo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tolil (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Tolil</url>
+    </item>
+    <item>
+      <title>Wikipedia - Арил (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Арил</url>
+    </item>
+    <item>
+      <title>Wikipedia - Арильная группа (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Арильная_группа</url>
+    </item>
+    <item>
+      <title>Wikipedia - آریل (مواد آلی) (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/آریل_(مواد_آلی)</url>
+    </item>
+    <item>
+      <title>Wikipedia - أريل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أريل</url>
+    </item>
+    <item>
+      <title>Wikipedia - أريل (كيمياء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أريل_(كيمياء)</url>
+    </item>
+    <item>
+      <title>Wikipedia - ノート:芳香族炭化水素 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ノート:芳香族炭化水素</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00464/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00464/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00464/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00464/plain</plain>
+  </links>
+  <citation>Citation: 'aryl groups' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00464</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:59:47+00:00</accessed>
+</term>

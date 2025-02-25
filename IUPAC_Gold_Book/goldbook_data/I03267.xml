@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03267</id>
+  <doi>10.1351/goldbook.I03267</doi>
+  <code>I03267</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isocoumarins</longtitle>
+  <title>isocoumarins</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Isocoumarin (1H-isochromen-1-one) and its derivatives formed by substitution. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/I03267.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>coumarins</title>
+          <url>https://goldbook.iupac.org/terms/view/C01369</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1344 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Progetto:Chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Progetto:Chimica</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03267/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03267/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03267/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03267/plain</plain>
+  </links>
+  <citation>Citation: 'isocoumarins' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03267</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:11:59+00:00</accessed>
+</term>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01847</id>
+  <doi>10.1351/goldbook.D01847</doi>
+  <code>D01847</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - double-layer current</longtitle>
+  <title>double-layer current</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The non-faradaic current associated with the charging of the electrical double layer at an electrode-solution interface, given by: iDL = d(σA)/dt = surface charge density of the double layer, A = area of the electrode-solution interface and t = time. Capital letters should be used as subscripts to avoid the possibility of confusing this symbol with that for the limiting diffusion current.</text>
+      <links>
+        <item>
+          <title>faradaic current</title>
+          <url>https://goldbook.iupac.org/terms/view/F02321</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>surface charge density</title>
+          <url>https://goldbook.iupac.org/terms/view/S06159</url>
+        </item>
+        <item>
+          <title>limiting diffusion current</title>
+          <url>https://goldbook.iupac.org/terms/view/L03534</url>
+        </item>
+        <item>
+          <title>faradaic current</title>
+          <url>https://goldbook.iupac.org/terms/view/F02321</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>surface charge density</title>
+          <url>https://goldbook.iupac.org/terms/view/S06159</url>
+        </item>
+        <item>
+          <title>limiting diffusion current</title>
+          <url>https://goldbook.iupac.org/terms/view/L03534</url>
+        </item>
+        <item>
+          <title>electrical double layer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03084</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Double layer current</meaning>
+          <type>equation</type>
+          <alttext>iDL = d(σA)/dt</alttext>
+          <latex>i_{\mathrm{DL}}=\frac{\mathrm{d}(\sigma \ A)}{\mathrm{d}t}</latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1985, 57, 1491. 'Recommended terms, symbols, and definitions for electroanalytical chemistry (Recommendations 1985)' on page 1496 (https://doi.org/10.1351/pac198557101491)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01847/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01847/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01847/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01847/plain</plain>
+  </links>
+  <citation>Citation: 'double-layer current' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01847</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:06:54+00:00</accessed>
+</term>

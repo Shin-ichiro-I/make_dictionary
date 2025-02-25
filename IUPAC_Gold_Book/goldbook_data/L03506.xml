@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03506</id>
+  <doi>10.1351/goldbook.L03506</doi>
+  <code>L03506</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - levelling effect</longtitle>
+  <title>levelling effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The tendency of a solvent to make all Brønsted acids whose acidity exceeds a certain value appear equally acidic. It is due to the complete transfer to a protophilic solvent of a hydron from a dissolved acid stronger than the conjugate acid of the solvent. The only acid present to any significant extent in all such solutions is the lyonium ion. For example, the solvent water has a levelling effect on the acidities of HClO4 , HCl and HI : aqueous solutions of these acids at the same (moderately low) concentrations have the same acidities. A corresponding levelling effect applies to strong bases protogenic solvents.</text>
+      <links>
+        <item>
+          <title>Brønsted acids</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>acidity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00079</url>
+        </item>
+        <item>
+          <title>protophilic (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04916</url>
+        </item>
+        <item>
+          <title>conjugate acid (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01266</url>
+        </item>
+        <item>
+          <title>lyonium ion (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03654</url>
+        </item>
+        <item>
+          <title>protogenic (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04904</url>
+        </item>
+        <item>
+          <title>Brønsted acids</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>acidity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00079</url>
+        </item>
+        <item>
+          <title>protophilic (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04916</url>
+        </item>
+        <item>
+          <title>conjugate acid (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01266</url>
+        </item>
+        <item>
+          <title>lyonium ion (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03654</url>
+        </item>
+        <item>
+          <title>protogenic (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04904</url>
+        </item>
+        <item>
+          <title>hydron (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1135 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03506/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03506/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03506/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03506/plain</plain>
+  </links>
+  <citation>Citation: 'levelling effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03506</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:22:39+00:00</accessed>
+</term>

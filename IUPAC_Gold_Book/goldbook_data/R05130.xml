@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05130</id>
+  <doi>10.1351/goldbook.R05130</doi>
+  <code>R05130</code>
+  <status>obsolete</status>
+  <longtitle>IUPAC Gold Book - range in analysis</longtitle>
+  <title>range</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The difference between the highest and lowest members of a series. This term is not recommended.</text>
+      <contexts>
+        <in>
+          <item>analysis</item>
+        </in>
+      </contexts>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 5 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1994, 66, 595. 'Nomenclature for the presentation of results of chemical analysis (IUPAC Recommendations 1994)' on page 599 (https://doi.org/10.1351/pac199466030595)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05130/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05130/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05130/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05130/plain</plain>
+  </links>
+  <citation>Citation: 'range' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05130</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:45:29+00:00</accessed>
+</term>

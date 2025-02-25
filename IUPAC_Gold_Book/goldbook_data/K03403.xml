@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03403</id>
+  <doi>10.1351/goldbook.K03403</doi>
+  <code>K03403</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - kinetic equivalence</longtitle>
+  <title>kinetic equivalence</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Two reaction schemes are kinetically equivalent if they imply the same rate law. For example, consider the two schemes (i) and (ii) for the formation of C from A: (i) A (k1,OH-)⇄(k-1,OH-) B (k2)→ C are of the form: d[C]/dt = r[A][OH-]/(1 + s[OH-]) and s are constants (sometimes called 'coefficients in the rate equation'). The equations are identical in their dependence on concentrations and do not distinguish whether OH− catalyses the formation of B, and necessarily also its reversion to A, or is involved in its further transformation to C. The two schemes are therefore kinetically equivalent under conditions to which the stated provisos apply.</text>
+      <links>
+        <item>
+          <title>rate law</title>
+          <url>https://goldbook.iupac.org/terms/view/R05141</url>
+        </item>
+        <item>
+          <title>reaction intermediate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05171</url>
+        </item>
+        <item>
+          <title>rate law</title>
+          <url>https://goldbook.iupac.org/terms/view/R05141</url>
+        </item>
+        <item>
+          <title>reaction intermediate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05171</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>(i) A (k1,OH-)⇄(k-1,OH-) B (k2)→ C</alttext>
+          <latex>\text{(i)}\qquad \text{A}\overset{k_{1},\text{OH}^{-}}{\underset{k_{-1},\text{OH}^{-}}\rightleftarrows }\text{B}\overset{k_{2}}{\rightarrow }\text{C}</latex>
+        </item>
+        <item>
+          <alttext>d[C]/dt = k1.k2[A][OH-]/(k2 + k-1[OH-])</alttext>
+          <latex>\frac{\text{d}[\text{C}]}{\text{d}t} = \frac{k_{1}\ k_{2}\ [\text{A}]\ [\text{OH}^{-}]}{k_{2}\,+\,k_{-1}\ [\text{OH}^{-}]}</latex>
+        </item>
+        <item>
+          <type>reaction</type>
+          <alttext>(ii) A (k1)⇄(k-1) B (k2)→(OH-) C</alttext>
+          <latex>\text{(ii)}\qquad \text{A}\overset{k_{1}}{\underset{k_{-1}}\rightleftarrows }\text{B}\overset{k_{2}}{\underset{\text{OH}^{-}}\rightarrow }\text{C}</latex>
+        </item>
+        <item>
+          <alttext>d[C]/dt = k1.k2[A][OH-]/(k-1 + k2[OH-])</alttext>
+          <latex>\frac{\text{d}[\text{C}]}{\text{d}t} = \frac{k_{1}\ k_{2}\ [\text{A}]\ [\text{OH}^{-}]}{k_{-1}\,+\,k_{2}\ [\text{OH}^{-}]}</latex>
+        </item>
+        <item>
+          <alttext>d[C]/dt</alttext>
+          <latex>\frac{\text{d}[\text{C}]}{\text{d}t}</latex>
+        </item>
+        <item>
+          <alttext>d[C]/dt = r[A][OH-]/(1 + s[OH-])</alttext>
+          <latex>\frac{\text{d}[\text{C}]}{\text{d}t} = \frac{r\ [\text{A}]\ [\text{OH}^{-}]}{1\,+\,s\ [\text{OH}^{-}]}</latex>
+        </item>
+        <item>
+          <alttext>r</alttext>
+          <latex>r</latex>
+        </item>
+        <item>
+          <alttext>s</alttext>
+          <latex>s</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1133 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/K03403/html</html>
+    <json>https://goldbook.iupac.org/terms/view/K03403/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/K03403/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/K03403/plain</plain>
+  </links>
+  <citation>Citation: 'kinetic equivalence' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.K03403</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:18:17+00:00</accessed>
+</term>

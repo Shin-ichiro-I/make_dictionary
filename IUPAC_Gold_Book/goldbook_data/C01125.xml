@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01125</id>
+  <doi>10.1351/goldbook.C01125</doi>
+  <code>C01125</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - coefficient of haze (COH) in atmospheric chemistry</longtitle>
+  <title>coefficient of haze</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>One technique of measurement of the amount of filterable particulate matter suspended in air which has been used in the past depends upon drawing a measured sample of air (usually 1 000 linear feet) through a paper or membranefilter. A measurement is made of the intensity of light transmitted through the dust spot formed relative to that transmitted through an identical clean filter. The dirtiness of the air is reported in terms of the COH unit. This relates to the quantity of particulate material which produces an optical density, log 10 ( I 0 I ) and relative to the transmission of an identical dust-free filter taken as 100%. Thus a filter which transmitted 50% relative to the clean filter has an absorbance of 0.301 or 30.1 COH units. This is not a recommended measure of filterable particulate matter since the size, colour and other properties of the aerosol and the air in which it is suspended affect the results.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+        <item>
+          <title>filter</title>
+          <url>https://goldbook.iupac.org/terms/view/F02384</url>
+        </item>
+        <item>
+          <title>optical density</title>
+          <url>https://goldbook.iupac.org/terms/view/O04306</url>
+        </item>
+        <item>
+          <title>transmission</title>
+          <url>https://goldbook.iupac.org/terms/view/T06477</url>
+        </item>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>aerosol</title>
+          <url>https://goldbook.iupac.org/terms/view/A00176</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>COH</alttext>
+          <latex>\text{COH}</latex>
+        </item>
+        <item>
+          <alttext>log 10 ( I 0 I )</alttext>
+          <latex>\log _{10}(\frac{I_{0}}{I})</latex>
+        </item>
+        <item>
+          <alttext>400 nm</alttext>
+          <latex>400\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>COH</alttext>
+          <latex>\text{COH}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2180 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Coefficient of haze (en)</title>
+      <url>https://en.wikipedia.org/wiki/Coefficient_of_haze</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01125/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01125/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01125/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01125/plain</plain>
+  </links>
+  <citation>Citation: 'coefficient of haze' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01125</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:35:31+00:00</accessed>
+</term>

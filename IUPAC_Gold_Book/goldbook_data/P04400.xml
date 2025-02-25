@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04400</id>
+  <doi>10.1351/goldbook.P04400</doi>
+  <code>P04400</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - PAN-based carbon fibres</longtitle>
+  <title>PAN-based carbon fibres</title>
+  <abbrevs>
+    <item>PAN</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Carbon fibres obtained from polyacrylonitrile (PAN) precursor fibres by stabilization treatment, carbonization and final heat treatment.</text>
+      <links>
+        <item>
+          <title>Carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00831</url>
+        </item>
+        <item>
+          <title>carbonization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00840</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 499 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04400/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04400/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04400/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04400/plain</plain>
+  </links>
+  <citation>Citation: 'PAN-based carbon fibres' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04400</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:09:38+00:00</accessed>
+</term>

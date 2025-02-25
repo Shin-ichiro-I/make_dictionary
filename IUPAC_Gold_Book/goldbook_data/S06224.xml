@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06224</id>
+  <doi>10.1351/goldbook.S06224</doi>
+  <code>S06224</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - syndiotactic macromolecule</longtitle>
+  <title>syndiotactic macromolecule</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A tactic macromolecule, essentially comprising alternating enantiomeric configurational base units, which have chiral or prochiral atoms in the main chain in a unique arrangement with respect to their adjacent constitutional units.</text>
+      <notes>
+        <item>In a syndiotactic macromolecule, the configurational repeating unit consists of two configurational base units that are enantiomeric.</item>
+        <item>A syndiotactic macromolecule consists of racemo diads (in polymers).</item>
+      </notes>
+      <links>
+        <item>
+          <title>racemo diads (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05031</url>
+        </item>
+        <item>
+          <title>tactic macromolecule (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/T06245</url>
+        </item>
+        <item>
+          <title>configurational base units (in polymers) (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01250</url>
+        </item>
+        <item>
+          <title>main chain (backbone) (in polymers) (in polymers) (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03694</url>
+        </item>
+        <item>
+          <title>constitutional units (in polymers) (in polymers) (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01288</url>
+        </item>
+        <item>
+          <title>racemo diads (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05031</url>
+        </item>
+        <item>
+          <title>tactic macromolecule (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/T06245</url>
+        </item>
+        <item>
+          <title>configurational base units (in polymers) (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01250</url>
+        </item>
+        <item>
+          <title>main chain (backbone) (in polymers) (in polymers) (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03694</url>
+        </item>
+        <item>
+          <title>constitutional units (in polymers) (in polymers) (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01288</url>
+        </item>
+        <item>
+          <title>chiral (in polymers) (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2292 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06224/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06224/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06224/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06224/plain</plain>
+  </links>
+  <citation>Citation: 'syndiotactic macromolecule' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06224</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:36:23+00:00</accessed>
+</term>

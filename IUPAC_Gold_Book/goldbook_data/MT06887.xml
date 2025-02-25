@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06887</id>
+  <doi>10.1351/goldbook.MT06887</doi>
+  <code>MT06887</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - microfiltration</longtitle>
+  <title>microfiltration</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Pressure-driven membrane-based separation process in which particles and dissolved macromolecules larger than 0.1 µm are rejected.</text>
+      <links>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>0.1 µm</alttext>
+          <latex>0.1\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 1479. 'Terminology for membranes and membrane processes (IUPAC Recommendations 1996)' on page 1487 (https://doi.org/10.1351/pac199668071479)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Microfiltrazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Microfiltrazione</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/MT06887/html</html>
+    <json>https://goldbook.iupac.org/terms/view/MT06887/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/MT06887/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/MT06887/plain</plain>
+  </links>
+  <citation>Citation: 'microfiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.MT06887</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:41:42+00:00</accessed>
+</term>

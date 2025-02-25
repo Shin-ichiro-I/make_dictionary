@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06244</id>
+  <doi>10.1351/goldbook.T06244</doi>
+  <code>T06244</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - tacticity</longtitle>
+  <title>tacticity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The orderliness of the succession of configurational repeating units in the main chain of a regular macromolecule, a regular oligomer molecule, a regular block or a regular chain.</text>
+      <links>
+        <item>
+          <title>configurational repeating units (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01253</url>
+        </item>
+        <item>
+          <title>main chain (backbone) (in polymers) (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03694</url>
+        </item>
+        <item>
+          <title>regular macromolecule (in polymers) (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05247</url>
+        </item>
+        <item>
+          <title>regular oligomer molecule (in polymers) (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05248</url>
+        </item>
+        <item>
+          <title>regular block (in polymers) (of a polymer) (in a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05244</url>
+        </item>
+        <item>
+          <title>chain (in polymers) (of a polymer) (in a polymer) (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00946</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2292 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Tatticità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Tatticità</url>
+    </item>
+    <item>
+      <title>Wikipedia - ترتيبية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ترتيبية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06244/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06244/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06244/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06244/plain</plain>
+  </links>
+  <citation>Citation: 'tacticity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06244</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:37:30+00:00</accessed>
+</term>

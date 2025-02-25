@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04002</id>
+  <doi>10.1351/goldbook.M04002</doi>
+  <code>M04002</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molecule</longtitle>
+  <title>molecule</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An electrically neutral entity consisting of more than one atom (n &gt; 1). Rigorously, a molecule, in which n &gt; 1 must correspond to a depression on the potential energy surface that is deep enough to confine at least one vibrational state.</text>
+      <links>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>n &gt; 1</alttext>
+          <latex>n&gt;1</latex>
+        </item>
+        <item>
+          <alttext>n &gt; 1</alttext>
+          <latex>n&gt;1</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1143 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Arutelu:Molekul (et)</title>
+      <url>https://et.wikipedia.org/wiki/Arutelu:Molekul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbenium ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Carbenium_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemical compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Compuesto químico (es)</title>
+      <url>https://es.wikipedia.org/wiki/Compuesto_químico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Corpo humano (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Corpo_humano</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion Projet:Chimie (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion_Projet:Chimie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Molekyl (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Diskussion:Molekyl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Molekül (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Molekül</url>
+    </item>
+    <item>
+      <title>Wikipedia - Draft:Glossary of engineering (M) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Draft:Glossary_of_engineering_(M)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Draft:Glossary of engineering: M (en)</title>
+      <url>https://en.wikipedia.org/wiki/Draft:Glossary_of_engineering:_M</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gas-phase ion chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Gas-phase_ion_chemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: M (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_M</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: M - Z (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_M_-_Z</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: M–Z (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_M–Z</url>
+    </item>
+    <item>
+      <title>Wikipedia - History of molecular theory (en)</title>
+      <url>https://en.wikipedia.org/wiki/History_of_molecular_theory</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keskustelu:Molekyyli (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Keskustelu:Molekyyli</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kimia (id)</title>
+      <url>https://id.wikipedia.org/wiki/Kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Modèle:GoldBook (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Modèle:GoldBook</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mol (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Mol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecola (it)</title>
+      <url>https://it.wikipedia.org/wiki/Molecola</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecul (ie)</title>
+      <url>https://ie.wikipedia.org/wiki/Molecul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecula (ia)</title>
+      <url>https://ia.wikipedia.org/wiki/Molecula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecule (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molecule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecule (sco)</title>
+      <url>https://sco.wikipedia.org/wiki/Molecule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecule (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Molecule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekui (bar)</title>
+      <url>https://bar.wikipedia.org/wiki/Molekui</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekul (gor)</title>
+      <url>https://gor.wikipedia.org/wiki/Molekul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekul (id)</title>
+      <url>https://id.wikipedia.org/wiki/Molekul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekul (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Molekul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (ilo)</title>
+      <url>https://ilo.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (tk)</title>
+      <url>https://tk.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekulo (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Molekulo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekyl (no)</title>
+      <url>https://no.wikipedia.org/wiki/Molekyl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekyl (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Molekyl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekül (de)</title>
+      <url>https://de.wikipedia.org/wiki/Molekül</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molècula (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Molècula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molécula (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Molécula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molécula (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Molécula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molécule (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Molécule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Monoatomique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Monoatomique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Phân tử (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Phân_tử</url>
+    </item>
+    <item>
+      <title>Wikipedia - Predefinição:GoldBookRef (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Predefinição:GoldBookRef</url>
+    </item>
+    <item>
+      <title>Wikipedia - Química (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Helium hydride ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Helium_hydride_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:History of molecular theory (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:History_of_molecular_theory</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Resonance (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Resonance_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Template:GoldBook1997 (it)</title>
+      <url>https://it.wikipedia.org/wiki/Template:GoldBook1997</url>
+    </item>
+    <item>
+      <title>Wikipedia - Template:GoldBookRef (en)</title>
+      <url>https://en.wikipedia.org/wiki/Template:GoldBookRef</url>
+    </item>
+    <item>
+      <title>Wikipedia - Template:GoldBookRef (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/Template:GoldBookRef</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tropilium kation (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Tropilium_kation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tropylium cation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Tropylium_cation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia talk:WikiProject Chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Chemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Íon tropilium (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Íon_tropilium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Μόριο (el)</title>
+      <url>https://el.wikipedia.org/wiki/Μόριο</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекул (mn)</title>
+      <url>https://mn.wikipedia.org/wiki/Молекул</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекул (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Молекул</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (ba)</title>
+      <url>https://ba.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (cv)</title>
+      <url>https://cv.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (tg)</title>
+      <url>https://tg.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Одноатомная молекула (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Одноатомная_молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хемија (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Хемија</url>
+    </item>
+    <item>
+      <title>Wikipedia - Մոլեկուլ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Մոլեկուլ</url>
+    </item>
+    <item>
+      <title>Wikipedia - תבנית:GoldBookRef (he)</title>
+      <url>https://he.wikipedia.org/wiki/תבנית:GoldBookRef</url>
+    </item>
+    <item>
+      <title>Wikipedia - تاريخ نظرية الجزيئات (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تاريخ_نظرية_الجزيئات</url>
+    </item>
+    <item>
+      <title>Wikipedia - جزيء (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/جزيء</url>
+    </item>
+    <item>
+      <title>Wikipedia - अणु (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/अणु</url>
+    </item>
+    <item>
+      <title>Wikipedia - অণু (as)</title>
+      <url>https://as.wikipedia.org/wiki/অণু</url>
+    </item>
+    <item>
+      <title>Wikipedia - অণু (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/অণু</url>
+    </item>
+    <item>
+      <title>Wikipedia - மூலக்கூறு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மூலக்கூறு</url>
+    </item>
+    <item>
+      <title>Wikipedia - மூலக்கூறு இயற்பியல் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மூலக்கூறு_இயற்பியல்</url>
+    </item>
+    <item>
+      <title>Wikipedia - అణువు (te)</title>
+      <url>https://te.wikipedia.org/wiki/అణువు</url>
+    </item>
+    <item>
+      <title>Wikipedia - మూస:GoldBookRef (te)</title>
+      <url>https://te.wikipedia.org/wiki/మూస:GoldBookRef</url>
+    </item>
+    <item>
+      <title>Wikipedia - തന്മാത്ര (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/തന്മാത്ര</url>
+    </item>
+    <item>
+      <title>Wikipedia - მოლეკულა (ka)</title>
+      <url>https://ka.wikipedia.org/wiki/მოლეკულა</url>
+    </item>
+    <item>
+      <title>Wikipedia - 䓬 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/䓬</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/分子</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/分子</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子論の歴史 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/分子論の歴史</url>
+    </item>
+    <item>
+      <title>Wikipedia - 틀:GoldBookRef (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/틀:GoldBookRef</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M04002/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M04002/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M04002/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M04002/plain</plain>
+  </links>
+  <citation>Citation: 'molecule' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M04002</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:47:42+00:00</accessed>
+</term>

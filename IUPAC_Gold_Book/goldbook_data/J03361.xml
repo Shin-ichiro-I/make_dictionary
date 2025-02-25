@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03361</id>
+  <doi>10.1351/goldbook.J03361</doi>
+  <code>J03361</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Jahn–Teller effect</longtitle>
+  <title>Jahn–Teller effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Molecular distortions due to an electronically degenerate ground state. For non-linear molecular entities in a geometry described by a point symmetry group possessing degenerate irreducible representations there always exists at least one non-totally symmetric vibration that makes electronically degenerate states unstable at this geometry. The nuclei are displaced to new equilibrium positions of lower symmetry causing a splitting of the originally degenerate states (first-order Jahn–Teller effect).</text>
+      <notes>
+        <item>Effect due to the odd terms in the vibronic perturbation expansion. In the case of molecules with a non-degenerate ground electronic state (of potential-energy surfaces) but with a low-lying degenerate excited state, distortions of proper symmetry arise that result in mixing of the ground and excited states, thereby lowering the ground-state energy (pseudo Jahn–Teller effect). The pseudo Jahn–Teller effect manifests itself in fluxional behaviour (see fluxional) and stereochemical non-rigidity of molecules and ions. The Jahn–Teller effect generates a surface crossing (e.g., a conical intersection) whereas a pseudo Jahn–Teller effect generates an avoided crossing (of potential-energy surfaces).</item>
+      </notes>
+      <links>
+        <item>
+          <title>Renner–Teller effect</title>
+          <url>https://goldbook.iupac.org/terms/view/R05290</url>
+        </item>
+        <item>
+          <title>Renner–Teller effect</title>
+          <url>https://goldbook.iupac.org/terms/view/R05290</url>
+        </item>
+        <item>
+          <title>ground</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>fluxional molecules</title>
+          <url>https://goldbook.iupac.org/terms/view/F02463</url>
+        </item>
+        <item>
+          <title>surface crossing</title>
+          <url>https://goldbook.iupac.org/terms/view/S06166</url>
+        </item>
+        <item>
+          <title>conical intersection</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07347</url>
+        </item>
+        <item>
+          <title>avoided crossing (of potential-energy surfaces)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00544</url>
+        </item>
+        <item>
+          <title>Renner–Teller effect</title>
+          <url>https://goldbook.iupac.org/terms/view/R05290</url>
+        </item>
+        <item>
+          <title>ground</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>fluxional</title>
+          <url>https://goldbook.iupac.org/terms/view/F02463</url>
+        </item>
+        <item>
+          <title>surface crossing</title>
+          <url>https://goldbook.iupac.org/terms/view/S06166</url>
+        </item>
+        <item>
+          <title>conical intersection</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07347</url>
+        </item>
+        <item>
+          <title>avoided crossing (of potential-energy surfaces)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00544</url>
+        </item>
+        <item>
+          <title>stereochemical non-rigidity</title>
+          <url>https://goldbook.iupac.org/terms/view/ST07107</url>
+        </item>
+        <item>
+          <title>unstable (of potential-energy surfaces)</title>
+          <url>https://goldbook.iupac.org/terms/view/U06569</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 360 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Effetto Jahn-Teller (it)</title>
+      <url>https://it.wikipedia.org/wiki/Effetto_Jahn-Teller</url>
+    </item>
+    <item>
+      <title>Wikipedia - تأثير يان-تيلر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تأثير_يان-تيلر</url>
+    </item>
+    <item>
+      <title>Wikipedia - تأثير يان-تيلير (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تأثير_يان-تيلير</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/J03361/html</html>
+    <json>https://goldbook.iupac.org/terms/view/J03361/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/J03361/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/J03361/plain</plain>
+  </links>
+  <citation>Citation: 'Jahn–Teller effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.J03361</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:16:11+00:00</accessed>
+</term>

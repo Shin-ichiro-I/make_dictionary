@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03844</id>
+  <doi>10.1351/goldbook.M03844</doi>
+  <code>M03844</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mesomeric effect</longtitle>
+  <title>mesomeric effect</title>
+  <contains>resonance effect</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The effect (on reaction rates, ionization equilibria, etc.) attributed to a substituent due to overlap of its p- or π-orbitals with the p- or π-orbitals of the rest of the molecular entity. Delocalization is thereby introduced or extended, and electronic charge may flow to or from the substituent. The effect is symbolized by M. Strictly understood, the mesomeric effect operates in the ground electronic state of the molecule. When the molecule undergoes electronic excitation or its energy is increased on the way to the transition state of a chemical reaction, the mesomeric effect may be enhanced by the electromeric effect, but this term is not much used, and the mesomeric and electromeric effects tend to be subsumed in the term resonance effect of a substituent.</text>
+      <links>
+        <item>
+          <title>electronic effect</title>
+          <url>https://goldbook.iupac.org/terms/view/E01996</url>
+        </item>
+        <item>
+          <title>field effect</title>
+          <url>https://goldbook.iupac.org/terms/view/F02358</url>
+        </item>
+        <item>
+          <title>inductive effect</title>
+          <url>https://goldbook.iupac.org/terms/view/I03021</url>
+        </item>
+        <item>
+          <title>electronic effect</title>
+          <url>https://goldbook.iupac.org/terms/view/E01996</url>
+        </item>
+        <item>
+          <title>field effect</title>
+          <url>https://goldbook.iupac.org/terms/view/F02358</url>
+        </item>
+        <item>
+          <title>inductive effect</title>
+          <url>https://goldbook.iupac.org/terms/view/I03021</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01583</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+        <item>
+          <title>electronic effect</title>
+          <url>https://goldbook.iupac.org/terms/view/E01996</url>
+        </item>
+        <item>
+          <title>field effect</title>
+          <url>https://goldbook.iupac.org/terms/view/F02358</url>
+        </item>
+        <item>
+          <title>inductive effect</title>
+          <url>https://goldbook.iupac.org/terms/view/I03021</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01583</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>electromeric effect</title>
+          <url>https://goldbook.iupac.org/terms/view/E01973</url>
+        </item>
+        <item>
+          <title>substituent</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1139 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Electromeric effect (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electromeric_effect</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mesomerer Effekt (de)</title>
+      <url>https://de.wikipedia.org/wiki/Mesomerer_Effekt</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mesomeric effect (en)</title>
+      <url>https://en.wikipedia.org/wiki/Mesomeric_effect</url>
+    </item>
+    <item>
+      <title>Wikipedia - Risonanza (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Risonanza_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Мезомерний ефект (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Мезомерний_ефект</url>
+    </item>
+    <item>
+      <title>Wikipedia - اثر مزومری (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/اثر_مزومری</url>
+    </item>
+    <item>
+      <title>Wikipedia - تأثير ميزوميري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تأثير_ميزوميري</url>
+    </item>
+    <item>
+      <title>Wikipedia - メソメリー効果 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/メソメリー効果</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03844/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03844/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03844/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03844/plain</plain>
+  </links>
+  <citation>Citation: 'mesomeric effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03844</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:38:56+00:00</accessed>
+</term>

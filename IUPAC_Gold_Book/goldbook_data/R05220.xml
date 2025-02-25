@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05220</id>
+  <doi>10.1351/goldbook.R05220</doi>
+  <code>R05220</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - reduced viscosity of a polymer</longtitle>
+  <title>reduced viscosity</title>
+  <synonyms>
+    <item>viscosity number </item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The ratio of the relative viscosity increment to the mass concentration of the polymer, c, i.e. η i c, where η i is the relative viscosity increment.</text>
+      <notes>
+        <item>The unit must be specified; cm3 g-1 is recommended.</item>
+        <item>This quantity is neither a viscosity nor a pure number. The term is to be looked on as a traditional name. Any replacement by consistent terminology would produce unnecessary confusion in the polymer literature. Synonymous with viscosity number.</item>
+      </notes>
+      <contexts>
+        <of>
+          <item>a polymer</item>
+        </of>
+      </contexts>
+      <links>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>relative viscosity increment</title>
+          <url>https://goldbook.iupac.org/terms/view/R05283</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>relative viscosity increment</title>
+          <url>https://goldbook.iupac.org/terms/view/R05283</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>c</alttext>
+          <latex>c</latex>
+        </item>
+        <item>
+          <alttext>η i c</alttext>
+          <latex>\frac{\eta _{i}}{c}</latex>
+        </item>
+        <item>
+          <alttext>η i</alttext>
+          <latex>\eta _{i}</latex>
+        </item>
+        <item>
+          <alttext>cm3 g-1</alttext>
+          <latex>\text{cm}^{3}\ \text{g}^{-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Purple Book, 1st ed., p. 63 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Reduced viscosity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Reduced_viscosity</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05220/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05220/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05220/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05220/plain</plain>
+  </links>
+  <citation>Citation: 'reduced viscosity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05220</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:49:31+00:00</accessed>
+</term>

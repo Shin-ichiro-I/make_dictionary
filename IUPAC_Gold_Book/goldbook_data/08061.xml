@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>08061</id>
+  <doi>10.1351/goldbook.08061</doi>
+  <code>08061</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - capability</longtitle>
+  <title>capability</title>
+  <termversion>5.0.0</termversion>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Ability of an object to realize an output that will fulfil the requirements for that output.</text>
+      <notes>
+        <item>Process capability terms in the field of statistics are defined in ISO 3534-2.</item>
+      </notes>
+      <sources>
+        <item>PAC, 2021, 93, 997. 'Metrological and quality concepts in analytical chemistry (IUPAC Recommendations 2021)' on page 1021 (https://doi.org/10.1515/pac-2019-0819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/08061/html</html>
+    <json>https://goldbook.iupac.org/terms/view/08061/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/08061/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/08061/plain</plain>
+  </links>
+  <citation>Citation: 'capability' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.08061</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:19:01+00:00</accessed>
+</term>

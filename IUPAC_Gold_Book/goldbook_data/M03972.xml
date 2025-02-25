@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03972</id>
+  <doi>10.1351/goldbook.M03972</doi>
+  <code>M03972</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molar absorption coefficient, ɛ</longtitle>
+  <title>molar absorption coefficient</title>
+  <contains>molar decadic absorption coefficient</contains>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Absorbance divided by the absorption pathlength, l, and the amount concentration, c: ɛλ = (1/cl).lg(Pλ0/Pλ) = A(λ)/c.l and P λ are, respectively, the incident and transmitted spectral radiant power.</text>
+      <notes>
+        <item>The term molar absorptivity for molar absorption coefficient should be avoided.</item>
+        <item>In common usage for l/cm and c/mol dm-3 (M), ɛ(λ) results in dm^3 mol^-1 cm^-1 (M-1 cm-1, the most commonly used unit), which equals 0.1 m2 mol-1 (coherent SI units).</item>
+      </notes>
+      <links>
+        <item>
+          <title>molar absorptivity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03973</url>
+        </item>
+        <item>
+          <title>absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/A00037</url>
+        </item>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>amount concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00295</url>
+        </item>
+        <item>
+          <title>spectral radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/S05828</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>l</alttext>
+          <latex>l</latex>
+        </item>
+        <item>
+          <alttext>c</alttext>
+          <latex>c</latex>
+        </item>
+        <item>
+          <alttext>ɛλ = (1/cl).lg(Pλ0/Pλ) = A(λ)/c.l</alttext>
+          <latex>\varepsilon(\lambda) = \frac{1}{c\, l}\, \text{lg}\! \left ( \frac{P_{\lambda}^{0}}{P_{\lambda}}\right ) = \frac{A(\lambda)}{c\, l}</latex>
+        </item>
+        <item>
+          <alttext>P λ 0</alttext>
+          <latex>P_{\lambda}^{0}</latex>
+        </item>
+        <item>
+          <alttext>P λ</alttext>
+          <latex>P_{\lambda}</latex>
+        </item>
+        <item>
+          <meaning>Pathlength (in cm)</meaning>
+          <type>quantity</type>
+          <alttext>l/cm</alttext>
+          <latex>l/\text{cm}</latex>
+        </item>
+        <item>
+          <alttext>c/mol dm-3</alttext>
+          <latex>c/\pu{mol dm-3}</latex>
+        </item>
+        <item>
+          <alttext>M</alttext>
+          <latex>\text{M}</latex>
+        </item>
+        <item>
+          <meaning>Molar decadic absorption coefficient at wavelength λ</meaning>
+          <alttext>ɛ(λ)</alttext>
+          <latex>\varepsilon(\lambda)</latex>
+        </item>
+        <item>
+          <alttext>dm^3 mol^-1 cm^-1</alttext>
+          <latex>\pu{dm3 mol-1 cm-1}</latex>
+        </item>
+        <item>
+          <alttext>M-1 cm-1</alttext>
+          <latex>\text{M}^{-1}\ \text{cm}^{-1}</latex>
+        </item>
+        <item>
+          <alttext>0.1 m2 mol-1</alttext>
+          <latex>\pu{0.1 m2 mol-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 371 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - August Beer (it)</title>
+      <url>https://it.wikipedia.org/wiki/August_Beer</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03972/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03972/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03972/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03972/plain</plain>
+  </links>
+  <citation>Citation: 'molar absorption coefficient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03972</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:45:15+00:00</accessed>
+</term>

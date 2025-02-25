@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01236</id>
+  <doi>10.1351/goldbook.C01236</doi>
+  <code>C01236</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - condensation nuclei (CN) in atmospheric chemistry</longtitle>
+  <title>condensation nuclei</title>
+  <abbrevs>
+    <item>CCN</item>
+    <item>CN</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Particles, either liquid or solid, or ions upon which condensation of water vapour (or other substances) begins in the atmosphere. Condensation nuclei are usually very small hygroscopic aerosols (0.001 µm to 0.1 µm in diameter), but these are not as abundant as the smaller particles. The number of CN which are active (initiate condensation) in a given air mass may be a function of the relative humidity. Usually CN are counted as the active nuclei at about 300% relative humidity, while cloud condensation nuclei (CCN) are counted as the number of active nuclei at relative humidity less than or equal to 102%.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>relative humidity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05267</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>0.001 µm</alttext>
+          <latex>0.001\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+        <item>
+          <alttext>0.1 µm</alttext>
+          <latex>0.1\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2182 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - نوى التكاثف (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نوى_التكاثف</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01236/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01236/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01236/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01236/plain</plain>
+  </links>
+  <citation>Citation: 'condensation nuclei' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01236</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:40:55+00:00</accessed>
+</term>

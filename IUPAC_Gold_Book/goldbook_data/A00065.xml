@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00065</id>
+  <doi>10.1351/goldbook.A00065</doi>
+  <code>A00065</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - acetylene black</longtitle>
+  <title>acetylene black</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A special type of carbon black formed by an exothermic decomposition of acetylene. It is characterized by the highest degree of aggregation and crystalline orientation when compared with all types of carbon black.</text>
+      <notes>
+        <item>Acetylene black must not be confused with the carbon black produced as a by-product during the production of acetylene in the electric arc process.</item>
+      </notes>
+      <links>
+        <item>
+          <title>carbon black</title>
+          <url>https://goldbook.iupac.org/terms/view/C00824</url>
+        </item>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 476 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - 炭黑 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/炭黑</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00065/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00065/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00065/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00065/plain</plain>
+  </links>
+  <citation>Citation: 'acetylene black' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00065</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:40:02+00:00</accessed>
+</term>

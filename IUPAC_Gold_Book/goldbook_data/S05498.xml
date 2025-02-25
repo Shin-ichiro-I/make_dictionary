@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05498</id>
+  <doi>10.1351/goldbook.S05498</doi>
+  <code>S05498</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Schiff bases (Schiff's bases)</longtitle>
+  <title>Schiff bases</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Imines bearing a hydrocarbyl group on the nitrogen atom R2C=NR' (R' ≠ H). Considered by many to be synonymous with azomethines.</text>
+      <links>
+        <item>
+          <title>imines</title>
+          <url>https://goldbook.iupac.org/terms/view/I02957</url>
+        </item>
+        <item>
+          <title>imines</title>
+          <url>https://goldbook.iupac.org/terms/view/I02957</url>
+        </item>
+        <item>
+          <title>hydrocarbyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02891</url>
+        </item>
+        <item>
+          <title>azomethines</title>
+          <url>https://goldbook.iupac.org/terms/view/A00564</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1364 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aldimina (es)</title>
+      <url>https://es.wikipedia.org/wiki/Aldimina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldimina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Aldimina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldimine (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aldimine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldimine (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Aldimine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldiminek (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Aldiminek</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldimmine (it)</title>
+      <url>https://it.wikipedia.org/wiki/Aldimmine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldyminy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Aldyminy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Base de Schiff (es)</title>
+      <url>https://es.wikipedia.org/wiki/Base_de_Schiff</url>
+    </item>
+    <item>
+      <title>Wikipedia - Base de Schiff (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Base_de_Schiff</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bază Schiff (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Bază_Schiff</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cetimina (es)</title>
+      <url>https://es.wikipedia.org/wiki/Cetimina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cetimina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Cetimina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (da)</title>
+      <url>https://da.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (es)</title>
+      <url>https://es.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (id)</title>
+      <url>https://id.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imine (en)</title>
+      <url>https://en.wikipedia.org/wiki/Imine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Schiff base (en)</title>
+      <url>https://en.wikipedia.org/wiki/Schiff_base</url>
+    </item>
+    <item>
+      <title>Wikipedia - Schiff-bázis (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Schiff-bázis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stieglitz rearrangement (en)</title>
+      <url>https://en.wikipedia.org/wiki/Stieglitz_rearrangement</url>
+    </item>
+    <item>
+      <title>Wikipedia - Šifova baza (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Šifova_baza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Šifova baza (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Šifova_baza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Основания Шиффа (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Основания_Шиффа</url>
+    </item>
+    <item>
+      <title>Wikipedia - بازآرایی اشتیگلیتس (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/بازآرایی_اشتیگلیتس</url>
+    </item>
+    <item>
+      <title>Wikipedia - قاعدة شيف (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قاعدة_شيف</url>
+    </item>
+    <item>
+      <title>Wikipedia - シッフ塩基 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/シッフ塩基</url>
+    </item>
+    <item>
+      <title>Wikipedia - 希夫碱 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/希夫碱</url>
+    </item>
+    <item>
+      <title>Wikipedia - 시프 염기 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/시프_염기</url>
+    </item>
+    <item>
+      <title>Wikipedia - 이민 (화학) (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/이민_(화학)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05498/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05498/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05498/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05498/plain</plain>
+  </links>
+  <citation>Citation: 'Schiff bases' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05498</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:02:06+00:00</accessed>
+</term>

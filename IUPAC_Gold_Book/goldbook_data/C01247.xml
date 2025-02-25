@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01247</id>
+  <doi>10.1351/goldbook.C01247</doi>
+  <code>C01247</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - confidence limits (about the mean)</longtitle>
+  <title>confidence limits (about the mean)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Symmetric confidence limits (±C) about the estimated mean, which cover the population mean with probability1- α. The quantity C is calculated by the formula: C = tp,vS/sqrt(n), is the critical value from the t- (or Student) distribution function corresponding to the confidence level1- α and degrees of freedomv. The symbol p represents the percentile (or percentage point) of the t-distribution. For 1-sided intervals, p = 1- α; for 2-sided intervals, p = 1- α 2. In each case, the confidence level is 1- α. The confidence interval is given as x _ ± C.</text>
+      <notes>
+        <item>If the population standard deviation σ is known, confidence limits about a single result may be calculated with the formula: C = tp,∞.σ The coefficient t p , ∞, is the limiting value of the t-distribution function for v = ∞ at confidence level 1- α. This is identical to z p, the pth percentage point of the standard normal variate.</item>
+      </notes>
+      <links>
+        <item>
+          <title>standard deviation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05911</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>confidence level</title>
+          <url>https://goldbook.iupac.org/terms/view/C01246</url>
+        </item>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+        <item>
+          <title>degrees of freedom</title>
+          <url>https://goldbook.iupac.org/terms/view/D01572</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>±C</alttext>
+          <latex>\pm C</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>1- α</alttext>
+          <latex>1 - \alpha </latex>
+        </item>
+        <item>
+          <alttext>C</alttext>
+          <latex>C</latex>
+        </item>
+        <item>
+          <alttext>C = tp,vS/sqrt(n)</alttext>
+          <latex>C = \frac{t_{\text{p},v^{S}}}{\sqrt{n}}</latex>
+        </item>
+        <item>
+          <alttext>t p , v</alttext>
+          <latex>t_{\text{p},v}</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>1- α</alttext>
+          <latex>1 - \alpha </latex>
+        </item>
+        <item>
+          <alttext>v</alttext>
+          <latex>v</latex>
+        </item>
+        <item>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <alttext>p = 1- α</alttext>
+          <latex>p=1- \alpha </latex>
+        </item>
+        <item>
+          <alttext>p = 1- α 2</alttext>
+          <latex>p=1- \frac{\alpha }{2}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>1- α</alttext>
+          <latex>1 - \alpha </latex>
+        </item>
+        <item>
+          <alttext>x _ ± C</alttext>
+          <latex>\overline{x}\ \pm \ C</latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>σ</latex>
+        </item>
+        <item>
+          <meaning>Confidence limit</meaning>
+          <type>equation</type>
+          <alttext>C = tp,∞.σ</alttext>
+          <latex>C = t_{\text{p},\infty}\sigma</latex>
+        </item>
+        <item>
+          <alttext>t p , ∞</alttext>
+          <latex>t_{p,\infty}</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <alttext>v = ∞</alttext>
+          <latex>\nu = \infty</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>1- α</alttext>
+          <latex>1 - \alpha</latex>
+        </item>
+        <item>
+          <alttext>z p</alttext>
+          <latex>z_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 595. 'Nomenclature for the presentation of results of chemical analysis (IUPAC Recommendations 1994)' on page 601 (https://doi.org/10.1351/pac199466030595)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01247/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01247/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01247/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01247/plain</plain>
+  </links>
+  <citation>Citation: 'confidence limits (about the mean)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01247</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:41:31+00:00</accessed>
+</term>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07053</id>
+  <doi>10.1351/goldbook.HT07053</doi>
+  <code>HT07053</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hyperpolarizability (of nth order)</longtitle>
+  <title>hyperpolarizability (of <i>n</i>th order)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The energy of a molecule in an external electrostatic field can be expanded as E = Eo - µiFi - (1/2)αij.Fi.Fj - (1/6)βijk.Fi.Fj.Fk - (1/24)ɣijkl.Fi.Fj.Fk.Fl - ... is the unperturbed energy, Fi is the component of the field in the i direction, µ i is the permanent dipole moment, α i j is the polarizability tensor, and β i j k and γ i j k l are the first and second hyperpolarizability tensors, respectively. β is a third order symmetric tensor that measures the second order response of the molecular electric dipole moment to the action of an external electric field and is thus often referred to as dipole hyperpolarizability.</text>
+      <links>
+        <item>
+          <title>dipole moment</title>
+          <url>https://goldbook.iupac.org/terms/view/D01761</url>
+        </item>
+        <item>
+          <title>polarizability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04711</url>
+        </item>
+        <item>
+          <title>electric dipole moment</title>
+          <url>https://goldbook.iupac.org/terms/view/E01929</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>E = Eo - µiFi - (1/2)αij.Fi.Fj - (1/6)βijk.Fi.Fj.Fk - (1/24)ɣijkl.Fi.Fj.Fk.Fl - ...</alttext>
+          <latex>E=E^{\text{o}}- \unicode[Times]{x3BC}_{i}\ F_{i}- \frac{1}{2}\ \unicode[Times]{x3B1} _{ij}\ F_{i}\ F_{j}- \frac{1}{6}\ \unicode[Times]{x3B2} _{ijk}\ F_{i}\ F_{j}\ F_{k}- \frac{1}{24}\ \unicode[Times]{x3B3} _{ijkl}\ F_{i}\ F_{j}\ F_{k}\ F_{l}- \text{...}</latex>
+        </item>
+        <item>
+          <alttext>E o</alttext>
+          <latex>E^{\text{o}}</latex>
+        </item>
+        <item>
+          <alttext>Fi</alttext>
+          <latex>F_{i}</latex>
+        </item>
+        <item>
+          <alttext>µ i</alttext>
+          <latex>\unicode[Times]{x3BC}_{i}</latex>
+        </item>
+        <item>
+          <alttext>α i j</alttext>
+          <latex>\unicode[Times]{x3B1}_{ij}</latex>
+        </item>
+        <item>
+          <alttext>β i j k</alttext>
+          <latex>\unicode[Times]{x3B2}_{ijk}</latex>
+        </item>
+        <item>
+          <alttext>γ i j k l</alttext>
+          <latex>\unicode[Times]{x3B3}_{ijkl}</latex>
+        </item>
+        <item>
+          <alttext>β</alttext>
+          <latex>\unicode[Times]{x3B2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1946 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hyperpolarisierbarkeit (de)</title>
+      <url>https://de.wikipedia.org/wiki/Hyperpolarisierbarkeit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Iperpolarizzabilità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Iperpolarizzabilità</url>
+    </item>
+    <item>
+      <title>Wikipedia - 超分極率 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/超分極率</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/HT07053/html</html>
+    <json>https://goldbook.iupac.org/terms/view/HT07053/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/HT07053/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/HT07053/plain</plain>
+  </links>
+  <citation>Citation: 'hyperpolarizability (of <i>n</i>th order)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.HT07053</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:57:25+00:00</accessed>
+</term>

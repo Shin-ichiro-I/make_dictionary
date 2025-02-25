@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04465</id>
+  <doi>10.1351/goldbook.P04465</doi>
+  <code>P04465</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - peak resolution, R_s, in chromatography</longtitle>
+  <title>peak resolution</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The separation of two peaks in terms of their average peak width at base (t R2 &gt; t R1): R s = t R2- t R1 w b1 + w b2 2 , and thus, the width of the second peak may be substituted for the average value: </text>
+      <contexts>
+        <in>
+          <item>chromatography</item>
+        </in>
+      </contexts>
+      <math>
+        <item>
+          <alttext>t R2 &gt; t R1</alttext>
+          <latex>t_{\text{R2}}&gt;t_{\text{R1}}</latex>
+        </item>
+        <item>
+          <alttext>R s = t R2- t R1 w b1 + w b2 2 </alttext>
+          <latex>R_{\text{s}}=\frac{t_{\text{R2}}\,-\,t_{\text{R1}}}{\frac{w_{\text{b1}}\,+\,w_{\text{b2}}}{2}}=\frac{2\ (t_{\text{R2}}- t_{\text{R1}})}{w_{\text{b1}}\,+\,w_{\text{b2}}}</latex>
+        </item>
+        <item>
+          <alttext>w b1 ≈ w b2</alttext>
+          <latex>w_{\text{b1}}\approx w_{\text{b2}}</latex>
+        </item>
+        <item>
+          <alttext>R s ≈ t R2- t R1 w b2</alttext>
+          <latex>R_{\text{s}}\approx \frac{t_{\text{R2}}\,-\,t_{\text{R1}}}{w_{\text{b2}}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 108 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 847 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Resolution (chromatography) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Resolution_(chromatography)</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفکیک پذیری (کروماتوگرافی) (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/تفکیک_پذیری_(کروماتوگرافی)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04465/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04465/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04465/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04465/plain</plain>
+  </links>
+  <citation>Citation: 'peak resolution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04465</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:12:44+00:00</accessed>
+</term>

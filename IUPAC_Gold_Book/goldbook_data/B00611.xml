@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00611</id>
+  <doi>10.1351/goldbook.B00611</doi>
+  <code>B00611</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - basicity</longtitle>
+  <title>basicity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For Brønsted bases, the tendency of a compound to act as hydron (proton) acceptor. The basicity of a chemical species is normally expressed by the acidity of the conjugate acid (see conjugate acid–base pair). For Lewis bases it relates to the association constants of Lewis adducts and π-adducts.</text>
+      <links>
+        <item>
+          <title>Brønsted bases</title>
+          <url>https://goldbook.iupac.org/terms/view/B00745</url>
+        </item>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>acidity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00079</url>
+        </item>
+        <item>
+          <title>conjugate acid–base pair (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01266</url>
+        </item>
+        <item>
+          <title>Lewis adducts (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03510</url>
+        </item>
+        <item>
+          <title>π-adducts (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A04388</url>
+        </item>
+        <item>
+          <title>Brønsted bases</title>
+          <url>https://goldbook.iupac.org/terms/view/B00745</url>
+        </item>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>acidity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00079</url>
+        </item>
+        <item>
+          <title>conjugate acid–base pair (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01266</url>
+        </item>
+        <item>
+          <title>Lewis adducts (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03510</url>
+        </item>
+        <item>
+          <title>π-adducts (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A04388</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+        <item>
+          <title>association (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00472</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1088 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Basizität (de)</title>
+      <url>https://de.wikipedia.org/wiki/Basizität</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00611/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00611/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00611/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00611/plain</plain>
+  </links>
+  <citation>Citation: 'basicity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00611</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:07:40+00:00</accessed>
+</term>

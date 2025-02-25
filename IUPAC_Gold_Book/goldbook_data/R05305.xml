@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05305</id>
+  <doi>10.1351/goldbook.R05305</doi>
+  <code>R05305</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - reproducibility</longtitle>
+  <title>reproducibility</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The closeness of agreement between independent results obtained with the same method on identical test material but under different conditions (different operators, different apparatus, different laboratories and/or after different intervals of time). The measure of reproducibility is the standard deviation qualified with the term 'reproducibility' as reproducibility standard deviation. In some contexts reproducibility may be defined as the value below which the absolute difference between two single test results on identical material obtained under the above conditions, may be expected to lie with a specified probability. Note that a complete statement of reproducibility requires specification of the experimental conditions which differ.</text>
+      <links>
+        <item>
+          <title>repeatability</title>
+          <url>https://goldbook.iupac.org/terms/view/R05293</url>
+        </item>
+        <item>
+          <title>repeatability</title>
+          <url>https://goldbook.iupac.org/terms/view/R05293</url>
+        </item>
+        <item>
+          <title>standard deviation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05911</url>
+        </item>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2210 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1995, 67, 1699. 'Nomenclature in evaluation of analytical methods including detection and quantification capabilities (IUPAC Recommendations 1995)' on page 1707 (https://doi.org/10.1351/pac199567101699)</item>
+        <item>PAC, 1994, 66, 595. 'Nomenclature for the presentation of results of chemical analysis (IUPAC Recommendations 1994)' on page 598 (https://doi.org/10.1351/pac199466030595)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Reproducibility (en)</title>
+      <url>https://en.wikipedia.org/wiki/Reproducibility</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reproduksibilitas (id)</title>
+      <url>https://id.wikipedia.org/wiki/Reproduksibilitas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reproduzierbarkeit (de)</title>
+      <url>https://de.wikipedia.org/wiki/Reproduzierbarkeit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Riproducibilità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Riproducibilità</url>
+    </item>
+    <item>
+      <title>Wikipedia - Toistettavuus (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Toistettavuus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Uusittavuus (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Uusittavuus</url>
+    </item>
+    <item>
+      <title>Wikipedia - تناتجية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تناتجية</url>
+    </item>
+    <item>
+      <title>Wikipedia - قابلية إعادة الإنتاج (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قابلية_إعادة_الإنتاج</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05305/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05305/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05305/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05305/plain</plain>
+  </links>
+  <citation>Citation: 'reproducibility' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05305</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:53:24+00:00</accessed>
+</term>

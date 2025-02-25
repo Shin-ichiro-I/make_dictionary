@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02738</id>
+  <doi>10.1351/goldbook.H02738</doi>
+  <code>H02738</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hapten</longtitle>
+  <title>hapten</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A low-molecular weight molecule which contains an antigenic determinant but which is not itself antigenic unless complexed with an anitgenic carrier. Examples of haptens are dinitrophenols, phosphorylcholine and dextran.</text>
+      <links>
+        <item>
+          <title>molecular weight</title>
+          <url>https://goldbook.iupac.org/terms/view/M04000</url>
+        </item>
+        <item>
+          <title>carrier</title>
+          <url>https://goldbook.iupac.org/terms/view/C00859</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 156 (https://doi.org/10.1351/pac199264010143)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aptene (it)</title>
+      <url>https://it.wikipedia.org/wiki/Aptene</url>
+    </item>
+    <item>
+      <title>Wikipedia - ناشبة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ناشبة</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02738/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02738/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02738/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02738/plain</plain>
+  </links>
+  <citation>Citation: 'hapten' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02738</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:47:39+00:00</accessed>
+</term>

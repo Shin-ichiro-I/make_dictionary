@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01619</id>
+  <doi>10.1351/goldbook.D01619</doi>
+  <code>D01619</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - desolvation in flame spectroscopy</longtitle>
+  <title>desolvation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The process of evaporation of the solvent from an aerosol of fine droplets (the droplets being the result of nebulizing a solution). Desolvation converts the aerosol into a dry aerosol consisting of a suspension of solid or molten particles of the solute.</text>
+      <contexts>
+        <in>
+          <item>flame spectroscopy</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>evaporation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02227</url>
+        </item>
+        <item>
+          <title>aerosol</title>
+          <url>https://goldbook.iupac.org/terms/view/A00176</url>
+        </item>
+        <item>
+          <title>suspension</title>
+          <url>https://goldbook.iupac.org/terms/view/S06198</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 165 (https://media.iupac.org/publications/analytical_compendium/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01619/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01619/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01619/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01619/plain</plain>
+  </links>
+  <citation>Citation: 'desolvation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01619</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:57:05+00:00</accessed>
+</term>

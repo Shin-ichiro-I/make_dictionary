@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06955</id>
+  <doi>10.1351/goldbook.CT06955</doi>
+  <code>CT06955</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - computer-assisted molecular modeling (CAMM)</longtitle>
+  <title>computer-assisted molecular modeling</title>
+  <abbrevs>
+    <item>CAMM</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Computer-assisted molecular modeling is the investigation of molecular structures and properties using computational chemistry and graphical visualization techniques.</text>
+      <links>
+        <item>
+          <title>molecular modeling</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06971</url>
+        </item>
+        <item>
+          <title>molecular modeling</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06971</url>
+        </item>
+        <item>
+          <title>computational chemistry</title>
+          <url>https://goldbook.iupac.org/terms/view/CT06952</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1997, 69, 1137. 'Glossary of terms used in computational drug design (IUPAC Recommendations 1997)' on page 1141 (https://doi.org/10.1351/pac199769051137)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Молекулярное моделирование (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Молекулярное_моделирование</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT06955/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT06955/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT06955/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT06955/plain</plain>
+  </links>
+  <citation>Citation: 'computer-assisted molecular modeling' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT06955</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:40:02+00:00</accessed>
+</term>

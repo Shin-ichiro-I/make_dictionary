@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06439</id>
+  <doi>10.1351/goldbook.T06439</doi>
+  <code>T06439</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - transfer</longtitle>
+  <title>transfer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Movement of a component within a system or across its boundary. It may be expressed using different kinds of quantities, e.g rates of change dQ/dt or Δ Q Δ t. Examples are: mass rate, dmB/dt or Δ m B Δ t; substance rate, dnB/dt or Δ n B Δ t.</text>
+      <math>
+        <item>
+          <alttext>dQ/dt</alttext>
+          <latex>\frac{\text{d}Q}{\text{d}t}</latex>
+        </item>
+        <item>
+          <alttext>Δ Q Δ t</alttext>
+          <latex>\frac{\Delta Q}{\Delta t}</latex>
+        </item>
+        <item>
+          <alttext>dmB/dt</alttext>
+          <latex>\frac{\text{d}m_{\text{B}}}{\text{d}t}</latex>
+        </item>
+        <item>
+          <alttext>Δ m B Δ t</alttext>
+          <latex>\frac{\Delta m_{\text{B}}}{\Delta t}</latex>
+        </item>
+        <item>
+          <alttext>dnB/dt</alttext>
+          <latex>\frac{\text{d}n_{\text{B}}}{\text{d}t}</latex>
+        </item>
+        <item>
+          <alttext>Δ n B Δ t</alttext>
+          <latex>\frac{\Delta n_{\text{B}}}{\Delta t}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1992, 64, 1569. 'Quantities and units for metabolic processes as a function of time (IUPAC Recommendations 1992)' on page 1573 (https://doi.org/10.1351/pac199264101569)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Scambio di materia (it)</title>
+      <url>https://it.wikipedia.org/wiki/Scambio_di_materia</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06439/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06439/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06439/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06439/plain</plain>
+  </links>
+  <citation>Citation: 'transfer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06439</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:46:02+00:00</accessed>
+</term>

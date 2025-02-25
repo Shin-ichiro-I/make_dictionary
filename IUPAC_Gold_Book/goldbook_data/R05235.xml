@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05235</id>
+  <doi>10.1351/goldbook.R05235</doi>
+  <code>R05235</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - reflectance, ρ</longtitle>
+  <title>reflectance</title>
+  <contains>reflectance factor, reflectivity</contains>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Fraction of incident radiation reflected by a surface or discontinuity, ρ λ = P λ refl P λ 0, where Pλ0 and Pλrefl are, respectively, the incident and reflected spectral radiant power.</text>
+      <notes>
+        <item>The reflectance for a beam of light normally incident on a surface separating two materials of refractive indices n 1 and n 2 is given by ρ λ = ( n 1- n 2 ) 2 ( n 1 + n  Reflectance increases as the angle of incidence decreases from 90 degrees.</item>
+      </notes>
+      <links>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>spectral radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/S05828</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ρ λ = P λ refl P λ 0</alttext>
+          <latex>\rho(\lambda) = \frac{P_{\lambda} ^{\text{refl}}}{P_{\lambda} ^{\text{0}}}</latex>
+        </item>
+        <item>
+          <alttext>Pλ0</alttext>
+          <latex>P_{\lambda}^{\text{0}}</latex>
+        </item>
+        <item>
+          <alttext>Pλrefl</alttext>
+          <latex>P_{\lambda}^{\text{refl}}</latex>
+        </item>
+        <item>
+          <alttext>n 1</alttext>
+          <latex>n_{1}</latex>
+        </item>
+        <item>
+          <alttext>n 2</alttext>
+          <latex>n_{2}</latex>
+        </item>
+        <item>
+          <alttext>ρ λ = ( n 1- n 2 ) 2 ( n 1 + n </alttext>
+          <latex>\rho(\lambda) = \frac{\left ( n_{1}\,-\,n_{2}\right )^{2}}{\left ( n_{1}\,+\,n_{2} \right )^{2}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 413 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Reflectance (en)</title>
+      <url>https://en.wikipedia.org/wiki/Reflectance</url>
+    </item>
+    <item>
+      <title>Wikipedia - Riflettanza (it)</title>
+      <url>https://it.wikipedia.org/wiki/Riflettanza</url>
+    </item>
+    <item>
+      <title>Wikipedia - انعكاسية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/انعكاسية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05235/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05235/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05235/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05235/plain</plain>
+  </links>
+  <citation>Citation: 'reflectance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05235</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:50:12+00:00</accessed>
+</term>

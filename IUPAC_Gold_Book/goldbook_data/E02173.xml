@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02173</id>
+  <doi>10.1351/goldbook.E02173</doi>
+  <code>E02173</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - epoxy compounds</longtitle>
+  <title>epoxy compounds</title>
+  <contains>epoxides</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds in which an oxygen atom is directly attached to two adjacent or non-adjacent carbon atoms of a carbon chain or ring system; thus cyclic ethers. The term epoxides represents a subclass of epoxy compounds containing a saturated three-membered cyclic ether; thus oxirane derivatives, e.g. 1,2-epoxypropane, or 2-methyloxirane (an epoxide); 9,10-epoxy-9,10-dihydroanthracene (an epoxy compound). [image: Not defined] [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/E02173-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/E02173-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>ethers</title>
+          <url>https://goldbook.iupac.org/terms/view/E02221</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1334 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Epoksidit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Epoksidit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Epoxyverbindungen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Epoxyverbindungen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vita:Rifaximin (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Vita:Rifaximin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Эпоксиды (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Эпоксиды</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02173/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02173/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02173/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02173/plain</plain>
+  </links>
+  <citation>Citation: 'epoxy compounds' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02173</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:22:32+00:00</accessed>
+</term>

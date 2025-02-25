@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03561</id>
+  <doi>10.1351/goldbook.L03561</doi>
+  <code>L03561</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - line formula</longtitle>
+  <title>line formula</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A two-dimensional representation of molecular entities in which atoms are shown joined by lines representing single or multiple bonds, without any indication or implication concerning the spatial direction of bonds. For example, methanol is represented as: ([image: Not defined] The term should not be confused with the representation of chemical formulae by the 'Wiswesser line notation', a method of string notation. Formulae in this notation are also known as 'Wiswesser line formulae'.)</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/L03561.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1136 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Valenzstrichformel (de)</title>
+      <url>https://de.wikipedia.org/wiki/Valenzstrichformel</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03561/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03561/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03561/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03561/plain</plain>
+  </links>
+  <citation>Citation: 'line formula' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03561</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:24:35+00:00</accessed>
+</term>

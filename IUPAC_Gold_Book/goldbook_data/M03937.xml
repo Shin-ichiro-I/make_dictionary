@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03937</id>
+  <doi>10.1351/goldbook.M03937</doi>
+  <code>M03937</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mitochondria</longtitle>
+  <title>mitochondria</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Organelles appearing in all eukaryotic cells which produce ATP as useful energy for the cell by oxidative phosphorylation. The proteins for the adenosine 5'-triphosphate (ATP)-generating electron transport of the respiration chain are located in the inner mitochondrial membrane. Mitochondria contain many enzymes of the citric acid cycle and for fatty acid β-oxidation. Many of them are coded for by nuclear DNA.</text>
+      <links>
+        <item>
+          <title>organelles</title>
+          <url>https://goldbook.iupac.org/terms/view/O04324</url>
+        </item>
+        <item>
+          <title>enzymes</title>
+          <url>https://goldbook.iupac.org/terms/view/E02159</url>
+        </item>
+        <item>
+          <title>organelles</title>
+          <url>https://goldbook.iupac.org/terms/view/O04324</url>
+        </item>
+        <item>
+          <title>enzymes</title>
+          <url>https://goldbook.iupac.org/terms/view/E02159</url>
+        </item>
+        <item>
+          <title>phosphorylation</title>
+          <url>https://goldbook.iupac.org/terms/view/PT06790</url>
+        </item>
+        <item>
+          <title>proteins</title>
+          <url>https://goldbook.iupac.org/terms/view/P04898</url>
+        </item>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+        <item>
+          <title>oxidation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04362</url>
+        </item>
+        <item>
+          <title>DNA</title>
+          <url>https://goldbook.iupac.org/terms/view/D01597</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 160 (https://doi.org/10.1351/pac199264010143)</item>
+        <item>PAC, 1993, 65, 2003. 'Glossary for chemists of terms used in toxicology (IUPAC Recommendations 1993)' on page 2071 (https://doi.org/10.1351/pac199365092003)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Mitocondrio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Mitocondrio</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03937/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03937/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03937/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03937/plain</plain>
+  </links>
+  <citation>Citation: 'mitochondria' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03937</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:43:25+00:00</accessed>
+</term>

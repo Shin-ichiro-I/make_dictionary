@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07246</id>
+  <doi>10.1351/goldbook.IT07246</doi>
+  <code>IT07246</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - impregnation in polymer chemistry</longtitle>
+  <title>impregnation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Penetration of monomeric, oligomeric, or polymeric liquids into an assembly of fibres.</text>
+      <notes>
+        <item>The term as defined here is specific to polymer science. An alternative definition of 'impregnation' applies in some other fields of chemistry.</item>
+        <item>Impregnation is usually carried out on a woven fabric or a yarn.</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>polymer chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>oligomeric</title>
+          <url>https://goldbook.iupac.org/terms/view/O04286</url>
+        </item>
+        <item>
+          <title>polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 1985. 'Definition of terms related to polymer blends, composites, and multiphase polymeric materials (IUPAC Recommendations 2004)' on page 1991 (https://doi.org/10.1351/pac200476111985)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/IT07246/html</html>
+    <json>https://goldbook.iupac.org/terms/view/IT07246/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/IT07246/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/IT07246/plain</plain>
+  </links>
+  <citation>Citation: 'impregnation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.IT07246</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:01:00+00:00</accessed>
+</term>

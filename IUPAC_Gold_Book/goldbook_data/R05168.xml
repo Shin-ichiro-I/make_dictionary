@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05168</id>
+  <doi>10.1351/goldbook.R05168</doi>
+  <code>R05168</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - reaction coordinate</longtitle>
+  <title>reaction coordinate</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A geometric parameter that changes during the conversion of one (or more) reactant molecular entities into one (or more) product molecular entities and whose value can be taken for a measure of the progress of an elementary reaction (for example, a bond length or bond angle or a combination of bond lengths and/or bond angles; it is sometimes approximated by a non-geometric parameter, such as the bond order of some specified bond). In the formalism of 'transition-state theory', the reaction coordinate is that coordinate in a set of curvilinear coordinates obtained from the conventional ones for the reactants which, for each reaction step, leads smoothly from the configuration of the reactants through that of the transition state to the configuration of the products. The reaction coordinate is typically chosen to follow the path along the gradient (path of shallowest ascent/deepest descent) of potential energy from reactants to products. The term has also been used interchangeably with the term transition coordinate, applicable to the coordinate in the immediate vicinity of the potential energy maximum. Being more specific, the name transition coordinate is to be preferred in that context.</text>
+      <links>
+        <item>
+          <title>potential-energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>potential-energy reaction surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>minimum-energy reaction path</title>
+          <url>https://goldbook.iupac.org/terms/view/M03931</url>
+        </item>
+        <item>
+          <title>potential-energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>potential-energy reaction surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>minimum-energy reaction path</title>
+          <url>https://goldbook.iupac.org/terms/view/M03931</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>bond order</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>transition-state theory</title>
+          <url>https://goldbook.iupac.org/terms/view/T06470</url>
+        </item>
+        <item>
+          <title>potential-energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>potential-energy reaction surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>minimum-energy reaction path</title>
+          <url>https://goldbook.iupac.org/terms/view/M03931</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>bond order</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>transition-state theory</title>
+          <url>https://goldbook.iupac.org/terms/view/T06470</url>
+        </item>
+        <item>
+          <title>bond length</title>
+          <url>https://goldbook.iupac.org/terms/view/BT07003</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>reaction step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05178</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>transition coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/T06455</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1158 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 183 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Coordenada de reacción (es)</title>
+      <url>https://es.wikipedia.org/wiki/Coordenada_de_reacción</url>
+    </item>
+    <item>
+      <title>Wikipedia - Coordonnée de réaction (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Coordonnée_de_réaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koordinat reaksi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Koordinat_reaksi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaction coordinate (en)</title>
+      <url>https://en.wikipedia.org/wiki/Reaction_coordinate</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaktiokoordinaatti (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Reaktiokoordinaatti</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reakčná koordináta (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Reakčná_koordináta</url>
+    </item>
+    <item>
+      <title>Wikipedia - 反応座標 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/反応座標</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05168/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05168/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05168/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05168/plain</plain>
+  </links>
+  <citation>Citation: 'reaction coordinate' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05168</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:47:10+00:00</accessed>
+</term>

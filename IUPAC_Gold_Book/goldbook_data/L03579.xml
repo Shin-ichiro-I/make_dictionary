@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03579</id>
+  <doi>10.1351/goldbook.L03579</doi>
+  <code>L03579</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - liquid-crystal transitions</longtitle>
+  <title>liquid-crystal transitions</title>
+  <contains>cholesteric phase, nematic phase</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A liquid crystal is a molecular crystal with properties that are both solid- and liquid-like. Liquid crystals are composed predominantly of rod-like or disc-like molecules, that can exhibit one or more different, ordered fluid phases as well as the isotropic fluid; the translational order is wholly or partially destroyed but a considerable degree of orientational order is retained on passing from the crystalline to the liquid phase in a mesomorphic transition.  Transition to a nematic phase.<br/> A mesomorphic transition that occurs when a molecular crystal is heated to form a nematic phase in which the mean direction of the molecules is parallel or antiparallel to an axis known as the director.  Transition to a cholesteric phase.<br/> A mesomorphic transition that occurs when a molecular crystal is heated to form a cholesteric phase in which there is simply a spiralling of the local orientational order perpendicular to the long axes of the molecules.  Transition to a smectic state.<br/> A mesomorphic transition that occurs when a molecular crystal is heated to yield a smectic state in which there is a one-dimensional density wave which produces very soft/disordered layers.  </text>
+      <links>
+        <item>
+          <title>liquid crystal</title>
+          <url>https://goldbook.iupac.org/terms/view/LT06856</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>mesomorphic transition</title>
+          <url>https://goldbook.iupac.org/terms/view/M03847</url>
+        </item>
+        <item>
+          <title>smectic state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05714</url>
+        </item>
+        <item>
+          <title>liquid crystal</title>
+          <url>https://goldbook.iupac.org/terms/view/LT06856</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>mesomorphic transition</title>
+          <url>https://goldbook.iupac.org/terms/view/M03847</url>
+        </item>
+        <item>
+          <title>smectic state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05714</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 584 (https://doi.org/10.1351/pac199466030577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03579/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03579/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03579/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03579/plain</plain>
+  </links>
+  <citation>Citation: 'liquid-crystal transitions' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03579</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:27:08+00:00</accessed>
+</term>

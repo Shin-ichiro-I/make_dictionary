@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05925</id>
+  <doi>10.1351/goldbook.S05925</doi>
+  <code>S05925</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - standard state</longtitle>
+  <title>standard state</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>State of a system chosen as standard for reference by convention. Three standard states are recognized: For a gas phase it is the (hypothetical) state of the pure substance in the gaseous phase at the standard pressurep = p°, assuming ideal behaviour. For a pure phase, or a mixture, or a solvent in the liquid or solid state it is the state of the pure substance in the liquid or solid phase at the standard pressurep = p°. For a solute in solution it is the (hypothetical) state of solute at the standard molality m°, standard pressurep° or standard concentrationc° and exhibiting infinitely dilute solution behaviour. For a pure substance the concept of standard state applies to the substance in a well defined state of aggregation at a well defined but arbitrarily chosen standard pressure.</text>
+      <links>
+        <item>
+          <title>standard pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/S05921</url>
+        </item>
+        <item>
+          <title>standard pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/S05921</url>
+        </item>
+        <item>
+          <title>standard concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/S05909</url>
+        </item>
+        <item>
+          <title>dilute solution</title>
+          <url>https://goldbook.iupac.org/terms/view/D01739</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>p = p°</alttext>
+          <latex>p=p^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>p = p°</alttext>
+          <latex>p=p^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>m°</alttext>
+          <latex>m^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>p°</alttext>
+          <latex>p^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>c°</alttext>
+          <latex>c^{\,\unicode{x26ac}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 53 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aktivität (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Aktivität_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condiciones normalizadas de presión y temperatura (es)</title>
+      <url>https://es.wikipedia.org/wiki/Condiciones_normalizadas_de_presión_y_temperatura</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condicions estàndard (química) (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Condicions_estàndard_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condizioni standard (it)</title>
+      <url>https://it.wikipedia.org/wiki/Condizioni_standard</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condições normais de temperatura e pressão (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Condições_normais_de_temperatura_e_pressão</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Massenwirkungsgesetz (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Massenwirkungsgesetz</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estado estándar (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Estado_estándar_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estado estándar (termodinámica) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Estado_estándar_(termodinámica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keadaan standar (id)</title>
+      <url>https://id.wikipedia.org/wiki/Keadaan_standar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Međunarodna unija za čistu i primenjenu hemiju (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Međunarodna_unija_za_čistu_i_primenjenu_hemiju</url>
+    </item>
+    <item>
+      <title>Wikipedia - Norma stato (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Norma_stato</url>
+    </item>
+    <item>
+      <title>Wikipedia - Potenziale chimico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Potenziale_chimico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Referenzzustand (de)</title>
+      <url>https://de.wikipedia.org/wiki/Referenzzustand</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stan standardowy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stan_standardowy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard conditions for temperature and pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_conditions_for_temperature_and_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard cubic feet per minute (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_cubic_feet_per_minute</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard state (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_state</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard temperature and pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_temperature_and_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardbedingungen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Standardbedingungen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardno stanje (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Standardno_stanje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardno stanje (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Standardno_stanje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stato standard (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_standard</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:一般条件 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/Talk:一般条件</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:标准状态 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/Talk:标准状态</url>
+    </item>
+    <item>
+      <title>Wikipedia - Template talk:Chembox (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/Template_talk:Chembox</url>
+    </item>
+    <item>
+      <title>Wikipedia - Међународна унија за чисту и примењену хемију (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Међународна_унија_за_чисту_и_примењену_хемију</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стандардни услови за температуру и притисак (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Стандардни_услови_за_температуру_и_притисак</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стандартний стан (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Стандартний_стан</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стандартно състояние (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Стандартно_състояние</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стандартные состояния (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Стандартные_состояния</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالة قياسية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حالة_قياسية</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالت استاندارد (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/حالت_استاندارد</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالت استاندارد ترمودینامیکی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/حالت_استاندارد_ترمودینامیکی</url>
+    </item>
+    <item>
+      <title>Wikipedia - شرایط استاندارد دما و فشار (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/شرایط_استاندارد_دما_و_فشار</url>
+    </item>
+    <item>
+      <title>Wikipedia - فاعلية (كيمياء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/فاعلية_(كيمياء)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 标准状态 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/标准状态</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05925/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05925/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05925/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05925/plain</plain>
+  </links>
+  <citation>Citation: 'standard state' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05925</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:22:10+00:00</accessed>
+</term>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04472</id>
+  <doi>10.1351/goldbook.P04472</doi>
+  <code>P04472</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pendant group (side group)</longtitle>
+  <title>pendant group</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An offshoot, neither oligomeric nor polymeric from a chain.</text>
+      <links>
+        <item>
+          <title>oligomeric</title>
+          <url>https://goldbook.iupac.org/terms/view/O04286</url>
+        </item>
+        <item>
+          <title>polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>chain (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00946</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2297 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Bočna grupa (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Bočna_grupa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grupo pendiente (es)</title>
+      <url>https://es.wikipedia.org/wiki/Grupo_pendiente</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pendant group (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pendant_group</url>
+    </item>
+    <item>
+      <title>Wikipedia - קבוצה צדדית (he)</title>
+      <url>https://he.wikipedia.org/wiki/קבוצה_צדדית</url>
+    </item>
+    <item>
+      <title>Wikipedia - مجموعة قلادة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مجموعة_قلادة</url>
+    </item>
+    <item>
+      <title>Wikipedia - 펜던트기 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/펜던트기</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04472/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04472/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04472/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04472/plain</plain>
+  </links>
+  <citation>Citation: 'pendant group' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04472</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:13:04+00:00</accessed>
+</term>

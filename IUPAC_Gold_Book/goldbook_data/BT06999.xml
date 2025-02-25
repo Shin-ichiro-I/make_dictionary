@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06999</id>
+  <doi>10.1351/goldbook.BT06999</doi>
+  <code>BT06999</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - basis set</longtitle>
+  <title>basis set</title>
+  <abbrevs>
+    <item>DZ</item>
+    <item>SCF</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A set of basis functions employed for the representation of molecular orbitals. One may distinguish the minimal basis set (includes one basis function for each SCF occupied atomic orbital with distinct principal and angular momentum quantum numbers); split valence basis set (includes two or more sizes of basis function for each valence orbital); double zeta (DZ) basis set (a split valence basis set that includes exactly twice as many functions as the minimal basis set); extended basis set (the set larger than the double zeta basis set); polarized basis set (incorporates basis functions of higher angular quantum number beyond what is required by the atom in its electronic ground state; allows orbitals to change not only a size, but also a shape); basis set with diffuse functions and others.</text>
+      <links>
+        <item>
+          <title>basis function</title>
+          <url>https://goldbook.iupac.org/terms/view/BT06998</url>
+        </item>
+        <item>
+          <title>angular momentum</title>
+          <url>https://goldbook.iupac.org/terms/view/A00353</url>
+        </item>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>zeta</title>
+          <url>https://goldbook.iupac.org/terms/view/Z06745</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1925 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/BT06999/html</html>
+    <json>https://goldbook.iupac.org/terms/view/BT06999/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/BT06999/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/BT06999/plain</plain>
+  </links>
+  <citation>Citation: 'basis set' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.BT06999</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:07:47+00:00</accessed>
+</term>

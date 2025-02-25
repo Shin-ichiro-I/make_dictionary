@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00532</id>
+  <doi>10.1351/goldbook.A00532</doi>
+  <code>A00532</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - autoprotolysis constant</longtitle>
+  <title>autoprotolysis constant</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The product of the activities (or, more approximately, concentrations) of the species produced as the result of autoprotolysis. For solvents in which no other ionization processes are significant the term is synonymous with 'ionic product'. The autoprotolysis constant for water, Kw, is equal to the product of activities: a(H3O+).a(OH-) = 1.0 x 10^-14.</text>
+      <links>
+        <item>
+          <title>autoprotolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/A00531</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Autoprotoylsis constant for water</meaning>
+          <type>constant</type>
+          <alttext>Kw</alttext>
+          <latex>K_{\text{w}}</latex>
+        </item>
+        <item>
+          <meaning>Autoprotolysis constant</meaning>
+          <type>constant</type>
+          <alttext>a(H3O+).a(OH-) = 1.0 x 10^-14</alttext>
+          <latex>a\left(\text{H}_{3}\text{O}^{\text{+}}\right)\ a\left(\text{OH}^{\text{-}}\right) = 1.0\times 10^{-14}</latex>
+        </item>
+        <item>
+          <type>unit</type>
+          <alttext>25°C</alttext>
+          <latex>25\ ^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1087 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Properties of water (en)</title>
+      <url>https://en.wikipedia.org/wiki/Properties_of_water</url>
+    </item>
+    <item>
+      <title>Wikipedia - Self-ionization of water (en)</title>
+      <url>https://en.wikipedia.org/wiki/Self-ionization_of_water</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sifat air (id)</title>
+      <url>https://id.wikipedia.org/wiki/Sifat_air</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tính chất của nước (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Tính_chất_của_nước</url>
+    </item>
+    <item>
+      <title>Wikipedia - Самодиссоциация (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Самодиссоциация</url>
+    </item>
+    <item>
+      <title>Wikipedia - জলের বৈশিষ্ট্য (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/জলের_বৈশিষ্ট্য</url>
+    </item>
+    <item>
+      <title>Wikipedia - 水的性質 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/水的性質</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00532/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00532/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00532/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00532/plain</plain>
+  </links>
+  <citation>Citation: 'autoprotolysis constant' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00532</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:03:33+00:00</accessed>
+</term>

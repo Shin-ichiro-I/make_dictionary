@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04375</id>
+  <doi>10.1351/goldbook.O04375</doi>
+  <code>O04375</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - oxocarbons</longtitle>
+  <title>oxocarbons</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds consisting wholly of carbon and oxygen, e.g. CO, O=C=O, O=C=C=C=O, [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/O04375.png</file>
+        </item>
+      </chemicals>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1355 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Kohlenstoffoxide (de)</title>
+      <url>https://de.wikipedia.org/wiki/Kohlenstoffoxide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koolstofoxide (stofgroep) (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Koolstofoxide_(stofgroep)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oksokarbon (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Oksokarbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxid de carbon (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Oxid_de_carbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxid de carbòni (oc)</title>
+      <url>https://oc.wikipedia.org/wiki/Oxid_de_carbòni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxidy uhlíku (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Oxidy_uhlíku</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxocarbon (en)</title>
+      <url>https://en.wikipedia.org/wiki/Oxocarbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxocarbono (es)</title>
+      <url>https://es.wikipedia.org/wiki/Oxocarbono</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxokohlenstoffe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Oxokohlenstoffe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxyde de carbone (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Oxyde_de_carbone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tlenki węgla (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Tlenki_węgla</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ugljenikov oksid (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Ugljenikov_oksid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Zandbak (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Wikipedia:Zandbak</url>
+    </item>
+    <item>
+      <title>Wikipedia - أكاسيد الكربون (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أكاسيد_الكربون</url>
+    </item>
+    <item>
+      <title>Wikipedia - اکسوکربن (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/اکسوکربن</url>
+    </item>
+    <item>
+      <title>Wikipedia - اکسید کربن (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/اکسید_کربن</url>
+    </item>
+    <item>
+      <title>Wikipedia - オキソカーボン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/オキソカーボン</url>
+    </item>
+    <item>
+      <title>Wikipedia - 碳氧化物 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/碳氧化物</url>
+    </item>
+    <item>
+      <title>Wikipedia - 산화 탄소 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/산화_탄소</url>
+    </item>
+    <item>
+      <title>Wikipedia - 탄소 산화물 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/탄소_산화물</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04375/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04375/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04375/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04375/plain</plain>
+  </links>
+  <citation>Citation: 'oxocarbons' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04375</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:08:51+00:00</accessed>
+</term>

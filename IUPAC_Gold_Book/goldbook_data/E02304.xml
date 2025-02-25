@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02304</id>
+  <doi>10.1351/goldbook.E02304</doi>
+  <code>E02304</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - extraction (equilibrium) constant</longtitle>
+  <title>extraction (equilibrium) constant</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The extraction constant at zero ionic strength, Kex0, is the equilibrium constant of the distribution reaction expressed in terms of the reacting species. Thus, for the gross reaction: Maq n+ + nHLorg ⇄ MLn,org + nHaq + in which the reagentHL initially dissolved in an organic phase reacts with a metal ion Mn in aqueous solution to form a product MLn which is more soluble in the organic phase than in water, Kex0 = aMLn,org.aH+,aq^n/(aMn+,aq.aHL,orgn)</text>
+      <notes>
+        <item>When concentrations are used instead of activities or mixed terms are employed as when H+ and/or Mn are measured with an electrode, the appropriate name is extraction constant, symbol Kex, accompanied by a careful definition. Kex0 may be termed the thermodynamic extraction constant.</item>
+        <item>The extraction constant is related to other terms relevant to such systems by: Kex = DMLn.βn.Kan/DHL^n where βn is the overall formation constant of MLn and Ka is the dissociation constant of HL. Where the reagent HL is more soluble in water than the other immiscible phase it may be more convenient to define a special equilibrium constant in terms of HL(aq): Kex0 = DMLn.βn.Kan</item>
+        <item>In distribution equilibria involving non-aqueous systems, e.g. liquid SO2, molten salts and metals, the mass action equilibrium constant for the relevant extraction process can be identified with Kex which should be explicitly defined in this context.</item>
+        <item>In actual practice, it may be necessary to include other terms to take into account other complexes formed by auxiliary reagents and the solvation and/or polymerization of the various species. In such cases, Kex must be defined with reference to the relevant explicit chemical equation. An example is complex formation between the metal ion and an uncharged crown ether or cryptand molecule followed by ion-pair extraction: M(aq)^n+ + L(org) + nA(aq)^- ⇄ (ML^n+.A(aq)^n-)org Kex = [MLn+Ann-]org/([Mn+]aq.[L]aq.[A-]aq^n)</item>
+        <item>Use of Ringbom's 'conditional extraction constant', Kexeff = aH+n^n.[MLn']org/([M']aq.[HL']org^n) in conjunction with alpha coefficients is useful.</item>
+        <item>The phases can also be specified by the formula of the solvent or by other symbols (preferably Roman numerals) or by overlining formulae referring to one phase, usually the less polar one. The subscript aq (or w) is often omitted; aq is preferable to w as the latter is appropriate only in English and German.</item>
+        <item>The qualification 'equilibrium' is often omitted.</item>
+        <item>The terms partition constant and distribution constant must not be used in this sense.</item>
+      </notes>
+      <links>
+        <item>
+          <title>extraction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02301</url>
+        </item>
+        <item>
+          <title>formation constant</title>
+          <url>https://goldbook.iupac.org/terms/view/F02485</url>
+        </item>
+        <item>
+          <title>dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01801</url>
+        </item>
+        <item>
+          <title>reagent</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>solvation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05747</url>
+        </item>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>crown</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>cryptand</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>partition constant</title>
+          <url>https://goldbook.iupac.org/terms/view/P04438</url>
+        </item>
+        <item>
+          <title>distribution constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01813</url>
+        </item>
+        <item>
+          <title>ionic strength</title>
+          <url>https://goldbook.iupac.org/terms/view/I03180</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>extraction equilibrium constant at zero ionic strength</meaning>
+          <type>quantity</type>
+          <alttext>Kex0</alttext>
+          <latex>K_{\text{ex}}^{\text{0}}</latex>
+        </item>
+        <item>
+          <meaning>extraction equilibrium for metal plus organic ligand</meaning>
+          <type>reaction</type>
+          <alttext>Maq n+ + nHLorg ⇄ MLn,org + nHaq +</alttext>
+          <latex>\text{M}_{\text{aq}}^{n+} + n\text{HL}_{\text{org}} \rightleftharpoons  \text{ML}_{n,\text{org}} + n\text{H}_{\text{aq}}^{+}</latex>
+        </item>
+        <item>
+          <meaning>extraction equilibrium constant at zero ionic strength equation</meaning>
+          <type>equation</type>
+          <alttext>Kex0 = aMLn,org.aH+,aq^n/(aMn+,aq.aHL,orgn)</alttext>
+          <latex>K_{\text{ex}}^{\text{0}} = \frac{a_{\text{ML } n,\text{org}}\hspace{2pt}a_{\text{H}^{+},\text{aq}}^{n}}{a_{\text{M}^{n+},\text{aq}}\hspace{2pt}a_{\text{HL},\text{org}}^{n}}</latex>
+        </item>
+        <item>
+          <meaning>extraction equilibrium constant</meaning>
+          <type>quantity</type>
+          <alttext>Kex</alttext>
+          <latex>K_{\text{ex}}</latex>
+        </item>
+        <item>
+          <meaning>extraction equilibrium constant equation</meaning>
+          <type>equation</type>
+          <alttext>Kex = DMLn.βn.Kan/DHL^n</alttext>
+          <latex>K_{\text{ex}} = \frac{D_{\text{ML},n}\,\beta_{n}\,K_{a}^{n}}{D_{\text{HL}}}</latex>
+        </item>
+        <item>
+          <meaning>formation constant for MLn</meaning>
+          <type>quantity</type>
+          <alttext>βn</alttext>
+          <latex>\beta_{n}</latex>
+        </item>
+        <item>
+          <meaning>acid dissociation constant</meaning>
+          <type>quantity</type>
+          <alttext>Ka</alttext>
+          <latex>K_{a}</latex>
+        </item>
+        <item>
+          <meaning>extraction equilibrium constant at zero ionic strength equation</meaning>
+          <type>equation</type>
+          <alttext>Kex0 = DMLn.βn.Kan</alttext>
+          <latex>K_{\text{ex}}^{0} = D_{\text{ML},n}\,\beta_{n}\,K_{a}^{n}</latex>
+        </item>
+        <item>
+          <meaning>ion-pair extraction equilbrium</meaning>
+          <type>reaction</type>
+          <alttext>M(aq)^n+ + L(org) + nA(aq)^- ⇄ (ML^n+.A(aq)^n-)org</alttext>
+          <latex>\text{M}_{\text{aq}}^{n+} + \text{L}_{\text{org}} + n\text{A}_{\text{aq}}^{-} \rightleftharpoons  \left ( \text{ML}^{n+}.\text{A}_{n}^{n-} \right )_{\text{org}}</latex>
+        </item>
+        <item>
+          <meaning>extraction equilibrium constant equation</meaning>
+          <type>equation</type>
+          <alttext>Kex = [MLn+Ann-]org/([Mn+]aq.[L]aq.[A-]aq^n)</alttext>
+          <latex>K_{ex} = \frac{[ \text{ML}^{n+}.\text{A}_{n}^{n-} ]_{\text{org}}}{[ \text{M}^{n+} ]_{\text{aq}} [ L  ]_{\text{org}} [ A^{-} ]_{\text{aq}}}^{n}
+</latex>
+        </item>
+        <item>
+          <meaning>Ringbom's conditional extraction equilibrium constant equation</meaning>
+          <type>equation</type>
+          <alttext>Kexeff = aH+n^n.[MLn']org/([M']aq.[HL']org^n)</alttext>
+          <latex>K_{\text{ex}}^{\text{eff}} = \frac{{a_{\text{H}^{+}}^{n}}^{n} [ \text{ML}_{n}' ]_{\text{org}}}{ [ \text{M}' ]_{\text{aq}} [ {\text{HL}'  ]_{\text{org}}}^{n}}</latex>
+        </item>
+        <item>
+          <meaning>aqueous HL</meaning>
+          <type>substance</type>
+          <alttext>HL(aq)</alttext>
+          <latex>\text{HL}_{\text{aq}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 89 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2383 (https://doi.org/10.1351/pac199365112373)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02304/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02304/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02304/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02304/plain</plain>
+  </links>
+  <citation>Citation: 'extraction (equilibrium) constant' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02304</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:27:27+00:00</accessed>
+</term>

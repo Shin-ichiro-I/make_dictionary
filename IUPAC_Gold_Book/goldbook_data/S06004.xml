@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06004</id>
+  <doi>10.1351/goldbook.S06004</doi>
+  <code>S06004</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Stern–Volmer kinetic relationships</longtitle>
+  <title>Stern–Volmer kinetic relationships</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This term applies broadly to variations of quantum yields of photophysicalprocesses (e.g. fluorescence or phosphorescence ) or photochemical reactions (usually reaction quantum yield) with the concentration of a given reagent which may be a substrate or a quencher. In the simplest case, a plot of Φ 0 Φ (or M 0 M for emission) vs. concentration of quencher, [Q], is linear obeying the equation: Φ 0 Φ or M 0 M = 1 + K sv Q is referred to as the Stern–Volmer constant. Equation (1) applies when a quencher inhibits either a photochemical reaction or a photophysical process by a single reaction. Φ 0 and M 0 are the quantum yield and emission intensity radiant exitance, respectively, in the absence of the quencher Q, while Φ and M are the same quantities in the presence of the different concentrations of Q. In the case of dynamic quenching the constant Ksv is the product of the true quenching constantkq and the excited statelifetime, τ 0, in the absence of quencher. kq is the bimolecular reaction rate constant for the elementary reaction of the excited state with the particular quencher Q. Equation (1) can therefore be replaced by the expression (2): Φ 0 Φ or M 0 M = 1 + k q τ 0 Q to form a product, a double-reciprocal relationship is observed according to the equation: 1/Φp = (1 + (1/kr.τ0.[S])).(1/A.B) is the quantum efficiency of product formation, A the efficiency of forming the reactive excited state, B the fraction of reactions of the excited state with substrate S which leads to product, and [S] is the concentration of reactive ground-state substrate. The intercept/slope ratio gives kr.τ0. If [S] = [Q], and if a photophysical process is monitored, plots of equations (2) and (3) should provide independent determinations of the product-forming rate constantkr. When the lifetime of an excited state is observed as a function of the concentration of S or Q, a linear relationship should be observed according to the equation: τ 0 τ = 1 + k q τ 0 [Q] is the lifetime of the excited state in the absence of the quencher Q.</text>
+      <links>
+        <item>
+          <title>self-quenching</title>
+          <url>https://goldbook.iupac.org/terms/view/S05585</url>
+        </item>
+        <item>
+          <title>self-quenching</title>
+          <url>https://goldbook.iupac.org/terms/view/S05585</url>
+        </item>
+        <item>
+          <title>quantum yields</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04991</url>
+        </item>
+        <item>
+          <title>photophysical processes</title>
+          <url>https://goldbook.iupac.org/terms/view/P04647</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>phosphorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/P04569</url>
+        </item>
+        <item>
+          <title>photochemical reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04585</url>
+        </item>
+        <item>
+          <title>quencher</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05006</url>
+        </item>
+        <item>
+          <title>radiant exitance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05041</url>
+        </item>
+        <item>
+          <title>quenching constant (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05008</url>
+        </item>
+        <item>
+          <title>excited state (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>lifetime (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03515</url>
+        </item>
+        <item>
+          <title>self-quenching</title>
+          <url>https://goldbook.iupac.org/terms/view/S05585</url>
+        </item>
+        <item>
+          <title>quantum yield</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04991</url>
+        </item>
+        <item>
+          <title>photophysical processes</title>
+          <url>https://goldbook.iupac.org/terms/view/P04647</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>phosphorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/P04569</url>
+        </item>
+        <item>
+          <title>photochemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/P04585</url>
+        </item>
+        <item>
+          <title>quencher</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05006</url>
+        </item>
+        <item>
+          <title>radiant exitance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05041</url>
+        </item>
+        <item>
+          <title>quenching constant (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05008</url>
+        </item>
+        <item>
+          <title>excited state (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>lifetime (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03515</url>
+        </item>
+        <item>
+          <title>reagent</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+        <item>
+          <title>dynamic quenching</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05007</url>
+        </item>
+        <item>
+          <title>bimolecular (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>rate constant (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>elementary reaction (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>quantum efficiency (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04988</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Φ 0 Φ</alttext>
+          <latex>\frac{\mathit{\Phi }^{0}}{\mathit{\Phi }}</latex>
+        </item>
+        <item>
+          <alttext>M 0 M</alttext>
+          <latex>\frac{M^{0}}{M}</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[Q]</alttext>
+          <latex>\text{[Q]}</latex>
+        </item>
+        <item>
+          <alttext>Φ 0 Φ or M 0 M = 1 + K sv Q</alttext>
+          <latex>\frac{\mathit{\Phi }^{0}}{\mathit{\Phi }}\quad \text{or}\quad \frac{M^{0}}{M}=1+K_{\text{sv}}\ [\text{Q}]</latex>
+        </item>
+        <item>
+          <meaning>Stern-Volmer constant</meaning>
+          <type>quantity</type>
+          <alttext>Ksv</alttext>
+          <latex>K_{\text{sv}}</latex>
+        </item>
+        <item>
+          <alttext>Φ 0</alttext>
+          <latex>\mathit{\Phi} ^{0}</latex>
+        </item>
+        <item>
+          <alttext>M 0</alttext>
+          <latex>M^{0}</latex>
+        </item>
+        <item>
+          <alttext>Φ</alttext>
+          <latex>\mathit{\Phi}</latex>
+        </item>
+        <item>
+          <alttext>M</alttext>
+          <latex>M</latex>
+        </item>
+        <item>
+          <meaning>Stern-Volmer constant</meaning>
+          <type>quantity</type>
+          <alttext>Ksv</alttext>
+          <latex>K_{\text{sv}}</latex>
+        </item>
+        <item>
+          <meaning>Bimolecular reaction rate constant</meaning>
+          <type>quantity</type>
+          <alttext>kq</alttext>
+          <latex>k_{\text{q}}</latex>
+        </item>
+        <item>
+          <alttext>τ 0</alttext>
+          <latex>\tau ^{0}</latex>
+        </item>
+        <item>
+          <meaning>Bimolecular reaction rate constant</meaning>
+          <type>quantity</type>
+          <alttext>kq</alttext>
+          <latex>k_{\text{q}}</latex>
+        </item>
+        <item>
+          <alttext>Φ 0 Φ or M 0 M = 1 + k q τ 0 Q</alttext>
+          <latex>\frac{\mathit{\Phi }^{0}}{\mathit{\Phi }}\quad \text{or}\quad \frac{M^{0}}{M}=1+k_{\text{q}}\ \tau ^{0}\ \left[\text{Q}\right]</latex>
+        </item>
+        <item>
+          <meaning>Product-forming rate constant</meaning>
+          <type>quantity</type>
+          <alttext>kr</alttext>
+          <latex>k_{\text{r}}</latex>
+        </item>
+        <item>
+          <alttext>1/Φp = (1 + (1/kr.τ0.[S])).(1/A.B)</alttext>
+          <latex>\frac{1}{\mathit{\Phi }_{\text{p}}} = (1+\frac{1}{k_{\text{r}}\ \tau ^{0}\ \text{[S]}})\ \frac{1}{A\cdot B}</latex>
+        </item>
+        <item>
+          <alttext>Φ p</alttext>
+          <latex>\mathit{\Phi} _{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>B</alttext>
+          <latex>B</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>[S]</alttext>
+          <latex>\text{[S]}</latex>
+        </item>
+        <item>
+          <meaning>Product-forming rate constant times excited state lifetime</meaning>
+          <type>math</type>
+          <alttext>kr.τ0</alttext>
+          <latex>k_{\text{r}}\ \tau ^{0}</latex>
+        </item>
+        <item>
+          <type>equation</type>
+          <alttext>[S] = [Q]</alttext>
+          <latex>\text{[S]}=\text{[Q]}</latex>
+        </item>
+        <item>
+          <meaning>Product-forming rate constant</meaning>
+          <type>quantity</type>
+          <alttext>kr</alttext>
+          <latex>k_{\text{r}}</latex>
+        </item>
+        <item>
+          <alttext>τ 0 τ = 1 + k q τ 0 [Q]</alttext>
+          <latex>\frac{\tau ^{0}}{\tau} = 1+k_{\text{q}}\ \tau ^{0}\ [\text{Q}]</latex>
+        </item>
+        <item>
+          <alttext>τ 0</alttext>
+          <latex>\tau ^{0}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2277 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06004/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06004/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06004/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06004/plain</plain>
+  </links>
+  <citation>Citation: 'Stern–Volmer kinetic relationships' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06004</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:25:43+00:00</accessed>
+</term>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07347</id>
+  <doi>10.1351/goldbook.CT07347</doi>
+  <code>CT07347</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - conical intersection</longtitle>
+  <title>conical intersection</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Point of crossing between two electronic states of the same spin multiplicity (most commonly singlets or triplets).</text>
+      <notes>
+        <item>In a polyatomic molecule two potential energy surfaces are allowed to cross along a (3N − 8)-dimensional subspace of the (3N − 6)-dimensional nuclear coordinate space (the intersection space) even if they have the same spatial/spin symmetry (N is the number of nuclei). Each point of the intersection space corresponds to a conical intersection. If the energy is plotted against two special internal geometrical coordinates, x1 and x2, which define the so-called branching plane, the potential energy surface would have the form of a double cone in the region surrounding the degeneracy. In the remaining (3N − 8) directions, the energies of the ground and excited state remain degenerate; movement in the branching plane lifts the degeneracy.</item>
+        <item>From a mechanistic point of view, conical intersections often provide the channel mediating radiationless deactivation and photochemical reaction. CT07347.png</item>
+      </notes>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Diagram</title>
+          <file>https://goldbook.iupac.org/img/inline/CT07347.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>potential energy surfaces</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>intersection space</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07400</url>
+        </item>
+        <item>
+          <title>branching plane</title>
+          <url>https://goldbook.iupac.org/terms/view/BT07335</url>
+        </item>
+        <item>
+          <title>ground</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>radiationless deactivation</title>
+          <url>https://goldbook.iupac.org/terms/view/R05056</url>
+        </item>
+        <item>
+          <title>photochemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/P04585</url>
+        </item>
+        <item>
+          <title>multiplicity</title>
+          <url>https://goldbook.iupac.org/terms/view/M04062</url>
+        </item>
+        <item>
+          <title>singlets</title>
+          <url>https://goldbook.iupac.org/terms/view/S05699</url>
+        </item>
+        <item>
+          <title>triplets</title>
+          <url>https://goldbook.iupac.org/terms/view/T06503</url>
+        </item>
+        <item>
+          <title>potential energy surfaces</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>intersection space</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07400</url>
+        </item>
+        <item>
+          <title>branching plane</title>
+          <url>https://goldbook.iupac.org/terms/view/BT07335</url>
+        </item>
+        <item>
+          <title>ground</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>radiationless deactivation</title>
+          <url>https://goldbook.iupac.org/terms/view/R05056</url>
+        </item>
+        <item>
+          <title>photochemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/P04585</url>
+        </item>
+        <item>
+          <title>multiplicity</title>
+          <url>https://goldbook.iupac.org/terms/view/M04062</url>
+        </item>
+        <item>
+          <title>singlets</title>
+          <url>https://goldbook.iupac.org/terms/view/S05699</url>
+        </item>
+        <item>
+          <title>triplets</title>
+          <url>https://goldbook.iupac.org/terms/view/T06503</url>
+        </item>
+        <item>
+          <title>degeneracy</title>
+          <url>https://goldbook.iupac.org/terms/view/D01556</url>
+        </item>
+        <item>
+          <title>channel</title>
+          <url>https://goldbook.iupac.org/terms/view/C00970</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 317 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT07347/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT07347/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT07347/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT07347/plain</plain>
+  </links>
+  <citation>Citation: 'conical intersection' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT07347</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:42:29+00:00</accessed>
+</term>

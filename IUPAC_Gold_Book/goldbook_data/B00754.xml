@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00754</id>
+  <doi>10.1351/goldbook.B00754</doi>
+  <code>B00754</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - bulk mesophase</longtitle>
+  <title>bulk mesophase</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A continuous anisotropic phase formed by coalescence of mesophase spheres. Bulk mesophase retains fluidity and is deformable in the temperature range up to about 770 K, and transforms into green coke by further loss of hydrogen or low-molecular-weight species. This bulk mesophase can sometimes be formed directly from the isotropicpitch without observation of intermediate spheres.</text>
+      <links>
+        <item>
+          <title>mesophase</title>
+          <url>https://goldbook.iupac.org/terms/view/M03849</url>
+        </item>
+        <item>
+          <title>fluidity</title>
+          <url>https://goldbook.iupac.org/terms/view/F02450</url>
+        </item>
+        <item>
+          <title>weight</title>
+          <url>https://goldbook.iupac.org/terms/view/W06668</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>mesophase</title>
+          <url>https://goldbook.iupac.org/terms/view/M03849</url>
+        </item>
+        <item>
+          <title>fluidity</title>
+          <url>https://goldbook.iupac.org/terms/view/F02450</url>
+        </item>
+        <item>
+          <title>weight</title>
+          <url>https://goldbook.iupac.org/terms/view/W06668</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>green coke</title>
+          <url>https://goldbook.iupac.org/terms/view/G02697</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>770 K</alttext>
+          <latex>770\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 478 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00754/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00754/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00754/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00754/plain</plain>
+  </links>
+  <citation>Citation: 'bulk mesophase' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00754</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:16:55+00:00</accessed>
+</term>

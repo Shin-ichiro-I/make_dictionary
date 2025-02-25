@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01023</id>
+  <doi>10.1351/goldbook.C01023</doi>
+  <code>C01023</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical equilibrium</longtitle>
+  <title>chemical equilibrium</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Reversible processes [processes which may be made to proceed in the forward or reverse direction by the (infinitesimal) change of one variable], ultimately reach a point where the rates in both directions are identical, so that the system gives the appearance of having a static composition at which the Gibbs energy, G, is a minimum. At equilibrium the sum of the chemical potentials of the reactants equals that of the products, so that: ΔGr = ΔGro + R.T.lnK = 0, is given by the mass-law effect.</text>
+      <links>
+        <item>
+          <title>variable</title>
+          <url>https://goldbook.iupac.org/terms/view/V06600</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>variable</title>
+          <url>https://goldbook.iupac.org/terms/view/V06600</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>mass-law effect</title>
+          <url>https://goldbook.iupac.org/terms/view/M03725</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>G</alttext>
+          <latex>G</latex>
+        </item>
+        <item>
+          <alttext>ΔGr = ΔGro + R.T.lnK = 0</alttext>
+          <latex>\Delta G_{\text{r}} = \Delta G_{\text{r}}^{o}+R\ T\ \ln K=0</latex>
+        </item>
+        <item>
+          <alttext>ΔGro = -R.T.lnK</alttext>
+          <latex>\Delta G_{\text{r}}^{\,\unicode{x26ac}} = -R\ T\ \ln K</latex>
+        </item>
+        <item>
+          <alttext>K</alttext>
+          <latex>K</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1114 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chemical equilibrium (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_equilibrium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemiese ewewig (af)</title>
+      <url>https://af.wikipedia.org/wiki/Chemiese_ewewig</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemisches Gleichgewicht (de)</title>
+      <url>https://de.wikipedia.org/wiki/Chemisches_Gleichgewicht</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cân bằng hóa học (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Cân_bằng_hóa_học</url>
+    </item>
+    <item>
+      <title>Wikipedia - Equilibri químic (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Equilibri_químic</url>
+    </item>
+    <item>
+      <title>Wikipedia - Equilibrio chimico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Equilibrio_chimico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Equilibrio químico (es)</title>
+      <url>https://es.wikipedia.org/wiki/Equilibrio_químico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Equilibriu químicu (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Equilibriu_químicu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Equilibrium constant (en)</title>
+      <url>https://en.wikipedia.org/wiki/Equilibrium_constant</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: A–L (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_A–L</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemijska ravnoteža (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Hemijska_ravnoteža</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemia ekvilibro (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Kemia_ekvilibro</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemiallinen tasapaino (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Kemiallinen_tasapaino</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemijska ravnoteža (hr)</title>
+      <url>https://hr.wikipedia.org/wiki/Kemijska_ravnoteža</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemijsko ravnotežje (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemijsko_ravnotežje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemično ravnovesje (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemično_ravnovesje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kesetimbangan kimia (id)</title>
+      <url>https://id.wikipedia.org/wiki/Kesetimbangan_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Llei d'acció de masses (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Llei_d'acció_de_masses</url>
+    </item>
+    <item>
+      <title>Wikipedia - Química (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Chemical equilibrium (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Chemical_equilibrium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Termodinamičko stanje (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Termodinamičko_stanje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zakon o očuvanju kemijske ravnoteže (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Zakon_o_očuvanju_kemijske_ravnoteže</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хемијска равнотежа (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Хемијска_равнотежа</url>
+    </item>
+    <item>
+      <title>Wikipedia - توازن كيميائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/توازن_كيميائي</url>
+    </item>
+    <item>
+      <title>Wikipedia - রাসায়নিক সাম্যাবস্থা (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/রাসায়নিক_সাম্যাবস্থা</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01023/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01023/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01023/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01023/plain</plain>
+  </links>
+  <citation>Citation: 'chemical equilibrium' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01023</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:29:50+00:00</accessed>
+</term>

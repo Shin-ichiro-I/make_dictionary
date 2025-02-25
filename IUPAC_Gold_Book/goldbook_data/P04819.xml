@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04819</id>
+  <doi>10.1351/goldbook.P04819</doi>
+  <code>P04819</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pressure, p</longtitle>
+  <title>pressure</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Normal force acting on a surface divided by the area of that surface. For a mixture of gases the contribution by each constituent is called the partial pressurep i = x i p, where x i is the amount fraction of the ith constituent and p is the total pressure.</text>
+      <links>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>partial pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04420</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>partial pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04420</url>
+        </item>
+        <item>
+          <title>amount fraction x (y for gaseous mixtures)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00296</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>p i = x i p</alttext>
+          <latex>p_{i}=x_{i}\ p</latex>
+        </item>
+        <item>
+          <alttext>x i</alttext>
+          <latex>x_{i}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 12 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 987 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atmosfera (jedinica) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Atmosfera_(jedinica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atmósfera (unidad) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Atmósfera_(unidad)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keskustelu:Ideaalikaasu (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Keskustelu:Ideaalikaasu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legge delle pressioni parziali (it)</title>
+      <url>https://it.wikipedia.org/wiki/Legge_delle_pressioni_parziali</url>
+    </item>
+    <item>
+      <title>Wikipedia - Parciális nyomás (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Parciális_nyomás</url>
+    </item>
+    <item>
+      <title>Wikipedia - Partial pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Partial_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Presión parcial (es)</title>
+      <url>https://es.wikipedia.org/wiki/Presión_parcial</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pressione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Pressione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Shinikizo (sw)</title>
+      <url>https://sw.wikipedia.org/wiki/Shinikizo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Hagen–Poiseuille equation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Hagen–Poiseuille_equation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Osmotic pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Osmotic_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tlak (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Tlak</url>
+    </item>
+    <item>
+      <title>Wikipedia - Áp suất riêng phần (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Áp_suất_riêng_phần</url>
+    </item>
+    <item>
+      <title>Wikipedia - Архимедов закон (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Архимедов_закон</url>
+    </item>
+    <item>
+      <title>Wikipedia - ضغط (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ضغط</url>
+    </item>
+    <item>
+      <title>Wikipedia - فشار در سیالات (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/فشار_در_سیالات</url>
+    </item>
+    <item>
+      <title>Wikipedia - আংশিক চাপ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/আংশিক_চাপ</url>
+    </item>
+    <item>
+      <title>Wikipedia - চাপ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/চাপ</url>
+    </item>
+    <item>
+      <title>Wikipedia - పీడనం (te)</title>
+      <url>https://te.wikipedia.org/wiki/పీడనం</url>
+    </item>
+    <item>
+      <title>Wikipedia - တိက်ꩻနျꩻအာႏ (blk)</title>
+      <url>https://blk.wikipedia.org/wiki/တိက်ꩻနျꩻအာႏ</url>
+    </item>
+    <item>
+      <title>Wikipedia - ဖိအား (my)</title>
+      <url>https://my.wikipedia.org/wiki/ဖိအား</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分圧 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/分圧</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04819/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04819/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04819/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04819/plain</plain>
+  </links>
+  <citation>Citation: 'pressure' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04819</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:32:11+00:00</accessed>
+</term>

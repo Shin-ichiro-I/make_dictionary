@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02949</id>
+  <doi>10.1351/goldbook.I02949</doi>
+  <code>I02949</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - imidic acids</longtitle>
+  <title>imidic acids</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds derived from oxoacidsRkE(=O)l(OH)m (l ≠ 0) by replacing =O by =NR; thus tautomers of amides. In organic chemistry an unspecified imidic acid is generally a carboximidic acid, RC(=NR)(OH). E.g. RS(=NH)2(OH) a sulfonodiimidic acid.</text>
+      <links>
+        <item>
+          <title>oxoacids</title>
+          <url>https://goldbook.iupac.org/terms/view/O04374</url>
+        </item>
+        <item>
+          <title>amides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00266</url>
+        </item>
+        <item>
+          <title>oxoacids</title>
+          <url>https://goldbook.iupac.org/terms/view/O04374</url>
+        </item>
+        <item>
+          <title>amides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00266</url>
+        </item>
+        <item>
+          <title>imino acids</title>
+          <url>https://goldbook.iupac.org/terms/view/I02959</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1342 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acid oxo (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Acid_oxo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Axit oxo (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Axit_oxo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imidic acid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Imidic_acid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxoacid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Oxoacid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxyacid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Oxyacid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Імідокислоти (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Імідокислоти</url>
+    </item>
+    <item>
+      <title>Wikipedia - ایمیدیک اسید (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ایمیدیک_اسید</url>
+    </item>
+    <item>
+      <title>Wikipedia - 산소산 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/산소산</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02949/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02949/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02949/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02949/plain</plain>
+  </links>
+  <citation>Citation: 'imidic acids' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02949</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:58:57+00:00</accessed>
+</term>

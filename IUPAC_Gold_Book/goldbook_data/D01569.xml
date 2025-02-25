@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01569</id>
+  <doi>10.1351/goldbook.D01569</doi>
+  <code>D01569</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - degree of polymerization</longtitle>
+  <title>degree of polymerization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The number of monomeric units in a macromolecule or oligomer molecule, a block or a chain.</text>
+      <links>
+        <item>
+          <title>monomeric units</title>
+          <url>https://goldbook.iupac.org/terms/view/M04018</url>
+        </item>
+        <item>
+          <title>macromolecule</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>oligomer molecule</title>
+          <url>https://goldbook.iupac.org/terms/view/O04286</url>
+        </item>
+        <item>
+          <title>block</title>
+          <url>https://goldbook.iupac.org/terms/view/B00682</url>
+        </item>
+        <item>
+          <title>chain (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00946</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2291 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Degree of polymerization (en)</title>
+      <url>https://en.wikipedia.org/wiki/Degree_of_polymerization</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grado di polimerizzazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Grado_di_polimerizzazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymerační stupeň (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Polymerační_stupeň</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymère (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Polymère</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stupeň polymerizácie (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Stupeň_polymerizácie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Степень полимеризации (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Степень_полимеризации</url>
+    </item>
+    <item>
+      <title>Wikipedia - درجة البلمرة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/درجة_البلمرة</url>
+    </item>
+    <item>
+      <title>Wikipedia - درجه پلیمریزاسیون (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/درجه_پلیمریزاسیون</url>
+    </item>
+    <item>
+      <title>Wikipedia - 重合度 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/重合度</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01569/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01569/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01569/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01569/plain</plain>
+  </links>
+  <citation>Citation: 'degree of polymerization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01569</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:54:51+00:00</accessed>
+</term>

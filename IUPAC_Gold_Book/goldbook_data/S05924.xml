@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05924</id>
+  <doi>10.1351/goldbook.S05924</doi>
+  <code>S05924</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - standard solution</longtitle>
+  <title>standard solution</title>
+  <contains>primary standard, secondary standard</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A solution of accurately known concentration, prepared using standard substances in one of several ways. A primary standard is a substance of known high purity which may be dissolved in a known volume of solvent to give a primary standard solution. If stoichiometry is used to establish the strength of a titrant, it is called a secondary standard solution. The term secondary standard can also be applied to a substance whose active agent contents have been found by comparison against a primary standard. Concentrations of standard solutions may be expressed in kmol m-3, mol dm-3, or in terms more closely related to those used in specific titrations (as titres).</text>
+      <links>
+        <item>
+          <title>stoichiometry</title>
+          <url>https://goldbook.iupac.org/terms/view/S06026</url>
+        </item>
+        <item>
+          <title>titrant</title>
+          <url>https://goldbook.iupac.org/terms/view/T06386</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Kilomole per cubic meter</meaning>
+          <type>unit</type>
+          <alttext>kmol m-3</alttext>
+          <latex>\pu{kmol m-3}</latex>
+        </item>
+        <item>
+          <alttext>mol dm-3</alttext>
+          <latex>\pu{mol dm-3}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 48 (https://media.iupac.org/publications/analytical_compendium/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Condicions estàndard (química) (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Condicions_estàndard_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keadaan standar (id)</title>
+      <url>https://id.wikipedia.org/wiki/Keadaan_standar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard state (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_state</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardlösung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Standardlösung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardno stanje (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Standardno_stanje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardno stanje (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Standardno_stanje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stato standard (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_standard</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالة قياسية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حالة_قياسية</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالت استاندارد (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/حالت_استاندارد</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالت استاندارد ترمودینامیکی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/حالت_استاندارد_ترمودینامیکی</url>
+    </item>
+    <item>
+      <title>Wikipedia - محلول قياسي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/محلول_قياسي</url>
+    </item>
+    <item>
+      <title>Wikipedia - 标准状态 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/标准状态</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05924/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05924/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05924/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05924/plain</plain>
+  </links>
+  <citation>Citation: 'standard solution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05924</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:22:03+00:00</accessed>
+</term>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05287</id>
+  <doi>10.1351/goldbook.R05287</doi>
+  <code>R05287</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - relaxation time</longtitle>
+  <title>relaxation time</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In magnetic resonance spectroscopy the longitudinal relaxation time, T 1, is associated with spin-lattice relaxation, and the transverse relaxation time, T 2, with spin-spin relaxation. The definitions are: dMz/dt = (-Mz - Mz,e)/T1 and dMx/dt = -Mx/T2, where M z and M x are the components of magnetization parallel and perpendicular to the static field B and the subscript e denotes the equilibrium value.</text>
+      <links>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+        <item>
+          <title>spectroscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/S05848</url>
+        </item>
+        <item>
+          <title>relaxation</title>
+          <url>https://goldbook.iupac.org/terms/view/R05285</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>T 1</alttext>
+          <latex>T_{1}</latex>
+        </item>
+        <item>
+          <alttext>T 2</alttext>
+          <latex>T_{2}</latex>
+        </item>
+        <item>
+          <alttext>dMz/dt = (-Mz - Mz,e)/T1</alttext>
+          <latex>\frac{\text{d}M_{z}}{\text{d}t} = -\frac{M_{z} - M_{z,\text{e}}}{T_{1}}</latex>
+        </item>
+        <item>
+          <alttext>dMx/dt = -Mx/T2</alttext>
+          <latex>\frac{\text{d}M_{x}}{\text{d}t} = -\frac{M_{x}}{T_{2}}</latex>
+        </item>
+        <item>
+          <alttext>M z</alttext>
+          <latex>M_{z}</latex>
+        </item>
+        <item>
+          <alttext>M x</alttext>
+          <latex>M_{x}</latex>
+        </item>
+        <item>
+          <alttext>B</alttext>
+          <latex>B</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 25 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+    <item>
+      <id>2</id>
+      <text>In a chemical reaction, the time, τ, in which a concentration perturbation falls to 1/e of its initial value.</text>
+      <math>
+        <item>
+          <alttext>τ</alttext>
+          <latex>\tau </latex>
+        </item>
+        <item>
+          <alttext>1/e</alttext>
+          <latex>\frac{1}{\text{e}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 55 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <seealso>'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' Laidler, K.J.; Pure and Applied Chemistry 1996 68(1) 149</seealso>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05287/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05287/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05287/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05287/plain</plain>
+  </links>
+  <citation>Citation: 'relaxation time' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05287</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:52:40+00:00</accessed>
+</term>

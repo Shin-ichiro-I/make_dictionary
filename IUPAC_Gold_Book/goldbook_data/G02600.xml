@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02600</id>
+  <doi>10.1351/goldbook.G02600</doi>
+  <code>G02600</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - gel</longtitle>
+  <title>gel</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-fluid colloidal network or polymer network that is expanded throughout its whole volume by a fluid.</text>
+      <notes>
+        <item>A gel has a finite, usually rather small, yield stress.</item>
+        <item>A gel can contain: a covalent polymer network, e.g., a network formed by crosslinking polymer chains or by non-linear polymerization;a polymer network formed through the physical aggregation of polymer chains, caused by hydrogen bonds, crystallization, helix formation, complexation, etc, that results in regions of local order acting as the network junction points. The resulting swollen network may be termed a thermoreversible gel if the regions of local order are thermally reversible;a polymer network formed through glassy junction points, e.g., one based on block copolymers. If the junction points are thermally reversible glassy domains, the resulting swollen network may also be termed a thermoreversible gel;lamellar structures including mesophases, e.g., soap gels, phospholipids and clays;particulate disordered structures, e.g., a flocculent precipitate usually consisting of particles with large geometrical anisotropy, such as in V2O5 gels and globular or fibrillar protein gels.</item>
+        <item>Corrected from previous definition where the definition is via the property identified in Note 1 (above) rather than of the structural characteristics that describe a gel.</item>
+      </notes>
+      <links>
+        <item>
+          <title>yield stress</title>
+          <url>https://goldbook.iupac.org/terms/view/Y06727</url>
+        </item>
+        <item>
+          <title>polymer network</title>
+          <url>https://goldbook.iupac.org/terms/view/P04742</url>
+        </item>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+        <item>
+          <title>crosslinking</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07136</url>
+        </item>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>crystallization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01434</url>
+        </item>
+        <item>
+          <title>helix</title>
+          <url>https://goldbook.iupac.org/terms/view/H02769</url>
+        </item>
+        <item>
+          <title>thermoreversible gel</title>
+          <url>https://goldbook.iupac.org/terms/view/TT07531</url>
+        </item>
+        <item>
+          <title>block</title>
+          <url>https://goldbook.iupac.org/terms/view/B00682</url>
+        </item>
+        <item>
+          <title>soap</title>
+          <url>https://goldbook.iupac.org/terms/view/S05721</url>
+        </item>
+        <item>
+          <title>phospholipids</title>
+          <url>https://goldbook.iupac.org/terms/view/P04559</url>
+        </item>
+        <item>
+          <title>anisotropy</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06776</url>
+        </item>
+        <item>
+          <title>colloidal network</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07563</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1806 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aerogel (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aerogel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Gel (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Gel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dyel (tl)</title>
+      <url>https://tl.wikipedia.org/wiki/Dyel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gel (de)</title>
+      <url>https://de.wikipedia.org/wiki/Gel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gel (en)</title>
+      <url>https://en.wikipedia.org/wiki/Gel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gel (it)</title>
+      <url>https://it.wikipedia.org/wiki/Gel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gel (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Gel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Գել (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Գել</url>
+    </item>
+    <item>
+      <title>Wikipedia - هلام (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/هلام</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02600/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02600/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02600/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02600/plain</plain>
+  </links>
+  <citation>Citation: 'gel' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02600</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:40:27+00:00</accessed>
+</term>

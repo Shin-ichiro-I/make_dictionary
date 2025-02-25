@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02845</id>
+  <doi>10.1351/goldbook.H02845</doi>
+  <code>H02845</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - homogeneity in analytical chemistry</longtitle>
+  <title>homogeneity</title>
+  <contains>heterogeneity <span class="in">in analytical chemistry</span></contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The degree to which a property or a constituent is uniformly distributed throughout a quantity of material. A material may be homogeneous with respect to one analyte or property but heterogeneous with respect to another. The degree of heterogeneity (the opposite of homogeneity) is the determining factor of sampling error.</text>
+      <contexts>
+        <in>
+          <item>analytical chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>sampling error</title>
+          <url>https://goldbook.iupac.org/terms/view/S05463</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 1193. 'Nomenclature for sampling in analytical chemistry (Recommendations 1990)' on page 1201 (https://doi.org/10.1351/pac199062061193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - عدم تجانس (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/عدم_تجانس</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02845/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02845/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02845/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02845/plain</plain>
+  </links>
+  <citation>Citation: 'homogeneity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02845</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:53:10+00:00</accessed>
+</term>

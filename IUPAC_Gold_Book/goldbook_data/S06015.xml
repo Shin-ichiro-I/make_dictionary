@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06015</id>
+  <doi>10.1351/goldbook.S06015</doi>
+  <code>S06015</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stimulated emission</longtitle>
+  <title>stimulated emission</title>
+  <abbrevs>
+    <item>CIDNP</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>That part of the emission which is induced by a resonant perturbing electromagnetic field. The transition between states, n and m, is governed by the Einsteincoefficient of stimulated emission, Bnm. CIDNP emission and lasing action are examples of processes which require stimulated emission.</text>
+      <links>
+        <item>
+          <title>spontaneous emission</title>
+          <url>https://goldbook.iupac.org/terms/view/S05886</url>
+        </item>
+        <item>
+          <title>spontaneous emission</title>
+          <url>https://goldbook.iupac.org/terms/view/S05886</url>
+        </item>
+        <item>
+          <title>einstein</title>
+          <url>https://goldbook.iupac.org/terms/view/E01914</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>lasing</title>
+          <url>https://goldbook.iupac.org/terms/view/L03479</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Bnm</alttext>
+          <latex>B_{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2279 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Emissione stimolata (it)</title>
+      <url>https://it.wikipedia.org/wiki/Emissione_stimolata</url>
+    </item>
+    <item>
+      <title>Wikipedia - إصدار محثوث (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إصدار_محثوث</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06015/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06015/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06015/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06015/plain</plain>
+  </links>
+  <citation>Citation: 'stimulated emission' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06015</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:26:17+00:00</accessed>
+</term>

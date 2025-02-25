@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>08016</id>
+  <doi>10.1351/goldbook.08016</doi>
+  <code>08016</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - conventional quantity value</longtitle>
+  <title>conventional quantity value</title>
+  <synonyms>
+    <item>conventional value</item>
+    <item>conventional value of a quantity</item>
+  </synonyms>
+  <termversion>5.0.0</termversion>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Quantity value attributed by agreement to a quantity for a given purpose.</text>
+      <notes>
+        <item>Sometimes a conventional quantity value is an estimate of a true quantity value.</item>
+        <item>A conventional quantity value is generally accepted as being associated with a suitably small measurement uncertainty, which might be zero.</item>
+        <item>In quality assurance and quality control in chemistry, a conventional quantity value, which may be a consensus property value, is often termed "assigned value".</item>
+      </notes>
+      <examples>
+        <item>Conventional quantity value of a given mass standard, _009521_.</item>
+        <item>Relative atomic mass for carbon as listed in the IUPAC Green Book.</item>
+        <item>Consensus property value of the measured values of an interlaboratory comparison.</item>
+      </examples>
+      <links>
+        <item>
+          <title>Consensus property value</title>
+          <url>https://goldbook.iupac.org/terms/view/08015</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2021, 93, 997. 'Metrological and quality concepts in analytical chemistry (IUPAC Recommendations 2021)' on page 1004 (https://doi.org/10.1515/pac-2019-0819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/08016/html</html>
+    <json>https://goldbook.iupac.org/terms/view/08016/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/08016/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/08016/plain</plain>
+  </links>
+  <citation>Citation: 'conventional quantity value' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.08016</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:44:50+00:00</accessed>
+</term>

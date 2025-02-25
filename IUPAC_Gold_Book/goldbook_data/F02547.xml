@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02547</id>
+  <doi>10.1351/goldbook.F02547</doi>
+  <code>F02547</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fullerenes</longtitle>
+  <title>fullerenes</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds composed solely of an even number of carbon atoms, which form a cage-like fused-ring polycyclic system with twelve five-membered rings and the rest six-membered rings. The archetypal example isfullerene, where the atoms and bonds delineate a truncated icosahedron. The term has been broadened to include any closed cage structure consisting entirely of three-coordinate carbon atoms.</text>
+      <links>
+        <item>
+          <title>cage</title>
+          <url>https://goldbook.iupac.org/terms/view/C00769</url>
+        </item>
+        <item>
+          <title>polycyclic system</title>
+          <url>https://goldbook.iupac.org/terms/view/P04724</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1336 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussione:Fullereni (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Fullereni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fullerene C-20 (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fullerene_C-20</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fullereni (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fullereni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Обговорення Вікіпедії:Проєкт:Хімія (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Обговорення_Вікіпедії:Проєкт:Хімія</url>
+    </item>
+    <item>
+      <title>Wikipedia - فوليرين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/فوليرين</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02547/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02547/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02547/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02547/plain</plain>
+  </links>
+  <citation>Citation: 'fullerenes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02547</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:38:08+00:00</accessed>
+</term>

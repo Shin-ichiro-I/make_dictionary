@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06287</id>
+  <doi>10.1351/goldbook.T06287</doi>
+  <code>T06287</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - tetracyclines</longtitle>
+  <title>tetracyclines</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A subclass of polyketides having an octahydrotetracene-2-carboxamide skeleton, substituted with many hydroxy and other groups, e.g. chlortetracycline: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/T06287.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>polyketides</title>
+          <url>https://goldbook.iupac.org/terms/view/P04734</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1371 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Antibiotik golongan tetrasiklin (id)</title>
+      <url>https://id.wikipedia.org/wiki/Antibiotik_golongan_tetrasiklin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Antibiotik golongan tetrasiklina (id)</title>
+      <url>https://id.wikipedia.org/wiki/Antibiotik_golongan_tetrasiklina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tetraciclinas (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Tetraciclinas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tetracicline (it)</title>
+      <url>https://it.wikipedia.org/wiki/Tetracicline</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tetraciclină (clasă) (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Tetraciclină_(clasă)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tetraciklinski antibiotici (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Tetraciklinski_antibiotici</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tetraciklinski antibiotici (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Tetraciklinski_antibiotici</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tetraciklinski antibiotik (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Tetraciklinski_antibiotik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tetracycline antibiotics (en)</title>
+      <url>https://en.wikipedia.org/wiki/Tetracycline_antibiotics</url>
+    </item>
+    <item>
+      <title>Wikipedia - Thuốc kháng sinh tetracycline (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Thuốc_kháng_sinh_tetracycline</url>
+    </item>
+    <item>
+      <title>Wikipedia - تتراسيكلينات (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تتراسيكلينات</url>
+    </item>
+    <item>
+      <title>Wikipedia - تيتراسايكلن (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تيتراسايكلن</url>
+    </item>
+    <item>
+      <title>Wikipedia - 테트라사이클린계 항생제 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/테트라사이클린계_항생제</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06287/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06287/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06287/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06287/plain</plain>
+  </links>
+  <citation>Citation: 'tetracyclines' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06287</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:39:32+00:00</accessed>
+</term>

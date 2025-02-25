@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04632</id>
+  <doi>10.1351/goldbook.P04632</doi>
+  <code>P04632</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - photon exposure</longtitle>
+  <title>photon exposure</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Photon irradiance, Ep, integrated over the time of irradiation for a beam incident from all upward directions. SI unit is m-2.</text>
+      <notes>
+        <item>Mathematical definition: Hp = ∫(t) Ep.⁢dt. If the photon irradiance is constant over the time interval, Hp = Ep.t.</item>
+        <item>This term refers to a beam not scattered or reflected by the target or its surroundings. For a beam incident from all directions photon fluence (Hp,o, Fp,o) is an equivalent term.</item>
+        <item>This quantity can be used on a chemical amount basis by dividing Hp by the Avogadro constant, the symbol then being Hn,p, the name 'photon exposure, amount basis', SI unit is mol m-2; common unit is einstein m-2.</item>
+      </notes>
+      <links>
+        <item>
+          <title>chemical amount</title>
+          <url>https://goldbook.iupac.org/terms/view/C01019</url>
+        </item>
+        <item>
+          <title>Avogadro constant</title>
+          <url>https://goldbook.iupac.org/terms/view/A00543</url>
+        </item>
+        <item>
+          <title>Photon irradiance</title>
+          <url>https://goldbook.iupac.org/terms/view/P04637</url>
+        </item>
+        <item>
+          <title>irradiation</title>
+          <url>https://goldbook.iupac.org/terms/view/I03255</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Ep</alttext>
+          <latex>E_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>m-2</alttext>
+          <latex>\text{m}^{-2}</latex>
+        </item>
+        <item>
+          <alttext>Hp = ∫(t) Ep.⁢dt</alttext>
+          <latex>H_{\text{p}} = \int_{t}E_{\text{p}}\text{d}t</latex>
+        </item>
+        <item>
+          <alttext>Hp = Ep.t</alttext>
+          <latex>H_{\text{p}} = E_{\text{p}}t</latex>
+        </item>
+        <item>
+          <alttext>Hp,o</alttext>
+          <latex>H_{\text{p,o}}</latex>
+        </item>
+        <item>
+          <alttext>Fp,o</alttext>
+          <latex>F_{\text{p,o}}</latex>
+        </item>
+        <item>
+          <alttext>Hp</alttext>
+          <latex>H_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>Hn,p</alttext>
+          <latex>H_{n\text{,p}}</latex>
+        </item>
+        <item>
+          <alttext>mol m-2</alttext>
+          <latex>\pu{mol m-2}</latex>
+        </item>
+        <item>
+          <alttext>einstein m-2</alttext>
+          <latex>\text{einstein m}^{-2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 394 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04632/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04632/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04632/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04632/plain</plain>
+  </links>
+  <citation>Citation: 'photon exposure' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04632</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:21:54+00:00</accessed>
+</term>

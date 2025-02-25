@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04004</id>
+  <doi>10.1351/goldbook.M04004</doi>
+  <code>M04004</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molozonides</longtitle>
+  <title>molozonides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>1,2,3-Trioxolanes, the primary products of the reaction of ozone at a carbon–carbon double bond. [image: Not defined] </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/M04004.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>ozonides</title>
+          <url>https://goldbook.iupac.org/terms/view/O04384</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1349 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Molozonide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molozonide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molozonure (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Molozonure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Мольозоніди (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Мольозоніди</url>
+    </item>
+    <item>
+      <title>Wikipedia - மோலோசோனைடு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மோலோசோனைடு</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子臭氧化物 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/分子臭氧化物</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M04004/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M04004/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M04004/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M04004/plain</plain>
+  </links>
+  <citation>Citation: 'molozonides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M04004</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:47:47+00:00</accessed>
+</term>

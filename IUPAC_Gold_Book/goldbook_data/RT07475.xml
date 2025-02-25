@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07475</id>
+  <doi>10.1351/goldbook.RT07475</doi>
+  <code>RT07475</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - rotational relaxation time</longtitle>
+  <title>rotational relaxation time</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Parameter describing the time-dependence of the tumbling of a molecular entity in a medium of viscosityη as originally defined by Debye, and used by Perrin in the original development of the theories of rotational motion of fluorophores.</text>
+      <notes>
+        <item>Related to the rotational correlation time, τc, by ρ = 3τc. Thus, in the case of a spherically emitting species reorienting itself in a homogeneous fluid, ρ = 1/6Dr, with Dr the rotational diffusion coefficient.</item>
+      </notes>
+      <links>
+        <item>
+          <title>rotational diffusion coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/R05411</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>Debye</title>
+          <url>https://goldbook.iupac.org/terms/view/D01533</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>η</alttext>
+          <latex>\eta</latex>
+        </item>
+        <item>
+          <alttext>τc</alttext>
+          <latex>\tau_{c}</latex>
+        </item>
+        <item>
+          <alttext>ρ = 3τc</alttext>
+          <latex>\rho = 3\tau_{c}</latex>
+        </item>
+        <item>
+          <alttext>ρ = 1/6Dr</alttext>
+          <latex>\rho = 1/(6\, D_{r})</latex>
+        </item>
+        <item>
+          <alttext>Dr</alttext>
+          <latex>D_{r}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 416 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/RT07475/html</html>
+    <json>https://goldbook.iupac.org/terms/view/RT07475/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/RT07475/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/RT07475/plain</plain>
+  </links>
+  <citation>Citation: 'rotational relaxation time' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.RT07475</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:58:37+00:00</accessed>
+</term>

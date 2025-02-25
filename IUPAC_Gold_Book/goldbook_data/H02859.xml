@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02859</id>
+  <doi>10.1351/goldbook.H02859</doi>
+  <code>H02859</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - host</longtitle>
+  <title>host</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A molecular entity that forms complexes with organic or inorganic guests, or a chemical species that can accommodate guests within cavities of its crystal structure. Examples include cryptands and crowns (where there are ion-dipole attractions between heteroatoms and positive ions), hydrogen-bonded molecules that form 'clathrates' (e.g. hydroquinone and water), and host molecules of inclusion compounds (e.g. urea or thiourea). van der Waals forces and hydrophobic interactions bind the guest to the host molecule in clathrates and inclusion compounds.</text>
+      <links>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>complexes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>cryptands</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>crowns</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>hydrogen-bonded</title>
+          <url>https://goldbook.iupac.org/terms/view/H02899</url>
+        </item>
+        <item>
+          <title>inclusion compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/I02998</url>
+        </item>
+        <item>
+          <title>van der Waals forces</title>
+          <url>https://goldbook.iupac.org/terms/view/V06597</url>
+        </item>
+        <item>
+          <title>hydrophobic interactions</title>
+          <url>https://goldbook.iupac.org/terms/view/H02907</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>complexes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>cryptands</title>
+          <url>https://goldbook.iupac.org/terms/view/C01426</url>
+        </item>
+        <item>
+          <title>crowns</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>hydrogen-bonded</title>
+          <url>https://goldbook.iupac.org/terms/view/H02899</url>
+        </item>
+        <item>
+          <title>inclusion compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/I02998</url>
+        </item>
+        <item>
+          <title>van der Waals forces</title>
+          <url>https://goldbook.iupac.org/terms/view/V06597</url>
+        </item>
+        <item>
+          <title>hydrophobic interactions</title>
+          <url>https://goldbook.iupac.org/terms/view/H02907</url>
+        </item>
+        <item>
+          <title>clathrates</title>
+          <url>https://goldbook.iupac.org/terms/view/C01097</url>
+        </item>
+        <item>
+          <title>guest</title>
+          <url>https://goldbook.iupac.org/terms/view/G02711</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1122 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+    <item>
+      <id>2</id>
+      <text>A cell whose metabolism is used for growth and reproduction of a virus, plasmid or other form of foreign DNA.</text>
+      <contexts>
+        <in>
+          <item>biotechnology</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>metabolism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03858</url>
+        </item>
+        <item>
+          <title>metabolism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03858</url>
+        </item>
+        <item>
+          <title>plasmid</title>
+          <url>https://goldbook.iupac.org/terms/view/P04689</url>
+        </item>
+        <item>
+          <title>DNA</title>
+          <url>https://goldbook.iupac.org/terms/view/D01597</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 156 (https://doi.org/10.1351/pac199264010143)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hoste (química) (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Hoste_(química)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02859/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02859/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02859/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02859/plain</plain>
+  </links>
+  <citation>Citation: 'host' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02859</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:53:55+00:00</accessed>
+</term>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00975</id>
+  <doi>10.1351/goldbook.C00975</doi>
+  <code>C00975</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - characteristic in analytical chemistry</longtitle>
+  <title>characteristic</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A property or attribute of a material that is measured, compared or noted. Attributes are ordinarily qualitative characteristics, but quantitative characteristics (variables) may be converted into attributes by assigning items to certain categories on the basis of the measured values. The value of the characteristic determined as a result of an observation or test is the observed value; when determined by a specified test method, it is called the test result. The concentration or quantity of an analyte as estimated by use of a sample is usually the characteristic of interest in analytical chemistry.</text>
+      <contexts>
+        <in>
+          <item>analytical chemistry</item>
+        </in>
+      </contexts>
+      <sources>
+        <item>PAC, 1990, 62, 1193. 'Nomenclature for sampling in analytical chemistry (Recommendations 1990)' on page 1201 (https://doi.org/10.1351/pac199062061193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00975/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00975/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00975/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00975/plain</plain>
+  </links>
+  <citation>Citation: 'characteristic' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00975</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:27:22+00:00</accessed>
+</term>

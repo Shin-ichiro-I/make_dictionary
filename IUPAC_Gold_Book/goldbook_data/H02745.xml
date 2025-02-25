@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02745</id>
+  <doi>10.1351/goldbook.H02745</doi>
+  <code>H02745</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - harmonic mean</longtitle>
+  <title>harmonic mean</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The number of observations, divided by the sum of reciprocals of the observations. Symbol: x ̄ h. It can be calculated with the formula: </text>
+      <notes>
+        <item>As in the case of the geometric mean, this quantity is sometimes directly (but inappropriately) calculated, for example, when evaluating kinetic analytical results where the reaction time is inversely proportional to concentration.</item>
+      </notes>
+      <links>
+        <item>
+          <title>reaction time</title>
+          <url>https://goldbook.iupac.org/terms/view/R05179</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>x ̄ h</alttext>
+          <latex>\bar{x}_{\text{h}}</latex>
+        </item>
+        <item>
+          <alttext>x ̄ h = n ∑ x j-1</alttext>
+          <latex>\bar{x}_{\text{h}} = \frac{n}{\sum x_{j}^{-1}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 595. 'Nomenclature for the presentation of results of chemical analysis (IUPAC Recommendations 1994)' on page 602 (https://doi.org/10.1351/pac199466030595)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Media (statistica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Media_(statistica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Media armonica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Media_armonica</url>
+    </item>
+    <item>
+      <title>Wikipedia - متوسط توافقي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/متوسط_توافقي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02745/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02745/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02745/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02745/plain</plain>
+  </links>
+  <citation>Citation: 'harmonic mean' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02745</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:48:03+00:00</accessed>
+</term>

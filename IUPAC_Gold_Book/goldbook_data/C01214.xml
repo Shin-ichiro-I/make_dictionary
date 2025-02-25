@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01214</id>
+  <doi>10.1351/goldbook.C01214</doi>
+  <code>C01214</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - composition of pure air in atmospheric chemistry</longtitle>
+  <title>composition of pure air</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The composition of air is variable with respect to several of its components (e.g. CH4, CO2, H2O) so 'pure' air has no precise meaning; it is commonly considered to be air which is free of dust, aerosols and reactive gaseous contaminants of anthropogenic origin. The composition of the major components in dry air is relatively constant (percent by volume given): nitrogen, 78.084; oxygen, 20.946; argon, 0.934; carbon dioxide, 0.033; neon, 0.0018; helium, 0.000524; methane, 0.00016; krypton, 0.000114; hydrogen 0.00005; nitrous oxide, 0.00003; xenon, 0.0000087. The concentrations of carbon dioxide, methane, nitrous oxide, the chlorofluorocarbons and some other species of anthropogenic origin are increasing measurably with time. Relative clean air which is free of most reactive anthropogenic pollution (NO, NO2, SO2, non-methane hydrocarbons, etc.), often used as a reference sample in the calibration and operation of instruments, is purchased under the designation of zero air.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>variable</title>
+          <url>https://goldbook.iupac.org/terms/view/V06600</url>
+        </item>
+        <item>
+          <title>percent</title>
+          <url>https://goldbook.iupac.org/terms/view/P04483</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2172 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atmosfera terrestre (it)</title>
+      <url>https://it.wikipedia.org/wiki/Atmosfera_terrestre</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atmosfera terrèstra (lmo)</title>
+      <url>https://lmo.wikipedia.org/wiki/Atmosfera_terrèstra</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konsentrasjon (kjemi) (no)</title>
+      <url>https://no.wikipedia.org/wiki/Konsentrasjon_(kjemi)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Troposfera (lmo)</title>
+      <url>https://lmo.wikipedia.org/wiki/Troposfera</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01214/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01214/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01214/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01214/plain</plain>
+  </links>
+  <citation>Citation: 'composition of pure air' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01214</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:39:29+00:00</accessed>
+</term>

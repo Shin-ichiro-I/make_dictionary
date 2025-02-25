@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03966</id>
+  <doi>10.1351/goldbook.M03966</doi>
+  <code>M03966</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - modulus of elasticity, E</longtitle>
+  <title>modulus of elasticity</title>
+  <synonyms>
+    <item>Young's modulus</item>
+  </synonyms>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The normal stress divided by linear strain.</text>
+      <links>
+        <item>
+          <title>normal stress</title>
+          <url>https://goldbook.iupac.org/terms/view/N04216</url>
+        </item>
+        <item>
+          <title>strain</title>
+          <url>https://goldbook.iupac.org/terms/view/S06037</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 12 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Durotaxis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Durotaxis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Modulo de Young (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Modulo_de_Young</url>
+    </item>
+    <item>
+      <title>Wikipedia - Modulo di elasticità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Modulo_di_elasticità</url>
+    </item>
+    <item>
+      <title>Wikipedia - Modulus Young (id)</title>
+      <url>https://id.wikipedia.org/wiki/Modulus_Young</url>
+    </item>
+    <item>
+      <title>Wikipedia - Modulus Young (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Modulus_Young</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mòdul d'elasticitat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Mòdul_d'elasticitat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimero (it)</title>
+      <url>https://it.wikipedia.org/wiki/Polimero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Young's modulus (en)</title>
+      <url>https://en.wikipedia.org/wiki/Young's_modulus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Јунгов модул (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Јунгов_модул</url>
+    </item>
+    <item>
+      <title>Wikipedia - معامل يونغ (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/معامل_يونغ</url>
+    </item>
+    <item>
+      <title>Wikipedia - யங்கின் மட்டு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/யங்கின்_மட்டு</url>
+    </item>
+    <item>
+      <title>Wikipedia - യംഗ് മാപനാങ്കം (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/യംഗ്_മാപനാങ്കം</url>
+    </item>
+    <item>
+      <title>Wikipedia - യംഗ്സ് മാപനാങ്കം (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/യംഗ്സ്_മാപനാങ്കം</url>
+    </item>
+    <item>
+      <title>Wikipedia - ម៉ូឌុល​យ៉ាំង (km)</title>
+      <url>https://km.wikipedia.org/wiki/ម៉ូឌុល​យ៉ាំង</url>
+    </item>
+    <item>
+      <title>Wikipedia - 영률 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/영률</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03966/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03966/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03966/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03966/plain</plain>
+  </links>
+  <citation>Citation: 'modulus of elasticity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03966</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:44:48+00:00</accessed>
+</term>

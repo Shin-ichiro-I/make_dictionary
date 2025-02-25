@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04859</id>
+  <doi>10.1351/goldbook.P04859</doi>
+  <code>P04859</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - prochirality</longtitle>
+  <title>prochirality</title>
+  <contains>proprochirality</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <intro>This term is used in different, sometimes contradictory ways; four are listed below. </intro>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The geometric property of an achiral object (or spatial arrangement of points or atoms) which is capable of becoming chiral in a single desymmetrization step. An achiral molecular entity, or a part of it considered on its own, is thus called prochiral if it can be made chiral by the replacement of an existing atom (or achiral group) by a different one. An achiral object which is capable of becoming chiral in two desymmetrization steps is sometimes described as proprochiral. For example the proprochiral CH3CO2H becomes prochiral as CH2DCO2H and chiral as CHDTCO2H</text>
+      <links>
+        <item>
+          <title>achiral</title>
+          <url>https://goldbook.iupac.org/terms/view/A00069</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>desymmetrization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01623</url>
+        </item>
+        <item>
+          <title>achiral</title>
+          <url>https://goldbook.iupac.org/terms/view/A00069</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>desymmetrization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01623</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>The term prochirality also applies to an achiral molecule or entity which contains a trigonal system and which can be made chiral by the addition to the trigonal system of a new atom or achiral group. For example addition of hydrogen to one of the enantiotopic faces of the prochiral ketone CH3CH2COCH3 gives one of the enantiomers of the chiral alcohol CH3CH2CHOHCH3; the addition of CN− to one of the diastereotopic faces of the chiral aldehyde shown below converts it into one of the diastereoisomers of the cyanohydrin. The two faces of the trigonal system may be described as Re and Si. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/P04859.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>achiral</title>
+          <url>https://goldbook.iupac.org/terms/view/A00069</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>enantiotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/E02083</url>
+        </item>
+        <item>
+          <title>diastereoisomers</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>achiral</title>
+          <url>https://goldbook.iupac.org/terms/view/A00069</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>enantiotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/E02083</url>
+        </item>
+        <item>
+          <title>diastereoisomers</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>diastereotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/D01685</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>The term prochiral also applies to a tetrahedral atom of an achiral or chiral molecule which is bonded to two stereoheterotopic groups. For example, the prochiral molecule CH3CH2OH can be converted into the chiral molecule CH3CHDOH by the isotopic replacement of one of the two enantiotopic hydrogen atoms of the methylene group. The carbon atom of the methylene group is called prochiral. The prochiral molecule HO2CCH2CHOHCH2CO2H can be converted into a chiral product by esterification of one of the two enantiotopic–CH2CO2H groups. The carbon atom of the CHOH group is called prochiral. The chiral molecule CH3CHOHCH2CH3 can be converted into one of the diastereoisomers of CH3CHOHCHDCH3 by the isotopic replacement of one of the two diastereotopic hydrogen atoms of the methylene group. The carbon atom of the methylene group is called prochiral. The stereoheterotopic groups in these cases may be described as pro-R or pro-S. Reference to the two stereoheterotopic groups themselves as prochiral, although common, is strongly discouraged.See: chirality centre</text>
+      <links>
+        <item>
+          <title>achiral</title>
+          <url>https://goldbook.iupac.org/terms/view/A00069</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>enantiotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/E02083</url>
+        </item>
+        <item>
+          <title>methylene</title>
+          <url>https://goldbook.iupac.org/terms/view/M03881</url>
+        </item>
+        <item>
+          <title>diastereoisomers</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>stereoheterotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/S05981</url>
+        </item>
+        <item>
+          <title>achiral</title>
+          <url>https://goldbook.iupac.org/terms/view/A00069</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>enantiotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/E02083</url>
+        </item>
+        <item>
+          <title>methylene</title>
+          <url>https://goldbook.iupac.org/terms/view/M03881</url>
+        </item>
+        <item>
+          <title>diastereoisomers</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>stereoheterotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/S05981</url>
+        </item>
+        <item>
+          <title>diastereotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/D01685</url>
+        </item>
+        <item>
+          <title>achiral</title>
+          <url>https://goldbook.iupac.org/terms/view/A00069</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>enantiotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/E02083</url>
+        </item>
+        <item>
+          <title>methylene</title>
+          <url>https://goldbook.iupac.org/terms/view/M03881</url>
+        </item>
+        <item>
+          <title>diastereoisomers</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>stereoheterotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/S05981</url>
+        </item>
+        <item>
+          <title>diastereotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/D01685</url>
+        </item>
+        <item>
+          <title>chirality centre</title>
+          <url>https://goldbook.iupac.org/terms/view/C01060</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>4</id>
+      <text>The term prochirality is also applied to the enantiotopic faces of a trigonal system.</text>
+      <links>
+        <item>
+          <title>enantiotopic</title>
+          <url>https://goldbook.iupac.org/terms/view/E02083</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' Moss, G.P.; Pure and Applied Chemistry 1996 68(12) 2193</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Prochiralita (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Prochiralita</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prochirality (en)</title>
+      <url>https://en.wikipedia.org/wiki/Prochirality</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prochiralità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Prochiralità</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prochiralität (de)</title>
+      <url>https://de.wikipedia.org/wiki/Prochiralität</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prochiralité (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Prochiralité</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prokiraalisuus (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Prokiraalisuus</url>
+    </item>
+    <item>
+      <title>Wikipedia - پیش‌دست‌سانی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/پیش‌دست‌سانی</url>
+    </item>
+    <item>
+      <title>Wikipedia - 前手性 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/前手性</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04859/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04859/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04859/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04859/plain</plain>
+  </links>
+  <citation>Citation: 'prochirality' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04859</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:33:38+00:00</accessed>
+</term>

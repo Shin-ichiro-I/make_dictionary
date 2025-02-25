@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05019</id>
+  <doi>10.1351/goldbook.V05019</doi>
+  <code>V05019</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ρ-value (rho-value)</longtitle>
+  <title><i>ρ</i>-value</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A measure of the susceptibility to the influence of substituent groups on the rate constant or equilibrium constant of a particular organic reaction involving a family of related substrates. Defined by Hammett for the effect of ring substituents in meta- and para-positions of aromatic side-chain reactions by the empirical 'ρσ-equation' of the general form: log10(kX/kH)=ρ.σX is a constant characteristic of the substituent X and of its position in the reactant molecule. More generally (and not only for aromatic series), ρ-values (modified with appropriate subscripts and superscripts) are used to designate the susceptibility of reaction series for families of various organic compounds to any substituent effects, as given by the modified set of σ-constants in an empirical ρσ-correlation. Reactions with a positive ρ-value are accelerated (or the equilibrium constants of analogous equilibria are increased) by substituents with positive σ-constants. Since the sign of σ was defined so that substituents with a positive σ increase the acidity of benzoic acid, such substituents are generally described as attracting electrons away from the aromatic ring. It follows that reactions with a positive ρ-value are considered to involve a transition state (or reaction product) so that the difference in energy between this state and the reactants is decreased by a reduction in electron density at the reactive site of the substrate.</text>
+      <links>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>σ-constant</title>
+          <url>https://goldbook.iupac.org/terms/view/C05438</url>
+        </item>
+        <item>
+          <title>Taft equation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06247</url>
+        </item>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>σ-constant</title>
+          <url>https://goldbook.iupac.org/terms/view/C05438</url>
+        </item>
+        <item>
+          <title>Taft equation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06247</url>
+        </item>
+        <item>
+          <title>substituent</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+        <item>
+          <title>substrates</title>
+          <url>https://goldbook.iupac.org/terms/view/S06082</url>
+        </item>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>σ-constant</title>
+          <url>https://goldbook.iupac.org/terms/view/C05438</url>
+        </item>
+        <item>
+          <title>Taft equation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06247</url>
+        </item>
+        <item>
+          <title>substituent</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+        <item>
+          <title>substrates</title>
+          <url>https://goldbook.iupac.org/terms/view/S06082</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>acidity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00079</url>
+        </item>
+        <item>
+          <title>transition state (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>electron density (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/E01986</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ρσ</alttext>
+          <latex>\rho \sigma </latex>
+        </item>
+        <item>
+          <alttext>log10(kX/kH)=ρ.σX</alttext>
+          <latex>\log _{10}(\frac{k_{\text{X}}}{k_{\text{H}}}) = \rho \ \sigma _{\text{X}}</latex>
+        </item>
+        <item>
+          <alttext>σX</alttext>
+          <latex>\sigma _{\text{X}}</latex>
+        </item>
+        <item>
+          <alttext>ρ</alttext>
+          <latex>\rho </latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+        <item>
+          <alttext>ρσ</alttext>
+          <latex>\rho \sigma </latex>
+        </item>
+        <item>
+          <alttext>ρ</alttext>
+          <latex>\rho </latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+        <item>
+          <alttext>ρ</alttext>
+          <latex>\rho </latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1161 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/V05019/html</html>
+    <json>https://goldbook.iupac.org/terms/view/V05019/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/V05019/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/V05019/plain</plain>
+  </links>
+  <citation>Citation: '<i>ρ</i>-value' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.V05019</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:56:14+00:00</accessed>
+</term>

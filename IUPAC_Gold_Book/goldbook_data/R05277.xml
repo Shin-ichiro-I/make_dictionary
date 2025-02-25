@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05277</id>
+  <doi>10.1351/goldbook.R05277</doi>
+  <code>R05277</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - relative retention, r, in column chromatography</longtitle>
+  <title>relative retention</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The ratio of the adjusted or net retention volume (time) or retention factor of a component relative to that of a standard, obtained under identical conditions: r = V R i ' V R st ' = V N i V N may be smaller, larger or identical to unity.</text>
+      <contexts>
+        <in>
+          <item>column chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>chromatogram</title>
+          <url>https://goldbook.iupac.org/terms/view/C01071</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>r = V R i ' V R st ' = V N i V N</alttext>
+          <latex>r=\frac{V_{\text{R}i}^{'}}{V_{\text{R}\left(\text{st}\right)}^{'}}=\frac{V_{\text{N}i}}{V_{\text{N}\left(\text{st}\right)}}=\frac{t_{\text{R}i}^{'}}{t_{\text{R}\left(\text{st}\right)}^{'}}=\frac{k_{i}}{k_{\text{st}}}</latex>
+        </item>
+        <item>
+          <alttext>r</alttext>
+          <latex>r</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 105 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 843 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05277/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05277/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05277/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05277/plain</plain>
+  </links>
+  <citation>Citation: 'relative retention' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05277</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:52:13+00:00</accessed>
+</term>

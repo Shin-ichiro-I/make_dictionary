@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06024</id>
+  <doi>10.1351/goldbook.S06024</doi>
+  <code>S06024</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stoichiometric mean molal (practical activity coefficient), in electrochemistry</longtitle>
+  <title>stoichiometric mean molal</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The practical activity coefficient of electrolyte B is given by γ ± = a ± ν + ν + ν- ν- m B m  is the mean activity of B in solution, m B is the molality of B, m + = 1 mol kg-1, ν + is the number of cations and ν- the number of anions in the chosen group B which is taken as the electrolyte. </text>
+      <contexts>
+        <in>
+          <item>electrochemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>molality</title>
+          <url>https://goldbook.iupac.org/terms/view/M03970</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>γ ± = a ± ν + ν + ν- ν- m B m </alttext>
+          <latex>\gamma _{\pm }=\frac{a_{\pm }}{\sqrt{\nu _{\text{+}}^{\nu _{\text{+}}}\ \nu _{\text{-}}^{\nu _{\text{-}}}}\ \frac{m_{\text{B}}}{m^{\text{+}}}}</latex>
+        </item>
+        <item>
+          <alttext>a±</alttext>
+          <latex>a_{\pm }</latex>
+        </item>
+        <item>
+          <alttext>m B</alttext>
+          <latex>m_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>m + = 1 mol kg-1</alttext>
+          <latex>m^{+} = \pu{1 mol kg-1}</latex>
+        </item>
+        <item>
+          <alttext>ν +</alttext>
+          <latex>\nu _{\text{+}}</latex>
+        </item>
+        <item>
+          <alttext>ν-</alttext>
+          <latex>\nu _{\unicode{x2013}}</latex>
+        </item>
+        <item>
+          <alttext>ν = ν + + ν-</alttext>
+          <latex>\nu = \nu _{\text{+}}+\nu _{\text{-}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1974, 37, 499. 'Electrochemical nomenclature' on page 510 (https://doi.org/10.1351/pac197437040499)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06024/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06024/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06024/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06024/plain</plain>
+  </links>
+  <citation>Citation: 'stoichiometric mean molal' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06024</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:26:40+00:00</accessed>
+</term>

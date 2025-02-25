@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00626</id>
+  <doi>10.1351/goldbook.B00626</doi>
+  <code>B00626</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Beer–Lambert law (or Beer–Lambert–Bouguer law)</longtitle>
+  <title>Beer–Lambert law</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The absorbance of a beam of collimated monochromatic radiation in a homogeneous isotropic medium is proportional to the absorption path length, l, and to the concentration, c, or — in the gas phase — to the pressure of the absorbing species. The law can be expressed as: A = log10(Pλ0/Pλ) = ɛcl, is called the molar (decadic) absorption coefficient. For cm and mol dm-3 or M, dm^3 mol^-1 cm^-1 or M^-1 cm^-1, which is a commonly used unit. The SI unit of m2 mol-1. Note that spectral radiant power must be used because the Beer–Lambert law holds only if the spectral bandwidth of the light is narrow compared to spectral linewidths in the spectrum.</text>
+      <links>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/A00037</url>
+        </item>
+        <item>
+          <title>spectral radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/S05828</url>
+        </item>
+        <item>
+          <title>Lambert law</title>
+          <url>https://goldbook.iupac.org/terms/view/L03445</url>
+        </item>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/A00037</url>
+        </item>
+        <item>
+          <title>spectral radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/S05828</url>
+        </item>
+        <item>
+          <title>Lambert law</title>
+          <url>https://goldbook.iupac.org/terms/view/L03445</url>
+        </item>
+        <item>
+          <title>extinction coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/E02294</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>(absorption) path length</meaning>
+          <type>quantity</type>
+          <alttext>l</alttext>
+          <latex>l</latex>
+        </item>
+        <item>
+          <meaning>molar concentration</meaning>
+          <type>quantity</type>
+          <alttext>c</alttext>
+          <latex>c</latex>
+        </item>
+        <item>
+          <meaning>Beer-lambert law</meaning>
+          <type>equation</type>
+          <alttext>A = log10(Pλ0/Pλ) = ɛcl</alttext>
+          <latex>A = \text{log}_{10}\left ( \frac{P_{\lambda }^{0}}{P_{\lambda }} \right ) = \varepsilon \:c\:l</latex>
+        </item>
+        <item>
+          <meaning>Power of wavelength of light</meaning>
+          <type>equation</type>
+          <alttext>Pλ = Pλ0.10^(-ɛ.c.l)</alttext>
+          <latex>P_{\lambda }=P_{\lambda }^{0}10^{-\varepsilon \: c\: l}</latex>
+        </item>
+        <item>
+          <meaning>molar (decadic) absorption coefficient</meaning>
+          <type>quantity</type>
+          <alttext>ɛ</alttext>
+          <latex>\varepsilon</latex>
+        </item>
+        <item>
+          <meaning>centimeter</meaning>
+          <type>unit</type>
+          <alttext>cm</alttext>
+          <latex>\text{cm}</latex>
+        </item>
+        <item>
+          <meaning>moles per liter</meaning>
+          <type>unit</type>
+          <alttext>mol dm-3</alttext>
+          <latex>\pu{mol dm-3}</latex>
+        </item>
+        <item>
+          <meaning>moles per liter (as M)</meaning>
+          <type>unit</type>
+          <alttext>M</alttext>
+          <latex>\text{M}</latex>
+        </item>
+        <item>
+          <meaning>liter per mole per centimeter</meaning>
+          <type>unit</type>
+          <alttext>dm^3 mol^-1 cm^-1</alttext>
+          <latex>\pu{dm3 mol-1 cm-1}</latex>
+        </item>
+        <item>
+          <meaning>per moles per liter (as M) per cm</meaning>
+          <type>unit</type>
+          <alttext>M^-1 cm^-1</alttext>
+          <latex>\text{M}^{-1}\ \text{cm}^{-1}</latex>
+        </item>
+        <item>
+          <meaning>meters squared per mole</meaning>
+          <type>unit</type>
+          <alttext>m2 mol-1</alttext>
+          <latex>\pu{m2 mol-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1988, 60, 1449. 'Nomenclature, symbols, units and their usage in spectrochemical analysis - VII. Molecular absorption spectroscopy, ultraviolet and visible (UV/VIS) (Recommendations 1988)' on page 1452 (https://doi.org/10.1351/pac198860091449)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2176 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2230 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Beer–Lambert law (en)</title>
+      <url>https://en.wikipedia.org/wiki/Beer–Lambert_law</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoquímica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Fotoquímica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legge di Lambert-Beer (it)</title>
+      <url>https://it.wikipedia.org/wiki/Legge_di_Lambert-Beer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Transmittance (en)</title>
+      <url>https://en.wikipedia.org/wiki/Transmittance</url>
+    </item>
+    <item>
+      <title>Wikipedia - Transmittans (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Transmittans</url>
+    </item>
+    <item>
+      <title>Wikipedia - قانون بير-لامبرت (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قانون_بير-لامبرت</url>
+    </item>
+    <item>
+      <title>Wikipedia - กฎของลัมแบร์ต-เบร์ (th)</title>
+      <url>https://th.wikipedia.org/wiki/กฎของลัมแบร์ต-เบร์</url>
+    </item>
+    <item>
+      <title>Wikipedia - กฎของลัมแบร์ท-เบร์ (th)</title>
+      <url>https://th.wikipedia.org/wiki/กฎของลัมแบร์ท-เบร์</url>
+    </item>
+    <item>
+      <title>Wikipedia - ランベルト・ベールの法則 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ランベルト・ベールの法則</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00626/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00626/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00626/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00626/plain</plain>
+  </links>
+  <citation>Citation: 'Beer–Lambert law' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00626</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:08:25+00:00</accessed>
+</term>

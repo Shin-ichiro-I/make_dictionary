@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00500</id>
+  <doi>10.1351/goldbook.A00500</doi>
+  <code>A00500</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - atomic orbital</longtitle>
+  <title>atomic orbital</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>One-electron wavefunction obtained as a solution of the Schrödinger equation for an atom.</text>
+      <sources>
+        <item>Green Book, 2nd ed., p. 19 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1086 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atom orbitalı (az)</title>
+      <url>https://az.wikipedia.org/wiki/Atom_orbitalı</url>
+    </item>
+    <item>
+      <title>Wikipedia - Orbital (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Orbital</url>
+    </item>
+    <item>
+      <title>Wikipedia - Orbitale atomico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Orbitale_atomico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Атамная арбіталь (be)</title>
+      <url>https://be.wikipedia.org/wiki/Атамная_арбіталь</url>
+    </item>
+    <item>
+      <title>Wikipedia - Атомная орбиталь (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Атомная_орбиталь</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00500/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00500/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00500/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00500/plain</plain>
+  </links>
+  <citation>Citation: 'atomic orbital' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00500</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:01:57+00:00</accessed>
+</term>

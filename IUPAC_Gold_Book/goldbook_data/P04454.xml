@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04454</id>
+  <doi>10.1351/goldbook.P04454</doi>
+  <code>P04454</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - peak area method</longtitle>
+  <title>peak area method</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A kind of peak analysis in which a peak area is calculated by subtracting an estimate of the underlying continuum in a relevant part of a measured spectrum.</text>
+      <links>
+        <item>
+          <title>peak analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04452</url>
+        </item>
+        <item>
+          <title>peak analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04452</url>
+        </item>
+        <item>
+          <title>measured spectrum</title>
+          <url>https://goldbook.iupac.org/terms/view/M03792</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2513. 'Nomenclature for radioanalytical chemistry (IUPAC Recommendations 1994)' on page 2523 (https://doi.org/10.1351/pac199466122513)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04454/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04454/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04454/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04454/plain</plain>
+  </links>
+  <citation>Citation: 'peak area method' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04454</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:12:18+00:00</accessed>
+</term>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03131</id>
+  <doi>10.1351/goldbook.I03131</doi>
+  <code>I03131</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - intramolecular catalysis</longtitle>
+  <title>intramolecular catalysis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The acceleration of a chemical transformation at one site of a molecular entity through the involvement of another functional ('catalytic') group in the same molecular entity, without that group appearing to have undergone change in the reaction product. The use of the term should be restricted to cases for which analogous intermolecularcatalysis by chemical species bearing that catalytic group is observable. Intramolecularcatalysis can be detected and expressed in quantitative form by a comparison of the reaction rate with that of a comparable model compound in which the catalytic group is absent, or by measurement of the effective molarity of the catalytic group.</text>
+      <links>
+        <item>
+          <title>neighbouring group participation</title>
+          <url>https://goldbook.iupac.org/terms/view/N04100</url>
+        </item>
+        <item>
+          <title>neighbouring group participation</title>
+          <url>https://goldbook.iupac.org/terms/view/N04100</url>
+        </item>
+        <item>
+          <title>acceleration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/C00874</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>neighbouring group participation</title>
+          <url>https://goldbook.iupac.org/terms/view/N04100</url>
+        </item>
+        <item>
+          <title>acceleration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/C00874</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>functional ('catalytic') group</title>
+          <url>https://goldbook.iupac.org/terms/view/F02555</url>
+        </item>
+        <item>
+          <title>intermolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03098</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>effective molarity</title>
+          <url>https://goldbook.iupac.org/terms/view/E01896</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1126 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03131/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03131/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03131/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03131/plain</plain>
+  </links>
+  <citation>Citation: 'intramolecular catalysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03131</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:07:34+00:00</accessed>
+</term>

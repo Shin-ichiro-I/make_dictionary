@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02686</id>
+  <doi>10.1351/goldbook.G02686</doi>
+  <code>G02686</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - graphite fibres</longtitle>
+  <title>graphite fibres</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Carbon fibres consisting mostly of synthetic graphite for which three-dimensional crystalline order is confirmed by X-ray diffraction.</text>
+      <notes>
+        <item>graphite fibres can be obtained by graphitization heat treatment of carbon fibres if these consist mostly of graphitizable carbon. If the h,k,ldiffraction lines are difficult to recognize because they are of minor intensity, the mean interlayer spacing c/2 can be used as indication for the presence of a graphitic structure. The c/2 value of 0.34 nm is generally considered as an upper limit for synthetic graphite.</item>
+      </notes>
+      <links>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>diffraction</title>
+          <url>https://goldbook.iupac.org/terms/view/D01711</url>
+        </item>
+        <item>
+          <title>synthetic graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/S06233</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>diffraction</title>
+          <url>https://goldbook.iupac.org/terms/view/D01711</url>
+        </item>
+        <item>
+          <title>synthetic graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/S06233</url>
+        </item>
+        <item>
+          <title>graphitization heat treatment</title>
+          <url>https://goldbook.iupac.org/terms/view/G02692</url>
+        </item>
+        <item>
+          <title>graphitizable carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02690</url>
+        </item>
+        <item>
+          <title>Carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00831</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>c/2</alttext>
+          <latex>\text{c}/2</latex>
+        </item>
+        <item>
+          <alttext>c/2</alttext>
+          <latex>\text{c}/2</latex>
+        </item>
+        <item>
+          <alttext>0.34 nm</alttext>
+          <latex>0.34\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 492 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02686/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02686/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02686/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02686/plain</plain>
+  </links>
+  <citation>Citation: 'graphite fibres' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02686</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:45:02+00:00</accessed>
+</term>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00209</id>
+  <doi>10.1351/goldbook.A00209</doi>
+  <code>A00209</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aldimines</longtitle>
+  <title>aldimines</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Imines derived from aldehydesRCH=NR. E.g. EtCH=NH, PhCH=NMe.</text>
+      <links>
+        <item>
+          <title>imines</title>
+          <url>https://goldbook.iupac.org/terms/view/I02957</url>
+        </item>
+        <item>
+          <title>aldehydes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00208</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1312 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aldimina (es)</title>
+      <url>https://es.wikipedia.org/wiki/Aldimina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldimina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Aldimina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldimine (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aldimine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldiminek (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Aldiminek</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldimmine (it)</title>
+      <url>https://it.wikipedia.org/wiki/Aldimmine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aldyminy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Aldyminy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imine (en)</title>
+      <url>https://en.wikipedia.org/wiki/Imine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imine (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Imine</url>
+    </item>
+    <item>
+      <title>Wikipedia - 亚胺 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/亚胺</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00209/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00209/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00209/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00209/plain</plain>
+  </links>
+  <citation>Citation: 'aldimines' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00209</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:47:11+00:00</accessed>
+</term>

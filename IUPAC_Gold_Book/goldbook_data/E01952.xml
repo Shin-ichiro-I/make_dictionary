@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01952</id>
+  <doi>10.1351/goldbook.E01952</doi>
+  <code>E01952</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electrode current density, j</longtitle>
+  <title>electrode current density</title>
+  <index>quantity</index>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>If the charging current is negligible, in the case of a single electrode reaction, the electrode current density (c.d.) of the electric current flowing through the electrode is related to the flux density of a species B by the equation: j = n.νB^-1.F.(NB)e is the normal component of the vector NB at the electrode-solution interface, n is the charge number of the electrode reaction and νB is the stoichiometric number of species B. The ratio n/νB is to be taken as positive if the species B is consumed in a cathodic reaction or produced in an anodic reaction. Otherwise it is to be taken as negative. With the convention that the normal distance vector points into the electrolytic solution, a cathodic current is then negative, an anodic current positive.</text>
+      <links>
+        <item>
+          <title>electrode reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E01960</url>
+        </item>
+        <item>
+          <title>current density</title>
+          <url>https://goldbook.iupac.org/terms/view/C01452</url>
+        </item>
+        <item>
+          <title>electric current</title>
+          <url>https://goldbook.iupac.org/terms/view/E01927</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>charge number</title>
+          <url>https://goldbook.iupac.org/terms/view/C00993</url>
+        </item>
+        <item>
+          <title>stoichiometric number</title>
+          <url>https://goldbook.iupac.org/terms/view/S06025</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>c.d.</alttext>
+          <latex>\text{c.d.}</latex>
+        </item>
+        <item>
+          <alttext>j = n.νB^-1.F.(NB)e</alttext>
+          <latex>j = n\ \nu _{\text{B}}^{-1}\ F\ \left(N_{\text{B}}\right)_{e}</latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>(NB)e</alttext>
+          <latex>\left(N_{\text{B}}\right)_{e}</latex>
+        </item>
+        <item>
+          <alttext>NB</alttext>
+          <latex>N_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <alttext>νB</alttext>
+          <latex>\nu _{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>n/νB</alttext>
+          <latex>\frac{n}{\nu _{\text{B}}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1981, 53, 1827. 'Nomenclature for transport phenomena in electrolytic systems' on page 1835 (https://doi.org/10.1351/pac198153101827)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01952/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01952/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01952/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01952/plain</plain>
+  </links>
+  <citation>Citation: 'electrode current density' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01952</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:12:02+00:00</accessed>
+</term>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03826</id>
+  <doi>10.1351/goldbook.M03826</doi>
+  <code>M03826</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - membrane sites, in an ion-selective electrode</longtitle>
+  <title>membrane sites</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Membranes frequently contain built-in 'fixed' charged sites (e.g. immobile –(SO3−) in polystyrenesulfonate), or intentionally added, hydrophobically trapped, 'mobile' sites [e.g. tetraphenylborate in plasticized poly(vinyl chloride)]. Such membranes with charged sites are named sited membranes. Ions of opposite sign in the membrane are 'counter-ions'. Ions of the same sign as sites are not present in significant quantities, and are co-ions. Sited membranes are 'permselective' to counter-ions i.e. only counter-ions exchange into the membrane and therefore have some mobility in the membrane bulk.</text>
+      <contexts>
+        <in>
+          <item>an ion-selective electrode</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+        <item>
+          <title>counter-ions (in an ion exchanger, in colloid chemistry) (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01371</url>
+        </item>
+        <item>
+          <title>mobility (in an ion exchanger, in colloid chemistry) (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03955</url>
+        </item>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+        <item>
+          <title>counter-ions (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01371</url>
+        </item>
+        <item>
+          <title>mobility (in an ion exchanger, in colloid chemistry) (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03955</url>
+        </item>
+        <item>
+          <title>co-ions (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01141</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2527. 'Recommendations for nomenclature of ionselective electrodes (IUPAC Recommendations 1994)' on page 2532 (https://doi.org/10.1351/pac199466122527)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03826/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03826/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03826/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03826/plain</plain>
+  </links>
+  <citation>Citation: 'membrane sites' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03826</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:38:03+00:00</accessed>
+</term>

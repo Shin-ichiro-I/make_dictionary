@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01925</id>
+  <doi>10.1351/goldbook.E01925</doi>
+  <code>E01925</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electric conductance, G</longtitle>
+  <title>electric conductance</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Reciprocal of the electric resistance.</text>
+      <links>
+        <item>
+          <title>electric resistance</title>
+          <url>https://goldbook.iupac.org/terms/view/E01936</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 15 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 970 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Conduttanza elettrica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Conduttanza_elettrica</url>
+    </item>
+    <item>
+      <title>Wikipedia - مواصلة كهربائية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مواصلة_كهربائية</url>
+    </item>
+    <item>
+      <title>Wikipedia - موصلية كهربائية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/موصلية_كهربائية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01925/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01925/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01925/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01925/plain</plain>
+  </links>
+  <citation>Citation: 'electric conductance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01925</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:10:27+00:00</accessed>
+</term>

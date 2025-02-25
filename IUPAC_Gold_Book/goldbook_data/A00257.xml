@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00257</id>
+  <doi>10.1351/goldbook.A00257</doi>
+  <code>A00257</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - altostratus cloud, in atmospheric chemistry</longtitle>
+  <title>altostratus cloud</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A grey, uniform, striated or fibrous sheet but without halo phenomena, and through which the sun is seen only as a diffuse, bright patch or not at all; usually at elevations 2000-6000 m - 0.05-0.1 m s-1; vertical velocities of  - .</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <math>
+        <item>
+          <alttext>2000-6000 m</alttext>
+          <latex>\text{2000–6000 m}</latex>
+        </item>
+        <item>
+          <alttext>0.05-0.1 m s-1</alttext>
+          <latex>\text{0.05–0.1 m s}^{-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2180 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Altostrato (it)</title>
+      <url>https://it.wikipedia.org/wiki/Altostrato</url>
+    </item>
+    <item>
+      <title>Wikipedia - Altostrato (lmo)</title>
+      <url>https://lmo.wikipedia.org/wiki/Altostrato</url>
+    </item>
+    <item>
+      <title>Wikipedia - رهج أعلى (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/رهج_أعلى</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00257/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00257/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00257/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00257/plain</plain>
+  </links>
+  <citation>Citation: 'altostratus cloud' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00257</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:49:55+00:00</accessed>
+</term>

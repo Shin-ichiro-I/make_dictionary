@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01877</id>
+  <doi>10.1351/goldbook.D01877</doi>
+  <code>D01877</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dynamic viscosity, η</longtitle>
+  <title>dynamic viscosity</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For a laminar flow of a fluid the ratio of the shear stress to the velocity gradient perpendicular to the plane of shear.</text>
+      <links>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>shear stress</title>
+          <url>https://goldbook.iupac.org/terms/view/S05638</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>shear stress</title>
+          <url>https://goldbook.iupac.org/terms/view/S05638</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 13 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Viscosité (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Viscosité</url>
+    </item>
+    <item>
+      <title>Wikipedia - Viscosité dynamique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Viscosité_dynamique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Viskositet (no)</title>
+      <url>https://no.wikipedia.org/wiki/Viskositet</url>
+    </item>
+    <item>
+      <title>Wikipedia - Viskoznost (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Viskoznost</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01877/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01877/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01877/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01877/plain</plain>
+  </links>
+  <citation>Citation: 'dynamic viscosity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01877</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:08:30+00:00</accessed>
+</term>

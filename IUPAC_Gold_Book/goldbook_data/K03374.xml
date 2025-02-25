@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03374</id>
+  <doi>10.1351/goldbook.K03374</doi>
+  <code>K03374</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - kelvin</longtitle>
+  <title>kelvin</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2021-01-01</lastupdated>
+  <definitions>
+    <item>
+      <id>2</id>
+      <text>The kelvin, symbol K, is the SI unit of thermodynamic temperature. It is defined by taking the fixed numerical value of the Boltzmann constant k to be 1.380 649 × 10−23 when expressed in the unit J K-1, which is equal to kg m2 s-2 K-1, where the kilogram, metre and second are defined in terms of h, c and ∆νCs.</text>
+      <links>
+        <item>
+          <title>Boltzmann constant</title>
+          <url>https://goldbook.iupac.org/terms/view/B00695</url>
+        </item>
+        <item>
+          <title>h</title>
+          <url>https://goldbook.iupac.org/terms/view/P04685</url>
+        </item>
+        <item>
+          <title>c</title>
+          <url>https://goldbook.iupac.org/terms/view/S05854</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Boltzmann constant</meaning>
+          <type>numeric value</type>
+          <alttext>1.380 649 x 10E-23</alttext>
+          <latex>1.380\ 649\times 10^{-23}</latex>
+        </item>
+        <item>
+          <meaning>Boltzmann constant</meaning>
+          <type>symbol</type>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+        <item>
+          <meaning>Joule per kelvin</meaning>
+          <type>unit</type>
+          <alttext>J K-1</alttext>
+          <latex>\text{J K}^{-1}</latex>
+        </item>
+        <item>
+          <meaning>Kilogram meter squared per second square per kelvin</meaning>
+          <type>unit</type>
+          <alttext>kg m2 s-2 K-1</alttext>
+          <latex>\pu{kg m2 s-2 K-1}</latex>
+        </item>
+        <item>
+          <meaning>Caesium frequency (SI definition)</meaning>
+          <type>quantity</type>
+          <alttext>Δν(Cs)</alttext>
+          <latex>\Delta\nu_\text{Cs}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>BIPM, The International System of Units, SI Brochure, 9th ed. (2019), p. 133 (https://www.bipm.org/en/publications/si-brochure/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Kelvin (it)</title>
+      <url>https://it.wikipedia.org/wiki/Kelvin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kelvin (lmo)</title>
+      <url>https://lmo.wikipedia.org/wiki/Kelvin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kelvin (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Kelvin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kelvin (sc)</title>
+      <url>https://sc.wikipedia.org/wiki/Kelvin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ponto triplo (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Ponto_triplo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Temperatura (it)</title>
+      <url>https://it.wikipedia.org/wiki/Temperatura</url>
+    </item>
+    <item>
+      <title>Wikipedia - Temperatura assoluta (it)</title>
+      <url>https://it.wikipedia.org/wiki/Temperatura_assoluta</url>
+    </item>
+    <item>
+      <title>Wikipedia - كلفن (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كلفن</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/K03374/html</html>
+    <json>https://goldbook.iupac.org/terms/view/K03374/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/K03374/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/K03374/plain</plain>
+  </links>
+  <citation>Citation: 'kelvin' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.K03374</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:16:44+00:00</accessed>
+</term>

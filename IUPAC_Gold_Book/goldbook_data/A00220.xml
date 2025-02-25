@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00220</id>
+  <doi>10.1351/goldbook.A00220</doi>
+  <code>A00220</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - alkaloids</longtitle>
+  <title>alkaloids</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Basic nitrogen compounds (mostly heterocyclic) occurring mostly in the plant kingdom (but not excluding those of animal origin). Amino acids, peptides, proteins, nucleotides, nucleic acids, amino sugars and antibiotics are not normally regarded as alkaloids. By extension, certain neutral compounds biogenetically related to basic alkaloids are included.</text>
+      <links>
+        <item>
+          <title>peptides</title>
+          <url>https://goldbook.iupac.org/terms/view/P04479</url>
+        </item>
+        <item>
+          <title>proteins</title>
+          <url>https://goldbook.iupac.org/terms/view/P04898</url>
+        </item>
+        <item>
+          <title>nucleotides</title>
+          <url>https://goldbook.iupac.org/terms/view/N04255</url>
+        </item>
+        <item>
+          <title>nucleic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/N04245</url>
+        </item>
+        <item>
+          <title>amino sugars</title>
+          <url>https://goldbook.iupac.org/terms/view/A00283</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1313 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alcaloides (la)</title>
+      <url>https://la.wikipedia.org/wiki/Alcaloides</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcaloidi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Alcaloidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcaloidum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Alcaloidum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (id)</title>
+      <url>https://id.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (jv)</title>
+      <url>https://jv.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (no)</title>
+      <url>https://no.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (su)</title>
+      <url>https://su.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (tl)</title>
+      <url>https://tl.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloid (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloide (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Alkaloide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloyd (gv)</title>
+      <url>https://gv.wikipedia.org/wiki/Alkaloyd</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloïde (af)</title>
+      <url>https://af.wikipedia.org/wiki/Alkaloïde</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaloïede (af)</title>
+      <url>https://af.wikipedia.org/wiki/Alkaloïede</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Alkaloid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Alkaloid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Piperine (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Piperine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Алкалоид (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Алкалоид</url>
+    </item>
+    <item>
+      <title>Wikipedia - Алкалоиды (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Алкалоиды</url>
+    </item>
+    <item>
+      <title>Wikipedia - شبه قلوي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/شبه_قلوي</url>
+    </item>
+    <item>
+      <title>Wikipedia - एल्कलॉएड (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/एल्कलॉएड</url>
+    </item>
+    <item>
+      <title>Wikipedia - క్షారమయం (te)</title>
+      <url>https://te.wikipedia.org/wiki/క్షారమయం</url>
+    </item>
+    <item>
+      <title>Wikipedia - แอลคาลอยด์ (th)</title>
+      <url>https://th.wikipedia.org/wiki/แอลคาลอยด์</url>
+    </item>
+    <item>
+      <title>Wikipedia - アルカロイド (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/アルカロイド</url>
+    </item>
+    <item>
+      <title>Wikipedia - 알칼로이드 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/알칼로이드</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00220/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00220/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00220/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00220/plain</plain>
+  </links>
+  <citation>Citation: 'alkaloids' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00220</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:47:52+00:00</accessed>
+</term>

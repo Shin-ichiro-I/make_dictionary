@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07151</id>
+  <doi>10.1351/goldbook.ST07151</doi>
+  <code>ST07151</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - sol-gel process</longtitle>
+  <title>sol-gel process</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Process through which a network is formed from solution by a progressive change of liquid precursor(s) into a sol, to a gel, and in most cases finally to a dry network.</text>
+      <notes>
+        <item>An inorganic polymer, e.g., silica gel, or an organic–inorganic hybrid can be prepared by sol-gel processing.</item>
+      </notes>
+      <links>
+        <item>
+          <title>inorganic polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07515</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+        <item>
+          <title>sol</title>
+          <url>https://goldbook.iupac.org/terms/view/S05727</url>
+        </item>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1825 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - تقنية الصل-جل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تقنية_الصل-جل</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ST07151/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ST07151/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ST07151/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ST07151/plain</plain>
+  </links>
+  <citation>Citation: 'sol-gel process' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ST07151</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:13:05+00:00</accessed>
+</term>

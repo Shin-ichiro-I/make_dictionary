@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06468</id>
+  <doi>10.1351/goldbook.T06468</doi>
+  <code>T06468</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - transition state</longtitle>
+  <title>transition state</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In theories describing elementary reactions it is usually assumed that there is a transition state of more positive molar Gibbs energy between the reactants and the products through which an assembly of atoms (initially composing the molecular entities of the reactants) must pass on going from reactants to products in either direction. In the formalism of 'transition state theory' the transition state of an elementary reaction is that set of states (each characterized by its own geometry and energy) in which an assembly of atoms, when randomly placed there, would have an equal probability of forming the reactants or of forming the products of that elementary reaction. The transition state is characterized by one and only one imaginary frequency. The assembly of atoms at the transition state has been called an activated complex. (It is not a complex according to the definition in this Compendium.) It may be noted that the calculations of reaction rates by the transition state method and based on calculated potential-energy surfaces refer to the potential energy maximum at the saddle point, as this is the only point for which the requisite separability of transition state coordinates may be assumed. The ratio of the number of assemblies of atoms that pass through to the products to the number of those that reach the saddle point from the reactants can be less than unity, and this fraction is the 'transmission coefficient' κ. (There are also reactions, such as the gas-phase colligation of simple radicals, that do not require 'activation' and which therefore do not involve a transition state.)</text>
+      <links>
+        <item>
+          <title>Gibbs energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02631</url>
+        </item>
+        <item>
+          <title>Hammond principle</title>
+          <url>https://goldbook.iupac.org/terms/view/H02734</url>
+        </item>
+        <item>
+          <title>potential energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>transition structure</title>
+          <url>https://goldbook.iupac.org/terms/view/T06471</url>
+        </item>
+        <item>
+          <title>activated complex</title>
+          <url>https://goldbook.iupac.org/terms/view/A00092</url>
+        </item>
+        <item>
+          <title>Gibbs energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02631</url>
+        </item>
+        <item>
+          <title>Hammond principle</title>
+          <url>https://goldbook.iupac.org/terms/view/H02734</url>
+        </item>
+        <item>
+          <title>potential energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>transition structure</title>
+          <url>https://goldbook.iupac.org/terms/view/T06471</url>
+        </item>
+        <item>
+          <title>activated complex</title>
+          <url>https://goldbook.iupac.org/terms/view/A00092</url>
+        </item>
+        <item>
+          <title>elementary reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>potential-energy surfaces</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>colligation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01153</url>
+        </item>
+        <item>
+          <title>radicals</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>Gibbs energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02631</url>
+        </item>
+        <item>
+          <title>Hammond principle</title>
+          <url>https://goldbook.iupac.org/terms/view/H02734</url>
+        </item>
+        <item>
+          <title>potential energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>transition structure</title>
+          <url>https://goldbook.iupac.org/terms/view/T06471</url>
+        </item>
+        <item>
+          <title>activated complex</title>
+          <url>https://goldbook.iupac.org/terms/view/A00092</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>potential-energy surfaces</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>colligation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01153</url>
+        </item>
+        <item>
+          <title>radicals</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>transition state theory</title>
+          <url>https://goldbook.iupac.org/terms/view/T06470</url>
+        </item>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+        <item>
+          <title>saddle point</title>
+          <url>https://goldbook.iupac.org/terms/view/C01145</url>
+        </item>
+        <item>
+          <title>transmission coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/T06479</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>κ</alttext>
+          <latex>\kappa </latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1174 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Activated complex (en)</title>
+      <url>https://en.wikipedia.org/wiki/Activated_complex</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aktivált komplex (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Aktivált_komplex</url>
+    </item>
+    <item>
+      <title>Wikipedia - Complex activat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Complex_activat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Theorie des Übergangszustandes (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Theorie_des_Übergangszustandes</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stan przejściowy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stan_przejściowy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stato di transizione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_di_transizione</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالة انتقالية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حالة_انتقالية</url>
+    </item>
+    <item>
+      <title>Wikipedia - 活性錯合体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/活性錯合体</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06468/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06468/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06468/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06468/plain</plain>
+  </links>
+  <citation>Citation: 'transition state' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06468</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:47:18+00:00</accessed>
+</term>

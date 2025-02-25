@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>08032</id>
+  <doi>10.1351/goldbook.08032</doi>
+  <code>08032</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - metrological compatibility of measurement results</longtitle>
+  <title>metrological compatibility of measurement results</title>
+  <termversion>5.0.0</termversion>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Property of a set of measurement results for a specified measurand, such that the absolute value of the difference of any pair of measured quantity values from two different measurement results is smaller than some chosen multiple of the standard measurement uncertainty of that difference.</text>
+      <notes>
+        <item>Metrological compatibility of measurement results replaces the traditional concept of "staying within the error", as it represents the criterion for deciding whether two measurement results refer to the same measurand or not. If in a set of measurements of a measurand, thought to be constant, a measurement result is not compatible with the others, either the measurement was not correct (for example, its measurement uncertainty, was assessed as being too small), or the measured quantity changed between measurements.</item>
+        <item>Correlation between the measurements influences metrological compatibility of measurement results. If the measurements are completely uncorrelated, the standard measurement uncertainty of their difference is equal to the root square sum of their standard measurement uncertainties, while it is lower for positive covariance or higher for negative covariance.</item>
+        <item>As required by the Mutual Recognition Arrangement (MRA) of the International Committee for Weights and Measures (CIPM), through which national metrology institutes demonstrate the international equivalence of their measurement standards, the concept "degree of equivalence" is applied in special interlaboratory comparisons termed "key comparisons". The degree of equivalence of each national measurement standard is expressed quantitatively by two terms: its deviation from the reference quantity value of the key comparison and the measurement uncertainty of this deviation (at a level of confidence of approximately 95 %).</item>
+      </notes>
+      <sources>
+        <item>PAC, 2021, 93, 997. 'Metrological and quality concepts in analytical chemistry (IUPAC Recommendations 2021)' on page 1012 (https://doi.org/10.1515/pac-2019-0819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/08032/html</html>
+    <json>https://goldbook.iupac.org/terms/view/08032/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/08032/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/08032/plain</plain>
+  </links>
+  <citation>Citation: 'metrological compatibility of measurement results' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.08032</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:40:53+00:00</accessed>
+</term>

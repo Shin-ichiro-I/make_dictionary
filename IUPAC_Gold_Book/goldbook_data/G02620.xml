@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02620</id>
+  <doi>10.1351/goldbook.G02620</doi>
+  <code>G02620</code>
+  <status>obsolete</status>
+  <longtitle>IUPAC Gold Book - geometric isomerism</longtitle>
+  <title>geometric isomerism</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Obsolete synonym for cis-trans isomerism. (Usage strongly discouraged).</text>
+      <links>
+        <item>
+          <title>cis-trans isomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/C01093</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2209 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cis-trans izomerie (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Cis-trans_izomerie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cis-trans izoméria (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Cis-trans_izoméria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cis-trans-isomeeria (et)</title>
+      <url>https://et.wikipedia.org/wiki/Cis-trans-isomeeria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cisz-transz izoméria (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Cisz-transz_izoméria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cis–trans isomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cis–trans_isomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Geometrijski izomerizam (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Geometrijski_izomerizam</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Isomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomer (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Isomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomeria (it)</title>
+      <url>https://it.wikipedia.org/wiki/Isomeria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomeria cis-trans (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Isomeria_cis-trans</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomeria geométrica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Isomeria_geométrica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomerie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Isomerie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomería cis-trans (es)</title>
+      <url>https://es.wikipedia.org/wiki/Isomería_cis-trans</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomería cis-trans (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Isomería_cis-trans</url>
+    </item>
+    <item>
+      <title>Wikipedia - Izomerie cis-trans (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Izomerie_cis-trans</url>
+    </item>
+    <item>
+      <title>Wikipedia - Izomerie cis–trans (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Izomerie_cis–trans</url>
+    </item>
+    <item>
+      <title>Wikipedia - Johannes Wislicenus (es)</title>
+      <url>https://es.wikipedia.org/wiki/Johannes_Wislicenus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Đồng phân cis-trans (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Đồng_phân_cis-trans</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ισομέρεια (el)</title>
+      <url>https://el.wikipedia.org/wiki/Ισομέρεια</url>
+    </item>
+    <item>
+      <title>Wikipedia - Цис-транс изомеризъм (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Цис-транс_изомеризъм</url>
+    </item>
+    <item>
+      <title>Wikipedia - Цис-транс-изомерия (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Цис-транс-изомерия</url>
+    </item>
+    <item>
+      <title>Wikipedia - Цис–транс ізомерія (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Цис–транс_ізомерія</url>
+    </item>
+    <item>
+      <title>Wikipedia - ایزومری سیس–ترانس (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ایزومری_سیس–ترانس</url>
+    </item>
+    <item>
+      <title>Wikipedia - تصاوغ هندسي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تصاوغ_هندسي</url>
+    </item>
+    <item>
+      <title>Wikipedia - সিস-ট্রান্স সমাণুতা (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/সিস-ট্রান্স_সমাণুতা</url>
+    </item>
+    <item>
+      <title>Wikipedia - ไอโซเมอร์เรขาคณิต (th)</title>
+      <url>https://th.wikipedia.org/wiki/ไอโซเมอร์เรขาคณิต</url>
+    </item>
+    <item>
+      <title>Wikipedia - シス–トランス異性体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/シス–トランス異性体</url>
+    </item>
+    <item>
+      <title>Wikipedia - 幾何異性体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/幾何異性体</url>
+    </item>
+    <item>
+      <title>Wikipedia - 異性体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/異性体</url>
+    </item>
+    <item>
+      <title>Wikipedia - 顺反异构 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/顺反异构</url>
+    </item>
+    <item>
+      <title>Wikipedia - 기하 이성질체 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/기하_이성질체</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02620/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02620/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02620/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02620/plain</plain>
+  </links>
+  <citation>Citation: 'geometric isomerism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02620</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:41:42+00:00</accessed>
+</term>

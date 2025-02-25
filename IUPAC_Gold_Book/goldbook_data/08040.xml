@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>08040</id>
+  <doi>10.1351/goldbook.08040</doi>
+  <code>08040</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - repeatability condition of measurement</longtitle>
+  <title>repeatability condition of measurement</title>
+  <synonyms>
+    <item>repeatability condition</item>
+  </synonyms>
+  <termversion>5.0.0</termversion>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Condition of measurement, out of a set of conditions that includes the same measurement procedure, same operators, same measuring system, same operating conditions, and same location, and replicate measurements on the same or similar objects over a short period of time.</text>
+      <notes>
+        <item>A condition of measurement is a repeatability condition only with respect to a specified set of repeatability conditions.</item>
+        <item>In ISO 3534-2, "same operator" (singular) is stipulated as a repeatability condition. The VIM request of "same operators" (plural) should be understood such that if two or more operators contribute to one measurement, they should be involved in the same way in repeated measurements.</item>
+        <item>In analytical chemistry, the phrase "under repeatability conditions" refers to the above specified set of conditions.</item>
+        <item>A set of measurements under repeatability conditions is often termed "analytical run".</item>
+      </notes>
+      <links>
+        <item>
+          <title>measurement procedure</title>
+          <url>https://goldbook.iupac.org/terms/view/08028</url>
+        </item>
+        <item>
+          <title>analytical chemistry</title>
+          <url>https://goldbook.iupac.org/terms/view/08003</url>
+        </item>
+        <item>
+          <title>analytical run</title>
+          <url>https://goldbook.iupac.org/terms/view/08006</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2021, 93, 997. 'Metrological and quality concepts in analytical chemistry (IUPAC Recommendations 2021)' on page 1015 (https://doi.org/10.1515/pac-2019-0819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/08040/html</html>
+    <json>https://goldbook.iupac.org/terms/view/08040/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/08040/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/08040/plain</plain>
+  </links>
+  <citation>Citation: 'repeatability condition of measurement' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.08040</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:52:56+00:00</accessed>
+</term>

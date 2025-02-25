@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01423</id>
+  <doi>10.1351/goldbook.C01423</doi>
+  <code>C01423</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - crud, in solvent extraction</longtitle>
+  <title>crud</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A deposit or emulsion at the interface between two partially settled phases.</text>
+      <notes>
+        <item>The phenomenon of crud formation arises from many causes and this definition does not imply any single one.</item>
+        <item>Other terms -- some unprintable -- have been used but crud is the generally accepted term.</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>solvent extraction</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>emulsion</title>
+          <url>https://goldbook.iupac.org/terms/view/E02065</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2387 (https://doi.org/10.1351/pac199365112373)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01423/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01423/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01423/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01423/plain</plain>
+  </links>
+  <citation>Citation: 'crud' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01423</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:49:07+00:00</accessed>
+</term>

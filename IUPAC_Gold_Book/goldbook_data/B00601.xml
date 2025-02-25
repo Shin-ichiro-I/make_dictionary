@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00601</id>
+  <doi>10.1351/goldbook.B00601</doi>
+  <code>B00601</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - base</longtitle>
+  <title>base</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A chemical species or molecular entity having an available pair of electrons capable of forming a covalent bond with a hydron (proton) (see Brønsted base) or with the vacant orbital of some other species (see Lewis base).</text>
+      <links>
+        <item>
+          <title>hard base</title>
+          <url>https://goldbook.iupac.org/terms/view/H02742</url>
+        </item>
+        <item>
+          <title>superbase</title>
+          <url>https://goldbook.iupac.org/terms/view/S06135</url>
+        </item>
+        <item>
+          <title>hard base</title>
+          <url>https://goldbook.iupac.org/terms/view/H02742</url>
+        </item>
+        <item>
+          <title>superbase</title>
+          <url>https://goldbook.iupac.org/terms/view/S06135</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>covalent bond</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>Brønsted base</title>
+          <url>https://goldbook.iupac.org/terms/view/B00745</url>
+        </item>
+        <item>
+          <title>Lewis base</title>
+          <url>https://goldbook.iupac.org/terms/view/L03511</url>
+        </item>
+        <item>
+          <title>hard base</title>
+          <url>https://goldbook.iupac.org/terms/view/H02742</url>
+        </item>
+        <item>
+          <title>superbase</title>
+          <url>https://goldbook.iupac.org/terms/view/S06135</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>covalent bond</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>Brønsted base</title>
+          <url>https://goldbook.iupac.org/terms/view/B00745</url>
+        </item>
+        <item>
+          <title>Lewis base</title>
+          <url>https://goldbook.iupac.org/terms/view/L03511</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2176 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1088 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Base (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Base_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Base (química) (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Base_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Baza (hemija) (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Baza_(hemija)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussione:Base (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Base_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - База (хемија) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/База_(хемија)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Нигез (химия) (tt)</title>
+      <url>https://tt.wikipedia.org/wiki/Нигез_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Основание (химия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Основание_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Основание (химия) (tyv)</title>
+      <url>https://tyv.wikipedia.org/wiki/Основание_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Химиин һуури (bxr)</title>
+      <url>https://bxr.wikipedia.org/wiki/Химиин_һуури</url>
+    </item>
+    <item>
+      <title>Wikipedia - قاعدة (كيمياء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قاعدة_(كيمياء)</url>
+    </item>
+    <item>
+      <title>Wikipedia - ทฤษฎีกรด–เบส (th)</title>
+      <url>https://th.wikipedia.org/wiki/ทฤษฎีกรด–เบส</url>
+    </item>
+    <item>
+      <title>Wikipedia - 塩基 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/塩基</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00601/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00601/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00601/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00601/plain</plain>
+  </links>
+  <citation>Citation: 'base' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00601</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:07:07+00:00</accessed>
+</term>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02390</id>
+  <doi>10.1351/goldbook.F02390</doi>
+  <code>F02390</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - first-order phase transition</longtitle>
+  <title>first-order phase transition</title>
+  <synonyms>
+    <item>discontinuous phase transition</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A transition in which the molar Gibbs energies or molar Helmholtz energies of the two phases (or chemical potentials of all components in the two phases) are equal at the transition temperature, but their first derivatives with respect to temperature and pressure (for example, specific enthalpy of transition and specific volume) are discontinuous at the transition point, as for two dissimilar phases that coexist and that can be transformed into one another by a change in a field variable such as pressure, temperature, magnetic or electric field. Example: The transition on heating CsCl to 752 K at which it changes from the low-temperature, CsCl-type structure to the high-temperature NaCl-type structure. Synonymous with discontinuous phase transition.</text>
+      <links>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>specific volume</title>
+          <url>https://goldbook.iupac.org/terms/view/S05807</url>
+        </item>
+        <item>
+          <title>variable</title>
+          <url>https://goldbook.iupac.org/terms/view/V06600</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>752 K</alttext>
+          <latex>752\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 583 (https://doi.org/10.1351/pac199466030577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussione:Transizione di fase (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Transizione_di_fase</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02390/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02390/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02390/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02390/plain</plain>
+  </links>
+  <citation>Citation: 'first-order phase transition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02390</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:31:16+00:00</accessed>
+</term>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04520</id>
+  <doi>10.1351/goldbook.P04520</doi>
+  <code>P04520</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pesticide residue</longtitle>
+  <title>pesticide residue</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any substance or mixture of substances in food for man or animals resulting from the use of a pesticide including any specified derivatives, such as degradation and conversion products, metabolites, reaction products and impurities considered to be of toxicological significance.</text>
+      <links>
+        <item>
+          <title>pesticide</title>
+          <url>https://goldbook.iupac.org/terms/view/P04519</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2003. 'Glossary for chemists of terms used in toxicology (IUPAC Recommendations 1993)' on page 2081 (https://doi.org/10.1351/pac199365092003)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Pesticide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pesticide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pesticide residue (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pesticide_residue</url>
+    </item>
+    <item>
+      <title>Wikipedia - Residu pestisida (id)</title>
+      <url>https://id.wikipedia.org/wiki/Residu_pestisida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Résidu de pesticides (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Résidu_de_pesticides</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sisa racun makhluk perosak (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Sisa_racun_makhluk_perosak</url>
+    </item>
+    <item>
+      <title>Wikipedia - Φυτοφάρμακο (el)</title>
+      <url>https://el.wikipedia.org/wiki/Φυτοφάρμακο</url>
+    </item>
+    <item>
+      <title>Wikipedia - Остаци пестицида (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Остаци_пестицида</url>
+    </item>
+    <item>
+      <title>Wikipedia - بقايا مبيدات الآفات (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بقايا_مبيدات_الآفات</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04520/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04520/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04520/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04520/plain</plain>
+  </links>
+  <citation>Citation: 'pesticide residue' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04520</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:15:34+00:00</accessed>
+</term>

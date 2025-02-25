@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03951</id>
+  <doi>10.1351/goldbook.M03951</doi>
+  <code>M03951</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mobile adsorption</longtitle>
+  <title>mobile adsorption</title>
+  <contains>non-localized adsorption</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A situation in which molecules of adsorbate are free to move about the surface. Mobility of the adsorbate will increase with temperature and mobile adsorption may be either localized or non-localized. In localized mobile adsorption the adsorbate spends most of the time on the adsorption sites but can migrate or be desorbed and readsorbed elsewhere. In non-localized adsorption the mobility is so great that a small fraction of the adsorbed species is on the desorption sites and a large fraction at other positions on the surface.</text>
+      <links>
+        <item>
+          <title>adsorbate</title>
+          <url>https://goldbook.iupac.org/terms/view/A00152</url>
+        </item>
+        <item>
+          <title>adsorbate</title>
+          <url>https://goldbook.iupac.org/terms/view/A00152</url>
+        </item>
+        <item>
+          <title>Mobility</title>
+          <url>https://goldbook.iupac.org/terms/view/M03955</url>
+        </item>
+        <item>
+          <title>desorption</title>
+          <url>https://goldbook.iupac.org/terms/view/D01620</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1976, 46, 71. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units - Appendix II. Definitions, Terminology and Symbols in Colloid and Surface Chemistry. Part II: Heterogeneous Catalysis' on page 76 (https://doi.org/10.1351/pac197646010071)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03951/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03951/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03951/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03951/plain</plain>
+  </links>
+  <citation>Citation: 'mobile adsorption' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03951</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:44:05+00:00</accessed>
+</term>

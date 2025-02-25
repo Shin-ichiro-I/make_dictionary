@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02746</id>
+  <doi>10.1351/goldbook.H02746</doi>
+  <code>H02746</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - harpoon mechanism</longtitle>
+  <title>harpoon mechanism</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Reaction sequence (thermal or photoinduced) between neutral molecular or atomic entities in which long-range electron transfer is followed by a considerable reduction of the distance between donor and acceptor sites as a result of the electrostatic attraction in the ion pair created.</text>
+      <links>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02011</url>
+        </item>
+        <item>
+          <title>ion pair</title>
+          <url>https://goldbook.iupac.org/terms/view/I03231</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2245 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Harpoon reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Harpoon_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Théorie des collisions (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Théorie_des_collisions</url>
+    </item>
+    <item>
+      <title>Wikipedia - واکنش هارپون (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/واکنش_هارپون</url>
+    </item>
+    <item>
+      <title>Wikipedia - 銛打ち機構 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/銛打ち機構</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02746/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02746/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02746/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02746/plain</plain>
+  </links>
+  <citation>Citation: 'harpoon mechanism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02746</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:48:07+00:00</accessed>
+</term>

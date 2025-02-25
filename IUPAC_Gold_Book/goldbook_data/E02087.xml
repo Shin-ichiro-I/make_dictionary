@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02087</id>
+  <doi>10.1351/goldbook.E02087</doi>
+  <code>E02087</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - encounter complex</longtitle>
+  <title>encounter complex</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A complex of molecular entities produced at an encounter-controlled rate, and which occurs as an intermediate in a reaction mechanism. When the complex is formed from two molecular entities it is called an 'encounter pair'. A distinction between encounter pairs and (larger) encounter complexes may be relevant in some cases, e.g. for mechanisms involving pre-association.</text>
+      <links>
+        <item>
+          <title>complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>encounter-controlled rate</title>
+          <url>https://goldbook.iupac.org/terms/view/E02089</url>
+        </item>
+        <item>
+          <title>pre-association (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04794</url>
+        </item>
+        <item>
+          <title>complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>encounter-controlled rate</title>
+          <url>https://goldbook.iupac.org/terms/view/E02089</url>
+        </item>
+        <item>
+          <title>pre-association (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04794</url>
+        </item>
+        <item>
+          <title>reaction mechanism (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03804</url>
+        </item>
+        <item>
+          <title>encounter pair (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02090</url>
+        </item>
+        <item>
+          <title>encounter (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02086</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1112 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2239 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02087/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02087/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02087/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02087/plain</plain>
+  </links>
+  <citation>Citation: 'encounter complex' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02087</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:18:20+00:00</accessed>
+</term>

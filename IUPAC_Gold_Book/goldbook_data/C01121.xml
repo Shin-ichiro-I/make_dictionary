@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01121</id>
+  <doi>10.1351/goldbook.C01121</doi>
+  <code>C01121</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - coal tar pitch</longtitle>
+  <title>coal tar pitch</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A residue produced by distillation or heat treatment of coal tar. It is a solid at room temperature, consists of a complex mixture of numerous predominantly aromatic hydrocarbons and heterocyclics, and exhibits a broad softening range instead of a defined melting temperature.</text>
+      <notes>
+        <item>The hydrogen aromaticity in coal tar pitch (ratio of aromatic to total content of hydrogen atoms) varies from 0.7 to 0.9.</item>
+      </notes>
+      <links>
+        <item>
+          <title>aromaticity</title>
+          <url>https://goldbook.iupac.org/terms/view/A00442</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>melting</title>
+          <url>https://goldbook.iupac.org/terms/view/M03821</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 485 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Steinkohlenteerpech (de)</title>
+      <url>https://de.wikipedia.org/wiki/Steinkohlenteerpech</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01121/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01121/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01121/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01121/plain</plain>
+  </links>
+  <citation>Citation: 'coal tar pitch' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01121</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:35:13+00:00</accessed>
+</term>

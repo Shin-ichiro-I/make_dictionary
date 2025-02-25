@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03703</id>
+  <doi>10.1351/goldbook.M03703</doi>
+  <code>M03703</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Marcus–Hush relationship</longtitle>
+  <title>Marcus–Hush relationship</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Relationship between the barrier (ΔG‡) to thermal electron transfer, the energy of a corresponding optical charge-transfer transition(Δ E op), and the overall change in standard Gibbs energy accompanying thermal electron transfer(Δ G o). Assuming a quadratic relation between the energy of the system and its distortions from equilibrium (harmonic oscillator model) the expression obtained is: ΔG‡ = ΔEop2.4(ΔEop - ΔG°)) in e.g. symmetrical mixed valence systems:  Note that for this situation the Marcus equation reads: </text>
+      <links>
+        <item>
+          <title>electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02011</url>
+        </item>
+        <item>
+          <title>charge-transfer (CT) transition</title>
+          <url>https://goldbook.iupac.org/terms/view/C01008</url>
+        </item>
+        <item>
+          <title>Marcus equation</title>
+          <url>https://goldbook.iupac.org/terms/view/M03702</url>
+        </item>
+        <item>
+          <title>electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02011</url>
+        </item>
+        <item>
+          <title>charge-transfer (CT) transition</title>
+          <url>https://goldbook.iupac.org/terms/view/C01008</url>
+        </item>
+        <item>
+          <title>Marcus equation</title>
+          <url>https://goldbook.iupac.org/terms/view/M03702</url>
+        </item>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ΔG‡</alttext>
+          <latex>\Delta G^{\ddagger}</latex>
+        </item>
+        <item>
+          <alttext>Δ E op</alttext>
+          <latex>\Delta E_{\text{op}}</latex>
+        </item>
+        <item>
+          <alttext>Δ G o</alttext>
+          <latex>\Delta G^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>ΔG‡ = ΔEop2.4(ΔEop - ΔG°)</alttext>
+          <latex>\Delta G^{\ddagger} = \frac{\Delta E_{\text{op}}^{2}}{4\ (\Delta E_{\text{op}}\,-\,\Delta G^{o})}</latex>
+        </item>
+        <item>
+          <alttext>Δ G o</alttext>
+          <latex>\Delta G^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>ΔG‡ = ΔEop4</alttext>
+          <latex>\Delta G^{\ddagger} = \frac{\Delta E_{\text{op}}}{4}</latex>
+        </item>
+        <item>
+          <alttext>ΔG‡ = λ4</alttext>
+          <latex>\Delta G^{\ddagger} = \frac{\lambda }{4}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2253 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03703/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03703/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03703/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03703/plain</plain>
+  </links>
+  <citation>Citation: 'Marcus–Hush relationship' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03703</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:32:54+00:00</accessed>
+</term>

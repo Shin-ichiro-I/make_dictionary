@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05321</id>
+  <doi>10.1351/goldbook.R05321</doi>
+  <code>R05321</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - resolving power in mass spectrometry</longtitle>
+  <title>resolving power</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The ability to distinguish between ions differing in the quotient mass/charge by a small increment. It may be characterized by giving the peak width, measured in mass units, expressed as a function of mass, for at least two points on the peak, specifically at fifty percent and at five percent of the maximum peak height.</text>
+      <contexts>
+        <in>
+          <item>mass spectrometry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>percent</title>
+          <url>https://goldbook.iupac.org/terms/view/P04483</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 203 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1978, 50, 65. 'Recommendations for Symbolism and Nomenclature for Mass Spectroscopy' on page 72 (https://doi.org/10.1351/pac197850010065)</item>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1554 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Resolution (mass spectrometry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Resolution_(mass_spectrometry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Роздільна здатність (мас-спектрометрія) (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Роздільна_здатність_(мас-спектрометрія)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Роздільність (мас-спектрометрія) (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Роздільність_(мас-спектрометрія)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05321/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05321/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05321/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05321/plain</plain>
+  </links>
+  <citation>Citation: 'resolving power' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05321</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:54:13+00:00</accessed>
+</term>

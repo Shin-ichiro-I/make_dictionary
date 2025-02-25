@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00218</id>
+  <doi>10.1351/goldbook.A00218</doi>
+  <code>A00218</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aliquot, in analytical chemistry</longtitle>
+  <title>aliquot</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A known amount of a homogeneous material, assumed to be taken with negligible sampling error. The term is usually applied to fluids. The term 'aliquot' is usually used when the fractional part is an exact divisor of the whole; the term 'aliquant' has been used when the fractional part is not an exact divisor of the whole (e.g. a 15 ml portion is an aliquant of 100 ml). When a laboratory sample or test sample is 'aliquoted' or otherwise subdivided, the portions have been called split samples.</text>
+      <contexts>
+        <in>
+          <item>analytical chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>sampling error</title>
+          <url>https://goldbook.iupac.org/terms/view/S05463</url>
+        </item>
+        <item>
+          <title>laboratory sample</title>
+          <url>https://goldbook.iupac.org/terms/view/L03433</url>
+        </item>
+        <item>
+          <title>test sample</title>
+          <url>https://goldbook.iupac.org/terms/view/T06285</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>15 ml</alttext>
+          <latex>15\ \text{ml}</latex>
+        </item>
+        <item>
+          <alttext>100 ml</alttext>
+          <latex>100\ \text{ml}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 1193. 'Nomenclature for sampling in analytical chemistry (Recommendations 1990)' on page 1206 (https://doi.org/10.1351/pac199062061193)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2173 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aliquot (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Aliquot_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aliquotierung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Aliquotierung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sample (material) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Sample_(material)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00218/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00218/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00218/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00218/plain</plain>
+  </links>
+  <citation>Citation: 'aliquot' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00218</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:47:43+00:00</accessed>
+</term>

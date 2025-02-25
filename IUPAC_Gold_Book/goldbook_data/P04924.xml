@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04924</id>
+  <doi>10.1351/goldbook.P04924</doi>
+  <code>P04924</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pseudo-catalysis</longtitle>
+  <title>pseudo-catalysis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>If an acid or base is present in nearly constant concentration throughout a reaction in solution (owing to buffering or the use of a large excess), it may be found to increase the rate of that reaction and also to be consumed during the process. The acid or base is then not a catalyst and the phenomenon cannot be called catalysis according to the well-established meaning of these terms in chemical kinetics, although the mechanism of such a process is often intimately related to that of a catalysed reaction. It is recommended that the term pseudo-catalysis be used in these and analogous cases (not necessarily involving acids or bases). For example, if a Brønsted acid accelerates the hydrolysis of an ester to a carboxylic acid and an alcohol, this is properly called acid catalysis, whereas the acceleration, by the same acid, of hydrolysis of an amide should be described as pseudo-catalysis by the acid: the 'acid pseudo-catalyst' is consumed during the reaction through formation of an ammonium ion. The terms 'general acid pseudo-catalysis' and 'general base pseudo-catalysis' may be used as the analogues of general acid catalysis and general base catalysis. The term 'base-promoted', 'base-accelerated' or 'base-induced' is sometimes used for reactions that are pseudo-catalysed by bases. However, the term 'promotion' also has a different meaning in other chemical contexts.</text>
+      <links>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/C00874</url>
+        </item>
+        <item>
+          <title>mechanism (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03804</url>
+        </item>
+        <item>
+          <title>Brønsted acid (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>general acid catalysis (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02609</url>
+        </item>
+        <item>
+          <title>general base catalysis (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02610</url>
+        </item>
+        <item>
+          <title>catalyst (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>catalysis (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00874</url>
+        </item>
+        <item>
+          <title>mechanism (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03804</url>
+        </item>
+        <item>
+          <title>Brønsted acid (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>general acid catalysis (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02609</url>
+        </item>
+        <item>
+          <title>general base catalysis (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02610</url>
+        </item>
+        <item>
+          <title>hydrolysis (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02902</url>
+        </item>
+        <item>
+          <title>acceleration (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+        <item>
+          <title>promotion (of a reaction)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04877</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1153 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04924/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04924/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04924/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04924/plain</plain>
+  </links>
+  <citation>Citation: 'pseudo-catalysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04924</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:36:27+00:00</accessed>
+</term>

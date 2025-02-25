@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02881</id>
+  <doi>10.1351/goldbook.H02881</doi>
+  <code>H02881</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hydrazines</longtitle>
+  <title>hydrazines</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Hydrazine (diazane), H2NNH2, and its hydrocarbyl derivatives. When one or more substituents are acyl groups, the compound is a hydrazide. N-Alkylidene derivatives are hydrazones.</text>
+      <links>
+        <item>
+          <title>hydrocarbyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02891</url>
+        </item>
+        <item>
+          <title>acyl groups</title>
+          <url>https://goldbook.iupac.org/terms/view/A00123</url>
+        </item>
+        <item>
+          <title>hydrazones</title>
+          <url>https://goldbook.iupac.org/terms/view/H02884</url>
+        </item>
+        <item>
+          <title>hydrocarbyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02891</url>
+        </item>
+        <item>
+          <title>acyl groups</title>
+          <url>https://goldbook.iupac.org/terms/view/A00123</url>
+        </item>
+        <item>
+          <title>hydrazones</title>
+          <url>https://goldbook.iupac.org/terms/view/H02884</url>
+        </item>
+        <item>
+          <title>azines</title>
+          <url>https://goldbook.iupac.org/terms/view/A00557</url>
+        </item>
+        <item>
+          <title>hydrazo compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/H02883</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1341 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hidrazid (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Hidrazid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrazidă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Hidrazidă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydratsiinit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Hydratsiinit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrazide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrazide</url>
+    </item>
+    <item>
+      <title>Wikipedia - هیدرازید (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/هیدرازید</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஐதரசைடு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஐதரசைடு</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02881/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02881/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02881/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02881/plain</plain>
+  </links>
+  <citation>Citation: 'hydrazines' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02881</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:55:08+00:00</accessed>
+</term>

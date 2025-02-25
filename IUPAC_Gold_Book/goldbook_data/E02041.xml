@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02041</id>
+  <doi>10.1351/goldbook.E02041</doi>
+  <code>E02041</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - elute</longtitle>
+  <title>elute</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>To chromatograph by elution chromatography. This term is preferred to the term 'develop', which has been used in paper chromatography and in thin-layer chromatography. The process of elution may continue until the components have left the chromatographic bed.</text>
+      <links>
+        <item>
+          <title>elution chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/E02046</url>
+        </item>
+        <item>
+          <title>thin-layer chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/T06346</url>
+        </item>
+        <item>
+          <title>elution chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/E02046</url>
+        </item>
+        <item>
+          <title>thin-layer chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/T06346</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>elution</title>
+          <url>https://goldbook.iupac.org/terms/view/E02042</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 95 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2186 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 824 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02041/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02041/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02041/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02041/plain</plain>
+  </links>
+  <citation>Citation: 'elute' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02041</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:16:17+00:00</accessed>
+</term>

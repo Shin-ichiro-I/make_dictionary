@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04458</id>
+  <doi>10.1351/goldbook.P04458</doi>
+  <code>P04458</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - peak elution volume (time), ̄V_R,̄t_R, in column chromatography</longtitle>
+  <title>peak elution volume (time)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The volume of mobile phase entering the column between the start of the elution and the emergence of the peak maximum, or the corresponding time. In most of the cases, this is equal to the total retention volume (time). There are, however, cases when the elution process does not start immediately at sample introduction. For example, in liquid chromatography, sometimes the column is washed with a liquid after the application of the sample to displace certain components which are of no interest and during this treatment the sample does not move along the column. In gas chromatography, there are also cases when a liquid sample is applied to the top of the column but its elution starts only after a given period. This term is useful in such cases.</text>
+      <contexts>
+        <in>
+          <item>column chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>elution</title>
+          <url>https://goldbook.iupac.org/terms/view/E02042</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 104 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 841 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04458/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04458/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04458/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04458/plain</plain>
+  </links>
+  <citation>Citation: 'peak elution volume (time)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04458</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:12:27+00:00</accessed>
+</term>

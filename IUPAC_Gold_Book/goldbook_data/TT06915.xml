@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06915</id>
+  <doi>10.1351/goldbook.TT06915</doi>
+  <code>TT06915</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - threshold limit value (TLV)</longtitle>
+  <title>threshold limit value</title>
+  <abbrevs>
+    <item>ACGIH</item>
+    <item>STEL</item>
+    <item>TLV</item>
+    <item>TWA</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The concentration in air to which it is believed that most workers can be exposed daily without an adverse effect (i.e., effectively, the threshold between safe and dangerous concentrations). The values were established (and are revised annually) by the ACGIH and are time-weighted concentrations (TWA) for a 7- or 8-h workday and 40-h workweek, and thus are related to chronic effects. A short-term exposure limit (STEL) is defined as a 15-min TWA exposure, which should not be exceeded at any time during a workday even if the 8-h TWA is within the TLV-TWA.</text>
+      <links>
+        <item>
+          <title>adverse effect</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06809</url>
+        </item>
+        <item>
+          <title>adverse effect</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06809</url>
+        </item>
+        <item>
+          <title>exposure (in medicinal chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/ET06811</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2001, 73, 993. 'Risk assessment for occupational exposure to chemicals. A review of current methodology (IUPAC Technical Report)' on page 1024 (https://doi.org/10.1351/pac200173060993)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Threshold Limit Value (it)</title>
+      <url>https://it.wikipedia.org/wiki/Threshold_Limit_Value</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/TT06915/html</html>
+    <json>https://goldbook.iupac.org/terms/view/TT06915/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/TT06915/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/TT06915/plain</plain>
+  </links>
+  <citation>Citation: 'threshold limit value' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.TT06915</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:43:10+00:00</accessed>
+</term>

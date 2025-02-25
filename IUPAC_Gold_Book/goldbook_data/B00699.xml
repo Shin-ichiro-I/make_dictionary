@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00699</id>
+  <doi>10.1351/goldbook.B00699</doi>
+  <code>B00699</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - bond-dissociation energy, D</longtitle>
+  <title>bond-dissociation energy</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The enthalpy (per mole) required to break a given bond of some specific molecular entity by homolysis, e.g. for [image: Not defined], symbolized as D(CH3 - H) (cf. heterolytic bond dissociation energy).</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/B00699.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>bond energy</title>
+          <url>https://goldbook.iupac.org/terms/view/B00701</url>
+        </item>
+        <item>
+          <title>bond energy</title>
+          <url>https://goldbook.iupac.org/terms/view/B00701</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>bond energy</title>
+          <url>https://goldbook.iupac.org/terms/view/B00701</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>mole</title>
+          <url>https://goldbook.iupac.org/terms/view/M03980</url>
+        </item>
+        <item>
+          <title>bond dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/B00698</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>D(CH3 - H)</alttext>
+          <latex>D\left(\text{CH}_{3}\,-\text{H}\right)</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2176 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1089 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Bağ ayrışma enerjisi (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Bağ_ayrışma_enerjisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bindungsenergie (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Bindungsenergie_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bond-dissociation energy (en)</title>
+      <url>https://en.wikipedia.org/wiki/Bond-dissociation_energy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Energi disosiasi ikatan (id)</title>
+      <url>https://id.wikipedia.org/wiki/Energi_disosiasi_ikatan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Energia di dissociazione di legame (it)</title>
+      <url>https://it.wikipedia.org/wiki/Energia_di_dissociazione_di_legame</url>
+    </item>
+    <item>
+      <title>Wikipedia - Template talk:GoldBookRef (en)</title>
+      <url>https://en.wikipedia.org/wiki/Template_talk:GoldBookRef</url>
+    </item>
+    <item>
+      <title>Wikipedia - Énergie de dissociation d'une liaison (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Énergie_de_dissociation_d'une_liaison</url>
+    </item>
+    <item>
+      <title>Wikipedia - انرژی تفکیک پیوند (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/انرژی_تفکیک_پیوند</url>
+    </item>
+    <item>
+      <title>Wikipedia - طاقة تفكك الرابطة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/طاقة_تفكك_الرابطة</url>
+    </item>
+    <item>
+      <title>Wikipedia - ホモリシス (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ホモリシス</url>
+    </item>
+    <item>
+      <title>Wikipedia - 結合解離エネルギー (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/結合解離エネルギー</url>
+    </item>
+    <item>
+      <title>Wikipedia - 键离解能 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/键离解能</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00699/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00699/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00699/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00699/plain</plain>
+  </links>
+  <citation>Citation: 'bond-dissociation energy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00699</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:13:45+00:00</accessed>
+</term>

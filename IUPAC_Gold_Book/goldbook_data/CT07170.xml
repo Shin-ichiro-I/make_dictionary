@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07170</id>
+  <doi>10.1351/goldbook.CT07170</doi>
+  <code>CT07170</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - conducting polymer</longtitle>
+  <title>conducting polymer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Polymeric material that exhibits bulk electric conductivity.</text>
+      <notes>
+        <item>The electric conductivity of a conjugated polymer is markedly increased by doping it with an electron donor or acceptor, as in the case of polyacetylene doped with iodine.</item>
+        <item>A polymer showing a substantial increase in electric conductivity upon irradiation with ultraviolet or visible light is called a photoconductive polymer; an example is poly(N-vinylcarbazole).</item>
+        <item>A polymer that shows electric conductivity due to the transport of ionic species is called an ion-conducting polymer; an example is sulfonated polyaniline. When the transported ionic species is a proton as, e.g., in the case of fuel cells, it is called a proton-conducting polymer.</item>
+        <item>A polymer that shows electric semiconductivity is called a semiconducting polymer.</item>
+        <item>Electric conductance of a non-conducting polymer can be achieved by dispersing conducting particles (e.g., metal, carbon black) in the polymer. The resulting materials are referred to as conducting polymer composites or solid polymer-electrolyte composites.</item>
+      </notes>
+      <links>
+        <item>
+          <title>electric conductivity</title>
+          <url>https://goldbook.iupac.org/terms/view/E01926</url>
+        </item>
+        <item>
+          <title>electron donor</title>
+          <url>https://goldbook.iupac.org/terms/view/E01988</url>
+        </item>
+        <item>
+          <title>irradiation</title>
+          <url>https://goldbook.iupac.org/terms/view/I03255</url>
+        </item>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+        <item>
+          <title>Electric conductance</title>
+          <url>https://goldbook.iupac.org/terms/view/E01925</url>
+        </item>
+        <item>
+          <title>carbon black</title>
+          <url>https://goldbook.iupac.org/terms/view/C00824</url>
+        </item>
+        <item>
+          <title>Polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>electric conductivity</title>
+          <url>https://goldbook.iupac.org/terms/view/E01926</url>
+        </item>
+        <item>
+          <title>electron donor</title>
+          <url>https://goldbook.iupac.org/terms/view/E01988</url>
+        </item>
+        <item>
+          <title>irradiation</title>
+          <url>https://goldbook.iupac.org/terms/view/I03255</url>
+        </item>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+        <item>
+          <title>Electric conductance</title>
+          <url>https://goldbook.iupac.org/terms/view/E01925</url>
+        </item>
+        <item>
+          <title>carbon black</title>
+          <url>https://goldbook.iupac.org/terms/view/C00824</url>
+        </item>
+        <item>
+          <title>Polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>conductivity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01245</url>
+        </item>
+        <item>
+          <title>photoconductivity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04591</url>
+        </item>
+        <item>
+          <title>semiconductor</title>
+          <url>https://goldbook.iupac.org/terms/view/S05591</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 898 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - 導電性高分子 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/導電性高分子</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT07170/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT07170/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT07170/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT07170/plain</plain>
+  </links>
+  <citation>Citation: 'conducting polymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT07170</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:41:18+00:00</accessed>
+</term>

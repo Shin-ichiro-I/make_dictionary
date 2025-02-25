@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02593</id>
+  <doi>10.1351/goldbook.G02593</doi>
+  <code>G02593</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - gauche</longtitle>
+  <title>gauche</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Synonymous with a synclinal alignment of groups attached to adjacent atoms.</text>
+      <links>
+        <item>
+          <title>synclinal</title>
+          <url>https://goldbook.iupac.org/terms/view/T06406</url>
+        </item>
+        <item>
+          <title>synclinal</title>
+          <url>https://goldbook.iupac.org/terms/view/T06406</url>
+        </item>
+      </links>
+      <sources>
+        <item>Blue Book, p. 484 (https://www.acdlabs.com/iupac/nomenclature/)</item>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2209 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alkane stereochemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Alkane_stereochemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Conformational isomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Conformational_isomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Effetto gauche (it)</title>
+      <url>https://it.wikipedia.org/wiki/Effetto_gauche</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gauche effect (en)</title>
+      <url>https://en.wikipedia.org/wiki/Gauche_effect</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rotamer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Rotamer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rotamers (en)</title>
+      <url>https://en.wikipedia.org/wiki/Rotamers</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stereochemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Stereochemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stereokemija (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Stereokemija</url>
+    </item>
+    <item>
+      <title>Wikipedia - 烷烴立體化學 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/烷烴立體化學</url>
+    </item>
+    <item>
+      <title>Wikipedia - 邻位交叉效应 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/邻位交叉效应</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02593/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02593/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02593/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02593/plain</plain>
+  </links>
+  <citation>Citation: 'gauche' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02593</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:40:08+00:00</accessed>
+</term>

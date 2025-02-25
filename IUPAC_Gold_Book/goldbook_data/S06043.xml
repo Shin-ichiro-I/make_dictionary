@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06043</id>
+  <doi>10.1351/goldbook.S06043</doi>
+  <code>S06043</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stratosphere</longtitle>
+  <title>stratosphere</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The atmospheric shell lying just above the troposphere which is characterized by an increasing temperature with altitude. The stratosphere begins at the tropopause (about 10-15 km - 50 km height) and extends to a height of about , where the lapse rate changes sign at the stratopause and the beginning of the mesosphere.</text>
+      <links>
+        <item>
+          <title>troposphere</title>
+          <url>https://goldbook.iupac.org/terms/view/T06522</url>
+        </item>
+        <item>
+          <title>tropopause</title>
+          <url>https://goldbook.iupac.org/terms/view/T06521</url>
+        </item>
+        <item>
+          <title>mesosphere</title>
+          <url>https://goldbook.iupac.org/terms/view/M03855</url>
+        </item>
+        <item>
+          <title>troposphere</title>
+          <url>https://goldbook.iupac.org/terms/view/T06522</url>
+        </item>
+        <item>
+          <title>tropopause</title>
+          <url>https://goldbook.iupac.org/terms/view/T06521</url>
+        </item>
+        <item>
+          <title>mesosphere</title>
+          <url>https://goldbook.iupac.org/terms/view/M03855</url>
+        </item>
+        <item>
+          <title>stratopause</title>
+          <url>https://goldbook.iupac.org/terms/view/S06042</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>10-15 km</alttext>
+          <latex>10{-}15\ \text{km}</latex>
+        </item>
+        <item>
+          <alttext>50 km</alttext>
+          <latex>50\ \text{km}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2217 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Stratosfera (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stratosfera</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Jeannette Piccard (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Jeannette_Piccard</url>
+    </item>
+    <item>
+      <title>Wikipedia - ستراتوسفير (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ستراتوسفير</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06043/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06043/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06043/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06043/plain</plain>
+  </links>
+  <citation>Citation: 'stratosphere' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06043</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:27:38+00:00</accessed>
+</term>

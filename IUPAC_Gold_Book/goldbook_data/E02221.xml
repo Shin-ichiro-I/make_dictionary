@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02221</id>
+  <doi>10.1351/goldbook.E02221</doi>
+  <code>E02221</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ethers</longtitle>
+  <title>ethers</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds ROR (R ≠ H). (Compounds R3SiOR, silicon analogues of ethers, are trialkylsilyloxy compounds). E.g. CH3CH2OCH2CH3,</text>
+      <links>
+        <item>
+          <title>acetals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00062</url>
+        </item>
+        <item>
+          <title>epoxy compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/E02173</url>
+        </item>
+        <item>
+          <title>ortho esters</title>
+          <url>https://goldbook.iupac.org/terms/view/O04334</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1334 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Eetterit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Eetterit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Eter (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Eter</url>
+    </item>
+    <item>
+      <title>Wikipedia - Eter (id)</title>
+      <url>https://id.wikipedia.org/wiki/Eter</url>
+    </item>
+    <item>
+      <title>Wikipedia - Eteri (it)</title>
+      <url>https://it.wikipedia.org/wiki/Eteri</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ether (cy)</title>
+      <url>https://cy.wikipedia.org/wiki/Ether</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ether (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ether</url>
+    </item>
+    <item>
+      <title>Wikipedia - Éter (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Éter</url>
+    </item>
+    <item>
+      <title>Wikipedia - Éter (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Éter_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Етар (хемија) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Етар_(хемија)</url>
+    </item>
+    <item>
+      <title>Wikipedia - إيثر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إيثر</url>
+    </item>
+    <item>
+      <title>Wikipedia - ইথার (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ইথার</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஈதர் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஈதர்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ఈథరు (te)</title>
+      <url>https://te.wikipedia.org/wiki/ఈథరు</url>
+    </item>
+    <item>
+      <title>Wikipedia - 醚 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/醚</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02221/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02221/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02221/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02221/plain</plain>
+  </links>
+  <citation>Citation: 'ethers' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02221</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:23:50+00:00</accessed>
+</term>

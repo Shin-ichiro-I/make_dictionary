@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01431</id>
+  <doi>10.1351/goldbook.C01431</doi>
+  <code>C01431</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - crystalline electrodes</longtitle>
+  <title>crystalline electrodes</title>
+  <contains>heterogeneous membrane electrode, homogeneous membrane electrode</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <intro>Electrodes which contain mobile ions of one sign and fixed sites of opposite sign. They may be homogeneous or heterogeneous. </intro>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Homogeneous membrane electrodes are ion-selective electrodes in which the membrane is a crystalline material prepared from either a single compound or a homogeneous mixture of compounds (i.e. Ag2S, AgI / Ag2S).</text>
+      <links>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>Heterogeneous membrane electrodes are formed when an active substance, or mixture of active substances, is mixed with an inert matrix, such as silicone rubber or PVC, or placed on hydrophobized graphite or conducting epoxy, to form the heterogeneous sensing membrane.</text>
+      <links>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Recommendations for nomenclature of ionselective electrodes (IUPAC Recommendations 1994)' Buck, R.P.;Lindner, E.; Pure and Applied Chemistry 1994 66(12) 2527</sources>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01431/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01431/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01431/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01431/plain</plain>
+  </links>
+  <citation>Citation: 'crystalline electrodes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01431</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:49:32+00:00</accessed>
+</term>

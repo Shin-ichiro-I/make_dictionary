@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03986</id>
+  <doi>10.1351/goldbook.M03986</doi>
+  <code>M03986</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molecular entity</longtitle>
+  <title>molecular entity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity. Molecular entity is used in this Compendium as a general term for singular entities, irrespective of their nature, while chemical species stands for sets or ensembles of molecular entities. Note that the name of a compound may refer to the respective molecular entity or to the chemical species, e.g. methane, may mean a single molecule of CH4 (molecular entity) or a molar amount, specified or not (chemical species), participating in a reaction. The degree of precision necessary to describe a molecular entity depends on the context. For example 'hydrogen molecule' is an adequate definition of a certain molecular entity for some purposes, whereas for others it is necessary to distinguish the electronic state and/or vibrational state and/or nuclear spin, etc. of the hydrogen molecule.</text>
+      <links>
+        <item>
+          <title>ion pair</title>
+          <url>https://goldbook.iupac.org/terms/view/I03231</url>
+        </item>
+        <item>
+          <title>radical ion</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+        <item>
+          <title>conformer</title>
+          <url>https://goldbook.iupac.org/terms/view/C01262</url>
+        </item>
+        <item>
+          <title>precision</title>
+          <url>https://goldbook.iupac.org/terms/view/P04799</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+        <item>
+          <title>ion pair</title>
+          <url>https://goldbook.iupac.org/terms/view/I03231</url>
+        </item>
+        <item>
+          <title>radical ion</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+        <item>
+          <title>conformer</title>
+          <url>https://goldbook.iupac.org/terms/view/C01262</url>
+        </item>
+        <item>
+          <title>precision</title>
+          <url>https://goldbook.iupac.org/terms/view/P04799</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1142 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Newsfeed - Chemical entity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_entity</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (en)</title>
+      <url>https://en.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (id)</title>
+      <url>https://id.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - ChEBI (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/ChEBI</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Molekül (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Molekül</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entidad molecular (es)</title>
+      <url>https://es.wikipedia.org/wiki/Entidad_molecular</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entitat molecular (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Entitat_molecular</url>
+    </item>
+    <item>
+      <title>Wikipedia - Entità molecolare (it)</title>
+      <url>https://it.wikipedia.org/wiki/Entità_molecolare</url>
+    </item>
+    <item>
+      <title>Wikipedia - Indywiduum chemiczne (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Indywiduum_chemiczne</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecular entity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molecular_entity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekui (bar)</title>
+      <url>https://bar.wikipedia.org/wiki/Molekui</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekul (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Molekul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (kaa)</title>
+      <url>https://kaa.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekula (tk)</title>
+      <url>https://tk.wikipedia.org/wiki/Molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekül (de)</title>
+      <url>https://de.wikipedia.org/wiki/Molekül</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molècula (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Molècula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molécula (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Molécula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Chemical substance (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Chemical_substance</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Molecular entity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Molecular_entity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекул (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Молекул</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (ba)</title>
+      <url>https://ba.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (cv)</title>
+      <url>https://cv.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (tg)</title>
+      <url>https://tg.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекула (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Молекула</url>
+    </item>
+    <item>
+      <title>Wikipedia - الكيانات الكيميائية للأهمية البيولوجية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/الكيانات_الكيميائية_للأهمية_البيولوجية</url>
+    </item>
+    <item>
+      <title>Wikipedia - كيان جزيئي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كيان_جزيئي</url>
+    </item>
+    <item>
+      <title>Wikipedia - هستار مولکولی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/هستار_مولکولی</url>
+    </item>
+    <item>
+      <title>Wikipedia - ചെബി (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/ചെബി</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子実体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/分子実体</url>
+    </item>
+    <item>
+      <title>Wikipedia - 実体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/実体</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03986/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03986/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03986/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03986/plain</plain>
+  </links>
+  <citation>Citation: 'molecular entity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03986</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:46:20+00:00</accessed>
+</term>

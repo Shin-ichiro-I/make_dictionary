@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03175</id>
+  <doi>10.1351/goldbook.I03175</doi>
+  <code>I03175</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ionic conductivity</longtitle>
+  <title>ionic conductivity</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Defined for ionic species B by where z B is the charge number of the ionic species B, F is the Faraday constant, and u B is the electric mobility of species B. In most current practice z B is taken as unity, i.e. ionic conductivity is taken as that of species such as Na+, Ca2+/2, La3+/3 etc. To avoid ambiguity the species considered should be clearly stated, e.g. as λ Ca 2+ / 2.</text>
+      <links>
+        <item>
+          <title>charge number</title>
+          <url>https://goldbook.iupac.org/terms/view/C00993</url>
+        </item>
+        <item>
+          <title>Faraday constant</title>
+          <url>https://goldbook.iupac.org/terms/view/F02325</url>
+        </item>
+        <item>
+          <title>charge number</title>
+          <url>https://goldbook.iupac.org/terms/view/C00993</url>
+        </item>
+        <item>
+          <title>Faraday constant</title>
+          <url>https://goldbook.iupac.org/terms/view/F02325</url>
+        </item>
+        <item>
+          <title>electric mobility</title>
+          <url>https://goldbook.iupac.org/terms/view/E01932</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>λ = | z B | F u B</alttext>
+          <latex>\lambda = |z_{\text{B}}|\ F\ u_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>z B</alttext>
+          <latex>z_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>F</alttext>
+          <latex>F</latex>
+        </item>
+        <item>
+          <alttext>u B</alttext>
+          <latex>u_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>z B</alttext>
+          <latex>z_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>λ Ca 2+ / 2</alttext>
+          <latex>\lambda (\text{Ca}^{\text{2+}}/2)</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1974, 37, 499. 'Electrochemical nomenclature' on page 512 (https://doi.org/10.1351/pac197437040499)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03175/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03175/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03175/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03175/plain</plain>
+  </links>
+  <citation>Citation: 'ionic conductivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03175</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:09:57+00:00</accessed>
+</term>

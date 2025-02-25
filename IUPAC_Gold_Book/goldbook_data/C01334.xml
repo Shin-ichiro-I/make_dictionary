@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01334</id>
+  <doi>10.1351/goldbook.C01334</doi>
+  <code>C01334</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - coordinatively unsaturated complex</longtitle>
+  <title>coordinatively unsaturated complex</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A transition metal complex that possesses fewer ligands than exist in the coordinatively saturated complex. These complexes usually have fewer than 18 outer shell electrons at the central metal atom.</text>
+      <links>
+        <item>
+          <title>ligands</title>
+          <url>https://goldbook.iupac.org/terms/view/L03518</url>
+        </item>
+        <item>
+          <title>coordinatively saturated complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01333</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1100 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hợp chất bão hòa và không bão hòa (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Hợp_chất_bão_hòa_và_không_bão_hòa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nasycené a nenasycené sloučeniny (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Nasycené_a_nenasycené_sloučeniny</url>
+    </item>
+    <item>
+      <title>Wikipedia - Saturated and unsaturated compounds (en)</title>
+      <url>https://en.wikipedia.org/wiki/Saturated_and_unsaturated_compounds</url>
+    </item>
+    <item>
+      <title>Wikipedia - Saturation (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Saturation_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zasićeni spoj (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Zasićeni_spoj</url>
+    </item>
+    <item>
+      <title>Wikipedia - תרכובת רוויה (he)</title>
+      <url>https://he.wikipedia.org/wiki/תרכובת_רוויה</url>
+    </item>
+    <item>
+      <title>Wikipedia - 포화 화합물 및 불포화 화합물 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/포화_화합물_및_불포화_화합물</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01334/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01334/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01334/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01334/plain</plain>
+  </links>
+  <citation>Citation: 'coordinatively unsaturated complex' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01334</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:45:36+00:00</accessed>
+</term>

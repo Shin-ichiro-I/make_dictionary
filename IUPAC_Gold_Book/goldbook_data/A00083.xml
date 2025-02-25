@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00083</id>
+  <doi>10.1351/goldbook.A00083</doi>
+  <code>A00083</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - acid rain, in atmospheric chemistry</longtitle>
+  <title>acid rain</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Rain with pH values &amp;lt; about 5; commonly results from acids formed from pollutants. 'Pure' rain water equilibrated with atmospheric CO2 and naturally occurring acids in relatively clean air usually has a pH &amp;gt; 5.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <math>
+        <item>
+          <meaning>pH</meaning>
+          <type>quantity</type>
+          <alttext>pH</alttext>
+          <latex>\text{pH}</latex>
+        </item>
+        <item>
+          <meaning>pH</meaning>
+          <type>math</type>
+          <alttext>pH &amp;gt; 5</alttext>
+          <latex>\text{pH} &gt; 5</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2170 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acid rain (en)</title>
+      <url>https://en.wikipedia.org/wiki/Acid_rain</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pioeuva acida (lmo)</title>
+      <url>https://lmo.wikipedia.org/wiki/Pioeuva_acida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pioggia acida (it)</title>
+      <url>https://it.wikipedia.org/wiki/Pioggia_acida</url>
+    </item>
+    <item>
+      <title>Wikipedia - مطر حمضي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مطر_حمضي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00083/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00083/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00083/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00083/plain</plain>
+  </links>
+  <citation>Citation: 'acid rain' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00083</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:40:37+00:00</accessed>
+</term>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02959</id>
+  <doi>10.1351/goldbook.I02959</doi>
+  <code>I02959</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - imino acids</longtitle>
+  <title>imino acids</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An obsolete term, which should not be used, for imidic acids.</text>
+      <links>
+        <item>
+          <title>imidic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/I02949</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>Any carboxylic acid having an imino substituent, HN=, replacing two hydrogens. A shortened form of imino carboxylic acid.</text>
+      <links>
+        <item>
+          <title>carboxylic acid</title>
+          <url>https://goldbook.iupac.org/terms/view/C00852</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>Obsolescent term for azaalkanoic acids and azacycloalkane-2-carboxylic acids, e.g. proline: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/I02959.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>carboxylic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/C00852</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' Moss, G.P.;Smith, P.A.S.;Tavernier, D.; Pure and Applied Chemistry 1995 67(8-9) 1307</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acide iminé (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Acide_iminé</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amino acid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Amino_acid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amino acid (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Amino_acid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amino asit (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Amino_asit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Axit amin (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Axit_amin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imidic acid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Imidic_acid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imino acid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Imino_acid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Iminokwasy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Iminokwasy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Iminosyra (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Iminosyra</url>
+    </item>
+    <item>
+      <title>Wikipedia - Iminosäuren (de)</title>
+      <url>https://de.wikipedia.org/wiki/Iminosäuren</url>
+    </item>
+    <item>
+      <title>Wikipedia - Iminoácido (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Iminoácido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imminoacido (it)</title>
+      <url>https://it.wikipedia.org/wiki/Imminoacido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prolin (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Prolin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Imino acid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Imino_acid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Non-proteinogenic amino acids (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Non-proteinogenic_amino_acids</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Proline (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Proline</url>
+    </item>
+    <item>
+      <title>Wikipedia - Пролин (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Пролин</url>
+    </item>
+    <item>
+      <title>Wikipedia - ایمیدیک اسید (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ایمیدیک_اسید</url>
+    </item>
+    <item>
+      <title>Wikipedia - حمض إيميني (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حمض_إيميني</url>
+    </item>
+    <item>
+      <title>Wikipedia - অ্যামিনো অ্যাসিড (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/অ্যামিনো_অ্যাসিড</url>
+    </item>
+    <item>
+      <title>Wikipedia - அமினோ அமிலம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/அமினோ_அமிலம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - イミノ酸 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/イミノ酸</url>
+    </item>
+    <item>
+      <title>Wikipedia - 亞胺酸 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/亞胺酸</url>
+    </item>
+    <item>
+      <title>Wikipedia - 아미노산 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/아미노산</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02959/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02959/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02959/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02959/plain</plain>
+  </links>
+  <citation>Citation: 'imino acids' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02959</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:59:31+00:00</accessed>
+</term>

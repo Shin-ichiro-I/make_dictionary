@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00985</id>
+  <doi>10.1351/goldbook.C00985</doi>
+  <code>C00985</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - characteristic X-ray emission</longtitle>
+  <title>characteristic X-ray emission</title>
+  <contains>fluorescence excitation <em>of X-rays</em>, primary excitation <em>of X-rays</em>, secondary excitation <em>of X-rays</em></contains>
+  <abbrevs>
+    <item>PIXE</item>
+  </abbrevs>
+  <synonyms>
+    <item>characteristic X-radiation</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>X-ray emission originates from the radiative decay of electronically highly excited states of matter. Excitation by electrons is called primary excitation and by photons, secondary or fluorescence excitation. Particle induced X-ray emission (PIXE) is produced by the excitation of heavier particles such as protons, deuterons or heavy atoms in varying degrees of ionization. Emission of photons in the X-ray wavelength region also occurs from ionized gases or plasmas at high temperatures, from nuclear processes (low-energy end of the gamma-ray spectrum) and from radiative transitions between muonic states. Characteristic X-ray emission consists of a series of X-ray spectral lines with discrete frequencies, characteristic of the emitting atom. Other features are emission bands from transitions to valence levels. In a spectrum obtained with electron or photon excitation the most intense lines are called diagram lines or normal X-ray lines. They are dipole allowed transitions between normal X-ray diagram levels.</text>
+      <links>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>diagram levels (in X-ray spectroscopy)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01663</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1991, 63, 735. 'Nomenclature, symbols, units and their usage in spectrochemical analysis - VIII. Nomenclature system for X-ray spectroscopy (Recommendations 1991)' on page 737 (https://doi.org/10.1351/pac199163050735)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00985/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00985/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00985/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00985/plain</plain>
+  </links>
+  <citation>Citation: 'characteristic X-ray emission' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00985</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:27:44+00:00</accessed>
+</term>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00428</id>
+  <doi>10.1351/goldbook.A00428</doi>
+  <code>A00428</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Archibald's method</longtitle>
+  <title>Archibald's method</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A sedimentation method based on the fact that at the meniscus and at the bottom of the centrifuge cell there is never a flux of the solute across a plane perpendicular to the radial direction and the equations characterizing the sedimentation equilibrium always apply there, even though the system as a whole may be far from equilibrium. The use of the term 'approach to sedimentation equilibrium' for Archibald's method is discouraged, since it has a more general meaning.</text>
+      <links>
+        <item>
+          <title>sedimentation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05534</url>
+        </item>
+        <item>
+          <title>sedimentation equilibrium</title>
+          <url>https://goldbook.iupac.org/terms/view/S05536</url>
+        </item>
+      </links>
+      <sources>
+        <item>Purple Book, 1st ed., p. 62 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00428/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00428/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00428/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00428/plain</plain>
+  </links>
+  <citation>Citation: 'Archibald's method' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00428</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:58:10+00:00</accessed>
+</term>

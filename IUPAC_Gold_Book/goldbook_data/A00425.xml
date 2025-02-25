@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00425</id>
+  <doi>10.1351/goldbook.A00425</doi>
+  <code>A00425</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aprotic (solvent)</longtitle>
+  <title>aprotic (solvent)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-protogenic (in a given situation). (With extremely strong Brønsted acids or bases, solvents that are normally aprotic may accept or lose a proton. For example, acetonitrile is in most instances an aprotic solvent, but it is protophilic in the presence of concentrated sulfuric acid and protogenic in the presence of potassium tert-butoxide. Similar considerations apply to benzene, trichloromethane, etc.)</text>
+      <links>
+        <item>
+          <title>dipolar aprotic solvent</title>
+          <url>https://goldbook.iupac.org/terms/view/D01751</url>
+        </item>
+        <item>
+          <title>dipolar aprotic solvent</title>
+          <url>https://goldbook.iupac.org/terms/view/D01751</url>
+        </item>
+        <item>
+          <title>protogenic</title>
+          <url>https://goldbook.iupac.org/terms/view/P04904</url>
+        </item>
+        <item>
+          <title>Brønsted acids</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>bases</title>
+          <url>https://goldbook.iupac.org/terms/view/B00745</url>
+        </item>
+        <item>
+          <title>protophilic</title>
+          <url>https://goldbook.iupac.org/terms/view/P04916</url>
+        </item>
+        <item>
+          <title>dipolar aprotic solvent</title>
+          <url>https://goldbook.iupac.org/terms/view/D01751</url>
+        </item>
+        <item>
+          <title>protogenic</title>
+          <url>https://goldbook.iupac.org/terms/view/P04904</url>
+        </item>
+        <item>
+          <title>Brønsted acids</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>bases</title>
+          <url>https://goldbook.iupac.org/terms/view/B00745</url>
+        </item>
+        <item>
+          <title>protophilic</title>
+          <url>https://goldbook.iupac.org/terms/view/P04916</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1085 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Solvente aprotico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Solvente_aprotico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Растворитель (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Растворитель</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00425/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00425/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00425/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00425/plain</plain>
+  </links>
+  <citation>Citation: 'aprotic (solvent)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00425</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:58:00+00:00</accessed>
+</term>

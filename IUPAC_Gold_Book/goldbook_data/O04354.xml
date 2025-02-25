@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04354</id>
+  <doi>10.1351/goldbook.O04354</doi>
+  <code>O04354</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - out-of-plane bending coordinate, in molecular geometry</longtitle>
+  <title>out-of-plane bending coordinate</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Given by Δ θ i- j k l = Δ z j r e i j si denotes [image: Not defined] the angle between the bonds ik and il, Δ z j the perpendicular distance of the atom j from the instantaneous plane ikl and r e i j the equilibrium length of the bond ij.</text>
+      <contexts>
+        <in>
+          <item>molecular geometry</item>
+        </in>
+      </contexts>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/O04354.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Δ θ i- j k l = Δ z j r e i j si</alttext>
+          <latex>\Delta \theta _{i- jkl}=\frac{\Delta z_{j}}{r_{eij}}\ \sin   \mathit{\Phi }_{kil}</latex>
+        </item>
+        <item>
+          <alttext>Φ k i l</alttext>
+          <latex>\mathit{\Phi} _{kil}</latex>
+        </item>
+        <item>
+          <meaning>Bond ik</meaning>
+          <type>symbol</type>
+          <alttext>ik</alttext>
+          <latex>ik</latex>
+        </item>
+        <item>
+          <meaning>Bond il</meaning>
+          <type>symbol</type>
+          <alttext>il</alttext>
+          <latex>il</latex>
+        </item>
+        <item>
+          <alttext>Δ z j</alttext>
+          <latex>\Delta z_{j}</latex>
+        </item>
+        <item>
+          <alttext>j</alttext>
+          <latex>j</latex>
+        </item>
+        <item>
+          <meaning>Plane ikl</meaning>
+          <type>symbol</type>
+          <alttext>ikl</alttext>
+          <latex>ikl</latex>
+        </item>
+        <item>
+          <alttext>r e i j</alttext>
+          <latex>r_{eij}</latex>
+        </item>
+        <item>
+          <meaning>Bond ij</meaning>
+          <type>symbol</type>
+          <alttext>ij</alttext>
+          <latex>ij</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1978, 50, 1707. 'Definition and Symbolism of Molecular Force Constants' on page 1710 (https://doi.org/10.1351/pac197850111707)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04354/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04354/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04354/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04354/plain</plain>
+  </links>
+  <citation>Citation: 'out-of-plane bending coordinate' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04354</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:07:28+00:00</accessed>
+</term>

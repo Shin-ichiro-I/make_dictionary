@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04071</id>
+  <doi>10.1351/goldbook.M04071</doi>
+  <code>M04071</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mustards</longtitle>
+  <title>mustards</title>
+  <contains>nitrogen mustards</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds having two β-haloalkyl groups bound to a sulfur atom, as in (XC2H2C2H2)2S, and their analogues, the nitrogen (and phosphorus) mustards, (XC2H2C2H2)2NR. Compounds having one β-haloalkyl group and one β-hydroxyalkyl group on S are termed hemi- or semi-mustards by some chemists.</text>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1350 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Dušični iperit (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Dušični_iperit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mostaza nitrogenada (es)</title>
+      <url>https://es.wikipedia.org/wiki/Mostaza_nitrogenada</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mostazas nitrogenadas (es)</title>
+      <url>https://es.wikipedia.org/wiki/Mostazas_nitrogenadas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nitrogen mustard (en)</title>
+      <url>https://en.wikipedia.org/wiki/Nitrogen_mustard</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Mustard gas (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Mustard_gas</url>
+    </item>
+    <item>
+      <title>Wikipedia - خردل نيتروجيني (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/خردل_نيتروجيني</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M04071/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M04071/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M04071/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M04071/plain</plain>
+  </links>
+  <citation>Citation: 'mustards' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M04071</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:51:15+00:00</accessed>
+</term>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04930</id>
+  <doi>10.1351/goldbook.P04930</doi>
+  <code>P04930</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pseudohalogens</longtitle>
+  <title>pseudohalogens</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds that resemble the halogen elements, X2, in their chemistry, e.g. (CN)2 cyanogen, (SCN)2 thiocyanogen, ICN iodine cyanide. Certain ions that have sufficient resemblance to halide ions are sometimes referred to as pseudohalide ions, e.g. N3−, SCN−, CN−.</text>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1361 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fluorowcowodory (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Fluorowcowodory</url>
+    </item>
+    <item>
+      <title>Wikipedia - Halogen giả (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Halogen_giả</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydroselenide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydroselenide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pseudoalogeno (it)</title>
+      <url>https://it.wikipedia.org/wiki/Pseudoalogeno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pseudofluorowce (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Pseudofluorowce</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pseudohalogen (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pseudohalogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pseudohalogen (id)</title>
+      <url>https://id.wikipedia.org/wiki/Pseudohalogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pseudohalogen (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Pseudohalogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - هالوجين زائف (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/هالوجين_زائف</url>
+    </item>
+    <item>
+      <title>Wikipedia - 卤化物 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/卤化物</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04930/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04930/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04930/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04930/plain</plain>
+  </links>
+  <citation>Citation: 'pseudohalogens' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04930</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:36:47+00:00</accessed>
+</term>

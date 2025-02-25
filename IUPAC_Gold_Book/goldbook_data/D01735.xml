@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01735</id>
+  <doi>10.1351/goldbook.D01735</doi>
+  <code>D01735</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - diluent in solvent extraction</longtitle>
+  <title>diluent</title>
+  <contains>cosolvent</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The liquid or homogeneous mixture of liquids in which extractant(s) and possible modifier(s) may be dissolved to form the solvent phase.</text>
+      <notes>
+        <item>The term carrier, which implies an inert diluent is not recommended.</item>
+        <item>Although the diluent may well be a single liquid or even the major portion of the extracting phase, the term solvent should not be used in this sense as it has a much wider meaning in the context of liquid-liquid extraction, although the term cosolvent may be used in certain circumstances.</item>
+        <item>The diluent by itself does not extract the main (extractable) solute appreciably.</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>solvent extraction</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>carrier</title>
+          <url>https://goldbook.iupac.org/terms/view/C00859</url>
+        </item>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>liquid-liquid extraction</title>
+          <url>https://goldbook.iupac.org/terms/view/L03587</url>
+        </item>
+        <item>
+          <title>extractant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02299</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2380 (https://doi.org/10.1351/pac199365112373)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - مخفف (مادة) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مخفف_(مادة)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01735/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01735/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01735/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01735/plain</plain>
+  </links>
+  <citation>Citation: 'diluent' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01735</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:01:40+00:00</accessed>
+</term>

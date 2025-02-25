@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02924</id>
+  <doi>10.1351/goldbook.H02924</doi>
+  <code>H02924</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hyperconjugation</longtitle>
+  <title>hyperconjugation</title>
+  <contains>heterovalent hyperconjugation, isovalent hyperconjugation, sacrificial hyperconjugation</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In the formalism that separates bonds into σ and π types, hyperconjugation is the interaction of σ-bonds (e.g. C–H, C–C, etc.) with a π network. This interaction is customarily illustrated by contributing structures, e.g. for toluene (below), sometimes said to be an example of 'heterovalent' or 'sacrificial hyperconjugation', so named because the contributing structure contains one two-electron bond less than the normal Lewis formula for toluene: [image: Not defined] At present, there is no evidence for sacrificial hyperconjugation in neutral hydrocarbons. The concept of hyperconjugation is also applied to carbenium ions and radicals, where the interaction is now between σ-bonds and an unfilled or partially filled π- or p-orbital. A contributing structure illustrating this for the tert-butyl cation is: [image: Not defined] This latter example is sometimes called an example of 'isovalent hyper-conjugation' (the contributing structure containing the same number of two-electron bonds as the normal Lewis formula). Both structures shown on the right hand side are also examples of 'double bond-no-bond resonance'. The interaction between filled π- or p- orbitals and adjacent antibonding σ* orbitals is referred to as 'negative hyperconjugation', as for example in the fluoroethyl anion: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02924-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02924-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02924-3.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>n-σ*, delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/N04080</url>
+        </item>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>n-σ*, delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/N04080</url>
+        </item>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+        <item>
+          <title>contributing structure</title>
+          <url>https://goldbook.iupac.org/terms/view/C01309</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>conjugation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>no-bond resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/N04173</url>
+        </item>
+        <item>
+          <title>anion</title>
+          <url>https://goldbook.iupac.org/terms/view/A00358</url>
+        </item>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>n-σ*, delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/N04080</url>
+        </item>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+        <item>
+          <title>contributing structures</title>
+          <url>https://goldbook.iupac.org/terms/view/C01309</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>conjugation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>no-bond resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/N04173</url>
+        </item>
+        <item>
+          <title>anion</title>
+          <url>https://goldbook.iupac.org/terms/view/A00358</url>
+        </item>
+        <item>
+          <title>Lewis formula (electron dot or Lewis structure)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03513</url>
+        </item>
+        <item>
+          <title>carbenium</title>
+          <url>https://goldbook.iupac.org/terms/view/C00812</url>
+        </item>
+        <item>
+          <title>radicals</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1123 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hiperconjugare (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Hiperconjugare</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hiperconjugação (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Hiperconjugação</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hiperkonjugacija (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Hiperkonjugacija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hiperkonjugacija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Hiperkonjugacija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hiperkonjugasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Hiperkonjugasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hiperkonjugazio (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Hiperkonjugazio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hyperconjugaison (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Hyperconjugaison</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hyperconjugation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hyperconjugation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Iperconiugazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Iperconiugazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - അതിസംയുഗ്മനം (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/അതിസംയുഗ്മനം</url>
+    </item>
+    <item>
+      <title>Wikipedia - 超共役 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/超共役</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02924/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02924/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02924/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02924/plain</plain>
+  </links>
+  <citation>Citation: 'hyperconjugation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02924</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:57:14+00:00</accessed>
+</term>

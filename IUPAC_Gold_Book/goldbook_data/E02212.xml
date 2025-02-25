@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02212</id>
+  <doi>10.1351/goldbook.E02212</doi>
+  <code>E02212</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - erythro, threo</longtitle>
+  <title><em>erythro</em>, <em>threo</em></title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Descriptors of the diastereoisomers of an acyclic structure or partial structure having two stereogenic centres. This notation is derived from carbohydrate nomenclature. The extension of this system has given rise to conflicting interpretations of these prefixes. It is recommended that for such cases the l,u or R*, S* system should be used.</text>
+      <links>
+        <item>
+          <title>diastereoisomers</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>diastereoisomers</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>l, u</title>
+          <url>https://goldbook.iupac.org/terms/view/L03423</url>
+        </item>
+        <item>
+          <title>R*, S*</title>
+          <url>https://goldbook.iupac.org/terms/view/R05425</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Stereochemical descriptor</meaning>
+          <type>symbol</type>
+          <alttext>l</alttext>
+          <latex>\mathit{l}</latex>
+        </item>
+        <item>
+          <meaning>Stereochemical descriptor</meaning>
+          <type>symbol</type>
+          <alttext>u</alttext>
+          <latex>\mathit{u}</latex>
+        </item>
+        <item>
+          <meaning>Stereochemical descriptor</meaning>
+          <type>symbol</type>
+          <alttext>R*</alttext>
+          <latex>\textit{R*}</latex>
+        </item>
+        <item>
+          <meaning>Stereochemical descriptor</meaning>
+          <type>symbol</type>
+          <alttext>S*</alttext>
+          <latex>\textit{S*}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2208 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Descriptor (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Descriptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deskriptor (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Deskriptor_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diastereomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Diastereomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diastereomer (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Diastereomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diastereomér (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Diastereomér</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Diastereomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Diastereomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - 非对映异构 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/非对映异构</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02212/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02212/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02212/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02212/plain</plain>
+  </links>
+  <citation>Citation: '<em>erythro</em>, <em>threo</em>' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02212</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:23:30+00:00</accessed>
+</term>

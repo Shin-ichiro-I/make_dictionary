@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07135</id>
+  <doi>10.1351/goldbook.CT07135</doi>
+  <code>CT07135</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical modification</longtitle>
+  <title>chemical modification</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Process by which at least one feature of the chemical constitution of a polymer is changed by chemical reaction(s).</text>
+      <notes>
+        <item>A configurational change (e.g., cis–transisomerization) is not usually referred to as a chemical modification.</item>
+      </notes>
+      <links>
+        <item>
+          <title>trans</title>
+          <url>https://goldbook.iupac.org/terms/view/C01092</url>
+        </item>
+        <item>
+          <title>isomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03295</url>
+        </item>
+        <item>
+          <title>constitution</title>
+          <url>https://goldbook.iupac.org/terms/view/C01282</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 891 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT07135/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT07135/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT07135/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT07135/plain</plain>
+  </links>
+  <citation>Citation: 'chemical modification' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT07135</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:30:09+00:00</accessed>
+</term>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00794</id>
+  <doi>10.1351/goldbook.C00794</doi>
+  <code>C00794</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - capillary condensation</longtitle>
+  <title>capillary condensation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Capillary condensation is said to occur when, in porous solids, multilayer adsorption from a vapour proceeds to the point at which pore spaces are filled with liquid separated from the gas phase by menisci. The concept loses its sense when the dimensions of the pores are so small that the term meniscus ceases to have a physical significance. Capillary condensation is often accompanied by hysteresis.</text>
+      <links>
+        <item>
+          <title>multilayer adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/M04050</url>
+        </item>
+        <item>
+          <title>multilayer adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/M04050</url>
+        </item>
+        <item>
+          <title>hysteresis</title>
+          <url>https://goldbook.iupac.org/terms/view/H02930</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 588 (https://doi.org/10.1351/pac197231040577)</item>
+        <item>PAC, 1976, 46, 71. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units - Appendix II. Definitions, Terminology and Symbols in Colloid and Surface Chemistry. Part II: Heterogeneous Catalysis' on page 76 (https://doi.org/10.1351/pac197646010071)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Condensazione capillare (it)</title>
+      <url>https://it.wikipedia.org/wiki/Condensazione_capillare</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00794/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00794/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00794/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00794/plain</plain>
+  </links>
+  <citation>Citation: 'capillary condensation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00794</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:19:11+00:00</accessed>
+</term>

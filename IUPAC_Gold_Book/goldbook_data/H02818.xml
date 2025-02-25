@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02818</id>
+  <doi>10.1351/goldbook.H02818</doi>
+  <code>H02818</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hexagonal graphite</longtitle>
+  <title>hexagonal graphite</title>
+  <termversion>2.3.2</termversion>
+  <lastupdated>2012-08-19</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The thermodynamically stable form of graphite with an ABAB stacking sequence of the graphene layers. The exact crystallographic description of this allotropic form is given by the space group d6h4 - P63/mmc (unit cell constants: a = 245.6 pm, c = 670.8 pm). Hexagonal graphite is thermodynamically stable below approximately 2600 K and 6 GPa.</text>
+      <notes>
+        <item>The use of the term graphite instead of the more exact term hexagonal graphite may be tolerated in view of the minor importance of rhombohedral graphite, the other allotropic form.</item>
+      </notes>
+      <links>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>unit cell</title>
+          <url>https://goldbook.iupac.org/terms/view/U06562</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>unit cell</title>
+          <url>https://goldbook.iupac.org/terms/view/U06562</url>
+        </item>
+        <item>
+          <title>rhombohedral graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/R05385</url>
+        </item>
+        <item>
+          <title>graphene layers</title>
+          <url>https://goldbook.iupac.org/terms/view/G02683</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>d6h4 - P63/mmc</alttext>
+          <latex>d_{6h}^{4} - P6_{3}/\text{mmc}</latex>
+        </item>
+        <item>
+          <meaning>Cell dimension</meaning>
+          <type>numeric value with unit</type>
+          <alttext>a = 245.6 pm</alttext>
+          <latex>a=245.6\ \mathrm{pm}</latex>
+        </item>
+        <item>
+          <meaning>Interatomic distance</meaning>
+          <type>numeric value with unit</type>
+          <alttext>c = 670.8 pm</alttext>
+          <latex>c=670.8\ \mathrm{pm}</latex>
+        </item>
+        <item>
+          <alttext>2600 K</alttext>
+          <latex>2600\ \text{K}</latex>
+        </item>
+        <item>
+          <alttext>6 GPa</alttext>
+          <latex>6\ \text{GPa}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 494 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02818/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02818/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02818/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02818/plain</plain>
+  </links>
+  <citation>Citation: 'hexagonal graphite' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02818</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:51:47+00:00</accessed>
+</term>

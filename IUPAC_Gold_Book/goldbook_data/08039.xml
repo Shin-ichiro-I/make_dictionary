@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>08039</id>
+  <doi>10.1351/goldbook.08039</doi>
+  <code>08039</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - recovered quantity value ratio</longtitle>
+  <title>recovered quantity value ratio</title>
+  <synonyms>
+    <item>analytical recovery</item>
+    <item>recovery</item>
+  </synonyms>
+  <termversion>5.0.0</termversion>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Measured quantity value relating a component to a system divided by a reference value.</text>
+      <notes>
+        <item>The quantities involved are rational unitary quantities and of the same kind of quantity, usually either a concentration or content.</item>
+        <item>The respective measurement procedure must be specified.</item>
+        <item>The definition can be symbolized by \(R_{\rm{B}} = Q_{\rm{B,measured}}/Q_{\rm{B,reference}}\), where \(R\) denotes the recovered ratio of the quantity values \(Q\), and \(\ce{B}\) identifies the component.</item>
+        <item>The term "recovery" is also used to describe material recovery. Therefore, the term "recovery" should not be used without qualification unless the meaning is clear from the context.</item>
+        <item>Recovery quantity value ratio is used in procedure validation to evaluate and correct for the measurement procedure bias.</item>
+        <item>Recovered quantity value ratio may be estimated from the measured change of the quantity value of the component of interest upon the addition of a known amount of substance or mass of the component. The added material containing the component is often termed "spike".</item>
+      </notes>
+      <links>
+        <item>
+          <title>measurement procedure with standard addition</title>
+          <url>https://goldbook.iupac.org/terms/view/08030</url>
+        </item>
+        <item>
+          <title>blank material</title>
+          <url>https://goldbook.iupac.org/terms/view/08010</url>
+        </item>
+        <item>
+          <title>spike</title>
+          <url>https://goldbook.iupac.org/terms/view/08047</url>
+        </item>
+        <item>
+          <title>measurement procedure bias</title>
+          <url>https://goldbook.iupac.org/terms/view/08029</url>
+        </item>
+        <item>
+          <title>measurement procedure</title>
+          <url>https://goldbook.iupac.org/terms/view/08028</url>
+        </item>
+        <item>
+          <title>material recovery</title>
+          <url>https://goldbook.iupac.org/terms/view/08026</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2021, 93, 997. 'Metrological and quality concepts in analytical chemistry (IUPAC Recommendations 2021)' on page 1014 (https://doi.org/10.1515/pac-2019-0819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/08039/html</html>
+    <json>https://goldbook.iupac.org/terms/view/08039/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/08039/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/08039/plain</plain>
+  </links>
+  <citation>Citation: 'recovered quantity value ratio' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.08039</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:48:50+00:00</accessed>
+</term>

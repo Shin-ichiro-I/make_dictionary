@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01746</id>
+  <doi>10.1351/goldbook.D01746</doi>
+  <code>D01746</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Dimroth–Reichardt ET parameter</longtitle>
+  <title>Dimroth–Reichardt <em>E</em><sub>T</sub> parameter</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A measure of the ionizing power (loosely polarity) of a solvent, based on the maximum wavenumber of the longest wavelength electronic absorption band of: [image: Not defined] in a given solvent. ET, called ET(30) by its originators, is given by: ET = 2.859 x 10E-3.ν = 2.859 x 10E4 λ-1 is in kcal mol-1, ν is in cm-1 and λ is in nm. The so-called normalized ETN scale is defined as: </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01746.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>Grunwald–Winstein equation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02710</url>
+        </item>
+        <item>
+          <title>Z-value</title>
+          <url>https://goldbook.iupac.org/terms/view/Z06737</url>
+        </item>
+        <item>
+          <title>Grunwald–Winstein equation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02710</url>
+        </item>
+        <item>
+          <title>Z-value</title>
+          <url>https://goldbook.iupac.org/terms/view/Z06737</url>
+        </item>
+        <item>
+          <title>ionizing power</title>
+          <url>https://goldbook.iupac.org/terms/view/I03215</url>
+        </item>
+        <item>
+          <title>polarity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04710</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Dimroth–Reichardt parameter</meaning>
+          <type>quantity</type>
+          <alttext>ET</alttext>
+          <latex>E_{\text{T}}</latex>
+        </item>
+        <item>
+          <alttext>ET(30)</alttext>
+          <latex>E_{\text{T}}(30)</latex>
+        </item>
+        <item>
+          <alttext>ET = 2.859 x 10E-3.ν = 2.859 x 10E4 λ-1</alttext>
+          <latex>E_{\text{T}} = 2.859\times 10^{-3}\ \nu = 2.859\times 10^{4}\ \lambda ^{-1}</latex>
+        </item>
+        <item>
+          <meaning>Dimroth–Reichardt parameter</meaning>
+          <type>quantity</type>
+          <alttext>ET</alttext>
+          <latex>E_{\text{T}}</latex>
+        </item>
+        <item>
+          <meaning>Kilocalories per mole</meaning>
+          <type>unit</type>
+          <alttext>kcal mol-1</alttext>
+          <latex>\pu{kcal mol-1}</latex>
+        </item>
+        <item>
+          <alttext>ν</alttext>
+          <latex>\nu </latex>
+        </item>
+        <item>
+          <alttext>cm-1</alttext>
+          <latex>\text{cm}^{-1}</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda </latex>
+        </item>
+        <item>
+          <alttext>nm</alttext>
+          <latex>\text{nm}</latex>
+        </item>
+        <item>
+          <alttext>ETN</alttext>
+          <latex>E_{\text{T}}^{\text{N}}</latex>
+        </item>
+        <item>
+          <alttext>ETN = (ET(solvent) - EV(SiMe4))/(ET(Water) - ET(SiMe4)) = (ET(solvent) - 30.7)/32.4</alttext>
+          <latex>E_{\text{T}}^{\text{N}}=\frac{E_{\text{T}}\left(\text{solvent}\right)- E_{\text{T}}\left(\text{Si}\text{Me}_{4}\right)}{E_{\text{T}}\left(\text{water}\right)- E_{\text{T}}\left(\text{Si}\text{Me}_{4}\right)}=\frac{E_{\text{T}}\left(\text{solvent}\right)- 30.7}{32.4}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1106 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01746/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01746/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01746/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01746/plain</plain>
+  </links>
+  <citation>Citation: 'Dimroth–Reichardt <em>E</em><sub>T</sub> parameter' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01746</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:02:05+00:00</accessed>
+</term>

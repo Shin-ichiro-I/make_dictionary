@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02094</id>
+  <doi>10.1351/goldbook.E02094</doi>
+  <code>E02094</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - endo, exo, syn, anti</longtitle>
+  <title><i>endo</i>, <i>exo</i>, <i>syn</i>, <i>anti</i></title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Descriptors of the relative orientation of groups attached to non-bridgehead atoms in a bicyclo[x.y.z]alkane (x ≥ y &amp;gt; z &amp;gt; 0). [image: Not defined] If the group is orientated towards the highest numbered bridge (zbridge, e.g. C-7 in example below) it is given the description exo; if it is orientated away from the highest numbered bridge it is given the description endo. If the group is attached to the highest numbered bridge and is orientated towards the lowest numbered bridge (xbridge, e.g. C-2 in example below) it is given the description syn; if the group is orientated away from the lowest numbered bridge it is given the description anti. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/E02094-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/E02094-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>syn</title>
+          <url>https://goldbook.iupac.org/terms/view/S06216</url>
+        </item>
+        <item>
+          <title>anti</title>
+          <url>https://goldbook.iupac.org/terms/view/A00381</url>
+        </item>
+        <item>
+          <title>syn</title>
+          <url>https://goldbook.iupac.org/terms/view/S06216</url>
+        </item>
+        <item>
+          <title>anti</title>
+          <url>https://goldbook.iupac.org/terms/view/A00381</url>
+        </item>
+        <item>
+          <title>bridgehead</title>
+          <url>https://goldbook.iupac.org/terms/view/B00736</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2207 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Descriptor (Chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Descriptor_(Chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Descriptor (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Descriptor_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Descriptor (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Descriptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deskriptor (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Deskriptor_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deskriptor (chémia) (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Deskriptor_(chémia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Endo-exo isomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Endo-exo_isomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Endo-exo-Isomerie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Endo-exo-Isomerie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Endo–exo isomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Endo–exo_isomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomería endo-exo (es)</title>
+      <url>https://es.wikipedia.org/wiki/Isomería_endo-exo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomérie endo-exo (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Isomérie_endo-exo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Syn and anti addition (en)</title>
+      <url>https://en.wikipedia.org/wiki/Syn_and_anti_addition</url>
+    </item>
+    <item>
+      <title>Wikipedia - Syn-anti-Notation (de)</title>
+      <url>https://de.wikipedia.org/wiki/Syn-anti-Notation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Đồng phân endo-exo (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Đồng_phân_endo-exo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Анти- і син- положення (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Анти-_і_син-_положення</url>
+    </item>
+    <item>
+      <title>Wikipedia - إضافة مع وضد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إضافة_مع_وضد</url>
+    </item>
+    <item>
+      <title>Wikipedia - افزایش سین و آنتی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/افزایش_سین_و_آنتی</url>
+    </item>
+    <item>
+      <title>Wikipedia - ایزومری اندو-اگزو (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ایزومری_اندو-اگزو</url>
+    </item>
+    <item>
+      <title>Wikipedia - تصاوغ إندو-إكسو (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تصاوغ_إندو-إكسو</url>
+    </item>
+    <item>
+      <title>Wikipedia - 内型-外型异构 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/内型-外型异构</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02094/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02094/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02094/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02094/plain</plain>
+  </links>
+  <citation>Citation: '<i>endo</i>, <i>exo</i>, <i>syn</i>, <i>anti</i>' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02094</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:18:45+00:00</accessed>
+</term>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02734</id>
+  <doi>10.1351/goldbook.H02734</doi>
+  <code>H02734</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Hammond principle (Hammond postulate)</longtitle>
+  <title>Hammond principle</title>
+  <contains>Leffler's assumption</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The hypothesis that, when a transition state leading to an unstablereaction intermediate (or product) has nearly the same energy as that intermediate, the two are interconverted with only a small reorganization of molecular structure. Essentially the same idea is sometimes referred to as 'Leffler's assumption', namely, that the transition state bears the greater resemblance to the less stable species (reactant or reaction intermediate/product). Many text books and physical organic chemists, however, express the idea in Leffler's form, but attribute it to Hammond. As a corollary, it follows that a factor stabilizing a reaction intermediate will also stabilize the transition state leading to that intermediate. The acronym 'Bemahapothle' (Bell, Marcus, Hammond, Polanyi, Thornton, Leffler) is sometimes used in recognition of the principal contributors towards expansion of the original idea of the Hammond postulate.</text>
+      <links>
+        <item>
+          <title>More O'Ferrall–Jencks diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/M04030</url>
+        </item>
+        <item>
+          <title>More O'Ferrall–Jencks diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/M04030</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>reaction intermediate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05171</url>
+        </item>
+        <item>
+          <title>More O'Ferrall–Jencks diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/M04030</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>reaction intermediate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05171</url>
+        </item>
+        <item>
+          <title>unstable</title>
+          <url>https://goldbook.iupac.org/terms/view/U06569</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1119 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - George S. Hammond (en)</title>
+      <url>https://en.wikipedia.org/wiki/George_S._Hammond</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hammond's postulate (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hammond's_postulate</url>
+    </item>
+    <item>
+      <title>Wikipedia - Postulat de Hammond (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Postulat_de_Hammond</url>
+    </item>
+    <item>
+      <title>Wikipedia - Product (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Product_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Produk (kimia) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Produk_(kimia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Постулат Хэммонда (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Постулат_Хэммонда</url>
+    </item>
+    <item>
+      <title>Wikipedia - Продукт реакции (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Продукт_реакции</url>
+    </item>
+    <item>
+      <title>Wikipedia - ناتج (كيمياء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ناتج_(كيمياء)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 哈蒙德假说 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/哈蒙德假说</url>
+    </item>
+    <item>
+      <title>Wikipedia - 生成物 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/生成物</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02734/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02734/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02734/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02734/plain</plain>
+  </links>
+  <citation>Citation: 'Hammond principle' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02734</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:47:21+00:00</accessed>
+</term>

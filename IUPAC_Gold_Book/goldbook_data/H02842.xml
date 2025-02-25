@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02842</id>
+  <doi>10.1351/goldbook.H02842</doi>
+  <code>H02842</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - homoconjugation</longtitle>
+  <title>homoconjugation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text> [obsolete]Association between a base and its conjugate acid through a hydrogen bond (B ... HB+ or AH ... A−). Homoassociation is a more appropriate term for this phenomenon.</text>
+      <links>
+        <item>
+          <title>Association</title>
+          <url>https://goldbook.iupac.org/terms/view/A00472</url>
+        </item>
+        <item>
+          <title>Association</title>
+          <url>https://goldbook.iupac.org/terms/view/A00472</url>
+        </item>
+        <item>
+          <title>hydrogen bond</title>
+          <url>https://goldbook.iupac.org/terms/view/H02899</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>The orbital overlap of two π-systems separated by a non-conjugating group, such as CH2.</text>
+      <links>
+        <item>
+          <title>conjugate acid–base pair</title>
+          <url>https://goldbook.iupac.org/terms/view/C01266</url>
+        </item>
+        <item>
+          <title>conjugated system</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>homoaromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/H02839</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' Muller, P.; Pure and Applied Chemistry 1994 66(5) 1077</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Conjugated system (en)</title>
+      <url>https://en.wikipedia.org/wiki/Conjugated_system</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homoassociation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Homoassociation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konjugovani sistem (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Konjugovani_sistem</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Hydrogen fluoride (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Hydrogen_fluoride</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ácido fluorhídrico (es)</title>
+      <url>https://es.wikipedia.org/wiki/Ácido_fluorhídrico</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஓரின இணைவியாதல் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஓரின_இணைவியாதல்</url>
+    </item>
+    <item>
+      <title>Wikipedia - 共轭体系 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/共轭体系</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02842/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02842/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02842/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02842/plain</plain>
+  </links>
+  <citation>Citation: 'homoconjugation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02842</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:52:57+00:00</accessed>
+</term>

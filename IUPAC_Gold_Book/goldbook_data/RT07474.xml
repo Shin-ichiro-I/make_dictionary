@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07474</id>
+  <doi>10.1351/goldbook.RT07474</doi>
+  <code>RT07474</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - rotational correlation time</longtitle>
+  <title>rotational correlation time</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Parameter describing the time dependence of the tumbling of a molecular entity in a medium of viscosityη. The rotational correlation time can be obtained from the decay of the fluorescence or phosphorescenceanisotropy and is related to the average molecular rotational diffusion coefficient, Dr, in turn related to the hydrodynamic molecular volume of the fluorophore, V, and to η (see Note 3).</text>
+      <notes>
+        <item>Mathematical definition: rt = r0.exp(-t/τc) with rt the emission anisotropy at time t and r0 the fundamental emission anisotropy.</item>
+        <item>In the case of a spherical emitting species reorienting itself in a homogeneous fluid, τc = 1/6Dr.</item>
+        <item>Often, the Stokes–Einstein relationship is used for the calculation of Dr, i.e., Dr = RT/6Vη with R the gas constant, T the absolute temperature and V the hydrodynamic molecular volume. However, the use of this relationship at a molecular level is questionable, and Dr should be independently determined by time-resolved fluorescence polarization methods. Compare with rotational relaxation time.</item>
+      </notes>
+      <links>
+        <item>
+          <title>emission anisotropy</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07370</url>
+        </item>
+        <item>
+          <title>Stokes</title>
+          <url>https://goldbook.iupac.org/terms/view/S06027</url>
+        </item>
+        <item>
+          <title>Einstein</title>
+          <url>https://goldbook.iupac.org/terms/view/E01914</url>
+        </item>
+        <item>
+          <title>gas constant</title>
+          <url>https://goldbook.iupac.org/terms/view/G02579</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04712</url>
+        </item>
+        <item>
+          <title>rotational relaxation time</title>
+          <url>https://goldbook.iupac.org/terms/view/RT07475</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>phosphorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/P04569</url>
+        </item>
+        <item>
+          <title>anisotropy</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06776</url>
+        </item>
+        <item>
+          <title>rotational diffusion coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/R05411</url>
+        </item>
+        <item>
+          <title>fluorophore</title>
+          <url>https://goldbook.iupac.org/terms/view/FT07380</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>η</alttext>
+          <latex>\eta</latex>
+        </item>
+        <item>
+          <alttext>Dr</alttext>
+          <latex>D_{\text{r}}</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>η</alttext>
+          <latex>\eta</latex>
+        </item>
+        <item>
+          <alttext>rt = r0.exp(-t/τc)</alttext>
+          <latex>r(t) = r_{\text{0}}\, \text{exp}\! \left ( -\frac{t}{\tau_{\text{c}}} \right )</latex>
+        </item>
+        <item>
+          <alttext>rt</alttext>
+          <latex>r(t)</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <alttext>r0</alttext>
+          <latex>r_{\text{0}}</latex>
+        </item>
+        <item>
+          <alttext>τc = 1/6Dr</alttext>
+          <latex>\tau_{\text{c}} = \frac{1}{6D_{\text{r}}}</latex>
+        </item>
+        <item>
+          <alttext>Dr</alttext>
+          <latex>D_{\text{r}}</latex>
+        </item>
+        <item>
+          <alttext>Dr = RT/6Vη</alttext>
+          <latex>D_{\text{r}} = R\, T/6\, V\eta</latex>
+        </item>
+        <item>
+          <alttext>R</alttext>
+          <latex>R</latex>
+        </item>
+        <item>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>Dr</alttext>
+          <latex>D_{\text{r}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 416 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/RT07474/html</html>
+    <json>https://goldbook.iupac.org/terms/view/RT07474/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/RT07474/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/RT07474/plain</plain>
+  </links>
+  <citation>Citation: 'rotational correlation time' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.RT07474</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:58:28+00:00</accessed>
+</term>

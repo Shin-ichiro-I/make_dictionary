@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04736</id>
+  <doi>10.1351/goldbook.P04736</doi>
+  <code>P04736</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymer blend</longtitle>
+  <title>polymer blend</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Macroscopically homogeneous mixture of two or more different species of polymer.</text>
+      <notes>
+        <item>In most cases, blends are homogeneous on scales larger than several times the wavelengths of visible light.</item>
+        <item>In principle, the constituents of a blend are separable by physical means.</item>
+        <item>No account is taken of the miscibility or immiscibility of the constituent macromolecules, i.e., no assumption is made regarding the number of phase domains present.</item>
+        <item>The use of the term polymer alloy for a polymer blend is discouraged, as the former term includes multiphase copolymers but excludes incompatible polymer blends.</item>
+        <item>The number of polymeric components which comprise a blend is often designated by an adjective, viz. binary, ternary, quaternary, etc.</item>
+      </notes>
+      <links>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>miscibility</title>
+          <url>https://goldbook.iupac.org/terms/view/MT07230</url>
+        </item>
+        <item>
+          <title>immiscibility</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07239</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>polymer alloy</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07264</url>
+        </item>
+        <item>
+          <title>polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1817 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Diskussion:Polyblend (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Polyblend</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polyblend (de)</title>
+      <url>https://de.wikipedia.org/wiki/Polyblend</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymer (de)</title>
+      <url>https://de.wikipedia.org/wiki/Polymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymer blend (en)</title>
+      <url>https://en.wikipedia.org/wiki/Polymer_blend</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymerblend (de)</title>
+      <url>https://de.wikipedia.org/wiki/Polymerblend</url>
+    </item>
+    <item>
+      <title>Wikipedia - ポリマーブレンド (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ポリマーブレンド</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04736/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04736/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04736/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04736/plain</plain>
+  </links>
+  <citation>Citation: 'polymer blend' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04736</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:27:07+00:00</accessed>
+</term>

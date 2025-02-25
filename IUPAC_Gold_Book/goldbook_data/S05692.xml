@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05692</id>
+  <doi>10.1351/goldbook.S05692</doi>
+  <code>S05692</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - single-strand chain in a polymer</longtitle>
+  <title>single-strand chain</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A chain that comprises constitutional units connected in such a way that adjacent constitutional units are joined to each other through two atoms, one on each constitutional unit.</text>
+      <contexts>
+        <in>
+          <item>a polymer</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>chain (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00946</url>
+        </item>
+        <item>
+          <title>constitutional units (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01288</url>
+        </item>
+        <item>
+          <title>chain (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00946</url>
+        </item>
+        <item>
+          <title>constitutional unit (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01288</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2294 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05692/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05692/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05692/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05692/plain</plain>
+  </links>
+  <citation>Citation: 'single-strand chain' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05692</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:10:47+00:00</accessed>
+</term>

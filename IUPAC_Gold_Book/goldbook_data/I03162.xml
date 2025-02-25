@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03162</id>
+  <doi>10.1351/goldbook.I03162</doi>
+  <code>I03162</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ion cyclotron resonance (ICR) mass spectrometer</longtitle>
+  <title>ion cyclotron resonance (ICR) mass spectrometer</title>
+  <abbrevs>
+    <item>ICR</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A high-frequency mass spectrometer in which the ions to be detected, with a selected value of the quotient mass/charge, absorb maximum energy through the effect of a high-frequency electric field and a constant magnetic field perpendicular to the electric field. Maximum energy is gained by the ions which satisfy the cyclotronresonance condition and as a result they are separated from ions of different mass/charge.</text>
+      <links>
+        <item>
+          <title>mass spectrometer</title>
+          <url>https://goldbook.iupac.org/terms/view/M03732</url>
+        </item>
+        <item>
+          <title>mass spectrometer</title>
+          <url>https://goldbook.iupac.org/terms/view/M03732</url>
+        </item>
+        <item>
+          <title>cyclotron</title>
+          <url>https://goldbook.iupac.org/terms/view/C01509</url>
+        </item>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 202 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1545 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03162/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03162/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03162/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03162/plain</plain>
+  </links>
+  <citation>Citation: 'ion cyclotron resonance (ICR) mass spectrometer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03162</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:08:39+00:00</accessed>
+</term>

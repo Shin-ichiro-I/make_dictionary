@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00173</id>
+  <doi>10.1351/goldbook.A00173</doi>
+  <code>A00173</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aerogel</longtitle>
+  <title>aerogel</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Gel comprised of a microporous solid in which the dispersed phase is a gas.</text>
+      <notes>
+        <item>Microporous silica, microporous glass and zeolites are common examples of aerogels.</item>
+      </notes>
+      <links>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1806 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aerogel (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aerogel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aerogel (it)</title>
+      <url>https://it.wikipedia.org/wiki/Aerogel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aerogel (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Aerogel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aerogél (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Aerogél</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stöber process (en)</title>
+      <url>https://en.wikipedia.org/wiki/Stöber_process</url>
+    </item>
+    <item>
+      <title>Wikipedia - Аерогел (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Аерогел</url>
+    </item>
+    <item>
+      <title>Wikipedia - هلام هوائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/هلام_هوائي</url>
+    </item>
+    <item>
+      <title>Wikipedia - অ্যারোজেল (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/অ্যারোজেল</url>
+    </item>
+    <item>
+      <title>Wikipedia - புரைமக் களி (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/புரைமக்_களி</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00173/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00173/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00173/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00173/plain</plain>
+  </links>
+  <citation>Citation: 'aerogel' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00173</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:45:05+00:00</accessed>
+</term>

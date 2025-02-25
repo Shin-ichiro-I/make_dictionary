@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00737</id>
+  <doi>10.1351/goldbook.B00737</doi>
+  <code>B00737</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - bridged carbocation</longtitle>
+  <title>bridged carbocation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A carbocation (real or hypothetical) in which there are two (or more) carbon atoms that could in alternative Lewis formulae be designated as carbenium centres but which is instead represented by a structure in which a group (a hydrogen atom or a hydrocarbon residue, possibly with substituents in non-involved positions) bridges these potential carbenium centres. One may distinguish 'electron-sufficient bridged carbocations' and 'electron-deficient bridged carbocations'. Examples of the former are phenyl-bridged ions (for which the trivial name 'phenonium ion' has been used), such as (A). These ions are straightforwardly classified as carbenium ions. The latter type of ion necessarily involves three-centre bonding. Structures (C) and (D) contain five-coordinate carbon atoms. The 'hydrogen-bridged carbocation' (B) contains a two-coordinate hydrogen atom. Hypercoordination, which includes two-coordination for hydrogen and five- but also higher coordination for carbon is generally observed in bridged carbocations. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/B00737.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>carbonium ion</title>
+          <url>https://goldbook.iupac.org/terms/view/C00839</url>
+        </item>
+        <item>
+          <title>multi-centre bond</title>
+          <url>https://goldbook.iupac.org/terms/view/M04042</url>
+        </item>
+        <item>
+          <title>neighbouring group participation</title>
+          <url>https://goldbook.iupac.org/terms/view/N04100</url>
+        </item>
+        <item>
+          <title>carbonium ion</title>
+          <url>https://goldbook.iupac.org/terms/view/C00839</url>
+        </item>
+        <item>
+          <title>multi-centre bond</title>
+          <url>https://goldbook.iupac.org/terms/view/M04042</url>
+        </item>
+        <item>
+          <title>neighbouring group participation</title>
+          <url>https://goldbook.iupac.org/terms/view/N04100</url>
+        </item>
+        <item>
+          <title>carbocation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00817</url>
+        </item>
+        <item>
+          <title>Lewis formulae</title>
+          <url>https://goldbook.iupac.org/terms/view/L03513</url>
+        </item>
+        <item>
+          <title>carbenium centres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00811</url>
+        </item>
+        <item>
+          <title>carbenium ions</title>
+          <url>https://goldbook.iupac.org/terms/view/C00812</url>
+        </item>
+        <item>
+          <title>carbonium ion</title>
+          <url>https://goldbook.iupac.org/terms/view/C00839</url>
+        </item>
+        <item>
+          <title>multi-centre bond</title>
+          <url>https://goldbook.iupac.org/terms/view/M04042</url>
+        </item>
+        <item>
+          <title>neighbouring group participation</title>
+          <url>https://goldbook.iupac.org/terms/view/N04100</url>
+        </item>
+        <item>
+          <title>carbocation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00817</url>
+        </item>
+        <item>
+          <title>Lewis formulae</title>
+          <url>https://goldbook.iupac.org/terms/view/L03513</url>
+        </item>
+        <item>
+          <title>carbenium centres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00811</url>
+        </item>
+        <item>
+          <title>carbenium ions</title>
+          <url>https://goldbook.iupac.org/terms/view/C00812</url>
+        </item>
+        <item>
+          <title>trivial name</title>
+          <url>https://goldbook.iupac.org/terms/view/T06516</url>
+        </item>
+        <item>
+          <title>hypercoordination</title>
+          <url>https://goldbook.iupac.org/terms/view/HT07051</url>
+        </item>
+        <item>
+          <title>coordination</title>
+          <url>https://goldbook.iupac.org/terms/view/C01329</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1090 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00737/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00737/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00737/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00737/plain</plain>
+  </links>
+  <citation>Citation: 'bridged carbocation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00737</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:15:24+00:00</accessed>
+</term>

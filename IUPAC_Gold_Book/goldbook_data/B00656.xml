@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00656</id>
+  <doi>10.1351/goldbook.B00656</doi>
+  <code>B00656</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - biodegradation</longtitle>
+  <title>biodegradation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <intro>Breakdown of a substance catalysed by @E02159@ @I03153@ or @I03154@. This may be characterized for purposes of @HT06827@ assessment as:</intro>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Primary. Alteration of the chemical structure of a substance resulting in loss of a specific property of that substance.</text>
+    </item>
+    <item>
+      <id>2</id>
+      <text>Environmentally acceptable. Biodegradation to such an extent as to remove undesirable properties of the compound. This often corresponds to primary biodegradation but it depends on the circumstances under which the products are discharged into the environment.</text>
+    </item>
+    <item>
+      <id>3</id>
+      <text>Ultimate. Complete breakdown of a compound to either fully oxidized or reduced simple molecules (such as carbon dioxide/methane, nitrate/ammonium and water. It should be noted that the products of biodegradation can be more harmful than the substance degraded.</text>
+    </item>
+  </definitions>
+  <sources>'Glossary for chemists of terms used in toxicology (IUPAC Recommendations 1993)' Duffus, J.; Pure and Applied Chemistry 1993 65(9) 2003</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Biodegradabilità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Biodegradabilità</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biodegradazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Biodegradazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Degradacja (chemia) (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Degradacja_(chemia)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00656/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00656/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00656/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00656/plain</plain>
+  </links>
+  <citation>Citation: 'biodegradation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00656</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:10:10+00:00</accessed>
+</term>

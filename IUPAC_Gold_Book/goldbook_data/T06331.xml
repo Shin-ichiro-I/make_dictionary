@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06331</id>
+  <doi>10.1351/goldbook.T06331</doi>
+  <code>T06331</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - thermometric titration</longtitle>
+  <title>thermometric titration</title>
+  <synonyms>
+    <item>enthalpimetric titration</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An analytical method in which one reactant (the titrant) is added continuously or stepwise to an adiabatic or isoperibol vessel containing another reactant. The enthalpy change(s) of the ensuing reaction(s) causes a temperature change which, when plotted versus volume of titrant, may be used to find the titration endpoint(s). This is the preferred term for experiments producing plots of temperature versus volume of titrant in which the main goal is a quantitative determination. Nonetheless, when a calorimetric vessel is used, such that the heat capacity is known, thermodynamic parameters may also be estimated from such experiments. An acceptable synonym in that case is enthalpimetric titration. The use of the adjective thermometric is justified because of widespread historical and current usage, and because a titration of necessity implies a chemical reaction. The term thermometric enthalpy titration has been used, but is not recommended. A method in which the titrant is a catalyst for an indicator reaction that occurs after the endpoint for the analyte reaction should be called a thermometrictitration with catalytic endpoint detection, not a catalytic thermometric titration.</text>
+      <links>
+        <item>
+          <title>titrant</title>
+          <url>https://goldbook.iupac.org/terms/view/T06386</url>
+        </item>
+        <item>
+          <title>adiabatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00141</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>titration</title>
+          <url>https://goldbook.iupac.org/terms/view/T06387</url>
+        </item>
+        <item>
+          <title>heat capacity</title>
+          <url>https://goldbook.iupac.org/terms/view/H02753</url>
+        </item>
+        <item>
+          <title>thermometric</title>
+          <url>https://goldbook.iupac.org/terms/view/T06329</url>
+        </item>
+        <item>
+          <title>thermometric enthalpy titration</title>
+          <url>https://goldbook.iupac.org/terms/view/T06330</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>indicator reaction (in analysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01380</url>
+        </item>
+        <item>
+          <title>catalytic thermometric titration (in analysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00900</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2487. 'Nomenclature of thermometric and enthalpimetric methods in chemical analysis (IUPAC Recommendations 1994)' on page 2490 (https://doi.org/10.1351/pac199466122487)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Point d'équivalence (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Point_d'équivalence</url>
+    </item>
+    <item>
+      <title>Wikipedia - Thermometric titration (en)</title>
+      <url>https://en.wikipedia.org/wiki/Thermometric_titration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Titrage thermométrique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Titrage_thermométrique</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06331/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06331/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06331/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06331/plain</plain>
+  </links>
+  <citation>Citation: 'thermometric titration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06331</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:41:22+00:00</accessed>
+</term>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02069</id>
+  <doi>10.1351/goldbook.E02069</doi>
+  <code>E02069</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - enantiomer</longtitle>
+  <title>enantiomer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>One of a pair of molecular entities which are mirror images of each other and non-superposable.</text>
+      <links>
+        <item>
+          <title>enantiomorph</title>
+          <url>https://goldbook.iupac.org/terms/view/E02079</url>
+        </item>
+        <item>
+          <title>enantiomorph</title>
+          <url>https://goldbook.iupac.org/terms/view/E02079</url>
+        </item>
+        <item>
+          <title>superposable</title>
+          <url>https://goldbook.iupac.org/terms/view/S06144</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1112 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2207 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Amfetamin (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Amfetamin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amfetamină (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Amfetamină</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amphetamin (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Amphetamin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amphetamine (en)</title>
+      <url>https://en.wikipedia.org/wiki/Amphetamine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dextroamphetamine (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dextroamphetamine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diastereoisómero (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Diastereoisómero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diastereomer (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Diastereomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diastereomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Diastereomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diastereomer (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Diastereomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diastereomér (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Diastereomér</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enancjomery (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Enancjomery</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiomer (de)</title>
+      <url>https://de.wikipedia.org/wiki/Enantiomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Enantiomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiomer (id)</title>
+      <url>https://id.wikipedia.org/wiki/Enantiomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiomer (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Enantiomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiomer (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Enantiomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiomero (it)</title>
+      <url>https://it.wikipedia.org/wiki/Enantiomero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiómero (es)</title>
+      <url>https://es.wikipedia.org/wiki/Enantiómero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiómero (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Enantiómero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiômero (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Enantiômero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konfiguration (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Konfiguration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Methamphetamin (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Methamphetamin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecular configuration (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molecular_configuration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stereoisomero (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stereoisomero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Chirality (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Chirality_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:沙盒 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/Wikipedia:沙盒</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стереоизомеры (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Стереоизомеры</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стереоізомери (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Стереоізомери</url>
+    </item>
+    <item>
+      <title>Wikipedia - Энантиомеры (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Энантиомеры</url>
+    </item>
+    <item>
+      <title>Wikipedia - Կոնֆիգուրացիա (քիմիա) (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Կոնֆիգուրացիա_(քիմիա)</url>
+    </item>
+    <item>
+      <title>Wikipedia - أمفيتامين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أمفيتامين</url>
+    </item>
+    <item>
+      <title>Wikipedia - مصاوغ مرآتي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مصاوغ_مرآتي</url>
+    </item>
+    <item>
+      <title>Wikipedia - ଆମ୍ଫେଟାମିନ (or)</title>
+      <url>https://or.wikipedia.org/wiki/ଆମ୍ଫେଟାମିନ</url>
+    </item>
+    <item>
+      <title>Wikipedia - วิตามินซี (th)</title>
+      <url>https://th.wikipedia.org/wiki/วิตามินซี</url>
+    </item>
+    <item>
+      <title>Wikipedia - 苯丙胺 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/苯丙胺</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02069/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02069/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02069/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02069/plain</plain>
+  </links>
+  <citation>Citation: 'enantiomer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02069</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:17:23+00:00</accessed>
+</term>

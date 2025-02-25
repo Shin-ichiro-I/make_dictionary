@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02357</id>
+  <doi>10.1351/goldbook.F02357</doi>
+  <code>F02357</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - field desorption in mass spectrometry</longtitle>
+  <title>field desorption</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A term used to describe the formation of ions in the gas phase from a material deposited on a solid surface (known as an 'emitter') in the presence of a high electrical field. 'Field desorption' is an ambiguous term because it implies that the electric field desorbs a material as an ion from some kind of emitter on which the material is deposited. There is growing evidence that some of the ions formed are due to thermal ionization and some to field ionization of vapour evaporated from material on the emitter. Because there is generally little or no ionization unless the emitter is heated by an electric current, 'field desorption' is a misnomer. The term is, however, firmly implanted in the literature and most users undertand what is going on regardless of the implications of the term. In addition, no better simple term has been suggested to take its place and so, reluctantly, it is recommended that it be retained.</text>
+      <contexts>
+        <in>
+          <item>mass spectrometry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>desorption</title>
+          <url>https://goldbook.iupac.org/terms/view/D01620</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>electric current</title>
+          <url>https://goldbook.iupac.org/terms/view/E01927</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1547 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Feltdesorpsjon (no)</title>
+      <url>https://no.wikipedia.org/wiki/Feltdesorpsjon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Field desorption (en)</title>
+      <url>https://en.wikipedia.org/wiki/Field_desorption</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02357/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02357/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02357/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02357/plain</plain>
+  </links>
+  <citation>Citation: 'field desorption' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02357</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:30:30+00:00</accessed>
+</term>

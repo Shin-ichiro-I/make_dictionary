@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06750</id>
+  <doi>10.1351/goldbook.Z06750</doi>
+  <code>Z06750</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - zone melting method of preconcentration</longtitle>
+  <title>zone melting method of preconcentration</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A technique based on the different solubility of microcomponents in the liquid and solid matrix. It has a limited field of application for the analysis of fusible (and stable) substances.</text>
+      <links>
+        <item>
+          <title>solubility</title>
+          <url>https://goldbook.iupac.org/terms/view/S05740</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1979, 51, 1195. 'Separation and Preconcentration of Trace Substances. I-Preconcentration for Inorganic Trace Analysis' on page 1200 (https://doi.org/10.1351/pac197951051195)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/Z06750/html</html>
+    <json>https://goldbook.iupac.org/terms/view/Z06750/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/Z06750/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/Z06750/plain</plain>
+  </links>
+  <citation>Citation: 'zone melting method of preconcentration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.Z06750</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T12:00:13+00:00</accessed>
+</term>

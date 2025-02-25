@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05051</id>
+  <doi>10.1351/goldbook.R05051</doi>
+  <code>R05051</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - radiation constants</longtitle>
+  <title>radiation constants</title>
+  <index>constant</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Fundamental physical constants characterizing black body radiation. The first radiation constant is c1 = 2π.h.c02 = 3.7417749(22) x 10E-16 W m2, the second is c2 = h.c0/k = 1.438769(12) x 10E-2 m K, where h is the Planck constantc0 the speed of light and k the Boltzmann constant.</text>
+      <links>
+        <item>
+          <title>Planck constant</title>
+          <url>https://goldbook.iupac.org/terms/view/P04685</url>
+        </item>
+        <item>
+          <title>Boltzmann constant</title>
+          <url>https://goldbook.iupac.org/terms/view/B00695</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>c1 = 2π.h.c02 = 3.7417749(22) x 10E-16 W m2</alttext>
+          <latex>c_{1} = 2\ \pi \ h\ c_{0}^{2}=3.741\,7749(22)\times 10^{-16}\ \text{W m}^{2}</latex>
+        </item>
+        <item>
+          <alttext>c2 = h.c0/k = 1.438769(12) x 10E-2 m K</alttext>
+          <latex>c_{2} = \frac{h\ c_{0}}{k}=1.438\,769(12)\times 10^{-2}\ \text{m K}</latex>
+        </item>
+        <item>
+          <alttext>h</alttext>
+          <latex>h</latex>
+        </item>
+        <item>
+          <alttext>c0</alttext>
+          <latex>c_{0}</latex>
+        </item>
+        <item>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+      </math>
+      <sources>
+        <item>CODATA Bull. 1986, 63, 1 (https://doi.org/10.6028/jres.092.010)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05051/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05051/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05051/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05051/plain</plain>
+  </links>
+  <citation>Citation: 'radiation constants' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05051</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:42:03+00:00</accessed>
+</term>

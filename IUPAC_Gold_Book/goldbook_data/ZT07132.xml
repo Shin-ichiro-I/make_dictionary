@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07132</id>
+  <doi>10.1351/goldbook.ZT07132</doi>
+  <code>ZT07132</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - zero differential overlap (ZDO) approximation</longtitle>
+  <title>zero differential overlap (ZDO) approximation</title>
+  <abbrevs>
+    <item>ZDO</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An approach to the systematic neglect of the small-in-value electron repulsion integrals which is used in a number of approximate self-consistent field molecular orbital schemes. It means that all the products of atomic orbitals χ µ χ ν are set to zero and the overlap integralS µ ​ ν = δ µ ​ ν (where δ µ ​ ν is the Kronecker delta). The ZDO approximation greatly simplifies the computation of wavefunctions by eliminating many of two-electron integrals. At the ZDO approximation all three- and four-centered integrals vanish.</text>
+      <links>
+        <item>
+          <title>molecular orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/M03996</url>
+        </item>
+        <item>
+          <title>overlap integral</title>
+          <url>https://goldbook.iupac.org/terms/view/O04357</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>χ µ χ ν</alttext>
+          <latex>\unicode[Times]{x3C7} _{\unicode[Times]{x3BC} }\ \unicode[Times]{x3C7} _{\unicode[Times]{x3BD} }</latex>
+        </item>
+        <item>
+          <alttext>S µ ​ ν = δ µ ​ ν</alttext>
+          <latex>\text{S}_{\unicode[Times]{x3BC} \unicode[Times]{x3BD} } = \unicode[Times]{x3B4} _{\unicode[Times]{x3BC} \unicode[Times]{x3BD} }</latex>
+        </item>
+        <item>
+          <alttext>δ µ ​ ν</alttext>
+          <latex>\unicode[Times]{x3B4}_{\unicode[Times]{x3BC}\unicode[Times]{x3BD} }</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1970 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ZT07132/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ZT07132/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ZT07132/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ZT07132/plain</plain>
+  </links>
+  <citation>Citation: 'zero differential overlap (ZDO) approximation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ZT07132</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:59:49+00:00</accessed>
+</term>

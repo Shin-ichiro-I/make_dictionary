@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01246</id>
+  <doi>10.1351/goldbook.C01246</doi>
+  <code>C01246</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - confidence level</longtitle>
+  <title>confidence level</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The probability of covering the expected value of an estimated parameter with an interval estimated for the parameter (symbol 1- α). The confidence level can be expressed as a number between 0 and 1, or in percent. The complementary quantity is known as the significance level.</text>
+      <notes>
+        <item>In some cases the confidence level is dictated by the needs of the situation. In all other instances, use of 1- α = 0.95 is recommended.</item>
+      </notes>
+      <links>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+        <item>
+          <title>expected value</title>
+          <url>https://goldbook.iupac.org/terms/view/M03796</url>
+        </item>
+        <item>
+          <title>percent</title>
+          <url>https://goldbook.iupac.org/terms/view/P04483</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>math</type>
+          <alttext>1- α</alttext>
+          <latex>1 - \alpha</latex>
+        </item>
+        <item>
+          <type>equation</type>
+          <alttext>1- α = 0.95</alttext>
+          <latex>1 - \alpha = 0.95</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 595. 'Nomenclature for the presentation of results of chemical analysis (IUPAC Recommendations 1994)' on page 599 (https://doi.org/10.1351/pac199466030595)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01246/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01246/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01246/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01246/plain</plain>
+  </links>
+  <citation>Citation: 'confidence level' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01246</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:41:29+00:00</accessed>
+</term>

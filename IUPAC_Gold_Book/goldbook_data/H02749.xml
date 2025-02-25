@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02749</id>
+  <doi>10.1351/goldbook.H02749</doi>
+  <code>H02749</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Haworth representation</longtitle>
+  <title>Haworth representation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The Haworth representation of the cyclic forms of monosaccharides can be derived from the Fischer projection, as follows. The monosaccharide is depicted with the carbon-chain horizontal and in the plane of the paper, the potential carbonyl group being to the right. The oxygen bridge is then depicted as being formed behind the plane of the paper. The heterocyclic ring is therefore located in a plane approximately perpendicular to the plane of the paper and the groups attached to the carbon atoms of that ring are above and below the ring. The carbon atoms of the ring are not shown. Groups that appear to the right of the vertical chain in the Fischer projection (structures A, D) then appear below the plane of the ring in the Haworth representation (structures B, C, E). However, at the asymmetric carbon atom (C-5 in A; C-4 in D) involved via oxygen in ring formation with the carbon atom of the carbonyl group a formal double inversion must be envisaged to obtain the correct Haworth representation. In the pyranose forms of d-aldohexoses C-6 will always be above the plane, In the furanose forms of d-aldohexoses the position of C-6 will depend on the configuration at C-4; it will, for example, be above the plane in d-glucofuranoses (e.g. C) but below the plane in d-galactofuranoses (e.g. E). [image: Not defined] [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02749-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02749-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>monosaccharides</title>
+          <url>https://goldbook.iupac.org/terms/view/M04021</url>
+        </item>
+        <item>
+          <title>bridge</title>
+          <url>https://goldbook.iupac.org/terms/view/B00736</url>
+        </item>
+        <item>
+          <title>asymmetric carbon atom</title>
+          <url>https://goldbook.iupac.org/terms/view/A00479</url>
+        </item>
+        <item>
+          <title>inversion</title>
+          <url>https://goldbook.iupac.org/terms/view/I03146</url>
+        </item>
+        <item>
+          <title>monosaccharides</title>
+          <url>https://goldbook.iupac.org/terms/view/M04021</url>
+        </item>
+        <item>
+          <title>bridge</title>
+          <url>https://goldbook.iupac.org/terms/view/B00736</url>
+        </item>
+        <item>
+          <title>asymmetric carbon atom</title>
+          <url>https://goldbook.iupac.org/terms/view/A00479</url>
+        </item>
+        <item>
+          <title>inversion</title>
+          <url>https://goldbook.iupac.org/terms/view/I03146</url>
+        </item>
+        <item>
+          <title>Fischer projection</title>
+          <url>https://goldbook.iupac.org/terms/view/F02391</url>
+        </item>
+      </links>
+      <sources>
+        <item>White Book, 2nd ed., p. 128 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hauortova projekcija (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Hauortova_projekcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hauortova projekcija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Hauortova_projekcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Havortova projekcija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Havortova_projekcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Haworth projection (en)</title>
+      <url>https://en.wikipedia.org/wiki/Haworth_projection</url>
+    </item>
+    <item>
+      <title>Wikipedia - Haworth-Formel (de)</title>
+      <url>https://de.wikipedia.org/wiki/Haworth-Formel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Haworth-projektio (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Haworth-projektio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Haworthova projekce (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Haworthova_projekce</url>
+    </item>
+    <item>
+      <title>Wikipedia - Haworthprojectie (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Haworthprojectie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hejvortova projekcija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Hejvortova_projekcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Monosaccharide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Monosaccharide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Monosacharidy (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Monosacharidy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Monozaharidă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Monozaharidă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Proiezione di Haworth (it)</title>
+      <url>https://it.wikipedia.org/wiki/Proiezione_di_Haworth</url>
+    </item>
+    <item>
+      <title>Wikipedia - Projecció de Haworth (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Projecció_de_Haworth</url>
+    </item>
+    <item>
+      <title>Wikipedia - Proyección de Haworth (es)</title>
+      <url>https://es.wikipedia.org/wiki/Proyección_de_Haworth</url>
+    </item>
+    <item>
+      <title>Wikipedia - Проекция Хеуорса (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Проекция_Хеуорса</url>
+    </item>
+    <item>
+      <title>Wikipedia - Проєкція Хеуорса (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Проєкція_Хеуорса</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хауортова проекция (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Хауортова_проекция</url>
+    </item>
+    <item>
+      <title>Wikipedia - היטל הוורת' (he)</title>
+      <url>https://he.wikipedia.org/wiki/היטל_הוורת'</url>
+    </item>
+    <item>
+      <title>Wikipedia - مسقط هوارث (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مسقط_هوارث</url>
+    </item>
+    <item>
+      <title>Wikipedia - মনোস্যাকারাইড (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/মনোস্যাকারাইড</url>
+    </item>
+    <item>
+      <title>Wikipedia - হাওয়ার্থ অভিক্ষেপ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/হাওয়ার্থ_অভিক্ষেপ</url>
+    </item>
+    <item>
+      <title>Wikipedia - 哈沃斯投影式 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/哈沃斯投影式</url>
+    </item>
+    <item>
+      <title>Wikipedia - 단당류 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/단당류</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02749/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02749/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02749/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02749/plain</plain>
+  </links>
+  <citation>Citation: 'Haworth representation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02749</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:48:17+00:00</accessed>
+</term>

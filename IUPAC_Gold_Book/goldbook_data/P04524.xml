@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04524</id>
+  <doi>10.1351/goldbook.P04524</doi>
+  <code>P04524</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pH</longtitle>
+  <title>pH</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The quantity pH is defined in terms of the activity of hydrogen(1+) ions (hydrogen ions) in solution: pH = -lg[a(H+)] = -lg[m(H+)γm(H+)/m⦵] where a(H+) is the activity of hydrogen ion (hydrogen 1+) in aqueous solution, H+(aq), γm(H+) is the activity coefficient of H+(aq) (molality basis) at molality m(H+), and m⦵ = 1 mol kg-1 is the standard molality.</text>
+      <notes>
+        <item>pH cannot be measured independently because calculation of the activity involves the activity coefficient of a single ion. Thus it can be regarded only as a notional definition.</item>
+        <item>The establishment of primary pH standards requires the application of the concept of 'primary method of measurement', assuring full traceability of the results of all measurements and their uncertainties. Any limitation in the theory of determination of experimental variables must be included in the estimated uncertainty of the method.</item>
+        <item>The primary method for measurement of pH involves the use of a cell without transference, known as the Harned cell: Pt(s) | H2(g) | Buffer S, Cl−(aq) | AgCl(s) | Ag(s) The equation for this cell can be rearranged to give: -lg[a(H+)γ(Cl-) = E- E⦵/(RTln10)/F + lg[m(Cl-)/m⦵] where E is the potential difference of the cell and E⦵ is the known standard potential of the AgCl | Ag electrode. Measurements of E⦵ as a function of m(Cl-) are made and the quantity a(H+)γ(Cl-) (called the acidity function) is found by extrapolation to m(Cl-)/m⦵ = 0. The value of γ(Cl-) is calculated using the Bates–Guggenheim convention based on Debye–Hückel theory. Then lg[a(H+)] is calculated and identified as pH(PS), where PS signifies primary standard. The uncertainties in the two estimates are typically 0.001 in lg[a(H+)γ(Cl-)] and 0.003 in pH. Materials for primary standard buffers must also meet the appropriate requirements for reference materials, including chemical purity and stability, and applicability of the Bates–Guggenheim convention for the estimation of -lg[γ(Cl-)]. This convention requires that the ionic strength be ≤ 0.1 mol kg^-1. Primary standard buffers should also lead to small liquid junction potentials when used in cells with liquid junctions. Secondary standards, pH(SS), are also available, but carry a greater uncertainty in measured values.</item>
+        <item>Practical pH measurements generally use cells with liquid junctions in which, consequently, liquid junction potentials, Ej, are present. Measurements of pH are not normally performed using the Pt|H2 electrode, but rather the glass (or other H+- selective) electrode, whose response factor (dE/dpH) usually deviates from the Nernst slope. The associated uncertainties are significantly larger than those associated with fundamental measurements using the Harned cell. Nonetheless, incorporation of the uncertainties for the primary method, and for all subsequent measurements, permits the uncertainties for all procedures to be linked to the primary standards by an unbroken chain of comparisons.</item>
+        <item>Reference values for standards in D2O and aqueous-organic solvent mixtures exist.</item>
+      </notes>
+      <links>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>primary pH standards</title>
+          <url>https://goldbook.iupac.org/terms/view/P04837</url>
+        </item>
+        <item>
+          <title>traceability</title>
+          <url>https://goldbook.iupac.org/terms/view/T06420</url>
+        </item>
+        <item>
+          <title>acidity function</title>
+          <url>https://goldbook.iupac.org/terms/view/A00081</url>
+        </item>
+        <item>
+          <title>Bates–Guggenheim convention</title>
+          <url>https://goldbook.iupac.org/terms/view/B00617</url>
+        </item>
+        <item>
+          <title>Debye</title>
+          <url>https://goldbook.iupac.org/terms/view/D01533</url>
+        </item>
+        <item>
+          <title>primary standard</title>
+          <url>https://goldbook.iupac.org/terms/view/S05924</url>
+        </item>
+        <item>
+          <title>ionic strength</title>
+          <url>https://goldbook.iupac.org/terms/view/I03180</url>
+        </item>
+        <item>
+          <title>liquid junction</title>
+          <url>https://goldbook.iupac.org/terms/view/L03584</url>
+        </item>
+        <item>
+          <title>activity coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/A00116</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>pH equation</meaning>
+          <type>equation</type>
+          <alttext>pH = -lg[a(H+)] = -lg[m(H+)γm(H+)/m⦵]</alttext>
+          <latex>\text{pH} = -\text{lg}[a(\text{H}^{+})] = -\text{lg}[\text{m}(\text{H}^{+})\gamma_{\text{m}}(\text{H}^{+})/m^{\unicode{x29B5} }]</latex>
+        </item>
+        <item>
+          <meaning>activity of hydronium ion</meaning>
+          <type>quantity</type>
+          <alttext>a(H+)</alttext>
+          <latex>a(\text{H}^{+})</latex>
+        </item>
+        <item>
+          <meaning>hydronium ion</meaning>
+          <type>substance</type>
+          <alttext>H+(aq)</alttext>
+          <latex>\text{H}^{+}\text{(aq)}</latex>
+        </item>
+        <item>
+          <meaning>molality-based activity coefficient for the hydronium ion</meaning>
+          <type>quantity</type>
+          <alttext>γm(H+)</alttext>
+          <latex>\gamma_{\text{m}}(\text{H}^{+})</latex>
+        </item>
+        <item>
+          <meaning>hydronium ion</meaning>
+          <type>substance</type>
+          <alttext>H+(aq)</alttext>
+          <latex>\text{H}^{+}\text{(aq)}</latex>
+        </item>
+        <item>
+          <meaning>hydronium ion molality</meaning>
+          <type>quantity</type>
+          <alttext>m(H+)</alttext>
+          <latex>m(\text{H}^{+})</latex>
+        </item>
+        <item>
+          <meaning>standard molality</meaning>
+          <type>math</type>
+          <alttext>m⦵ = 1 mol kg-1</alttext>
+          <latex>m^{⦵} = \pu{1 mol kg-1}</latex>
+        </item>
+        <item>
+          <meaning>rearranged Harn cell equation</meaning>
+          <type>equation</type>
+          <alttext>-lg[a(H+)γ(Cl-) = E- E⦵/(RTln10)/F + lg[m(Cl-)/m⦵]</alttext>
+          <latex>-\text{lg}[a(\text{H}^{+})\gamma(\text{Cl}^{-})] = \frac{E - E^{\unicode{x29B5} }}{(R\:T\:\text{ln}10)/F}+ \text{lg}[m(\text{Cl}^{-})/m^{\unicode{x29B5}}]</latex>
+        </item>
+        <item>
+          <meaning>potential difference</meaning>
+          <type>quantity</type>
+          <alttext>E</alttext>
+          <latex>E</latex>
+        </item>
+        <item>
+          <meaning>standard potential</meaning>
+          <type>quantity</type>
+          <alttext>E⦵</alttext>
+          <latex>E^{\unicode{x29B5}}</latex>
+        </item>
+        <item>
+          <meaning>standard potential</meaning>
+          <type>quantity</type>
+          <alttext>E⦵</alttext>
+          <latex>E^{\unicode{x29B5}}</latex>
+        </item>
+        <item>
+          <meaning>molality of chloride ion</meaning>
+          <type>quantity</type>
+          <alttext>m(Cl-)</alttext>
+          <latex>m(\text{Cl}^{-})</latex>
+        </item>
+        <item>
+          <meaning>acidity function</meaning>
+          <type>quantity</type>
+          <alttext>a(H+)γ(Cl-)</alttext>
+          <latex>a(\text{H}^{+})\gamma(\text{Cl}^{-})</latex>
+        </item>
+        <item>
+          <meaning>extrapolation point for the molality of chloride relative to standard </meaning>
+          <type>math</type>
+          <alttext>m(Cl-)/m⦵ = 0</alttext>
+          <latex>m(\text{Cl}^{-})/m^{\unicode{x29B5}} = 0</latex>
+        </item>
+        <item>
+          <meaning>activity coefficient of the chloride ion</meaning>
+          <type>quantity</type>
+          <alttext>γ(Cl-)</alttext>
+          <latex>\gamma(\text{Cl}^{-})</latex>
+        </item>
+        <item>
+          <meaning>log of the hydronium activity</meaning>
+          <type>quantity</type>
+          <alttext>lg[a(H+)]</alttext>
+          <latex>\text{lg}[a(\text{H}^{+})]</latex>
+        </item>
+        <item>
+          <meaning>pH of primary standard (PS)</meaning>
+          <type>symbol</type>
+          <alttext>pH(PS)</alttext>
+          <latex>\text{pH(PS)}</latex>
+        </item>
+        <item>
+          <meaning>primary standard (abbreviation)</meaning>
+          <type>symbol</type>
+          <alttext>PS</alttext>
+          <latex>\text{PS}</latex>
+        </item>
+        <item>
+          <meaning>uncertainty in acidity function</meaning>
+          <type>numeric value</type>
+          <alttext>0.001</alttext>
+          <latex>0.001</latex>
+        </item>
+        <item>
+          <meaning>log of the acidity function</meaning>
+          <type>quantity</type>
+          <alttext>lg[a(H+)γ(Cl-)]</alttext>
+          <latex>\text{lg}[a(\text{H}^{+})\gamma(\text{Cl}^{-})]</latex>
+        </item>
+        <item>
+          <meaning>uncertainty in pH</meaning>
+          <type>numeric value</type>
+          <alttext>0.003</alttext>
+          <latex>0.003</latex>
+        </item>
+        <item>
+          <meaning>log of the activity coefficient of chloride ion</meaning>
+          <type>quantity</type>
+          <alttext>-lg[γ(Cl-)]</alttext>
+          <latex>-\text{lg}[\gamma(\text{Cl}^{-})]</latex>
+        </item>
+        <item>
+          <meaning>ionic strength criterion</meaning>
+          <type>math</type>
+          <alttext>≤ 0.1 mol kg^-1</alttext>
+          <latex>\pu{\leq 0.1 mol kg-1}</latex>
+        </item>
+        <item>
+          <meaning>pH of secondary standard (SS)</meaning>
+          <type>symbol</type>
+          <alttext>pH(SS)</alttext>
+          <latex>\text{pH(SS)}</latex>
+        </item>
+        <item>
+          <meaning>liquid junction potential</meaning>
+          <type>quantity</type>
+          <alttext>Ej</alttext>
+          <latex>E_{\text{j}}</latex>
+        </item>
+        <item>
+          <meaning>change in potential as a function of pH</meaning>
+          <type>math</type>
+          <alttext>dE/dpH</alttext>
+          <latex>\text{d}E/\text{dpH}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 3rd ed., p. 75 (https://doi.org/10.1039/9781847557889)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 986 (https://doi.org/10.1351/pac199668040957)</item>
+        <item>PAC, 1997, 69, 1007. 'Reference value standards and primary standards for pH measurements in D2O and aqueousorganic solvent mixtures: New accessions and assessments (Technical Report)' on page 1007 (https://doi.org/10.1351/pac199769051007)</item>
+        <item>PAC, 1984, 56, 567. 'Physicochemical quantities and units in clinical chemistry with special emphasis on activities and activity coefficients (Recommendations 1983)' on page 569 (https://doi.org/10.1351/pac198456050567)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2205 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 2002, 74, 2169. 'Measurement of pH. Definition, standards, and procedures (IUPAC Recommendations 2002)' on page 2169 (https://doi.org/10.1351/pac200274112169)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Activity coefficient (en)</title>
+      <url>https://en.wikipedia.org/wiki/Activity_coefficient</url>
+    </item>
+    <item>
+      <title>Wikipedia - Coefficiente di attività (it)</title>
+      <url>https://it.wikipedia.org/wiki/Coefficiente_di_attività</url>
+    </item>
+    <item>
+      <title>Wikipedia - Coeficiente de actividad (es)</title>
+      <url>https://es.wikipedia.org/wiki/Coeficiente_de_actividad</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:PH (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Diskussion:PH</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:PH-Wert (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:PH-Wert</url>
+    </item>
+    <item>
+      <title>Wikipedia - Happamuus (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Happamuus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Logarit (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Logarit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Logarithm (en)</title>
+      <url>https://en.wikipedia.org/wiki/Logarithm</url>
+    </item>
+    <item>
+      <title>Wikipedia - Logaritm (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Logaritm</url>
+    </item>
+    <item>
+      <title>Wikipedia - Logaritma (id)</title>
+      <url>https://id.wikipedia.org/wiki/Logaritma</url>
+    </item>
+    <item>
+      <title>Wikipedia - Logaritme (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Logaritme</url>
+    </item>
+    <item>
+      <title>Wikipedia - Logaritmus (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Logaritmus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Odczyn gleby (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Odczyn_gleby</url>
+    </item>
+    <item>
+      <title>Wikipedia - PH (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/PH</url>
+    </item>
+    <item>
+      <title>Wikipedia - PH (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/PH</url>
+    </item>
+    <item>
+      <title>Wikipedia - PH (id)</title>
+      <url>https://id.wikipedia.org/wiki/PH</url>
+    </item>
+    <item>
+      <title>Wikipedia - PH (it)</title>
+      <url>https://it.wikipedia.org/wiki/PH</url>
+    </item>
+    <item>
+      <title>Wikipedia - PH (lmo)</title>
+      <url>https://lmo.wikipedia.org/wiki/PH</url>
+    </item>
+    <item>
+      <title>Wikipedia - PH (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/PH</url>
+    </item>
+    <item>
+      <title>Wikipedia - PH-Wert (de)</title>
+      <url>https://de.wikipedia.org/wiki/PH-Wert</url>
+    </item>
+    <item>
+      <title>Wikipedia - Skala pH (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Skala_pH</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Hydronium (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Hydronium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Thermodynamic activity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Thermodynamic_activity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Λογάριθμος (el)</title>
+      <url>https://el.wikipedia.org/wiki/Λογάριθμος</url>
+    </item>
+    <item>
+      <title>Wikipedia - Водородный показатель (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Водородный_показатель</url>
+    </item>
+    <item>
+      <title>Wikipedia - Логаритам (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Логаритам</url>
+    </item>
+    <item>
+      <title>Wikipedia - Логаритъм (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Логаритъм</url>
+    </item>
+    <item>
+      <title>Wikipedia - أس هيدروجيني (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أس_هيدروجيني</url>
+    </item>
+    <item>
+      <title>Wikipedia - 對數 (zh-yue)</title>
+      <url>https://zh-yue.wikipedia.org/wiki/對數</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04524/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04524/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04524/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04524/plain</plain>
+  </links>
+  <citation>Citation: 'pH' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04524</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:16:11+00:00</accessed>
+</term>

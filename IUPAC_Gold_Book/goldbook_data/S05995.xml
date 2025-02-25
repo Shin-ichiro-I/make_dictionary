@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05995</id>
+  <doi>10.1351/goldbook.S05995</doi>
+  <code>S05995</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stereospecific polymerization</longtitle>
+  <title>stereospecific polymerization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Polymerization in which a tactic polymer is formed. However, polymerization in which stereoisomerism present in the monomer is merely retained in the polymer is not to be regarded as stereospecific. For example, the polymerization of a chiralmonomer, e.g. d-propylene oxide (d-methyloxirane), with retention of configuration is not considered to be a stereospecific reaction; however, selective polymerization, with retention, of one of the enantiomers present in a mixture of d- and l-propylene oxide molecules is so classified.</text>
+      <links>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>tactic polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/T06246</url>
+        </item>
+        <item>
+          <title>monomer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04017</url>
+        </item>
+        <item>
+          <title>polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/P04735</url>
+        </item>
+        <item>
+          <title>stereospecific</title>
+          <url>https://goldbook.iupac.org/terms/view/S05994</url>
+        </item>
+        <item>
+          <title>configuration</title>
+          <url>https://goldbook.iupac.org/terms/view/C01249</url>
+        </item>
+        <item>
+          <title>enantiomers</title>
+          <url>https://goldbook.iupac.org/terms/view/E02069</url>
+        </item>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>tactic polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/T06246</url>
+        </item>
+        <item>
+          <title>monomer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04017</url>
+        </item>
+        <item>
+          <title>polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/P04735</url>
+        </item>
+        <item>
+          <title>stereospecific</title>
+          <url>https://goldbook.iupac.org/terms/view/S05994</url>
+        </item>
+        <item>
+          <title>configuration</title>
+          <url>https://goldbook.iupac.org/terms/view/C01249</url>
+        </item>
+        <item>
+          <title>enantiomers</title>
+          <url>https://goldbook.iupac.org/terms/view/E02069</url>
+        </item>
+        <item>
+          <title>stereoisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/S05983</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+      </links>
+      <sources>
+        <item>Purple Book, 1st ed., p. 19 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Polimerizzazione stereospecifica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Polimerizzazione_stereospecifica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polisolfuri (it)</title>
+      <url>https://it.wikipedia.org/wiki/Polisolfuri</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05995/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05995/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05995/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05995/plain</plain>
+  </links>
+  <citation>Citation: 'stereospecific polymerization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05995</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:25:09+00:00</accessed>
+</term>

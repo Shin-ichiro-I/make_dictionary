@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04042</id>
+  <doi>10.1351/goldbook.M04042</doi>
+  <code>M04042</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - multi-centre bond</longtitle>
+  <title>multi-centre bond</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Representation of some molecular entities solely by localized two-electron two-centre bonds appears to be unsatisfactory. Instead, multi-centre bonds have to be considered in which electron pairs occupy orbitals encompassing three or more atomic centres. Examples include the three-centre bonds in diborane, the delocalized π-bonding of benzene and bridged carbocations.</text>
+      <links>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>bridged carbocations</title>
+          <url>https://goldbook.iupac.org/terms/view/B00737</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1144 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M04042/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M04042/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M04042/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M04042/plain</plain>
+  </links>
+  <citation>Citation: 'multi-centre bond' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M04042</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:49:44+00:00</accessed>
+</term>

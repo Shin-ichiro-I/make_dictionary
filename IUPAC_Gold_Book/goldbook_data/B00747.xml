@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00747</id>
+  <doi>10.1351/goldbook.B00747</doi>
+  <code>B00747</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Brooks and Taylor structure</longtitle>
+  <title>Brooks and Taylor structure</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The structure of the anisotropic spheres which precipitate from isotropicpitch during pyrolysis. The structure of the spheres consists of a lamellar arrangement of aromatic molecules in parallel layers which are perpendicular to the polar axis of the sphere and which are perpendicular to the mesophase-isotropic phase interface.</text>
+      <notes>
+        <item>The term Brooks and Taylor structure is recommended to describe the particular lamellar morphology of the spherules most commonly precipitated from pyrolysed pitch. The term honours the workers who first recognized the significance of carbonaceous mesophase to carbon science and technology and who first defined this spherical morphology. The term Brooks and Taylor structure does not cover all structures found in the spherical mesophase, because other lamellar arrangements have been observed.</item>
+      </notes>
+      <links>
+        <item>
+          <title>morphology</title>
+          <url>https://goldbook.iupac.org/terms/view/MT07285</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>mesophase</title>
+          <url>https://goldbook.iupac.org/terms/view/M03849</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>pyrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04961</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>morphology</title>
+          <url>https://goldbook.iupac.org/terms/view/MT07285</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>mesophase</title>
+          <url>https://goldbook.iupac.org/terms/view/M03849</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>pyrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04961</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>carbonaceous mesophase</title>
+          <url>https://goldbook.iupac.org/terms/view/C00822</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 478 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Структура Брукса — Тейлора (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Структура_Брукса_—_Тейлора</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00747/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00747/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00747/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00747/plain</plain>
+  </links>
+  <citation>Citation: 'Brooks and Taylor structure' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00747</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:16:29+00:00</accessed>
+</term>

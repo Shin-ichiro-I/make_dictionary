@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04685</id>
+  <doi>10.1351/goldbook.P04685</doi>
+  <code>P04685</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Planck constant</longtitle>
+  <title>Planck constant</title>
+  <index>constant</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2020-01-01</lastupdated>
+  <definitions>
+    <item>
+      <id>2</id>
+      <text>The Planck constant, h, is one of seven fixed constants defining the International System of Units, the SI, with h = 6.626 070 15 x 10-34 J s. The Planck constant is considered as a fundamental constant of nature.</text>
+      <math>
+        <item>
+          <meaning>Planck constant - new (2019)</meaning>
+          <type>constant</type>
+          <alttext>h = 6.626 070 15 x 10E-34 J s</alttext>
+          <latex>h = 6.626\ 070\ 15\ \times 10^{-34}\ \text{J}\ \text{s}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>BIPM, The International System of Units, SI Brochure, 9th ed. (2019), p. 127ff (https://www.bipm.org/en/publications/si-brochure/)</item>
+        <item>Newell et al., Metrologia 55, L13-L16 (2018) (https://doi.org/10.1088/1681-7575/aa950a)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Costante di Planck (it)</title>
+      <url>https://it.wikipedia.org/wiki/Costante_di_Planck</url>
+    </item>
+    <item>
+      <title>Wikipedia - ثابت بلانك (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ثابت_بلانك</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04685/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04685/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04685/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04685/plain</plain>
+  </links>
+  <citation>Citation: 'Planck constant' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04685</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:24:08+00:00</accessed>
+</term>

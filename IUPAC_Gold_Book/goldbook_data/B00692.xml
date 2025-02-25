@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00692</id>
+  <doi>10.1351/goldbook.B00692</doi>
+  <code>B00692</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Bohr magneton</longtitle>
+  <title>Bohr magneton</title>
+  <index>constant</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Electromagnetic fundamental physical constant: µB = e.ℏ/2me = 9.274 0154 (31) E-21 J T^-1 is the elementary charge, ℏ the Planck constant divided by 2π and m e the electron rest mass.</text>
+      <links>
+        <item>
+          <title>elementary charge</title>
+          <url>https://goldbook.iupac.org/terms/view/E02032</url>
+        </item>
+        <item>
+          <title>Planck constant</title>
+          <url>https://goldbook.iupac.org/terms/view/P04685</url>
+        </item>
+        <item>
+          <title>electron rest mass</title>
+          <url>https://goldbook.iupac.org/terms/view/E02008</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>µB = e.ℏ/2me = 9.274 0154 (31) E-21 J T^-1</alttext>
+          <latex>\mu _{\text{B}} = \frac{e\ \mathrm{\hslash }}{2\ m_{\text{e}}} = 9.274\hspace{0.5em}0154\hspace{0.25em}\left(31\right)\times 10^{-24}\ \mathrm{J}\ \mathrm{T}^{-1}</latex>
+        </item>
+        <item>
+          <alttext>e</alttext>
+          <latex>e</latex>
+        </item>
+        <item>
+          <alttext>ℏ</alttext>
+          <latex>\mathrm{\hslash}</latex>
+        </item>
+        <item>
+          <alttext>2π</alttext>
+          <latex>2\ \pi </latex>
+        </item>
+        <item>
+          <alttext>m e</alttext>
+          <latex>m_{\text{e}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>CODATA Bull. 1986, 63, 1 (https://doi.org/10.6028/jres.092.010)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Magnetone di Bohr (it)</title>
+      <url>https://it.wikipedia.org/wiki/Magnetone_di_Bohr</url>
+    </item>
+    <item>
+      <title>Wikipedia - مغنطون بور (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مغنطون_بور</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00692/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00692/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00692/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00692/plain</plain>
+  </links>
+  <citation>Citation: 'Bohr magneton' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00692</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:12:42+00:00</accessed>
+</term>

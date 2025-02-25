@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02776</id>
+  <doi>10.1351/goldbook.H02776</doi>
+  <code>H02776</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hemiketals</longtitle>
+  <title>hemiketals</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Hemiacetals having the structure R2C(OH)OR ( R ≠ H ), derived from ketones by formal addition of an alcohol to the carbonyl group. This term, once abandoned, has been reinstated as a subclass of hemiacetals.</text>
+      <links>
+        <item>
+          <title>hemiacetals</title>
+          <url>https://goldbook.iupac.org/terms/view/H02774</url>
+        </item>
+        <item>
+          <title>hemiacetals</title>
+          <url>https://goldbook.iupac.org/terms/view/H02774</url>
+        </item>
+        <item>
+          <title>ketones</title>
+          <url>https://goldbook.iupac.org/terms/view/K03386</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1339 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chetali (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chetali</url>
+    </item>
+    <item>
+      <title>Wikipedia - Félacetál (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Félacetál</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemiacetal (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Hemiacetal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemiacetal (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hemiacetal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemiacetal (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Hemiacetal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemiacetal (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Hemiacetal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemiacetale (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Hemiacetale</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemiasetaalit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Hemiasetaalit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Poloacetál (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Poloacetál</url>
+    </item>
+    <item>
+      <title>Wikipedia - Геміацеталі (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Геміацеталі</url>
+    </item>
+    <item>
+      <title>Wikipedia - ヘミアセタール (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ヘミアセタール</url>
+    </item>
+    <item>
+      <title>Wikipedia - 헤미아세탈 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/헤미아세탈</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02776/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02776/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02776/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02776/plain</plain>
+  </links>
+  <citation>Citation: 'hemiketals' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02776</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:49:47+00:00</accessed>
+</term>

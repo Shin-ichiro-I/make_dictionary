@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03893</id>
+  <doi>10.1351/goldbook.M03893</doi>
+  <code>M03893</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Michaelis–Menten mechanism</longtitle>
+  <title>Michaelis–Menten mechanism</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The Michaelis–Menten mechanism is the simplest mechanism that will explain Michaelis–Menten kinetics According to the mechanism, a substrate A first combines with a molecule of enzyme E, and this process is followed by a step in which the enzyme-substrate complex EA breaks down (sometimes with the participation of the solvent) into enzyme and reaction products: E + A (k1)⇌(k-1) EA (k2)→ E + Products is the total concentration of enzyme. This equation is of the form of the Michaelis–Menten equation. Other, more complicated, mechanisms lead to the Michaelis–Menten equation, adherence to which therefore does not require that the Michaelis– Menten mechanism applies.</text>
+      <links>
+        <item>
+          <title>Michaelis–Menten kinetics</title>
+          <url>https://goldbook.iupac.org/terms/view/M03892</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>E + A (k1)⇌(k-1) EA (k2)→ E + Products</alttext>
+          <latex>\text{E}+\text{A}\overset{k_{1}}{\underset{k_{-1}}\rightleftharpoons }\text{EA}\overset{k_{2}}{\rightarrow }\text{E}+\text{Products}</latex>
+        </item>
+        <item>
+          <alttext>v = k 2 E 0 A k-1 + k 2 k 1 + A</alttext>
+          <latex>v = \frac{k_{2}\ \left[\text{E}\right]_{0}\ \left[\text{A}\right]}{\frac{k_{-1}\,+\,k_{2}}{k_{1}}\,+\,\left[\text{A}\right]}</latex>
+        </item>
+        <item>
+          <alttext>E0</alttext>
+          <latex>\left[\text{E}\right]_{0}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 172 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Michaelis-Menten-Theorie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Michaelis-Menten-Theorie</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03893/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03893/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03893/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03893/plain</plain>
+  </links>
+  <citation>Citation: 'Michaelis–Menten mechanism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03893</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:41:19+00:00</accessed>
+</term>

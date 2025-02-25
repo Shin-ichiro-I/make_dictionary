@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03603</id>
+  <doi>10.1351/goldbook.L03603</doi>
+  <code>L03603</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - local flame temperature, T_1 in flame emission and absorption spectrometry</longtitle>
+  <title>local flame temperature</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The effective thermodynamic temperature in the observation space as measured by a specific sensor for a specified element (in K). The temperature of a flame (or other plasma) is not homogeneous. It is usually lower at the borders of the flame. It is therefore appropriate to speak of an effective temperature which represents an average value of all temperatures throughout the observation space. The flame temperature depends on several factors such as: kind of plasma, kind of gas or gas mixture and concentration gradient of the thermometric species in the observation space.</text>
+      <contexts>
+        <in>
+          <item>flame emission and absorption spectrometry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>concentration gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01227</url>
+        </item>
+        <item>
+          <title>thermometric</title>
+          <url>https://goldbook.iupac.org/terms/view/T06329</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>K</alttext>
+          <latex>\text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1986, 58, 1737. 'Quantities and units in clinical chemistry: Nebulizer and flame properties in flame emission and absorption spectrometry (Recommendations 1986)' on page 1741 (https://doi.org/10.1351/pac198658121737)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03603/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03603/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03603/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03603/plain</plain>
+  </links>
+  <citation>Citation: 'local flame temperature' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03603</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:28:00+00:00</accessed>
+</term>

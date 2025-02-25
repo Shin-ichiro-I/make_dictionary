@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02281</id>
+  <doi>10.1351/goldbook.E02281</doi>
+  <code>E02281</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - extensive quantity</longtitle>
+  <title>extensive quantity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Physical quantity whose magnitude is additive for subsystems.</text>
+      <links>
+        <item>
+          <title>additive</title>
+          <url>https://goldbook.iupac.org/terms/view/A00134</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 7 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1986, 58, 1405. 'Recommendations for the presentation of thermodynamic and related data in biology (Recommendations 1985)' on page 1407 (https://doi.org/10.1351/pac198658101405)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atmosfera (jedinica) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Atmosfera_(jedinica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Intensiivi- ja ekstensiivisuureet (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Intensiivi-_ja_ekstensiivisuureet</url>
+    </item>
+    <item>
+      <title>Wikipedia - Intensiv och extensiv storhet (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Intensiv_och_extensiv_storhet</url>
+    </item>
+    <item>
+      <title>Wikipedia - Intensive and extensive properties (en)</title>
+      <url>https://en.wikipedia.org/wiki/Intensive_and_extensive_properties</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propietats intensives i extensives (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Propietats_intensives_i_extensives</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propriedades extensivas (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Propriedades_extensivas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Proprietà intensive ed estensive (it)</title>
+      <url>https://it.wikipedia.org/wiki/Proprietà_intensive_ed_estensive</url>
+    </item>
+    <item>
+      <title>Wikipedia - Shinikizo (sw)</title>
+      <url>https://sw.wikipedia.org/wiki/Shinikizo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tlak (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Tlak</url>
+    </item>
+    <item>
+      <title>Wikipedia - Φυσικό μέγεθος (el)</title>
+      <url>https://el.wikipedia.org/wiki/Φυσικό_μέγεθος</url>
+    </item>
+    <item>
+      <title>Wikipedia - Інтенсивні та екстенсивні властивості (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Інтенсивні_та_екстенсивні_властивості</url>
+    </item>
+    <item>
+      <title>Wikipedia - Архимедов закон (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Архимедов_закон</url>
+    </item>
+    <item>
+      <title>Wikipedia - চাপ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/চাপ</url>
+    </item>
+    <item>
+      <title>Wikipedia - সংকীর্ণ ও বিকীর্ণ ধর্মসমূহ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/সংকীর্ণ_ও_বিকীর্ণ_ধর্মসমূহ</url>
+    </item>
+    <item>
+      <title>Wikipedia - పీడనం (te)</title>
+      <url>https://te.wikipedia.org/wiki/పీడనం</url>
+    </item>
+    <item>
+      <title>Wikipedia - တိက်ꩻနျꩻအာႏ (blk)</title>
+      <url>https://blk.wikipedia.org/wiki/တိက်ꩻနျꩻအာႏ</url>
+    </item>
+    <item>
+      <title>Wikipedia - ဖိအား (my)</title>
+      <url>https://my.wikipedia.org/wiki/ဖိအား</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02281/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02281/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02281/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02281/plain</plain>
+  </links>
+  <citation>Citation: 'extensive quantity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02281</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:26:35+00:00</accessed>
+</term>

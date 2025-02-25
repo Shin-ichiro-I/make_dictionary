@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00564</id>
+  <doi>10.1351/goldbook.A00564</doi>
+  <code>A00564</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - azomethines</longtitle>
+  <title>azomethines</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds having the structure RN=CR2 (R ≠ H). Many consider the term to include the compounds RN=CRH (R ≠ H), thus making azomethines synonymous with Schiff bases.</text>
+      <links>
+        <item>
+          <title>Schiff bases</title>
+          <url>https://goldbook.iupac.org/terms/view/S05498</url>
+        </item>
+        <item>
+          <title>Schiff bases</title>
+          <url>https://goldbook.iupac.org/terms/view/S05498</url>
+        </item>
+        <item>
+          <title>imines</title>
+          <url>https://goldbook.iupac.org/terms/view/I02957</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1321 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Base de Schiff (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Base_de_Schiff</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bază Schiff (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Bază_Schiff</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Immine (it)</title>
+      <url>https://it.wikipedia.org/wiki/Immine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Schiff base (en)</title>
+      <url>https://en.wikipedia.org/wiki/Schiff_base</url>
+    </item>
+    <item>
+      <title>Wikipedia - Schiff-bázis (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Schiff-bázis</url>
+    </item>
+    <item>
+      <title>Wikipedia - 시프 염기 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/시프_염기</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00564/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00564/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00564/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00564/plain</plain>
+  </links>
+  <citation>Citation: 'azomethines' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00564</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:05:12+00:00</accessed>
+</term>

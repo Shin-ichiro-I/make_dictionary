@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01036</id>
+  <doi>10.1351/goldbook.C01036</doi>
+  <code>C01036</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical shift, δ, in NMR</longtitle>
+  <title>chemical shift</title>
+  <abbrevs>
+    <item>NMR</item>
+    <item>TMS</item>
+  </abbrevs>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The fractional variation of the resonance frequency of a nucleus in nuclear magnetic resonance (NMR) spectroscopy in consequence of its magnetic environment. The chemical shift of a nucleus, δ, is expressed as a ratio involving its frequency,  ν cpd,  relative to that of a standard,  ν ref, and defined as: δ = ν cpd- ν ref ν ref-values are normally expressed in  ppm. For 1H and 13C NMR the reference signal is usually that of tetramethylsilane (TMS), strictly speaking in dilute solution in CDCl3. Other references are used in the older literature and for other solvents, such as D2O. Resonance lines to high frequency from the TMS signal have positive, and resonance lines to low frequency from TMS have negative, δ-values (arising from relative deshielding and shielding respectively). The archaic terms 'downfield' and 'upfield' should no longer be used. For nuclei other than 1H, chemical shifts are expressed either in the same manner relative to an agreed substance containing the relevant nucleus or relative to the 1H resonance of TMS as Ξ values, defined in the references below.</text>
+      <contexts>
+        <in>
+          <item>NMR</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>nucleus</title>
+          <url>https://goldbook.iupac.org/terms/view/N04256</url>
+        </item>
+        <item>
+          <title>spectroscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/S05848</url>
+        </item>
+        <item>
+          <title>dilute solution</title>
+          <url>https://goldbook.iupac.org/terms/view/D01739</url>
+        </item>
+        <item>
+          <title>deshielding</title>
+          <url>https://goldbook.iupac.org/terms/view/S05644</url>
+        </item>
+        <item>
+          <title>downfield</title>
+          <url>https://goldbook.iupac.org/terms/view/D01856</url>
+        </item>
+        <item>
+          <title>upfield</title>
+          <url>https://goldbook.iupac.org/terms/view/U06575</url>
+        </item>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>δ</alttext>
+          <latex>\delta </latex>
+        </item>
+        <item>
+          <alttext>ν cpd</alttext>
+          <latex>\nu _{\mathrm{cpd}}</latex>
+        </item>
+        <item>
+          <alttext>ν ref</alttext>
+          <latex>\nu _{\mathrm{ref}}</latex>
+        </item>
+        <item>
+          <alttext>δ = ν cpd- ν ref ν ref</alttext>
+          <latex>\delta = \frac{\nu _{\text{cpd}}- \nu _{\text{ref}}}{\nu _{ref}}</latex>
+        </item>
+        <item>
+          <alttext>δ</alttext>
+          <latex>\delta </latex>
+        </item>
+        <item>
+          <alttext>ppm</alttext>
+          <latex>\mathrm{ppm}</latex>
+        </item>
+        <item>
+          <alttext>δ</alttext>
+          <latex>\delta </latex>
+        </item>
+        <item>
+          <alttext>Ξ</alttext>
+          <latex>\mathit{\Xi}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 3rd ed., p. 29 (https://doi.org/10.1039/9781847557889)</item>
+        <item>PAC, 2001, 73, 1795. 'NMR nomenclature. Nuclear spin properties and conventions for chemical shifts(IUPAC Recommendations 2001)' on page 1807 (https://doi.org/10.1351/pac200173111795)</item>
+        <item>PAC, 2008, 80, 59. 'Further conventions for NMR shielding and chemical shifts (IUPAC Recommendations 2008)' on page 61 (https://doi.org/10.1351/pac200880010059)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Kemiallinen siirtymä (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Kemiallinen_siirtymä</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ydinmagneettinen resonanssispektroskopia (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Ydinmagneettinen_resonanssispektroskopia</url>
+    </item>
+    <item>
+      <title>Wikipedia - انزياح كيميائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/انزياح_كيميائي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01036/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01036/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01036/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01036/plain</plain>
+  </links>
+  <citation>Citation: 'chemical shift' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01036</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:30:48+00:00</accessed>
+</term>

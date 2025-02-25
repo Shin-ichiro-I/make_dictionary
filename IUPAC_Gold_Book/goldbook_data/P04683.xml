@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04683</id>
+  <doi>10.1351/goldbook.P04683</doi>
+  <code>P04683</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - planar film</longtitle>
+  <title>planar film</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A film whose boundaries are represented by ideal parallel planes. The planar film thickness is defined as the distance between these planes. The terms nanometre thick film, micrometre thick film and millimetre thick film refer specifically to film thickness in the ranges 0.1-100 nm - 0.1-100 µm, 0.1-100 mm -  and  - , respectively.</text>
+      <links>
+        <item>
+          <title>film</title>
+          <url>https://goldbook.iupac.org/terms/view/F02366</url>
+        </item>
+        <item>
+          <title>film</title>
+          <url>https://goldbook.iupac.org/terms/view/F02366</url>
+        </item>
+        <item>
+          <title>thick film</title>
+          <url>https://goldbook.iupac.org/terms/view/T06345</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>0.1-100 nm</alttext>
+          <latex>0.1{-}100\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>0.1-100 µm</alttext>
+          <latex>0.1{-}100\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+        <item>
+          <alttext>0.1-100 mm</alttext>
+          <latex>0.1{-}100\ \text{mm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1667. 'Thin films including layers: terminology in relation to their preparation and characterization (IUPAC Recommendations 1994)' on page 1671 (https://doi.org/10.1351/pac199466081667)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04683/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04683/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04683/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04683/plain</plain>
+  </links>
+  <citation>Citation: 'planar film' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04683</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:24:00+00:00</accessed>
+</term>

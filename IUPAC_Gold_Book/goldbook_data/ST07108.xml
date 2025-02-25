@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07108</id>
+  <doi>10.1351/goldbook.ST07108</doi>
+  <code>ST07108</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - strain energy</longtitle>
+  <title>strain energy</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The excess energy due to steric strain of a molecular entity or transition state structure, i.e. distortions relative to a reference (real or hypothetical) 'strainless' structure with the standard bond lengths, bond angles and dihedral angles. The strain energy components involve the following destabilizing terms: non-bonded repulsions, bond-angle distortions, bond stretch or compression, rotation around or twisting of double bonds, and electrostatic strain. In general, the contributions of these components are inseparable and interdependent. A quantitative assessment of strain and strain energies can be made by taking the difference between the heat of formation of the substance under consideration and that of a hypothetical strain-free model. Several approaches to the assessment of strain energies have been developed based on the use of energies of isodesmic and homodesmotic reactions and on the so-called 'strainless increments', i.e. heats of formation of certain groups (CH3, CH2, CH, Cetc).</text>
+      <links>
+        <item>
+          <title>steric strain</title>
+          <url>https://goldbook.iupac.org/terms/view/S06002</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>strain</title>
+          <url>https://goldbook.iupac.org/terms/view/S06037</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1964 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ST07108/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ST07108/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ST07108/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ST07108/plain</plain>
+  </links>
+  <citation>Citation: 'strain energy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ST07108</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:27:22+00:00</accessed>
+</term>

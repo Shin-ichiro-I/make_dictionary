@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04779</id>
+  <doi>10.1351/goldbook.P04779</doi>
+  <code>P04779</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - potential-energy profile</longtitle>
+  <title>potential-energy profile</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A curve describing the variation of the potential energy of the system of atoms that make up the reactants and products of a reaction as a function of one geometric coordinate, and corresponding to the 'energetically easiest passage' from reactants to products (i.e. along the line produced by joining the paths of steepest descent from the transition state to the reactants and to the products). For an elementary reaction the relevant geometric coordinate is the reaction coordinate ; for a stepwise reaction it is the succession of reaction coordinates for the successive individual reaction steps. (The reaction coordinate is sometimes approximated by a quasi-chemical index of reaction progress, such as 'degree of atom transfer' or bond order of some specified bond.)</text>
+      <links>
+        <item>
+          <title>potential-energy (reaction) surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>Gibbs energy diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02630</url>
+        </item>
+        <item>
+          <title>potential-energy (reaction) surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>Gibbs energy diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02630</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>stepwise reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/S05970</url>
+        </item>
+        <item>
+          <title>bond order</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>potential-energy (reaction) surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>Gibbs energy diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02630</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>stepwise reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/S05970</url>
+        </item>
+        <item>
+          <title>bond order</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1151 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 176 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04779/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04779/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04779/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04779/plain</plain>
+  </links>
+  <citation>Citation: 'potential-energy profile' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04779</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:30:01+00:00</accessed>
+</term>

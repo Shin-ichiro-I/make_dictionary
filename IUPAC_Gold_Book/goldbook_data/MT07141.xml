@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07141</id>
+  <doi>10.1351/goldbook.MT07141</doi>
+  <code>MT07141</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Mechano-chemical reaction</longtitle>
+  <title>Mechano-chemical reaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Chemical reaction that is induced by the direct absorption of mechanical energy.</text>
+      <notes>
+        <item>Shearing, stretching, and grinding are typical methods for the mechano-chemical generation of reactive sites, usually macroradicals, in polymer chains that undergo mechano-chemical reactions.</item>
+      </notes>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 893 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cemento modificado energéticamente (es)</title>
+      <url>https://es.wikipedia.org/wiki/Cemento_modificado_energéticamente</url>
+    </item>
+    <item>
+      <title>Wikipedia - Energetically modified cement (en)</title>
+      <url>https://en.wikipedia.org/wiki/Energetically_modified_cement</url>
+    </item>
+    <item>
+      <title>Wikipedia - User talk:The Real Jammy Dodger (en)</title>
+      <url>https://en.wikipedia.org/wiki/User_talk:The_Real_Jammy_Dodger</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/MT07141/html</html>
+    <json>https://goldbook.iupac.org/terms/view/MT07141/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/MT07141/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/MT07141/plain</plain>
+  </links>
+  <citation>Citation: 'Mechano-chemical reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.MT07141</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:37:08+00:00</accessed>
+</term>

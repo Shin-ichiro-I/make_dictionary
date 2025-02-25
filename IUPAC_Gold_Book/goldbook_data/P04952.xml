@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04952</id>
+  <doi>10.1351/goldbook.P04952</doi>
+  <code>P04952</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pump-probe technique</longtitle>
+  <title>pump-probe technique</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Transient absorption spectroscopy using two pulses (strong pump and weak probe) and capable of achieving a high temporal resolution. A pump pulse excites the sample and triggers the process under investigation. A second delayed pulse, the probe, monitors an optical property. By varying the time delay between the pump and probe pulses, it is possible to assemble measurements as a function of time. The probe pulse is typically a UV, visible or infrared pulse in which case a snap-shot spectrum is taken as a function of the delay time. Often the probe pulse is generated from a portion of the excitation beam, but it can also be an independently generated electromagnetic pulse.</text>
+      <notes>
+        <item>In the case of an optical probe, this interaction is formally a non-linear optical process that is third-order in polarization. The excitation intensity to create the excited state constitutes a two-field interaction and the determination of the change in the time-dependent optical properties involves a third field monitoring the induced time-dependent changes in the 'linear susceptibility'. Diffractive probes (e.g., electrons and X-rays) can also be used, in which case one measures a diffraction pattern as a function of time.</item>
+      </notes>
+      <links>
+        <item>
+          <title>polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04712</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>monitoring</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06831</url>
+        </item>
+        <item>
+          <title>diffraction</title>
+          <url>https://goldbook.iupac.org/terms/view/D01711</url>
+        </item>
+        <item>
+          <title>spectroscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/S05848</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>infrared</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07399</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 404 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04952/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04952/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04952/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04952/plain</plain>
+  </links>
+  <citation>Citation: 'pump-probe technique' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04952</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:37:29+00:00</accessed>
+</term>

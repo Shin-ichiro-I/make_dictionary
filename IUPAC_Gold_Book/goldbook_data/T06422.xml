@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06422</id>
+  <doi>10.1351/goldbook.T06422</doi>
+  <code>T06422</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - tracer</longtitle>
+  <title>tracer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A foreign substance mixed with or attached to a given substance to enable the distribution or location of the latter to be determined subsequently. There are several types of tracers which are used: (i) A physical tracer is one that is attached by physical means to the object being traced; (ii) A chemical tracer is a chemical with properties similar to those of the substance being traced with which it is mixed homogeneously; (iii) An isotopic tracer is a unique isotope, either radioactive or an enriched, uncommon stable isotope, of the element to be traced; (iv) A radioactive tracer is a physical or chemical tracer having radioactivity as its distinctive property which allows detection at small concentrations and hence after large transport distances. The composition of aerosols in the troposphere has been used as a qualitative tracer of air masses. The elemental analyses (determined by neutronactivation, X-ray fluorescence, etc.) of the aerosols transported from various sources or source regions sometimes have characteristic patterns which are used to define qualitatively the origin of tropospheric aerosols collected in other geographical regions.</text>
+      <links>
+        <item>
+          <title>isotopic tracer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03350</url>
+        </item>
+        <item>
+          <title>radioactive</title>
+          <url>https://goldbook.iupac.org/terms/view/R05077</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>radioactive tracer</title>
+          <url>https://goldbook.iupac.org/terms/view/R05089</url>
+        </item>
+        <item>
+          <title>radioactivity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05092</url>
+        </item>
+        <item>
+          <title>troposphere</title>
+          <url>https://goldbook.iupac.org/terms/view/T06522</url>
+        </item>
+        <item>
+          <title>neutron</title>
+          <url>https://goldbook.iupac.org/terms/view/N04116</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>X-ray fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/X06710</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2217 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1994, 66, 2513. 'Nomenclature for radioanalytical chemistry (IUPAC Recommendations 1994)' on page 2525 (https://doi.org/10.1351/pac199466122513)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Tracciante (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Tracciante_(chimica)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06422/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06422/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06422/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06422/plain</plain>
+  </links>
+  <citation>Citation: 'tracer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06422</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:45:31+00:00</accessed>
+</term>

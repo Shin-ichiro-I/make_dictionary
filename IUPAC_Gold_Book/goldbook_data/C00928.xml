@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00928</id>
+  <doi>10.1351/goldbook.C00928</doi>
+  <code>C00928</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Celsius temperature</longtitle>
+  <title>Celsius temperature</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Thermodynamic temperature minus 273.15 K, invariably expressed in the SI unit degree Celsius(°C) which is equal to the kelvin. Sometimes the misnomer centigrade temperature is used for Celsius temperature.</text>
+      <links>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>kelvin</title>
+          <url>https://goldbook.iupac.org/terms/view/K03374</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>kelvin</title>
+          <url>https://goldbook.iupac.org/terms/view/K03374</url>
+        </item>
+        <item>
+          <title>degree Celsius</title>
+          <url>https://goldbook.iupac.org/terms/view/D01561</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>273.15 K</alttext>
+          <latex>273.15\ \text{K}</latex>
+        </item>
+        <item>
+          <alttext>°C</alttext>
+          <latex>\pu{^{\circ}C}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 48 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 965 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Grado Celsius (it)</title>
+      <url>https://it.wikipedia.org/wiki/Grado_Celsius</url>
+    </item>
+    <item>
+      <title>Wikipedia - Liste d'abréviations et de symboles en chimie (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Liste_d'abréviations_et_de_symboles_en_chimie</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00928/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00928/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00928/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00928/plain</plain>
+  </links>
+  <citation>Citation: 'Celsius temperature' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00928</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:25:03+00:00</accessed>
+</term>

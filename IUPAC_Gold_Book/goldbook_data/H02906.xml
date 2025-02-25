@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02906</id>
+  <doi>10.1351/goldbook.H02906</doi>
+  <code>H02906</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hydrophilic</longtitle>
+  <title>hydrophilic</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>'Water loving'. The capacity of a molecular entity or of a substituent to interact with polar solvents, in particular with water, or with other polar groups.</text>
+      <links>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>substituent</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1123 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chất ưa nước (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Chất_ưa_nước</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrófilo (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Hidrófilo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrofiilinen (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Hydrofiilinen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrofil (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Hydrofil</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrophile (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrophile</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hygroscopy (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hygroscopy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hygroskopisk (no)</title>
+      <url>https://no.wikipedia.org/wiki/Hygroskopisk</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hüdrofiilsus (et)</title>
+      <url>https://et.wikipedia.org/wiki/Hüdrofiilsus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Idrofilia (it)</title>
+      <url>https://it.wikipedia.org/wiki/Idrofilia</url>
+    </item>
+    <item>
+      <title>Wikipedia - آب‌دوست (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/آب‌دوست</url>
+    </item>
+    <item>
+      <title>Wikipedia - హైడ్రోఫైల్ (te)</title>
+      <url>https://te.wikipedia.org/wiki/హైడ్రోఫైల్</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02906/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02906/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02906/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02906/plain</plain>
+  </links>
+  <citation>Citation: 'hydrophilic' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02906</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:56:37+00:00</accessed>
+</term>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04986</id>
+  <doi>10.1351/goldbook.Q04986</doi>
+  <code>Q04986</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - quantum of radiation</longtitle>
+  <title>quantum</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An elementary particle of electromagnetic energy in the sense of the wave-particle duality.</text>
+      <contexts>
+        <of>
+          <item>radiation</item>
+        </of>
+      </contexts>
+      <links>
+        <item>
+          <title>photon</title>
+          <url>https://goldbook.iupac.org/terms/view/P04627</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2267 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/Q04986/html</html>
+    <json>https://goldbook.iupac.org/terms/view/Q04986/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/Q04986/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/Q04986/plain</plain>
+  </links>
+  <citation>Citation: 'quantum' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.Q04986</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:39:06+00:00</accessed>
+</term>

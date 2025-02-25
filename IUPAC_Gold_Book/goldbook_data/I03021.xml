@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03021</id>
+  <doi>10.1351/goldbook.I03021</doi>
+  <code>I03021</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - inductive effect</longtitle>
+  <title>inductive effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In strict definition, an experimentally observable effect (on rates of reaction, etc.) of the transmission of charge through a chain of atoms by electrostatic induction. A theoretical distinction may be made between the field effect, and the inductive effect as models for the Coulomb interaction between a given site within a molecular entity and a remote unipole or dipole within the same entity. The experimental distinction between the two effects has proved difficult, except for molecules of peculiar geometry, which may exhibit 'reversed field effects'. Ordinarily the inductive effect and the field effect are influenced in the same direction by structural changes in the molecule and the distinction between them is not clear. This situation has led many authors to include the field effect in the term 'inductive effect'. Thus the separation of values into inductive and resonance components does not imply the exclusive operation of a through-bonds route for the transmission of the non-conjugative part of the substituent effect. To indicate the all-inclusive use of the term inductive, the phrase 'so-called inductive effect' is sometimes used. Certain modern theoretical approaches suggest that the 'so-called inductive effect' reflects a field effect rather than through-bonds transmission.</text>
+      <links>
+        <item>
+          <title>mesomeric effect</title>
+          <url>https://goldbook.iupac.org/terms/view/M03844</url>
+        </item>
+        <item>
+          <title>polar effect</title>
+          <url>https://goldbook.iupac.org/terms/view/P04709</url>
+        </item>
+        <item>
+          <title>mesomeric effect</title>
+          <url>https://goldbook.iupac.org/terms/view/M03844</url>
+        </item>
+        <item>
+          <title>polar effect</title>
+          <url>https://goldbook.iupac.org/terms/view/P04709</url>
+        </item>
+        <item>
+          <title>transmission</title>
+          <url>https://goldbook.iupac.org/terms/view/T06477</url>
+        </item>
+        <item>
+          <title>coulomb</title>
+          <url>https://goldbook.iupac.org/terms/view/C01365</url>
+        </item>
+        <item>
+          <title>field effect</title>
+          <url>https://goldbook.iupac.org/terms/view/F02358</url>
+        </item>
+        <item>
+          <title>mesomeric effect</title>
+          <url>https://goldbook.iupac.org/terms/view/M03844</url>
+        </item>
+        <item>
+          <title>polar effect</title>
+          <url>https://goldbook.iupac.org/terms/view/P04709</url>
+        </item>
+        <item>
+          <title>transmission</title>
+          <url>https://goldbook.iupac.org/terms/view/T06477</url>
+        </item>
+        <item>
+          <title>coulomb</title>
+          <url>https://goldbook.iupac.org/terms/view/C01365</url>
+        </item>
+        <item>
+          <title>field effect</title>
+          <url>https://goldbook.iupac.org/terms/view/F02358</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1124 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Effetto induttivo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Effetto_induttivo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Induktiivinen efekti (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Induktiivinen_efekti</url>
+    </item>
+    <item>
+      <title>Wikipedia - Induktiver Effekt (de)</title>
+      <url>https://de.wikipedia.org/wiki/Induktiver_Effekt</url>
+    </item>
+    <item>
+      <title>Wikipedia - 诱导效应 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/诱导效应</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03021/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03021/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03021/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03021/plain</plain>
+  </links>
+  <citation>Citation: 'inductive effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03021</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:02:34+00:00</accessed>
+</term>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00377</id>
+  <doi>10.1351/goldbook.A00377</doi>
+  <code>A00377</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - antarafacial</longtitle>
+  <title>antarafacial</title>
+  <contains>suprafacial</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>When a part of a molecule ('molecular fragment') undergoes two changes in bonding (bond-making or bond-breaking), either to a common centre or to two related centres, external to itself, these bonding changes may be related in one of two spatially different ways. These are designated as 'antarafacial' if opposite faces of the molecular fragment are involved, and 'suprafacial' if both changes occur at the same face. The concept of 'face' is clear from the diagrams in the cases of planar (or approximately planar) frameworks with isolated or interacting p-orbitals [diagrams (a) and (b)]. [image: Not defined] The terms antarafacial and suprafacial are, however, also employed in cases in which the essential part of the molecular fragment undergoing changes in bonding comprises two atoms linked only by a σ-bond. In these cases it is customary to refer to the phases of the local σ-bonding orbital: occurrence of the two bonding changes at sites of like orbital phase is regarded as suprafacial, whereas that at two sites of opposite phase is antarafacial. The possibilities are shown for C–C and C–H σ-bonds in diagrams (c) and (d). There may be two distinct and alternative stereochemical outcomes of a suprafacial process involving a σ-bond between saturated carbon atoms, i.e. either retention or inversion at both centres. The antarafacial process results in inversion at one centre and retention at the second. For examples of the use of these terms, see cycloaddition, sigmatropic rearrangement.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00377.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>anti</title>
+          <url>https://goldbook.iupac.org/terms/view/A00381</url>
+        </item>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>anti</title>
+          <url>https://goldbook.iupac.org/terms/view/A00381</url>
+        </item>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>inversion</title>
+          <url>https://goldbook.iupac.org/terms/view/I03146</url>
+        </item>
+        <item>
+          <title>anti</title>
+          <url>https://goldbook.iupac.org/terms/view/A00381</url>
+        </item>
+        <item>
+          <title>sigma, pi</title>
+          <url>https://goldbook.iupac.org/terms/view/S05434</url>
+        </item>
+        <item>
+          <title>inversion</title>
+          <url>https://goldbook.iupac.org/terms/view/I03146</url>
+        </item>
+        <item>
+          <title>cycloaddition</title>
+          <url>https://goldbook.iupac.org/terms/view/C01496</url>
+        </item>
+        <item>
+          <title>sigmatropic rearrangement</title>
+          <url>https://goldbook.iupac.org/terms/view/S05660</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1084 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Antarafacial and suprafacial (en)</title>
+      <url>https://en.wikipedia.org/wiki/Antarafacial_and_suprafacial</url>
+    </item>
+    <item>
+      <title>Wikipedia - Antarafacial e suprafacial (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Antarafacial_e_suprafacial</url>
+    </item>
+    <item>
+      <title>Wikipedia - Suprafacial und Antarafacial (de)</title>
+      <url>https://de.wikipedia.org/wiki/Suprafacial_und_Antarafacial</url>
+    </item>
+    <item>
+      <title>Wikipedia - Suprafaciální a antarafaciální (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Suprafaciální_a_antarafaciální</url>
+    </item>
+    <item>
+      <title>Wikipedia - Антарафасіальна реакція (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Антарафасіальна_реакція</url>
+    </item>
+    <item>
+      <title>Wikipedia - Антарафасіальний і супрафасіальний (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Антарафасіальний_і_супрафасіальний</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00377/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00377/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00377/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00377/plain</plain>
+  </links>
+  <citation>Citation: 'antarafacial' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00377</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:55:39+00:00</accessed>
+</term>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00696</id>
+  <doi>10.1351/goldbook.B00696</doi>
+  <code>B00696</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - bomb-digestion, in spectrochemical analysis</longtitle>
+  <title>bomb-digestion</title>
+  <abbrevs>
+    <item>PTFE</item>
+  </abbrevs>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Materials which are not fully dissolved by acid-digestion at atmospheric pressure may require a more vigorous treatment in pressure vessels lined with polytetrafluoroethylene (PTFE) glass, silica or vitreous (glassy) carbon or in sealed silica tubes; this treatment is called bomb-digestion. The test sample and acids are heated in such a closed vessel, so that the digestion is carried out at higher temperature and pressure.</text>
+      <contexts>
+        <in>
+          <item>spectrochemical analysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>test sample</title>
+          <url>https://goldbook.iupac.org/terms/view/T06285</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1988, 60, 1461. 'Nomenclature, symbols, units and their usage in spectrochemical analysis-X. Preparation of materials for analytical atomic spectroscopy and other related techniques (Recommendations 1988)' on page 1469 (https://doi.org/10.1351/pac198860091461)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00696/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00696/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00696/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00696/plain</plain>
+  </links>
+  <citation>Citation: 'bomb-digestion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00696</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:12:53+00:00</accessed>
+</term>

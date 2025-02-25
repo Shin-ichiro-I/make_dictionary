@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04961</id>
+  <doi>10.1351/goldbook.P04961</doi>
+  <code>P04961</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pyrolysis</longtitle>
+  <title>pyrolysis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Thermolysis, usually associated with exposure to a high temperature.</text>
+      <notes>
+        <item>The term generally refers to reaction in an inert environment.</item>
+        <item>Pyrolysis is the commonly used term for a high-temperature treatment that converts a ceramic precursor to a ceramic.</item>
+        <item>Modified from previous definition. The definition proposed here is more explicit about the elevated temperatures involved.</item>
+      </notes>
+      <links>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>ceramic precursor</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07541</url>
+        </item>
+        <item>
+          <title>ceramic</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07540</url>
+        </item>
+        <item>
+          <title>thermolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/T06326</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1824 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Char cloth (en)</title>
+      <url>https://en.wikipedia.org/wiki/Char_cloth</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chưng khô (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Chưng_khô</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion Projet:Chimie (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion_Projet:Chimie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion:Atome (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion:Atome</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion:Pyrolyse (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion:Pyrolyse</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pirolisi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Pirolisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pirolisis (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Pirolisis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Piroliz (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Piroliz</url>
+    </item>
+    <item>
+      <title>Wikipedia - Piròlisi (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Piròlisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pirólisis (es)</title>
+      <url>https://es.wikipedia.org/wiki/Pirólisis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pyrolysis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pyrolysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pyrolýza (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Pyrolýza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Pyrolysis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Pyrolysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - آذرکافت (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/آذرکافت</url>
+    </item>
+    <item>
+      <title>Wikipedia - تحلل حراري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تحلل_حراري</url>
+    </item>
+    <item>
+      <title>Wikipedia - औष्णिक विघटन (mr)</title>
+      <url>https://mr.wikipedia.org/wiki/औष्णिक_विघटन</url>
+    </item>
+    <item>
+      <title>Wikipedia - ताप-विघटन (mr)</title>
+      <url>https://mr.wikipedia.org/wiki/ताप-विघटन</url>
+    </item>
+    <item>
+      <title>Wikipedia - 热裂解 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/热裂解</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04961/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04961/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04961/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04961/plain</plain>
+  </links>
+  <citation>Citation: 'pyrolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04961</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:37:50+00:00</accessed>
+</term>

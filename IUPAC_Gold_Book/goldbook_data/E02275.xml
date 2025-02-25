@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02275</id>
+  <doi>10.1351/goldbook.E02275</doi>
+  <code>E02275</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - exponential decay</longtitle>
+  <title>exponential decay</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Variation of a quantity (generally the activity of a quantity of a radionuclide) according to the law A = A0.e(-λt) where A and A0 are the values of the quantity being considered at time t and zero respectively, and λ is an appropriate constant.</text>
+      <links>
+        <item>
+          <title>activity (of a radioactive material)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00114</url>
+        </item>
+        <item>
+          <title>activity (of a radioactive material)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00114</url>
+        </item>
+        <item>
+          <title>radionuclide (of a radioactive material)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05116</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Exponential decay of activity (in radioactivity)</meaning>
+          <type>equation</type>
+          <alttext>A = A0.e(-λt)</alttext>
+          <latex>A=A_{0}\ \text{e}^{-\lambda\ t}</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>A0</alttext>
+          <latex>A_{0}</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1982, 54, 1533. 'Glossary of terms used in nuclear analytical chemistry (Provisional)' on page 1541 (https://doi.org/10.1351/pac198254081533)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - تضاؤل أسي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تضاؤل_أسي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02275/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02275/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02275/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02275/plain</plain>
+  </links>
+  <citation>Citation: 'exponential decay' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02275</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:26:06+00:00</accessed>
+</term>

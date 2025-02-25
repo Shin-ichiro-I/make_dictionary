@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02604</id>
+  <doi>10.1351/goldbook.G02604</doi>
+  <code>G02604</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - gene (cistron)</longtitle>
+  <title>gene</title>
+  <abbrevs>
+    <item>mRNA</item>
+  </abbrevs>
+  <synonyms>
+    <item>cistron</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Structurally, a basic unit of hereditary material; an ordered sequence of nucleotide bases that encodes one polypeptide chain (via mRNA). The gene includes, however, regions preceding and following the coding region (leader and trailer) as well as (in eukaryotes) intervening sequences (introns) between individual coding segments (exons). Functionally, the gene is defined by the cis-trans test that determines whether independent mutations of the same phenotype occur within a single gene or in several genes involved in the same function.</text>
+      <links>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>nucleotide bases</title>
+          <url>https://goldbook.iupac.org/terms/view/N04254</url>
+        </item>
+        <item>
+          <title>trans</title>
+          <url>https://goldbook.iupac.org/terms/view/C01092</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>nucleotide bases</title>
+          <url>https://goldbook.iupac.org/terms/view/N04254</url>
+        </item>
+        <item>
+          <title>trans</title>
+          <url>https://goldbook.iupac.org/terms/view/C01092</url>
+        </item>
+        <item>
+          <title>introns</title>
+          <url>https://goldbook.iupac.org/terms/view/I03141</url>
+        </item>
+        <item>
+          <title>exons</title>
+          <url>https://goldbook.iupac.org/terms/view/E02268</url>
+        </item>
+        <item>
+          <title>mutations</title>
+          <url>https://goldbook.iupac.org/terms/view/M04074</url>
+        </item>
+        <item>
+          <title>phenotype</title>
+          <url>https://goldbook.iupac.org/terms/view/P04542</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 154 (https://doi.org/10.1351/pac199264010143)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02604/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02604/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02604/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02604/plain</plain>
+  </links>
+  <citation>Citation: 'gene' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02604</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:40:54+00:00</accessed>
+</term>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07058</id>
+  <doi>10.1351/goldbook.IT07058</doi>
+  <code>IT07058</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ionic bond</longtitle>
+  <title>ionic bond</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The bond between atoms with sharply different electronegativities. In strict terms, an ionic bond refers to the electrostatic attraction experienced between the electric charges of a cation and an anion, in contrast with a purely covalent bond. In practice, it is preferable to consider the amount of ionic character of a bond rather than referring to purely ionic or purely covalent bonds. The relationship was proposed (L. Pauling) for the estimation of ionic character of a bond between atoms A and B: Amount of ionic character = 1 - e(-1/4).(ΧA - ΧB) and χ B are the Pauling electronegativities of atoms A and B. This type of bonding is realized mostly in solids.</text>
+      <links>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>anion</title>
+          <url>https://goldbook.iupac.org/terms/view/A00358</url>
+        </item>
+        <item>
+          <title>covalent bond</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>anion</title>
+          <url>https://goldbook.iupac.org/terms/view/A00358</url>
+        </item>
+        <item>
+          <title>covalent bond</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>electronegativities</title>
+          <url>https://goldbook.iupac.org/terms/view/E01990</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Ionic character of chemical bond</meaning>
+          <type>equation</type>
+          <alttext>Amount of ionic character = 1 - e(-1/4).(ΧA - ΧB)</alttext>
+          <latex>\text{Amount of ionic character} = 1 - e^{-1/4}\ (\chi _{\text{A}}\,-\,\chi_{\text{B}})</latex>
+        </item>
+        <item>
+          <alttext>χ A</alttext>
+          <latex>\chi _{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>χ B</alttext>
+          <latex>\chi _{\text{B}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1947 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Biology (en)</title>
+      <url>https://en.wikipedia.org/wiki/Biology</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: A–L (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_A–L</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ion bog'lanish (uz)</title>
+      <url>https://uz.wikipedia.org/wiki/Ion_bog'lanish</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ion bogʻlanish (uz)</title>
+      <url>https://uz.wikipedia.org/wiki/Ion_bogʻlanish</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ionic bonding (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ionic_bonding</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ionska veza (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Ionska_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kovalent va ion bogʻlanish (uz)</title>
+      <url>https://uz.wikipedia.org/wiki/Kovalent_va_ion_bogʻlanish</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legame ionico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Legame_ionico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Liên kết ion (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Liên_kết_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molecular orbital (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molecular_orbital</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nascadh ianach (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Nascadh_ianach</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Ionic bonding (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Ionic_bonding</url>
+    </item>
+    <item>
+      <title>Wikipedia - User talk:Citation bot (en)</title>
+      <url>https://en.wikipedia.org/wiki/User_talk:Citation_bot</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ионная связь (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Ионная_связь</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекулска орбитала (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Молекулска_орбитала</url>
+    </item>
+    <item>
+      <title>Wikipedia - Со (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Со</url>
+    </item>
+    <item>
+      <title>Wikipedia - رابطة أيونية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/رابطة_أيونية</url>
+    </item>
+    <item>
+      <title>Wikipedia - ژونپوهنه (ps)</title>
+      <url>https://ps.wikipedia.org/wiki/ژونپوهنه</url>
+    </item>
+    <item>
+      <title>Wikipedia - அயனிப் பிணைப்பு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/அயனிப்_பிணைப்பு</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/IT07058/html</html>
+    <json>https://goldbook.iupac.org/terms/view/IT07058/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/IT07058/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/IT07058/plain</plain>
+  </links>
+  <citation>Citation: 'ionic bond' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.IT07058</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:09:52+00:00</accessed>
+</term>

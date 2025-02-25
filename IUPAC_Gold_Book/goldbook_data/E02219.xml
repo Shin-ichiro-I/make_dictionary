@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02219</id>
+  <doi>10.1351/goldbook.E02219</doi>
+  <code>E02219</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - esters</longtitle>
+  <title>esters</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds formally derived from an oxoacidRkE(=O)l(OH)m, (l ≠ 0) and an alcohol, phenol, heteroarenol, or enol by linking with formal loss of water from an acidic hydroxy group of the former and a hydroxy group of the latter. By extension acyl derivatives of alcohols, etc. Acyl derivatives of chalcogen analogues of alcohols (thiols, selenols, tellurols) etc. are included. E.g. R'C(=O)(OR) , R'C(=S)(OR) , R'C(=O)(SR) , R'S(=O)2(OR) , (HO)2P(=O)(OR) , (R'S)2C(=O) , ROCN (but not R–NCO ) (R ≠ H).</text>
+      <notes>
+        <item>O-Alkyl derivatives of other acidic compounds [see amides (1)] may be named as esters but do not belong to the class esters proper. E.g. (Ph)2POCH3 methyl diphenylphosphinite.</item>
+      </notes>
+      <links>
+        <item>
+          <title>acylals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00119</url>
+        </item>
+        <item>
+          <title>ortho esters</title>
+          <url>https://goldbook.iupac.org/terms/view/O04334</url>
+        </item>
+        <item>
+          <title>depsides</title>
+          <url>https://goldbook.iupac.org/terms/view/D01603</url>
+        </item>
+        <item>
+          <title>depsipeptides</title>
+          <url>https://goldbook.iupac.org/terms/view/D01604</url>
+        </item>
+        <item>
+          <title>glycerides</title>
+          <url>https://goldbook.iupac.org/terms/view/G02647</url>
+        </item>
+        <item>
+          <title>lactides</title>
+          <url>https://goldbook.iupac.org/terms/view/L03436</url>
+        </item>
+        <item>
+          <title>lactones</title>
+          <url>https://goldbook.iupac.org/terms/view/L03439</url>
+        </item>
+        <item>
+          <title>macrolides</title>
+          <url>https://goldbook.iupac.org/terms/view/M03663</url>
+        </item>
+        <item>
+          <title>acylals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00119</url>
+        </item>
+        <item>
+          <title>ortho esters</title>
+          <url>https://goldbook.iupac.org/terms/view/O04334</url>
+        </item>
+        <item>
+          <title>depsides</title>
+          <url>https://goldbook.iupac.org/terms/view/D01603</url>
+        </item>
+        <item>
+          <title>depsipeptides</title>
+          <url>https://goldbook.iupac.org/terms/view/D01604</url>
+        </item>
+        <item>
+          <title>glycerides</title>
+          <url>https://goldbook.iupac.org/terms/view/G02647</url>
+        </item>
+        <item>
+          <title>lactides</title>
+          <url>https://goldbook.iupac.org/terms/view/L03436</url>
+        </item>
+        <item>
+          <title>lactones</title>
+          <url>https://goldbook.iupac.org/terms/view/L03439</url>
+        </item>
+        <item>
+          <title>macrolides</title>
+          <url>https://goldbook.iupac.org/terms/view/M03663</url>
+        </item>
+        <item>
+          <title>amides (1)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00266</url>
+        </item>
+        <item>
+          <title>oxoacid</title>
+          <url>https://goldbook.iupac.org/terms/view/O04374</url>
+        </item>
+        <item>
+          <title>acyl</title>
+          <url>https://goldbook.iupac.org/terms/view/A00123</url>
+        </item>
+        <item>
+          <title>acylals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00119</url>
+        </item>
+        <item>
+          <title>ortho esters</title>
+          <url>https://goldbook.iupac.org/terms/view/O04334</url>
+        </item>
+        <item>
+          <title>depsides</title>
+          <url>https://goldbook.iupac.org/terms/view/D01603</url>
+        </item>
+        <item>
+          <title>depsipeptides</title>
+          <url>https://goldbook.iupac.org/terms/view/D01604</url>
+        </item>
+        <item>
+          <title>glycerides</title>
+          <url>https://goldbook.iupac.org/terms/view/G02647</url>
+        </item>
+        <item>
+          <title>lactides</title>
+          <url>https://goldbook.iupac.org/terms/view/L03436</url>
+        </item>
+        <item>
+          <title>lactones</title>
+          <url>https://goldbook.iupac.org/terms/view/L03439</url>
+        </item>
+        <item>
+          <title>macrolides</title>
+          <url>https://goldbook.iupac.org/terms/view/M03663</url>
+        </item>
+        <item>
+          <title>amides (1)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00266</url>
+        </item>
+        <item>
+          <title>oxoacid</title>
+          <url>https://goldbook.iupac.org/terms/view/O04374</url>
+        </item>
+        <item>
+          <title>acyl</title>
+          <url>https://goldbook.iupac.org/terms/view/A00123</url>
+        </item>
+        <item>
+          <title>alcohols</title>
+          <url>https://goldbook.iupac.org/terms/view/A00204</url>
+        </item>
+        <item>
+          <title>thiols</title>
+          <url>https://goldbook.iupac.org/terms/view/T06359</url>
+        </item>
+        <item>
+          <title>selenols</title>
+          <url>https://goldbook.iupac.org/terms/view/S05574</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1334 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Borate (en)</title>
+      <url>https://en.wikipedia.org/wiki/Borate</url>
+    </item>
+    <item>
+      <title>Wikipedia - Este (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Este</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ester (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Ester</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ester (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ester</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ester (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Ester</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ester (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Ester</url>
+    </item>
+    <item>
+      <title>Wikipedia - Esteri (it)</title>
+      <url>https://it.wikipedia.org/wiki/Esteri</url>
+    </item>
+    <item>
+      <title>Wikipedia - Esterit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Esterit</url>
+    </item>
+    <item>
+      <title>Wikipedia - List of esters (en)</title>
+      <url>https://en.wikipedia.org/wiki/List_of_esters</url>
+    </item>
+    <item>
+      <title>Wikipedia - Progestogen ester (en)</title>
+      <url>https://en.wikipedia.org/wiki/Progestogen_ester</url>
+    </item>
+    <item>
+      <title>Wikipedia - Éster (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Éster</url>
+    </item>
+    <item>
+      <title>Wikipedia - Éster (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Éster</url>
+    </item>
+    <item>
+      <title>Wikipedia - Εστέρες (el)</title>
+      <url>https://el.wikipedia.org/wiki/Εστέρες</url>
+    </item>
+    <item>
+      <title>Wikipedia - Естери (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Естери</url>
+    </item>
+    <item>
+      <title>Wikipedia - Сложные эфиры (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Сложные_эфиры</url>
+    </item>
+    <item>
+      <title>Wikipedia - Химическое соединение (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Химическое_соединение</url>
+    </item>
+    <item>
+      <title>Wikipedia - إستر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إستر</url>
+    </item>
+    <item>
+      <title>Wikipedia - بنزوات ميترونيدازول (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بنزوات_ميترونيدازول</url>
+    </item>
+    <item>
+      <title>Wikipedia - எசுத்தர் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/எசுத்தர்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ఎస్టర్ (te)</title>
+      <url>https://te.wikipedia.org/wiki/ఎస్టర్</url>
+    </item>
+    <item>
+      <title>Wikipedia - เอสเทอร์ (th)</title>
+      <url>https://th.wikipedia.org/wiki/เอสเทอร์</url>
+    </item>
+    <item>
+      <title>Wikipedia - エステル (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/エステル</url>
+    </item>
+    <item>
+      <title>Wikipedia - 酯 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/酯</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02219/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02219/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02219/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02219/plain</plain>
+  </links>
+  <citation>Citation: 'esters' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02219</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:23:43+00:00</accessed>
+</term>

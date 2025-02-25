@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04620</id>
+  <doi>10.1351/goldbook.P04620</doi>
+  <code>P04620</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - photoionization</longtitle>
+  <title>photoionization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The term generally used to describe ionization of any species by photons. The process may, for example, be written [image: Not defined] Electrons and photons do not 'impact' molecules or atoms; they interact with them in ways that result in various electronic excitations including ionization. For this reason it is recommended that in mass spectrometry the terms 'electron impact' and 'photon impact' not be used.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/P04620.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>mass spectrometry</title>
+          <url>https://goldbook.iupac.org/terms/view/M03746</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 203 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1548 (https://doi.org/10.1351/pac199163101541)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2261 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atmospheric electricity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Atmospheric_electricity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atmosphärische Elektrizität (de)</title>
+      <url>https://de.wikipedia.org/wiki/Atmosphärische_Elektrizität</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoionisering (no)</title>
+      <url>https://no.wikipedia.org/wiki/Fotoionisering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoionizace (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Fotoionizace</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoionizzazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fotoionizzazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoiyonizasyon (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Fotoiyonizasyon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ion source (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ion_source</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ionekilde (no)</title>
+      <url>https://no.wikipedia.org/wiki/Ionekilde</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pemfotoionan (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Pemfotoionan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Photoionization (en)</title>
+      <url>https://en.wikipedia.org/wiki/Photoionization</url>
+    </item>
+    <item>
+      <title>Wikipedia - Фотојонизација (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Фотојонизација</url>
+    </item>
+    <item>
+      <title>Wikipedia - فوتویونیزاسیون (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/فوتویونیزاسیون</url>
+    </item>
+    <item>
+      <title>Wikipedia - फोटो-आयनीकरण (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/फोटो-आयनीकरण</url>
+    </item>
+    <item>
+      <title>Wikipedia - 光致游離 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/光致游離</url>
+    </item>
+    <item>
+      <title>Wikipedia - 大気電気学 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/大気電気学</url>
+    </item>
+    <item>
+      <title>Wikipedia - 电磁波 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/电磁波</url>
+    </item>
+    <item>
+      <title>Wikipedia - 电磁辐射 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/电磁辐射</url>
+    </item>
+    <item>
+      <title>Wikipedia - 電磁輻射 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/電磁輻射</url>
+    </item>
+    <item>
+      <title>Wikipedia - 광이온화 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/광이온화</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04620/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04620/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04620/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04620/plain</plain>
+  </links>
+  <citation>Citation: 'photoionization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04620</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:21:17+00:00</accessed>
+</term>

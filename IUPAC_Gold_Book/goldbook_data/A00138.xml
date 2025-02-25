@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00138</id>
+  <doi>10.1351/goldbook.A00138</doi>
+  <code>A00138</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - adduct</longtitle>
+  <title>adduct</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A new chemical species AB, each molecular entity of which is formed by direct combination of two separate molecular entities A and B in such a way that there is change in connectivity, but no loss, of atoms within the moieties A and B. Stoichiometries other than 1:1 are also possible, e.g. a bis-adduct (2:1). An intramolecular adduct can be formed when A and B are groups contained within the same molecular entity. This is a general term which, whenever appropriate, should be used in preference to the less explicit term complex. It is also used specifically for products of an addition reaction. For examples, see Lewis adduct, Meisenheimer adduct, π-adduct.</text>
+      <links>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>connectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01274</url>
+        </item>
+        <item>
+          <title>moieties</title>
+          <url>https://goldbook.iupac.org/terms/view/M03968</url>
+        </item>
+        <item>
+          <title>intramolecular adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>complex</title>
+          <url>https://goldbook.iupac.org/terms/view/C01203</url>
+        </item>
+        <item>
+          <title>addition reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/A00133</url>
+        </item>
+        <item>
+          <title>Lewis adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/L03510</url>
+        </item>
+        <item>
+          <title>Meisenheimer adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/M03819</url>
+        </item>
+        <item>
+          <title>π-adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/A04388</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1082 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Adduct (en)</title>
+      <url>https://en.wikipedia.org/wiki/Adduct</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adducte (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Adducte</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adduit (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Adduit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Addukt (de)</title>
+      <url>https://de.wikipedia.org/wiki/Addukt</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aduct (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Aduct</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aduk (kimia) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Aduk_(kimia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adukt (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Adukt</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aduto (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Aduto</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Molecular binding (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Molecular_binding</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipédia-vita:Kémiaműhely (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Wikipédia-vita:Kémiaműhely</url>
+    </item>
+    <item>
+      <title>Wikipedia - Аддукт (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Аддукт</url>
+    </item>
+    <item>
+      <title>Wikipedia - ناتج إضافة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ناتج_إضافة</url>
+    </item>
+    <item>
+      <title>Wikipedia - योगोत्पाद (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/योगोत्पाद</url>
+    </item>
+    <item>
+      <title>Wikipedia - கூட்டு விளைபொருள் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/கூட்டு_விளைபொருள்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ฟอร์มาลดีไฮด์ (th)</title>
+      <url>https://th.wikipedia.org/wiki/ฟอร์มาลดีไฮด์</url>
+    </item>
+    <item>
+      <title>Wikipedia - 加合物 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/加合物</url>
+    </item>
+    <item>
+      <title>Wikipedia - 加成物 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/加成物</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00138/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00138/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00138/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00138/plain</plain>
+  </links>
+  <citation>Citation: 'adduct' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00138</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:43:28+00:00</accessed>
+</term>

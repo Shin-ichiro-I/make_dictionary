@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03270</id>
+  <doi>10.1351/goldbook.I03270</doi>
+  <code>I03270</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isocyanides</longtitle>
+  <title>isocyanides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The isomerHN+≡C− of hydrocyanic acid, HC≡N, and its hydrocarbyl derivatives RNC (RN+≡C−).</text>
+      <links>
+        <item>
+          <title>isomer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03289</url>
+        </item>
+        <item>
+          <title>isomer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03289</url>
+        </item>
+        <item>
+          <title>hydrocarbyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02891</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1344 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Isocianeto (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Isocianeto</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isocianida (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Isocianida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isocianur (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Isocianur</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isocianuri (it)</title>
+      <url>https://it.wikipedia.org/wiki/Isocianuri</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isocyanide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Isocyanide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isokyanidy (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Isokyanidy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isosianida (id)</title>
+      <url>https://id.wikipedia.org/wiki/Isosianida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isosyanidit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Isosyanidit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Izocianură (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Izocianură</url>
+    </item>
+    <item>
+      <title>Wikipedia - Izocijanid (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Izocijanid</url>
+    </item>
+    <item>
+      <title>Wikipedia - İzonitril (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/İzonitril</url>
+    </item>
+    <item>
+      <title>Wikipedia - Изонитрилы (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Изонитрилы</url>
+    </item>
+    <item>
+      <title>Wikipedia - إيزوسيانيد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إيزوسيانيد</url>
+    </item>
+    <item>
+      <title>Wikipedia - ایزوسیانید (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ایزوسیانید</url>
+    </item>
+    <item>
+      <title>Wikipedia - イソシアニド (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/イソシアニド</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03270/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03270/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03270/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03270/plain</plain>
+  </links>
+  <citation>Citation: 'isocyanides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03270</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:12:12+00:00</accessed>
+</term>

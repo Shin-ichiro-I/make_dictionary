@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04883</id>
+  <doi>10.1351/goldbook.P04883</doi>
+  <code>P04883</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - property</longtitle>
+  <title>property</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A set of data elements (system, component, kind-of-property) common to a set of particular properties, e.g. substance concentration of glucose in blood plasma. Information about identification, time and result is not considered.</text>
+      <links>
+        <item>
+          <title>particular property</title>
+          <url>https://goldbook.iupac.org/terms/view/P04432</url>
+        </item>
+        <item>
+          <title>particular property</title>
+          <url>https://goldbook.iupac.org/terms/view/P04432</url>
+        </item>
+        <item>
+          <title>kind-of-property</title>
+          <url>https://goldbook.iupac.org/terms/view/K03392</url>
+        </item>
+        <item>
+          <title>substance concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/S06072</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1563. 'Properties and units in the clinical laboratory sciences-I. Syntax and semantic rules (IUPAC-IFCC Recommendations 1995)' on page 1565 (https://doi.org/10.1351/pac199567081563)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04883/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04883/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04883/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04883/plain</plain>
+  </links>
+  <citation>Citation: 'property' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04883</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:34:34+00:00</accessed>
+</term>

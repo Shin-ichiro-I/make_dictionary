@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06384</id>
+  <doi>10.1351/goldbook.T06384</doi>
+  <code>T06384</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - time-resolved microwave conductivity</longtitle>
+  <title>time-resolved microwave conductivity</title>
+  <acronyms>
+    <item>TRMC</item>
+  </acronyms>
+  <abbrevs>
+    <item>TRMC</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Technique allowing the quantitative and qualitative detection of radiation-induced changes in the real, ΔReσ, and imaginary, ΔImσ, components of the conductivity of a medium by time-resolved measurement of changes in the microwave absorption resulting from the formation of mobile charges or from changes in the dipole moment or polarizability of molecules on excitation.</text>
+      <notes>
+        <item>From ΔReσ (corresponding to a change in the dielectric loss, Δεʺ) the product of the yield and the mobility of charges carriers or the dipole moment change can be determined. From ΔImσ (corresponding to a change in the relative permittivity, Δεʹ) the product of the yield and the change in molecular polarizability can be determined.</item>
+      </notes>
+      <links>
+        <item>
+          <title>mobility</title>
+          <url>https://goldbook.iupac.org/terms/view/M03955</url>
+        </item>
+        <item>
+          <title>dipole moment</title>
+          <url>https://goldbook.iupac.org/terms/view/D01761</url>
+        </item>
+        <item>
+          <title>relative permittivity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05273</url>
+        </item>
+        <item>
+          <title>polarizability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04711</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ΔReσ</alttext>
+          <latex>\Delta \text{Re}\sigma</latex>
+        </item>
+        <item>
+          <alttext>ΔImσ</alttext>
+          <latex>\Delta \text{Im}\sigma</latex>
+        </item>
+        <item>
+          <alttext>ΔReσ</alttext>
+          <latex>\Delta \text{Re}\sigma</latex>
+        </item>
+        <item>
+          <alttext>Δεʺ</alttext>
+          <latex>\Delta \varepsilon''</latex>
+        </item>
+        <item>
+          <alttext>ΔImσ</alttext>
+          <latex>\Delta \text{Im}\sigma</latex>
+        </item>
+        <item>
+          <alttext>Δεʹ</alttext>
+          <latex>\Delta \varepsilon'</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 433 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06384/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06384/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06384/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06384/plain</plain>
+  </links>
+  <citation>Citation: 'time-resolved microwave conductivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06384</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:43:57+00:00</accessed>
+</term>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02337</id>
+  <doi>10.1351/goldbook.F02337</doi>
+  <code>F02337</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fermentation</longtitle>
+  <title>fermentation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In metabolism, the dehydrogenating degradation of organic substance by organisms or cells under anaerobic conditions in which electrons are transferred to metabolites which accumulate and are excreted in reduced form. Fermentation is only possible if the organism is able to gain energy by this process.</text>
+      <links>
+        <item>
+          <title>metabolism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03858</url>
+        </item>
+        <item>
+          <title>metabolites</title>
+          <url>https://goldbook.iupac.org/terms/view/M03859</url>
+        </item>
+        <item>
+          <title>metabolism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03858</url>
+        </item>
+        <item>
+          <title>metabolites</title>
+          <url>https://goldbook.iupac.org/terms/view/M03859</url>
+        </item>
+        <item>
+          <title>anaerobic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00316</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>In microbiology, the process in which cells (microorganisms, plant or animal cells) are cultured in a bioreactor in liquid or solid medium to convert organic substances into biomass (growth) or into products.</text>
+      <links>
+        <item>
+          <title>bioreactor</title>
+          <url>https://goldbook.iupac.org/terms/view/B00662</url>
+        </item>
+        <item>
+          <title>biomass</title>
+          <url>https://goldbook.iupac.org/terms/view/B00660</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' Nagel, B.;Dellweg, H.;Gierasch, L.M.; Pure and Applied Chemistry 1992 64(1) 143</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Brachadh (gd)</title>
+      <url>https://gd.wikipedia.org/wiki/Brachadh</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskuse:Černý čaj (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Diskuse:Černý_čaj</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Fermentation (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Fermentation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Käyminen (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Käyminen</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02337/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02337/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02337/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02337/plain</plain>
+  </links>
+  <citation>Citation: 'fermentation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02337</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:29:28+00:00</accessed>
+</term>

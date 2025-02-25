@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06282</id>
+  <doi>10.1351/goldbook.T06282</doi>
+  <code>T06282</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - tertiary structure</longtitle>
+  <title>tertiary structure</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The spatial organization (including conformation) of an entire protein molecule or other macromolecule consisting of a single chain.</text>
+      <links>
+        <item>
+          <title>primary structure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04843</url>
+        </item>
+        <item>
+          <title>secondary structure</title>
+          <url>https://goldbook.iupac.org/terms/view/S05530</url>
+        </item>
+        <item>
+          <title>quaternary structure</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05004</url>
+        </item>
+        <item>
+          <title>primary structure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04843</url>
+        </item>
+        <item>
+          <title>secondary structure</title>
+          <url>https://goldbook.iupac.org/terms/view/S05530</url>
+        </item>
+        <item>
+          <title>quaternary structure</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05004</url>
+        </item>
+        <item>
+          <title>conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2220 (https://doi.org/10.1351/pac199668122193)</item>
+        <item>White Book, 2nd ed., p. 80 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Biomolecular structure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Biomolecular_structure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biyomoleküler yapı (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Biyomoleküler_yapı</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cấu trúc bậc ba của protein (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Cấu_trúc_bậc_ba_của_protein</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estructura biomolecular (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Estructura_biomolecular</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estructura terciària de l'acid nucleic (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Estructura_terciària_de_l'acid_nucleic</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estrutura das biomoléculas (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Estrutura_das_biomoléculas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estrutura terciaria das proteínas (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Estrutura_terciaria_das_proteínas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estrutura terciaria dos ácidos nucleicos (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Estrutura_terciaria_dos_ácidos_nucleicos</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nucleic acid tertiary structure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Nucleic_acid_tertiary_structure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Proteiinin rakenne (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Proteiinin_rakenne</url>
+    </item>
+    <item>
+      <title>Wikipedia - Protein tertiary structure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Protein_tertiary_structure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Struttura terziaria (it)</title>
+      <url>https://it.wikipedia.org/wiki/Struttura_terziaria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tercijarna struktura nukleinskih kiselina (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Tercijarna_struktura_nukleinskih_kiselina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tercijarna struktura nukleinskih kiselina (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Tercijarna_struktura_nukleinskih_kiselina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tercijarna struktura proteina (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Tercijarna_struktura_proteina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tertiaire structuur (eiwitten) (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Tertiaire_structuur_(eiwitten)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tertiaire structuur van eiwitten (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Tertiaire_structuur_van_eiwitten</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tertiärstruktur (de)</title>
+      <url>https://de.wikipedia.org/wiki/Tertiärstruktur</url>
+    </item>
+    <item>
+      <title>Wikipedia - User:BQmUB2010090 (en)</title>
+      <url>https://en.wikipedia.org/wiki/User:BQmUB2010090</url>
+    </item>
+    <item>
+      <title>Wikipedia - Τριτοταγής δομή πρωτεΐνης (el)</title>
+      <url>https://el.wikipedia.org/wiki/Τριτοταγής_δομή_πρωτεΐνης</url>
+    </item>
+    <item>
+      <title>Wikipedia - Биохемија (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Биохемија</url>
+    </item>
+    <item>
+      <title>Wikipedia - Предсказание структуры белка (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Предсказание_структуры_белка</url>
+    </item>
+    <item>
+      <title>Wikipedia - Терциерна структура на белковините (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Терциерна_структура_на_белковините</url>
+    </item>
+    <item>
+      <title>Wikipedia - Терцијарна структура на белковините (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Терцијарна_структура_на_белковините</url>
+    </item>
+    <item>
+      <title>Wikipedia - Терцијарна структура на нуклеинските киселини (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Терцијарна_структура_на_нуклеинските_киселини</url>
+    </item>
+    <item>
+      <title>Wikipedia - Терцијарна структура протеина (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Терцијарна_структура_протеина</url>
+    </item>
+    <item>
+      <title>Wikipedia - Третична структура на белковините (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Третична_структура_на_белковините</url>
+    </item>
+    <item>
+      <title>Wikipedia - Третична структура на нуклеинските киселини (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Третична_структура_на_нуклеинските_киселини</url>
+    </item>
+    <item>
+      <title>Wikipedia - Третичная структура (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Третичная_структура</url>
+    </item>
+    <item>
+      <title>Wikipedia - بنية بروتين ثالثية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بنية_بروتين_ثالثية</url>
+    </item>
+    <item>
+      <title>Wikipedia - بنية حمض نووي ثالثية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بنية_حمض_نووي_ثالثية</url>
+    </item>
+    <item>
+      <title>Wikipedia - 三次構造 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/三次構造</url>
+    </item>
+    <item>
+      <title>Wikipedia - 核酸の三次構造 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/核酸の三次構造</url>
+    </item>
+    <item>
+      <title>Wikipedia - 核酸三级结构 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/核酸三级结构</url>
+    </item>
+    <item>
+      <title>Wikipedia - 蛋白質三級結構 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/蛋白質三級結構</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06282/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06282/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06282/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06282/plain</plain>
+  </links>
+  <citation>Citation: 'tertiary structure' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06282</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:39:16+00:00</accessed>
+</term>

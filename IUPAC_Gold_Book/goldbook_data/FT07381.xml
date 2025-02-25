@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07381</id>
+  <doi>10.1351/goldbook.FT07381</doi>
+  <code>FT07381</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Förster-resonance-energy transfer FRET</longtitle>
+  <title>Förster-resonance-energy transfer</title>
+  <contains>dipole–dipole excitation transfer</contains>
+  <abbrevs>
+    <item>FRET</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-radiative excitation transfer between two molecular entities separated by distances considerably exceeding the sum of their van der Waals radii. It describes the transfer in terms of the interaction between the transition (dipole) moments of the entities in the very weak dipole-dipole coupling limit. It is a Coulombic interaction frequently called a dipole-dipole coupling. The transfer rate constant from donor to acceptor, kT, is given by kT = kD.(R0/r)^6 = (1/τD0).(R0/r)^6 where kD and τD0 are the emissionrate constant and the lifetime of the excited donor in the absence of transfer, respectively, r is the distance between the donor and the acceptor and R0 is the critical quenching radius or Förster radius, i.e., the distance at which transfer and spontaneous decay of the excited donor are equally probable (kT = kD) (see Note 3).R0 is given by R0 = Const.(κ2.ΦD.0J/n4)1/6 where κ is the orientation factor, ΦD0 is the fluorescencequantum yield of the donor in the absence of transfer, n is the average refractive index of the medium in the wavelength range where spectral overlap is significant, J is the spectral overlap integral reflecting the degree of overlap of the donor emission spectrum with the acceptor absorption spectrum and given by J = ∫(λ) IλD(λ).ɛA(λ).λ^4.dλ where IλD(λ) is the normalized spectral radiant intensity of the donor so that ∫(λ)IλD(λ)dλ = 1. ɛA(λ) is the molar decadic absorption coefficient of the acceptor../../mathml/FT07381-17.png" class="math" alt="Const." height="19" width="48" style="vertical-align: -5.0px" /&gt;.</text>
+      <notes>
+        <item>The bandpass Δλ is a constant in spectrophotometers and spectrofluorometers using gratings. Thus, the scale is linear in wavelength and it is convenient to express and calculate the integrals in wavelengths instead of wavenumbers in order to avoid confusion.</item>
+        <item>In practical terms, the integral ∫(λ)IλD(λ)dλ is the area under the plot of the donor emission intensity versus the emission wavelength.</item>
+        <item>A practical expression for R0 is: R0/nm = 2.108 x 10E-2 {κ^2.ΦD0.n^(-4).∫(λ) IλD(λ)[εA(λ)/(dm^3 mol^-1 cm ^-1)].(λ/nm)^4.dλ}^(1/6) The orientation factor κ is given by κ = cos θ DA - 3 cosθD cosθA = sinθD.sinθA.cos\phi - cosθD cosθA where θDA is the angle between the donor and acceptor moments, and θD and θA are the angles between these, respectively, and the separation vector; φ is the angle between the projections of the transition moments on a plane perpendicular to the line through the centres. κ2 can in principle take values from 0 (perpendicular transition moments) to 4 (collinear transition moments). When the transition moments are parallel and perpendicular to the separation vector, κ2 = 1. When they are in line (i.e., their moments are strictly along the separation vector), κ2 = 4. For randomly oriented transition (dipole) moments, e.g., in fluid solutions, κ2 = 2/3.</item>
+        <item>The transfer quantum efficiency is defined as ΦT = kT/(kD + kT) and can be related to the ratior/R0 as follows: ΦT = 1/(1 + (r/R0)6) or written in the following form:ΦT = 1- τD/τD0 where τD is the donor excited-state lifetime in the presence of acceptor, and τD0 in the absence of acceptor.</item>
+        <item>FRET is sometimes inappropriately called fluorescence-resonance energy transfer. This is not correct because there is no fluorescence involved in FRET.</item>
+        <item>Foerster is an alternative and acceptable spelling for Förster.</item>
+      </notes>
+      <links>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>quantum efficiency</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04988</url>
+        </item>
+        <item>
+          <title>lifetime</title>
+          <url>https://goldbook.iupac.org/terms/view/L03515</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>resonance energy</title>
+          <url>https://goldbook.iupac.org/terms/view/R05333</url>
+        </item>
+        <item>
+          <title>excitation transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02256</url>
+        </item>
+        <item>
+          <title>coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/C01025</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>critical quenching radius</title>
+          <url>https://goldbook.iupac.org/terms/view/F02488</url>
+        </item>
+        <item>
+          <title>quantum yield</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04991</url>
+        </item>
+        <item>
+          <title>refractive index</title>
+          <url>https://goldbook.iupac.org/terms/view/R05240</url>
+        </item>
+        <item>
+          <title>spectral overlap</title>
+          <url>https://goldbook.iupac.org/terms/view/S05818</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>quantum efficiency</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04988</url>
+        </item>
+        <item>
+          <title>lifetime</title>
+          <url>https://goldbook.iupac.org/terms/view/L03515</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>resonance energy</title>
+          <url>https://goldbook.iupac.org/terms/view/R05333</url>
+        </item>
+        <item>
+          <title>excitation transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02256</url>
+        </item>
+        <item>
+          <title>coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/C01025</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>critical quenching radius</title>
+          <url>https://goldbook.iupac.org/terms/view/F02488</url>
+        </item>
+        <item>
+          <title>quantum yield</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04991</url>
+        </item>
+        <item>
+          <title>refractive index</title>
+          <url>https://goldbook.iupac.org/terms/view/R05240</url>
+        </item>
+        <item>
+          <title>spectral overlap</title>
+          <url>https://goldbook.iupac.org/terms/view/S05818</url>
+        </item>
+        <item>
+          <title>transition (dipole) moments</title>
+          <url>https://goldbook.iupac.org/terms/view/T06460</url>
+        </item>
+        <item>
+          <title>emission</title>
+          <url>https://goldbook.iupac.org/terms/view/E02056</url>
+        </item>
+        <item>
+          <title>emission spectrum</title>
+          <url>https://goldbook.iupac.org/terms/view/E02060</url>
+        </item>
+        <item>
+          <title>absorption spectrum</title>
+          <url>https://goldbook.iupac.org/terms/view/A00043</url>
+        </item>
+        <item>
+          <title>spectral radiant intensity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05827</url>
+        </item>
+        <item>
+          <title>molar decadic absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/M03972</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Transfer rate constant (in FRET)</meaning>
+          <type>quantity</type>
+          <alttext>kT</alttext>
+          <latex>k_{\text{T}}</latex>
+        </item>
+        <item>
+          <meaning>Transfer rate constant (in FRET)</meaning>
+          <type>equation</type>
+          <alttext>kT = kD.(R0/r)^6 = (1/τD0).(R0/r)^6</alttext>
+          <latex>k_{\text{T}} = k_{\text{D}}\left ( \frac{R_{0}}{r} \right )^{6}=\frac{1}{\tau _{D}^{0}}\left ( \frac{R_{0}}{r}\right )^{6}</latex>
+        </item>
+        <item>
+          <meaning>Emission rate constant (in FRET)</meaning>
+          <type>quantity</type>
+          <alttext>kD</alttext>
+          <latex>k_{\text{D}}</latex>
+        </item>
+        <item>
+          <alttext>τD0</alttext>
+          <latex>\tau_{\text{D}}^{0}</latex>
+        </item>
+        <item>
+          <alttext>r</alttext>
+          <latex>r</latex>
+        </item>
+        <item>
+          <meaning>Critical quenching radius</meaning>
+          <type>quantity</type>
+          <alttext>R0</alttext>
+          <latex>R_{0}</latex>
+        </item>
+        <item>
+          <meaning>Transfer rate constant (in FRET)</meaning>
+          <type>math</type>
+          <alttext>kT = kD</alttext>
+          <latex>k_{\text{T}} = k_{\text{D}}</latex>
+        </item>
+        <item>
+          <meaning>Critical quenching radius</meaning>
+          <type>quantity</type>
+          <alttext>R0</alttext>
+          <latex>R_{0}</latex>
+        </item>
+        <item>
+          <alttext>R0 = Const.(κ2.ΦD.0J/n4)1/6</alttext>
+          <latex>R_{0} = Const.\left ( \frac{\kappa^{2}\mathit{\Phi}_{D}^{0}J }{n^{4}} \right )^{1/6}</latex>
+        </item>
+        <item>
+          <alttext>κ</alttext>
+          <latex>\kappa</latex>
+        </item>
+        <item>
+          <meaning>Fluorescence quantum yield</meaning>
+          <type>quantity</type>
+          <alttext>ΦD0</alttext>
+          <latex>\mathit{\Phi} _{D}^{0}</latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <meaning>Spectral overlap integral</meaning>
+          <type>abbrev</type>
+          <alttext>J</alttext>
+          <latex>J</latex>
+        </item>
+        <item>
+          <meaning>Spectral overlap integral equation</meaning>
+          <type>equation</type>
+          <alttext>J = ∫(λ) IλD(λ).ɛA(λ).λ^4.dλ</alttext>
+          <latex>J = \int _{\lambda }I_{\lambda}^{D}(\lambda)\epsilon _{A}\left ( \lambda \right )\lambda^{4}\text{d}\lambda</latex>
+        </item>
+        <item>
+          <meaning>Normalized spectral radiant intensity</meaning>
+          <type>quantity</type>
+          <alttext>IλD(λ)</alttext>
+          <latex>I_{\lambda}^{D}(\lambda)</latex>
+        </item>
+        <item>
+          <meaning>Spectral radiant intensity (in FRET)</meaning>
+          <type>math</type>
+          <alttext>∫(λ)IλD(λ)dλ = 1</alttext>
+          <latex>\int_{\lambda}I_{\lambda}^{D}(\lambda)\text{d}\lambda = 1</latex>
+        </item>
+        <item>
+          <meaning>Molar decadic absorption coefficient</meaning>
+          <type>quantity</type>
+          <alttext>ɛA(λ)</alttext>
+          <latex>\varepsilon_{\text{A}}({\lambda})</latex>
+        </item>
+        <item>
+          <alttext>Const.</alttext>
+          <latex>Const.</latex>
+        </item>
+        <item>
+          <meaning>Bandpass</meaning>
+          <type>quantity</type>
+          <alttext>Δλ</alttext>
+          <latex>\Delta \lambda</latex>
+        </item>
+        <item>
+          <alttext>∫(λ)IλD(λ)dλ</alttext>
+          <latex>\int_{\lambda}I_{\lambda}^{D}(\lambda)\text{d}\lambda</latex>
+        </item>
+        <item>
+          <meaning>Critical quenching radius</meaning>
+          <type>quantity</type>
+          <alttext>R0</alttext>
+          <latex>R_{0}</latex>
+        </item>
+        <item>
+          <meaning>Critical quenching radius equation</meaning>
+          <type>equation</type>
+          <alttext>R0/nm = 2.108 x 10E-2 {κ^2.ΦD0.n^(-4).∫(λ) IλD(λ)[εA(λ)/(dm^3 mol^-1 cm ^-1)].(λ/nm)^4.dλ}^(1/6)</alttext>
+          <latex>\frac{R_{0}}{\pu{nm}} = \pu{2.108E-2} \left \{\kappa^{2}\mathit{\Phi}_{D}^{0}n^{-4} \int_{\lambda} I_{\lambda}^{D}(\lambda)\left[ \frac{\epsilon_{A}(\lambda)}{\pu{dm3 mol-1 cm-1}} \right] \left(\frac{\lambda}{\pu{nm}} \right)^{4}{\rm{d}}\lambda \right\}^{1/6}</latex>
+        </item>
+        <item>
+          <meaning>Orientation factor</meaning>
+          <type>quantity</type>
+          <alttext>κ</alttext>
+          <latex>\kappa</latex>
+        </item>
+        <item>
+          <meaning>Orientation factor equation</meaning>
+          <type>equation</type>
+          <alttext>κ = cos θ DA - 3 cosθD cosθA = sinθD.sinθA.cos\phi - cosθD cosθA</alttext>
+          <latex>\kappa  = \cos \theta_{\text{DA}} - 3\cos \theta_{\text{D}}\cos \theta_{\text{A}} = \sin \theta_{\text{D}}\sin \theta_{\text{A}}\varphi - 2\cos \theta_{\text{D}}\cos \theta_{\text{A}}</latex>
+        </item>
+        <item>
+          <meaning>Angel between donor and acceptor moments</meaning>
+          <type>quantity</type>
+          <alttext>θDA</alttext>
+          <latex>\theta_{\text{DA}}</latex>
+        </item>
+        <item>
+          <meaning>Donor moment</meaning>
+          <type>quantity</type>
+          <alttext>θD</alttext>
+          <latex>\theta_{\text{D}}</latex>
+        </item>
+        <item>
+          <alttext>θA</alttext>
+          <latex>\theta_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>φ</alttext>
+          <latex>\varphi</latex>
+        </item>
+        <item>
+          <alttext>κ2</alttext>
+          <latex>\kappa^{2}</latex>
+        </item>
+        <item>
+          <alttext>κ2 = 1</alttext>
+          <latex>\kappa^{2} = 1</latex>
+        </item>
+        <item>
+          <alttext>κ2 = 4</alttext>
+          <latex>\kappa^{2} = 4</latex>
+        </item>
+        <item>
+          <alttext>κ2 = 2/3</alttext>
+          <latex>\kappa^{2} = 2/3</latex>
+        </item>
+        <item>
+          <alttext>ΦT = kT/(kD + kT)</alttext>
+          <latex>\mathit{\Phi} _{\text{T}} = \frac{k_{\text{T}}}{k_{\text{D}}+k_{\text{T}}}</latex>
+        </item>
+        <item>
+          <alttext>r/R0</alttext>
+          <latex>\frac{r}{R_{0}}</latex>
+        </item>
+        <item>
+          <alttext>ΦT = 1/(1 + (r/R0)6)</alttext>
+          <latex>\mathit{\Phi} _{\text{T}} = \frac{1}{1 + \left ( \frac{r}{R_{0}} \right )^{6}}</latex>
+        </item>
+        <item>
+          <alttext>ΦT = 1- τD/τD0</alttext>
+          <latex>\mathit{\Phi} _{\text{T}} = 1 - \frac{\tau_{\text{D}} }{\tau_{\text{D}}^{0}}</latex>
+        </item>
+        <item>
+          <alttext>τD</alttext>
+          <latex>\tau_{\text{D}}</latex>
+        </item>
+        <item>
+          <alttext>τD0</alttext>
+          <latex>\tau_{\text{D}}^{0}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 342 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Förster-Radius (de)</title>
+      <url>https://de.wikipedia.org/wiki/Förster-Radius</url>
+    </item>
+    <item>
+      <title>Wikipedia - Förster-Resonanzenergietransfer (de)</title>
+      <url>https://de.wikipedia.org/wiki/Förster-Resonanzenergietransfer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Förster resonance energy transfer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Förster_resonance_energy_transfer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trasferimento di energia per risonanza (it)</title>
+      <url>https://it.wikipedia.org/wiki/Trasferimento_di_energia_per_risonanza</url>
+    </item>
+    <item>
+      <title>Wikipedia - نقل الطاقة برنين فورستر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نقل_الطاقة_برنين_فورستر</url>
+    </item>
+    <item>
+      <title>Wikipedia - 蛍光共鳴エネルギー移動 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/蛍光共鳴エネルギー移動</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/FT07381/html</html>
+    <json>https://goldbook.iupac.org/terms/view/FT07381/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/FT07381/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/FT07381/plain</plain>
+  </links>
+  <citation>Citation: 'Förster-resonance-energy transfer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.FT07381</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:35:26+00:00</accessed>
+</term>

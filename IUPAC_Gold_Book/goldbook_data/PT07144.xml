@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07144</id>
+  <doi>10.1351/goldbook.PT07144</doi>
+  <code>PT07144</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymer degradation</longtitle>
+  <title>polymer degradation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Chemical changes in a polymeric material that usually result in undesirable changes in the in-use properties of the material.</text>
+      <notes>
+        <item>In most cases (e.g., in vinyl polymers, polyamides) degradation is accompanied by a decrease in molar mass. In some cases (e.g., in polymers with aromatic rings in the main chain), degradation means changes in chemical structure. It can also be accompanied by crosslinking.</item>
+        <item>Usually, degradation results in the loss of, or deterioration in, useful properties of the material. However, in the case of biodegradation (degradation by biological activity), polymers may change into environmentally acceptable substances with desirable properties.</item>
+      </notes>
+      <links>
+        <item>
+          <title>crosslinking</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07136</url>
+        </item>
+        <item>
+          <title>biodegradation</title>
+          <url>https://goldbook.iupac.org/terms/view/B00656</url>
+        </item>
+        <item>
+          <title>polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 893 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Degradacja (chemia) (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Degradacja_(chemia)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07144/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07144/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07144/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07144/plain</plain>
+  </links>
+  <citation>Citation: 'polymer degradation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07144</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:27:26+00:00</accessed>
+</term>

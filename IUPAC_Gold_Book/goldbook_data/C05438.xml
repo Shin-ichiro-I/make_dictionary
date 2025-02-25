@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05438</id>
+  <doi>10.1351/goldbook.C05438</doi>
+  <code>C05438</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - σ-constant</longtitle>
+  <title>σ-constant</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Specifically the substituent constant for meta- and for para-substituents in benzene derivatives as defined by Hammett on the basis of the ionization constant of a substituted benzoic acid in water at 25°C, i.e. log 10 ( K a K a 0 )), where Ka is the ionization constant of a m- or p-substituted benzoic acid and Ka0 that of benzoic acid itself. The term is also used as a collective description for related electronic substituent constants based on other standard reaction series, of which, σ +,σ- and σ 0 are typical; also constants which represent dissected electronic effects such as σ I and σ R. For this purpose it might be better always to spell out the term in full, i.e. as 'Hammett sigma constant', and restrict σ-constants to the scale of substituent constants which is based on benzoic acid. A large positive σ-value implies high electron-withdrawing power by inductive and/or resonance effect, relative to H; a large negative σ-value implies high electron-releasing power relative to H.</text>
+      <links>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>ρ-value</title>
+          <url>https://goldbook.iupac.org/terms/view/V05019</url>
+        </item>
+        <item>
+          <title>Taft equation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06247</url>
+        </item>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>ρ-value</title>
+          <url>https://goldbook.iupac.org/terms/view/V05019</url>
+        </item>
+        <item>
+          <title>Taft equation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06247</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>power</title>
+          <url>https://goldbook.iupac.org/terms/view/P04792</url>
+        </item>
+        <item>
+          <title>resonance effect</title>
+          <url>https://goldbook.iupac.org/terms/view/M03844</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>25°C</alttext>
+          <latex>25\ ^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+        <item>
+          <alttext>log 10 ( K a K a 0 )</alttext>
+          <latex>\log _{10}(\frac{K_{\text{a}}}{K_{\text{a}}^{0}})</latex>
+        </item>
+        <item>
+          <meaning>Acid dissociation constant</meaning>
+          <type>quantity</type>
+          <alttext>Ka</alttext>
+          <latex>K_{\text{a}}</latex>
+        </item>
+        <item>
+          <meaning>Acid dissociation constant (for reference compound)</meaning>
+          <type>quantity</type>
+          <alttext>Ka0</alttext>
+          <latex>K_{\text{a}}^{0}</latex>
+        </item>
+        <item>
+          <alttext>σ +</alttext>
+          <latex>\sigma ^{+}</latex>
+        </item>
+        <item>
+          <alttext>σ-</alttext>
+          <latex>\sigma ^{-}</latex>
+        </item>
+        <item>
+          <alttext>σ 0</alttext>
+          <latex>\sigma ^{0}</latex>
+        </item>
+        <item>
+          <alttext>σ I</alttext>
+          <latex>\sigma _{I}</latex>
+        </item>
+        <item>
+          <alttext>σ R</alttext>
+          <latex>\sigma _{R}</latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+        <item>
+          <alttext>σ</alttext>
+          <latex>\sigma </latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1171 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hammett-yhtälö (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Hammett-yhtälö</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C05438/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C05438/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C05438/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C05438/plain</plain>
+  </links>
+  <citation>Citation: 'σ-constant' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C05438</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:52:08+00:00</accessed>
+</term>

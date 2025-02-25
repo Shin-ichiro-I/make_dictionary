@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00155</id>
+  <doi>10.1351/goldbook.A00155</doi>
+  <code>A00155</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - adsorption</longtitle>
+  <title>adsorption</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An increase in the concentration of a dissolved substance at the interface of a condensed and a liquid phase due to the operation of surface forces. Adsorption can also occur at the interface of a condensed and a gaseous phase.</text>
+      <links>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 85 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2171 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Absorption (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Absorption_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adsorbsiya (az)</title>
+      <url>https://az.wikipedia.org/wiki/Adsorbsiya</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adsorció (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Adsorció</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adsorción (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Adsorción</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adsorción (es)</title>
+      <url>https://es.wikipedia.org/wiki/Adsorción</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adsorpcija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Adsorpcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adsorption (de)</title>
+      <url>https://de.wikipedia.org/wiki/Adsorption</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adsorption (en)</title>
+      <url>https://en.wikipedia.org/wiki/Adsorption</url>
+    </item>
+    <item>
+      <title>Wikipedia - Adsorption (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Adsorption</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Chemisorption (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Chemisorption</url>
+    </item>
+    <item>
+      <title>Wikipedia - Microplástico (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Microplástico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Адсорбция (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Адсорбция</url>
+    </item>
+    <item>
+      <title>Wikipedia - 吸着 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/吸着</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00155/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00155/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00155/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00155/plain</plain>
+  </links>
+  <citation>Citation: 'adsorption' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00155</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:44:18+00:00</accessed>
+</term>

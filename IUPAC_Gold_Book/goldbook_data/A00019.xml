@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00019</id>
+  <doi>10.1351/goldbook.A00019</doi>
+  <code>A00019</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - absolute activity</longtitle>
+  <title>absolute activity</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The exponential of the ratio of the chemical potential, , to  where  is the gas constant and  the thermodynamic temperature, .</text>
+      <links>
+        <item>
+          <title>chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/C01032</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/C01032</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>gas constant</title>
+          <url>https://goldbook.iupac.org/terms/view/G02579</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Chemical potential</meaning>
+          <type>quantity</type>
+          <alttext>µ</alttext>
+          <latex>\mu</latex>
+        </item>
+        <item>
+          <meaning>Gas constant times temperature</meaning>
+          <type>math</type>
+          <alttext>RT</alttext>
+          <latex>R\,T</latex>
+        </item>
+        <item>
+          <meaning>Gas constant</meaning>
+          <type>constant</type>
+          <alttext>R</alttext>
+          <latex>R</latex>
+        </item>
+        <item>
+          <meaning>Temperature</meaning>
+          <type>quantity</type>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+        <item>
+          <meaning>Absolute activity</meaning>
+          <type>equation</type>
+          <alttext>λ = e^(µ/RT)</alttext>
+          <latex>\lambda=\text{e}^{\,\mu/RT}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 40 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1984, 56, 567. 'Physicochemical quantities and units in clinical chemistry with special emphasis on activities and activity coefficients (Recommendations 1983)' on page 569 (https://doi.org/10.1351/pac198456050567)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 959 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aktivität (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Aktivität_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Massenwirkungsgesetz (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Massenwirkungsgesetz</url>
+    </item>
+    <item>
+      <title>Wikipedia - Активность (химия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Активность_(химия)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00019/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00019/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00019/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00019/plain</plain>
+  </links>
+  <citation>Citation: 'absolute activity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00019</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:37:43+00:00</accessed>
+</term>

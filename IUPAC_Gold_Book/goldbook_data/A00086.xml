@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00086</id>
+  <doi>10.1351/goldbook.A00086</doi>
+  <code>A00086</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - actinic flux</longtitle>
+  <title>actinic flux</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The quantity of light available to molecules at a particular point in the atmosphere and which, on absorption, drives photochemical processes in the atmosphere. It is calculated by integrating the spectral radianceL(λ,θ,ϕ) over all directions of incidence of the light, S(λ) = ∫θ.∫φ.{L(λ,θ,φ)/(hc/λ)}.sinθ.dθ.dφ. If the radiance is expressed in J m-2 s-1 st-1 nm-1 and h.c/λ is the energy per quantum of light of wavelengthλ, the actinic flux has units of quanta cm-2 s-1 nm-1. This important quantity is one of the terms required in the calculation of j-values, the first order rate coefficients for photochemical processes in the sunlight-absorbing, trace gases in the atmosphere. The actinic flux is determined by the solar radiation entering the atmosphere and by any changes in this due to atmospheric gases and particles (e.g. Rayleigh scattering absorption by stratospheric ozone, scattering and absorption by aerosols and clouds), and reflections from the ground. It is therefore dependent on the wavelength of the light, on the altitude and on specific local environmental conditions. The actinic flux has borne many names (e.g. flux, flux density, beam irradiance, actinic irradiance, integrated intensity) which has caused some confusion. It is important to distinguish the actinic flux from the spectral irradiance, which refers to energy arrival on a flat surface having fixed spatial orientation (J m-2 nm-1) given by: . The actinic flux does not refer to any specific orientation because molecules are oriented randomly in the atmosphere. This distinction is of practical relevance: the actinic flux (and therefore a j-value) near a brightly reflecting surface (e.g. over snow or above a thick cloud) can be a factor of three higher than that near a non-reflecting surface. The more descriptive name of spectral spheradiance is suggested for the quantity herein called actinic flux.</text>
+      <links>
+        <item>
+          <title>flux density</title>
+          <url>https://goldbook.iupac.org/terms/view/E02106</url>
+        </item>
+        <item>
+          <title>photon</title>
+          <url>https://goldbook.iupac.org/terms/view/P04627</url>
+        </item>
+        <item>
+          <title>flux density</title>
+          <url>https://goldbook.iupac.org/terms/view/E02106</url>
+        </item>
+        <item>
+          <title>photon</title>
+          <url>https://goldbook.iupac.org/terms/view/P04627</url>
+        </item>
+        <item>
+          <title>spectral radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05824</url>
+        </item>
+        <item>
+          <title>radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05037</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>actinic</title>
+          <url>https://goldbook.iupac.org/terms/view/AT07314</url>
+        </item>
+        <item>
+          <title>Rayleigh scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/R05160</url>
+        </item>
+        <item>
+          <title>scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05487</url>
+        </item>
+        <item>
+          <title>spectral irradiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05817</url>
+        </item>
+        <item>
+          <title>spectral spheradiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05832</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Spectral radiance</meaning>
+          <type>quantity</type>
+          <alttext>L(λ,θ,ϕ)</alttext>
+          <latex>L \left(\lambda,\,\theta,\,\varphi\,\right)</latex>
+        </item>
+        <item>
+          <meaning>Actinic flux</meaning>
+          <type>equation</type>
+          <alttext>S(λ) = ∫θ.∫φ.{L(λ,θ,φ)/(hc/λ)}.sinθ.dθ.dφ</alttext>
+          <latex>S_{\lambda} = \int _{\theta}\, \int _{\phi} \{L\left (\lambda,\theta,\varphi \right)/(hc/\lambda)\}\, \text{sin}\,\theta\: \text{d}\theta\: \text{d}\varphi</latex>
+        </item>
+        <item>
+          <meaning>Radiance</meaning>
+          <type>unit</type>
+          <alttext>J m-2 s-1 st-1 nm-1</alttext>
+          <latex>\text{J m}^{-2}\ \text{s}^{-1}\ \text{st}^{-1}\ \text{nm}^{-1}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>h.c/λ</alttext>
+          <latex>hc/\lambda</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+        <item>
+          <alttext>quanta cm-2 s-1 nm-1</alttext>
+          <latex>\text{quanta cm}^{-2}\ \text{s}^{-1}\ \text{nm}^{-1}</latex>
+        </item>
+        <item>
+          <meaning>Spectral irradiance</meaning>
+          <type>unit</type>
+          <alttext>J m-2 nm-1</alttext>
+          <latex>\text{J m}^{-2}\ \text{nm}^{-1}</latex>
+        </item>
+        <item>
+          <meaning>Spectral irradiance</meaning>
+          <type>equation</type>
+          <alttext>E(λ) = ∫θ.∫φ.L(λ,θ,φ).cosθ.sinθ.dθ.dφ</alttext>
+          <latex>E_{\lambda} = \int _{\theta}\, \int _{\phi} L\left (\lambda,\theta,\varphi \right )\, \text{cos}\,\theta  \: \text{sin}\,\theta\: \text{d}\theta\: \text{d}\varphi</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2170 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00086/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00086/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00086/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00086/plain</plain>
+  </links>
+  <citation>Citation: 'actinic flux' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00086</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:41:06+00:00</accessed>
+</term>

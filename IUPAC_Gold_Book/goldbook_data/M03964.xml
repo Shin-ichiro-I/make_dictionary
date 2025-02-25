@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03964</id>
+  <doi>10.1351/goldbook.M03964</doi>
+  <code>M03964</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - modified sample</longtitle>
+  <title>modified sample</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A sample or a known fraction of the parent population in which the analyte has been isolated or (usually) concentrated before being submitted to the laboratory. If the isolation or concentration occurs in the laboratory, the procedure is usually considered part of the preparation of the test sample from the laboratory sample (in-laboratory processing).</text>
+      <links>
+        <item>
+          <title>test sample</title>
+          <url>https://goldbook.iupac.org/terms/view/T06285</url>
+        </item>
+        <item>
+          <title>laboratory sample</title>
+          <url>https://goldbook.iupac.org/terms/view/L03433</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 1193. 'Nomenclature for sampling in analytical chemistry (Recommendations 1990)' on page 1204 (https://doi.org/10.1351/pac199062061193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03964/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03964/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03964/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03964/plain</plain>
+  </links>
+  <citation>Citation: 'modified sample' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03964</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:44:40+00:00</accessed>
+</term>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02945</id>
+  <doi>10.1351/goldbook.I02945</doi>
+  <code>I02945</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - imbalance</longtitle>
+  <title>imbalance</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The situation in which reaction parameters that characterize different bond forming or bond breaking processes in the same reaction have developed to different extents as the transition state is approached along some arbitrarily defined reaction coordinate. For example, in the nitroalkane anomaly, the Brønsted β exponent for proton removal is smaller than the Brønsted α for the nitroalkane, because of imbalance between the amount of bond breaking and resonancedelocalization in the transition state. Imbalance is common in reactions such as elimination, addition and other complex reactions that involve proton (hydron) transfer.</text>
+      <links>
+        <item>
+          <title>synchronous</title>
+          <url>https://goldbook.iupac.org/terms/view/S06219</url>
+        </item>
+        <item>
+          <title>synchronization (principle of nonperfect synchronization)</title>
+          <url>https://goldbook.iupac.org/terms/view/S06218</url>
+        </item>
+        <item>
+          <title>synchronous</title>
+          <url>https://goldbook.iupac.org/terms/view/S06219</url>
+        </item>
+        <item>
+          <title>synchronization (principle of nonperfect synchronization)</title>
+          <url>https://goldbook.iupac.org/terms/view/S06218</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>synchronous</title>
+          <url>https://goldbook.iupac.org/terms/view/S06219</url>
+        </item>
+        <item>
+          <title>synchronization (principle of nonperfect synchronization)</title>
+          <url>https://goldbook.iupac.org/terms/view/S06218</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+        <item>
+          <title>delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01583</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>β</alttext>
+          <latex>\beta </latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>α</alttext>
+          <latex>\alpha </latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1124 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02945/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02945/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02945/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02945/plain</plain>
+  </links>
+  <citation>Citation: 'imbalance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02945</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:58:43+00:00</accessed>
+</term>

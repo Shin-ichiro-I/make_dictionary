@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02520</id>
+  <doi>10.1351/goldbook.F02520</doi>
+  <code>F02520</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - free rotation (hindered rotation, restricted rotation)</longtitle>
+  <title>free rotation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In a stereochemical context the rotation about a bond is called 'free' when the rotational barrier is so low that different conformations are not perceptible as different chemical species on the time scale of the experiment. The inhibition of rotation of groups about a bond due to the presence of a sufficiently large rotational barrier to make the phenomenon observable on the time scale of the experiment is termed hindered rotation or restricted rotation.</text>
+      <links>
+        <item>
+          <title>rotational barrier</title>
+          <url>https://goldbook.iupac.org/terms/view/R05408</url>
+        </item>
+        <item>
+          <title>conformations</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>rotational barrier</title>
+          <url>https://goldbook.iupac.org/terms/view/R05408</url>
+        </item>
+        <item>
+          <title>conformations</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>inhibition</title>
+          <url>https://goldbook.iupac.org/terms/view/I03034</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2209 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Conformational isomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Conformational_isomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomerisme conformacional (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Isomerisme_conformacional</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomerisme konformasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Isomerisme_konformasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomerisme konformasi (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Isomerisme_konformasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomerismo conformacional (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Isomerismo_conformacional</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomería conformacional (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Isomería_conformacional</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isòmer (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Isòmer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konformacioni izomerizam (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Konformacioni_izomerizam</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rotamer (da)</title>
+      <url>https://da.wikipedia.org/wiki/Rotamer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rotamer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Rotamer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rotamers (en)</title>
+      <url>https://en.wikipedia.org/wiki/Rotamers</url>
+    </item>
+    <item>
+      <title>Wikipedia - Конформация (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Конформация</url>
+    </item>
+    <item>
+      <title>Wikipedia - Կոնֆորմացիա (քիմիա) (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Կոնֆորմացիա_(քիմիա)</url>
+    </item>
+    <item>
+      <title>Wikipedia - קונפורמציה (כימיה) (he)</title>
+      <url>https://he.wikipedia.org/wiki/קונפורמציה_(כימיה)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02520/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02520/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02520/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02520/plain</plain>
+  </links>
+  <citation>Citation: 'free rotation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02520</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:36:44+00:00</accessed>
+</term>

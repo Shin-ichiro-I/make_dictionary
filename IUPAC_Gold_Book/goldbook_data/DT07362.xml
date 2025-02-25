@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07362</id>
+  <doi>10.1351/goldbook.DT07362</doi>
+  <code>DT07362</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - downconversion</longtitle>
+  <title>downconversion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Process by which a photon with frequencyν1 interacts with a non-linear medium and splits into two simultaneously emitted photons with frequencies ν2 and ν3 so that the energy is conserved: </text>
+      <notes>
+        <item>Also known as a parametric downconversion.</item>
+        <item>The efficiency of the conversion process depends on the parametric gain in the non-linear material. This in turn depends on the power of the incident radiation, the photon frequencies, their indices of refraction in the material, and the non-linear 'hyper-susceptibility' of the material.</item>
+      </notes>
+      <links>
+        <item>
+          <title>power</title>
+          <url>https://goldbook.iupac.org/terms/view/P04792</url>
+        </item>
+        <item>
+          <title>power</title>
+          <url>https://goldbook.iupac.org/terms/view/P04792</url>
+        </item>
+        <item>
+          <title>photon</title>
+          <url>https://goldbook.iupac.org/terms/view/P04627</url>
+        </item>
+        <item>
+          <title>frequency</title>
+          <url>https://goldbook.iupac.org/terms/view/F02525</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ν1</alttext>
+          <latex>\nu _{1}</latex>
+        </item>
+        <item>
+          <alttext>ν2</alttext>
+          <latex>\nu _{2}</latex>
+        </item>
+        <item>
+          <alttext>ν3</alttext>
+          <latex>\nu _{3}</latex>
+        </item>
+        <item>
+          <alttext>ν1 = ν2 + ν3</alttext>
+          <latex>\nu _{1}=\nu _{2}+\nu _{3}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 326 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/DT07362/html</html>
+    <json>https://goldbook.iupac.org/terms/view/DT07362/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/DT07362/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/DT07362/plain</plain>
+  </links>
+  <citation>Citation: 'downconversion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.DT07362</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:07:17+00:00</accessed>
+</term>

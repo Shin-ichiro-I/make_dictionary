@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05836</id>
+  <doi>10.1351/goldbook.S05836</doi>
+  <code>S05836</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spectrograph</longtitle>
+  <title>spectrograph</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A combination of a spectral apparatus and a camera, which enables an image of a spectrum to be recorded. Spectra are recorded by a photographic emulsion or other means, e.g. two-dimensional electronic image sensors.</text>
+      <links>
+        <item>
+          <title>emulsion</title>
+          <url>https://goldbook.iupac.org/terms/view/E02065</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1725. 'Nomenclature, symbols, units and their usage in spectrochemical analysis-IX. Instrumentation for the spectral dispersion and isolation of optical radiation (IUPAC Recommendations 1995)' on page 1729 (https://doi.org/10.1351/pac199567101725)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Optical spectrometer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Optical_spectrometer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spectrograf (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Spectrograf</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spectrograph (en)</title>
+      <url>https://en.wikipedia.org/wiki/Spectrograph</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spectrographe (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Spectrographe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spektrograf (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Spektrograf</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spettrografo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Spettrografo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Optical spectrometer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Optical_spectrometer</url>
+    </item>
+    <item>
+      <title>Wikipedia - مرسام الطيف (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مرسام_الطيف</url>
+    </item>
+    <item>
+      <title>Wikipedia - مطياف بصري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مطياف_بصري</url>
+    </item>
+    <item>
+      <title>Wikipedia - 光波分光計 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/光波分光計</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05836/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05836/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05836/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05836/plain</plain>
+  </links>
+  <citation>Citation: 'spectrograph' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05836</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:18:06+00:00</accessed>
+</term>

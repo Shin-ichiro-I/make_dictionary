@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04588</id>
+  <doi>10.1351/goldbook.P04588</doi>
+  <code>P04588</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - photochemistry</longtitle>
+  <title>photochemistry</title>
+  <abbrevs>
+    <item>IR</item>
+    <item>UV</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The branch of chemistry concerned with the chemical effects of light (far UV to IR).</text>
+      <links>
+        <item>
+          <title>photochemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/P04585</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2206 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2259 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fotochimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fotochimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotohemija (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Fotohemija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotohemija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Fotohemija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotokemija (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Fotokemija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotokimya (az)</title>
+      <url>https://az.wikipedia.org/wiki/Fotokimya</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotokimya (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Fotokimya</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoluminiscencia (es)</title>
+      <url>https://es.wikipedia.org/wiki/Fotoluminiscencia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoluminiscencija (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Fotoluminiscencija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoquímica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Fotoquímica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Photochemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Photochemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Photoluminescence (en)</title>
+      <url>https://en.wikipedia.org/wiki/Photoluminescence</url>
+    </item>
+    <item>
+      <title>Wikipedia - Quang hóa học (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Quang_hóa_học</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spore (2008 video game) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Spore_(2008_video_game)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Фотолуминисценција (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Фотолуминисценција</url>
+    </item>
+    <item>
+      <title>Wikipedia - Фотохимия (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Фотохимия</url>
+    </item>
+    <item>
+      <title>Wikipedia - ضيائية فوتونية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ضيائية_فوتونية</url>
+    </item>
+    <item>
+      <title>Wikipedia - كيمياء ضوئية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كيمياء_ضوئية</url>
+    </item>
+    <item>
+      <title>Wikipedia - আলোক-রসায়ন (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/আলোক-রসায়ন</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஒளி வேதியியல் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஒளி_வேதியியல்</url>
+    </item>
+    <item>
+      <title>Wikipedia - 光化学 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/光化学</url>
+    </item>
+    <item>
+      <title>Wikipedia - 광화학 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/광화학</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04588/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04588/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04588/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04588/plain</plain>
+  </links>
+  <citation>Citation: 'photochemistry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04588</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:19:48+00:00</accessed>
+</term>

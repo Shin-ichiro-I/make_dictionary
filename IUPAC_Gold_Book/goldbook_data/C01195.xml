@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01195</id>
+  <doi>10.1351/goldbook.C01195</doi>
+  <code>C01195</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - compensation in catalysis</longtitle>
+  <title>compensation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For the process: k = A.e^(-E/R.T) is a rate constant, A the frequency factor and E the activation energy, A and E sometimes exhibit compensation, i.e. they change in the same direction with change in catalyst for a given reaction or with change in reaction for a given catalyst.</text>
+      <contexts>
+        <in>
+          <item>catalysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>activation energy</title>
+          <url>https://goldbook.iupac.org/terms/view/A00102</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Rate constant</meaning>
+          <type>equation</type>
+          <alttext>k = A.e^(-E/R.T)</alttext>
+          <latex>k = A\ \text{e}^{\frac{-E}{R\ T}}</latex>
+        </item>
+        <item>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>E</alttext>
+          <latex>E</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>E</alttext>
+          <latex>E</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1976, 46, 71. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units - Appendix II. Definitions, Terminology and Symbols in Colloid and Surface Chemistry. Part II: Heterogeneous Catalysis' on page 82 (https://doi.org/10.1351/pac197646010071)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01195/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01195/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01195/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01195/plain</plain>
+  </links>
+  <citation>Citation: 'compensation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01195</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:38:33+00:00</accessed>
+</term>

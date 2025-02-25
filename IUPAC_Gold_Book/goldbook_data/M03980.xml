@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03980</id>
+  <doi>10.1351/goldbook.M03980</doi>
+  <code>M03980</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mole</longtitle>
+  <title>mole</title>
+  <index>unit</index>
+  <termversion>3.0.1</termversion>
+  <lastupdated>2020-03-30</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The mole, symbol mol, is the SI unit of amount of substance. One mole contains exactly 6.022 140 76 x 1023 elementary entities. This number is the fixed numerical value of the Avogadro constant, NA, when expressed in the unit mol-1 and is called the Avogadro number.
+
+The amount of substance, symbol n, of a system is a measure of the number of specified elementary entities. An elementary entity may be an atom, a molecule, an ion, an electron, any other particle or specified group of particles.</text>
+      <notes>
+        <item>The formulation of this definition was agreed upon by the 26th CGPM in November 2018 with effect from 20 May 2019.</item>
+      </notes>
+      <links>
+        <item>
+          <title>amount of substance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00297</url>
+        </item>
+        <item>
+          <title>Avogadro constant</title>
+          <url>https://goldbook.iupac.org/terms/view/A00543</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Avogadro constant value (2019)</meaning>
+          <type>numeric value with unit</type>
+          <alttext>6.022 140 76 x 10E23</alttext>
+          <latex>6.022\ 140\ 76 \times 10^{23}</latex>
+        </item>
+        <item>
+          <meaning>Avogadro constant (2019)</meaning>
+          <type>symbol</type>
+          <alttext>NA</alttext>
+          <latex>N_{\text{A}}</latex>
+        </item>
+        <item>
+          <meaning>reciprocal moles (per mole)</meaning>
+          <type>unit</type>
+          <alttext>mol-1</alttext>
+          <latex>\pu{mol-1}</latex>
+        </item>
+        <item>
+          <meaning>amount of substance</meaning>
+          <type>symbol</type>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+      </math>
+      <sources>
+        <item>BIPM, The International System of Units, SI Brochure, 9th ed. (2019), p. 134 (https://www.bipm.org/en/publications/si-brochure/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Anyagmennyiség (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Anyagmennyiség</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussão:Química (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Discussão:Química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metric system (en)</title>
+      <url>https://en.wikipedia.org/wiki/Metric_system</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mol (es)</title>
+      <url>https://es.wikipedia.org/wiki/Mol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mol (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Mol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mol (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Mol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mole (it)</title>
+      <url>https://it.wikipedia.org/wiki/Mole</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mole (lij)</title>
+      <url>https://lij.wikipedia.org/wiki/Mole</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mole (sc)</title>
+      <url>https://sc.wikipedia.org/wiki/Mole</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mole (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Mole_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mól (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Mól</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Mole (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Mole_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Stoichiometry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Stoichiometry</url>
+    </item>
+    <item>
+      <title>Wikipedia - User talk:Zoranzdr (en)</title>
+      <url>https://en.wikipedia.org/wiki/User_talk:Zoranzdr</url>
+    </item>
+    <item>
+      <title>Wikipedia - مول (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مول</url>
+    </item>
+    <item>
+      <title>Wikipedia - মোল (একক) (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/মোল_(একক)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03980/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03980/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03980/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03980/plain</plain>
+  </links>
+  <citation>Citation: 'mole' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03980</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:45:43+00:00</accessed>
+</term>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06025</id>
+  <doi>10.1351/goldbook.S06025</doi>
+  <code>S06025</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stoichiometric number, ν</longtitle>
+  <title>stoichiometric number</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A chemical reaction of known stoichiometry can be written in general as: aA + bB + ... → ... + yY + zZ and z are known as the stoichiometric numbers, ν Y and ν Z, for Y and Z respectively. For the reactants the stoichiometric numbers are the negatives of the numbers appearing in the equation; for example the stoichiometric number ν A for the reactant A is -a. In other words, the stoichiometric numbers are positive for products and negative for reactants.</text>
+      <links>
+        <item>
+          <title>stoichiometry</title>
+          <url>https://goldbook.iupac.org/terms/view/S06026</url>
+        </item>
+        <item>
+          <title>stoichiometry</title>
+          <url>https://goldbook.iupac.org/terms/view/S06026</url>
+        </item>
+        <item>
+          <title>stoichiometric</title>
+          <url>https://goldbook.iupac.org/terms/view/S06021</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>aA + bB + ... → ... + yY + zZ</alttext>
+          <latex>a\text{A}\,+\,b\text{B}\,+\,...\rightarrow\,...\,+y\text{Y}\,+\,z\text{Z}</latex>
+        </item>
+        <item>
+          <alttext>y</alttext>
+          <latex>y</latex>
+        </item>
+        <item>
+          <alttext>z</alttext>
+          <latex>z</latex>
+        </item>
+        <item>
+          <alttext>ν Y</alttext>
+          <latex>\nu _{\text{Y}}</latex>
+        </item>
+        <item>
+          <alttext>ν Z</alttext>
+          <latex>\nu _{\text{Z}}</latex>
+        </item>
+        <item>
+          <alttext>ν A</alttext>
+          <latex>\nu _{\text{A}}</latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>-a</alttext>
+          <latex>-a</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 42 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 187 (https://doi.org/10.1351/pac199668010149)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 993 (https://doi.org/10.1351/pac199668040957)</item>
+        <item>PAC, 1996, 68, 1167. 'Pesticides report 36. Glossary of terms relating to pesticides (IUPAC Recommendations 1996)' on page 1168 (https://doi.org/10.1351/pac199668051167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Extent of reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Extent_of_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stehiometrija (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Stehiometrija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stoichiometry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Stoichiometry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stöchiometrische Zahl (de)</title>
+      <url>https://de.wikipedia.org/wiki/Stöchiometrische_Zahl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stœchiométrie (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Stœchiométrie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Standard enthalpy of reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Standard_enthalpy_of_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стехиометрија (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Стехиометрија</url>
+    </item>
+    <item>
+      <title>Wikipedia - স্টয়কিওমিতি (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/স্টয়কিওমিতি</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06025/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06025/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06025/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06025/plain</plain>
+  </links>
+  <citation>Citation: 'stoichiometric number' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06025</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:26:44+00:00</accessed>
+</term>

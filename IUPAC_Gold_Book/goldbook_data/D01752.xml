@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01752</id>
+  <doi>10.1351/goldbook.D01752</doi>
+  <code>D01752</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dipolar bond</longtitle>
+  <title>dipolar bond</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A bond formed (actually or conceptually) by coordination of two neutral moieties, the combination of which results in charge-separated structures, e.g. [image: Not defined] The term is preferred to the obsolescent synonyms 'coordinate link', 'coordinate covalence', 'dative bond', 'semipolar bond'.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/D01752.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>bond</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>coordination</title>
+          <url>https://goldbook.iupac.org/terms/view/C01329</url>
+        </item>
+        <item>
+          <title>bond</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>coordination</title>
+          <url>https://goldbook.iupac.org/terms/view/C01329</url>
+        </item>
+        <item>
+          <title>coordinate link</title>
+          <url>https://goldbook.iupac.org/terms/view/C01328</url>
+        </item>
+        <item>
+          <title>coordinate covalence</title>
+          <url>https://goldbook.iupac.org/terms/view/C01326</url>
+        </item>
+        <item>
+          <title>dative bond</title>
+          <url>https://goldbook.iupac.org/terms/view/D01523</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1106 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Coordinate covalent bond (en)</title>
+      <url>https://en.wikipedia.org/wiki/Coordinate_covalent_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - Coordination bonds (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Coordination_bonds</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enlace de coordinación (es)</title>
+      <url>https://es.wikipedia.org/wiki/Enlace_de_coordinación</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ikatan kovalen koordinasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Ikatan_kovalen_koordinasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koordinaciona veza (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Koordinaciona_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koordinatna veza (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Koordinatna_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legătură covalentă coordinativă (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Legătură_covalentă_coordinativă</url>
+    </item>
+    <item>
+      <title>Wikipedia - Liên kết cộng hóa trị phối hợp (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Liên_kết_cộng_hóa_trị_phối_hợp</url>
+    </item>
+    <item>
+      <title>Wikipedia - Liên kết cộng hóa trị phối trí (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Liên_kết_cộng_hóa_trị_phối_trí</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Coordinate covalent bond (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Coordinate_covalent_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - رابطة تناسقية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/رابطة_تناسقية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01752/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01752/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01752/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01752/plain</plain>
+  </links>
+  <citation>Citation: 'dipolar bond' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01752</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:02:23+00:00</accessed>
+</term>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00020</id>
+  <doi>10.1351/goldbook.A00020</doi>
+  <code>A00020</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - absolute configuration</longtitle>
+  <title>absolute configuration</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The spatial arrangement of the atoms of a chiral molecular entity (or group) and its stereochemical description, e.g., R or S.</text>
+      <links>
+        <item>
+          <title>relative configuration</title>
+          <url>https://goldbook.iupac.org/terms/view/R05260</url>
+        </item>
+        <item>
+          <title>α (alpha), β (beta)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00003</url>
+        </item>
+        <item>
+          <title>relative configuration</title>
+          <url>https://goldbook.iupac.org/terms/view/R05260</url>
+        </item>
+        <item>
+          <title>α (alpha), β (beta)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00003</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+      </links>
+      <sources>
+        <item>Blue Book, p. 474 (https://www.acdlabs.com/iupac/nomenclature/)</item>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2197 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Absolute configuratie (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Absolute_configuratie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Absolute configuration (en)</title>
+      <url>https://en.wikipedia.org/wiki/Absolute_configuration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Absolútna konfigurácia (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Absolútna_konfigurácia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Configuration absolue (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Configuration_absolue</url>
+    </item>
+    <item>
+      <title>Wikipedia - Configuração absoluta (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Configuração_absoluta</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konfiguraatio (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Konfiguraatio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konfiguracja absolutna (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Konfiguracja_absolutna</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konfiguration (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Konfiguration_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Menthone (en)</title>
+      <url>https://en.wikipedia.org/wiki/Menthone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Абсолютна конфігурація (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Абсолютна_конфігурація</url>
+    </item>
+    <item>
+      <title>Wikipedia - Абсолютная конфигурация (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Абсолютная_конфигурация</url>
+    </item>
+    <item>
+      <title>Wikipedia - ترتيب مطلق (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ترتيب_مطلق</url>
+    </item>
+    <item>
+      <title>Wikipedia - 절대배치 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/절대배치</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00020/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00020/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00020/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00020/plain</plain>
+  </links>
+  <citation>Citation: 'absolute configuration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00020</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:37:48+00:00</accessed>
+</term>

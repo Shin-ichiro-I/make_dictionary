@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00221</id>
+  <doi>10.1351/goldbook.A00221</doi>
+  <code>A00221</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - alkalosis</longtitle>
+  <title>alkalosis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Pathological condition in which the hydrogen ion substance concentration of body fluids is below normal and hence the pH of blood rises above the reference interval.</text>
+      <links>
+        <item>
+          <title>acidosis</title>
+          <url>https://goldbook.iupac.org/terms/view/A00082</url>
+        </item>
+        <item>
+          <title>acidosis</title>
+          <url>https://goldbook.iupac.org/terms/view/A00082</url>
+        </item>
+        <item>
+          <title>substance concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/S06072</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2003. 'Glossary for chemists of terms used in toxicology (IUPAC Recommendations 1993)' on page 2012 (https://doi.org/10.1351/pac199365092003)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alkalosis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Alkalosis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkalosis (id)</title>
+      <url>https://id.wikipedia.org/wiki/Alkalosis</url>
+    </item>
+    <item>
+      <title>Wikipedia - قلاء (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قلاء</url>
+    </item>
+    <item>
+      <title>Wikipedia - ആൽക്കലോസിസ് (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/ആൽക്കലോസിസ്</url>
+    </item>
+    <item>
+      <title>Wikipedia - 알칼리혈증 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/알칼리혈증</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00221/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00221/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00221/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00221/plain</plain>
+  </links>
+  <citation>Citation: 'alkalosis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00221</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:47:56+00:00</accessed>
+</term>

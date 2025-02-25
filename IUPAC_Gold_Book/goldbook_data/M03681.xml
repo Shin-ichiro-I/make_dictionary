@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03681</id>
+  <doi>10.1351/goldbook.M03681</doi>
+  <code>M03681</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - magnetic equivalence</longtitle>
+  <title>magnetic equivalence</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Nuclei having the same resonance frequency in nuclear magnetic resonancespectroscopy and also identical spin-spin interactions with the nuclei of a neighbouring group are magnetically equivalent. The spin-spin interaction between magnetically equivalent nuclei does not appear, and thus has no effect on the multiplicity of the respective NMR signals. Magnetically equivalent nuclei are necessarily also chemically equivalent, but the reverse is not necessarily true.</text>
+      <links>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+        <item>
+          <title>spectroscopy</title>
+          <url>https://goldbook.iupac.org/terms/view/S05848</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1137 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03681/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03681/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03681/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03681/plain</plain>
+  </links>
+  <citation>Citation: 'magnetic equivalence' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03681</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:31:44+00:00</accessed>
+</term>

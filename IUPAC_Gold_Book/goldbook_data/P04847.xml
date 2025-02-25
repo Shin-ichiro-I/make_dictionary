@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04847</id>
+  <doi>10.1351/goldbook.P04847</doi>
+  <code>P04847</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - principal ion in mass spectrometry</longtitle>
+  <title>principal ion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A molecular or fragment ion which is made up of the most abundant isotopes of each of its atomic constituents. In the case of compounds that have been artifically isotopically enriched in one or more positions such as CH313CH3 or CH2D2 the principal ion may be defined by treating the heavy isotopes as new atomic species. Thus, in the above two examples, the principal ions would be of masses 31 and 18, respectively.</text>
+      <contexts>
+        <in>
+          <item>mass spectrometry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>isotopes</title>
+          <url>https://goldbook.iupac.org/terms/view/I03331</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1550 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04847/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04847/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04847/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04847/plain</plain>
+  </links>
+  <citation>Citation: 'principal ion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04847</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:33:03+00:00</accessed>
+</term>

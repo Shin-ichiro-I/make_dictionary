@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06994</id>
+  <doi>10.1351/goldbook.AT06994</doi>
+  <code>AT06994</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - atomic charge</longtitle>
+  <title>atomic charge</title>
+  <abbrevs>
+    <item>MO</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The charge attributed to an atom A within a molecule defined as ζ = Z A- q A, where ZA is the atomic number of A and qA is the electron density assigned to A. The method of calculation of qA depends on the choice of the scheme of partitioning electron density. In the framework of the Mulliken population analysis qA is associated with the so-called gross atomic population: qA = ∑qµ, where qµ is a gross population for an orbital µ in the basis set employed defined according to qµ = Pµµ + ∑(ν ≠ µ)Pµν.Sµν and Sµν are the elements of density matrix and overlap matrix, respectively (see overlap integral). In the Hückel molecular orbital theory (where Sµν = δµν), qµ = nµ.Pµµ, where nµ is the number of electrons in the MOMO µ.</text>
+      <links>
+        <item>
+          <title>atomic number</title>
+          <url>https://goldbook.iupac.org/terms/view/A00499</url>
+        </item>
+        <item>
+          <title>electron density</title>
+          <url>https://goldbook.iupac.org/terms/view/E01986</url>
+        </item>
+        <item>
+          <title>basis set</title>
+          <url>https://goldbook.iupac.org/terms/view/BT06999</url>
+        </item>
+        <item>
+          <title>overlap integral</title>
+          <url>https://goldbook.iupac.org/terms/view/O04357</url>
+        </item>
+        <item>
+          <title>molecular orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/M03996</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>ζ = Z A- q A</alttext>
+          <latex>\zeta =Z_{\text{A}}- q_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>ZA</alttext>
+          <latex>Z_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>qA</alttext>
+          <latex>q_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>qA</alttext>
+          <latex>q_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>qA</alttext>
+          <latex>q_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>qA = ∑qµ</alttext>
+          <latex>q_{\text{A}}=\sum q_{\unicode[Times]{x3BC}}</latex>
+        </item>
+        <item>
+          <alttext>qµ</alttext>
+          <latex>q_{\unicode[Times]{x3BC}}</latex>
+        </item>
+        <item>
+          <alttext>µ</alttext>
+          <latex>\unicode[Times]{x3BC}</latex>
+        </item>
+        <item>
+          <alttext>qµ = Pµµ + ∑(ν ≠ µ)Pµν.Sµν</alttext>
+          <latex>q_{\unicode[Times]{x3BC}} = P_{\unicode[Times]{x3BC}\unicode[Times]{x3BC}}+\sum _{\begin{array}{c}
+\nu \neq \unicode[Times]{x3BC} 
+\end{array}}P_{\unicode[Times]{x3BC}\nu}\ S_{\unicode[Times]{x3BC}\nu}</latex>
+        </item>
+        <item>
+          <alttext>Pµν</alttext>
+          <latex>P_{\unicode[Times]{x3BC}\unicode[Times]{x3BD} }</latex>
+        </item>
+        <item>
+          <alttext>Sµν</alttext>
+          <latex>S_{\unicode[Times]{x3BC}\unicode[Times]{x3BD}}</latex>
+        </item>
+        <item>
+          <alttext>Sµν = δµν</alttext>
+          <latex>S_{\unicode[Times]{x3BC}\nu} = \delta _{\unicode[Times]{x3BC}\nu}</latex>
+        </item>
+        <item>
+          <alttext>qµ = nµ.Pµµ</alttext>
+          <latex>q_{\unicode[Times]{x3BC}} = n_{\unicode[Times]{x3BC}}\ P_{\unicode[Times]{x3BC}\unicode[Times]{x3BC}}</latex>
+        </item>
+        <item>
+          <alttext>nµ</alttext>
+          <latex>n_{\unicode[Times]{x3BC}}</latex>
+        </item>
+        <item>
+          <alttext>MO µ</alttext>
+          <latex>\text{MO}\,\unicode[Times]{x3BC}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1924 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/AT06994/html</html>
+    <json>https://goldbook.iupac.org/terms/view/AT06994/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/AT06994/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/AT06994/plain</plain>
+  </links>
+  <citation>Citation: 'atomic charge' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.AT06994</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:01:33+00:00</accessed>
+</term>

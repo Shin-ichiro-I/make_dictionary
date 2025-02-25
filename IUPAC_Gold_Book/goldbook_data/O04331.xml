@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04331</id>
+  <doi>10.1351/goldbook.O04331</doi>
+  <code>O04331</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ortho acids</longtitle>
+  <title>ortho acids</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Hypothetical compounds having the structure RC(OH)3. Thus hydrated forms of carboxylic acids. Orthocarbonic acid, C(OH)4 , is generically included.</text>
+      <links>
+        <item>
+          <title>ortho amides</title>
+          <url>https://goldbook.iupac.org/terms/view/O04332</url>
+        </item>
+        <item>
+          <title>ortho esters</title>
+          <url>https://goldbook.iupac.org/terms/view/O04334</url>
+        </item>
+        <item>
+          <title>ortho amides</title>
+          <url>https://goldbook.iupac.org/terms/view/O04332</url>
+        </item>
+        <item>
+          <title>ortho esters</title>
+          <url>https://goldbook.iupac.org/terms/view/O04334</url>
+        </item>
+        <item>
+          <title>carboxylic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/C00852</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1354 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Kwas ortomrówkowy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Kwas_ortomrówkowy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ortho acid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ortho_acid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ортоэфиры (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Ортоэфиры</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஆர்த்தோ அமிலம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஆர்த்தோ_அமிலம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - オルト酸 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/オルト酸</url>
+    </item>
+    <item>
+      <title>Wikipedia - 原酸 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/原酸</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04331/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04331/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04331/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04331/plain</plain>
+  </links>
+  <citation>Citation: 'ortho acids' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04331</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:06:38+00:00</accessed>
+</term>

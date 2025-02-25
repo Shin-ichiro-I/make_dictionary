@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03778</id>
+  <doi>10.1351/goldbook.M03778</doi>
+  <code>M03778</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mean free path, λ</longtitle>
+  <title>mean free path</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The average distance a molecule travels between collisions. For a molecule, λ = ( 2 π n d m 2 )-1, where n is the number of molecules per unit volume and dm is their mean diameter. For O2 at one atmosphere and 25°C, this distance is only 9.7 x 10E-6 cm; at 10E-6 atmospheres and 25°C it is 9.7 cm. For an aerosol particle, the mean free path, λ B in the Stokes region (see Stokes law) is given by: λ B = 3 k T m m B where m is the mass of the particle, k is the Boltzmann constant (1.381 x 10E-23 J K-1), T is the temperature (K) and B is the mobility.</text>
+      <links>
+        <item>
+          <title>aerosol</title>
+          <url>https://goldbook.iupac.org/terms/view/A00176</url>
+        </item>
+        <item>
+          <title>Stokes</title>
+          <url>https://goldbook.iupac.org/terms/view/S06027</url>
+        </item>
+        <item>
+          <title>Boltzmann constant</title>
+          <url>https://goldbook.iupac.org/terms/view/B00695</url>
+        </item>
+        <item>
+          <title>mobility</title>
+          <url>https://goldbook.iupac.org/terms/view/M03955</url>
+        </item>
+        <item>
+          <title>aerosol</title>
+          <url>https://goldbook.iupac.org/terms/view/A00176</url>
+        </item>
+        <item>
+          <title>Stokes</title>
+          <url>https://goldbook.iupac.org/terms/view/S06027</url>
+        </item>
+        <item>
+          <title>Boltzmann constant</title>
+          <url>https://goldbook.iupac.org/terms/view/B00695</url>
+        </item>
+        <item>
+          <title>mobility</title>
+          <url>https://goldbook.iupac.org/terms/view/M03955</url>
+        </item>
+        <item>
+          <title>Stokes law</title>
+          <url>https://goldbook.iupac.org/terms/view/S06028</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>λ = ( 2 π n d m 2 )-1</alttext>
+          <latex>\lambda = (\sqrt{2}\ \pi \ n\ d_{\text{m}}^{2})^{-1}</latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <alttext>dm</alttext>
+          <latex>d_{\text{m}}</latex>
+        </item>
+        <item>
+          <alttext>25°C</alttext>
+          <latex>25\ ^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+        <item>
+          <alttext>9.7 x 10E-6 cm</alttext>
+          <latex>9.7\times 10^{-6}\ \text{cm}</latex>
+        </item>
+        <item>
+          <alttext>10E-6</alttext>
+          <latex>10^{-6}</latex>
+        </item>
+        <item>
+          <alttext>25°C</alttext>
+          <latex>25\ ^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+        <item>
+          <alttext>9.7 cm</alttext>
+          <latex>9.7\ \text{cm}</latex>
+        </item>
+        <item>
+          <alttext>λ B</alttext>
+          <latex>\lambda _{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>λ B = 3 k T m m B</alttext>
+          <latex>\lambda _{\text{B}} = \sqrt{\frac{3\ k\ T}{m}}\ m\ B</latex>
+        </item>
+        <item>
+          <alttext>m</alttext>
+          <latex>m</latex>
+        </item>
+        <item>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+        <item>
+          <alttext>1.381 x 10E-23 J K-1</alttext>
+          <latex>1.381\times 10^{-23}\ \text{J K}^{-1}</latex>
+        </item>
+        <item>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+        <item>
+          <alttext>K</alttext>
+          <latex>\text{K}</latex>
+        </item>
+        <item>
+          <alttext>B</alttext>
+          <latex>B</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 56 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2201 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cammino libero medio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Cammino_libero_medio</url>
+    </item>
+    <item>
+      <title>Wikipedia - مسار حر وسطي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مسار_حر_وسطي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03778/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03778/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03778/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03778/plain</plain>
+  </links>
+  <citation>Citation: 'mean free path' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03778</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:35:57+00:00</accessed>
+</term>

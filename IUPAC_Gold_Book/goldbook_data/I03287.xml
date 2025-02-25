@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03287</id>
+  <doi>10.1351/goldbook.I03287</doi>
+  <code>I03287</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isolated double bonds</longtitle>
+  <title>isolated double bonds</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Those bonds which are neither conjugated nor cumulative as in [image: Not defined] or the B ring of [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/I03287-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/I03287-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>conjugated</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>cumulative</title>
+          <url>https://goldbook.iupac.org/terms/view/C01437</url>
+        </item>
+      </links>
+      <sources>
+        <item>Blue Book, p. 69 (https://www.acdlabs.com/iupac/nomenclature/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acidi grassi polinsaturi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Acidi_grassi_polinsaturi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Doppio legame (it)</title>
+      <url>https://it.wikipedia.org/wiki/Doppio_legame</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kaksikside (et)</title>
+      <url>https://et.wikipedia.org/wiki/Kaksikside</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wiązanie wielokrotne (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Wiązanie_wielokrotne</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03287/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03287/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03287/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03287/plain</plain>
+  </links>
+  <citation>Citation: 'isolated double bonds' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03287</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:13:03+00:00</accessed>
+</term>

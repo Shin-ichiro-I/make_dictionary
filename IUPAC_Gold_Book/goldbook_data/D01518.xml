@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01518</id>
+  <doi>10.1351/goldbook.D01518</doi>
+  <code>D01518</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dark reaction (darkness reaction)</longtitle>
+  <title>dark reaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A chemical reaction that does not require or depend on the presence of light. Contrasts with a photochemical reaction which is initiated by light absorption by one or more of the reactants.</text>
+      <links>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>photochemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/P04585</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2183 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01518/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01518/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01518/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01518/plain</plain>
+  </links>
+  <citation>Citation: 'dark reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01518</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:52:33+00:00</accessed>
+</term>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06949</id>
+  <doi>10.1351/goldbook.CT06949</doi>
+  <code>CT06949</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - CLOGP values</longtitle>
+  <title>CLOGP values</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>CLOGP values are calculated 1-octanol/water partition coefficients, frequently used in structure-property correlation or quantitative structure-activity relationship (SPC/QSAR) studies.</text>
+      <links>
+        <item>
+          <title>partition</title>
+          <url>https://goldbook.iupac.org/terms/view/P04435</url>
+        </item>
+        <item>
+          <title>partition</title>
+          <url>https://goldbook.iupac.org/terms/view/P04435</url>
+        </item>
+        <item>
+          <title>structure-activity relationship (SPC/QSAR) (in drug design)</title>
+          <url>https://goldbook.iupac.org/terms/view/QT06977</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1997, 69, 1137. 'Glossary of terms used in computational drug design (IUPAC Recommendations 1997)' on page 1140 (https://doi.org/10.1351/pac199769051137)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT06949/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT06949/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT06949/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT06949/plain</plain>
+  </links>
+  <citation>Citation: 'CLOGP values' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT06949</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:34:33+00:00</accessed>
+</term>

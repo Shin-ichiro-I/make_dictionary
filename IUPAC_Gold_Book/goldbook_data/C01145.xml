@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01145</id>
+  <doi>10.1351/goldbook.C01145</doi>
+  <code>C01145</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - col (saddle point)</longtitle>
+  <title>col</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A mountain-pass in a potential-energy surface is known as a col or saddle point. It is a point at which the gradient is zero along all coordinates, and the curvature is positive along all but one coordinate, which is the reaction coordinate, along which the curvature is negative.</text>
+      <links>
+        <item>
+          <title>potential-energy (reaction) surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>saddle point</title>
+          <url>https://goldbook.iupac.org/terms/view/S05446</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 158 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01145/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01145/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01145/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01145/plain</plain>
+  </links>
+  <citation>Citation: 'col' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01145</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:36:10+00:00</accessed>
+</term>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00372</id>
+  <doi>10.1351/goldbook.A00372</doi>
+  <code>A00372</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - anomeric effect</longtitle>
+  <title>anomeric effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Originally the thermodynamic preference for polar groups bonded to C-1 (the anomeric carbon of a glycopyranosyl derivative) to take up an axial position. [image: Not defined] This effect is now considered to be a special case of a general preference (the generalized anomeric effect) for synclinal (gauche) conformations about the bond C–Y in the system X–C–Y–C where X and Y are heteroatoms having nonbonding electron pairs, commonly at least one of which is nitrogen, oxygen or fluorine. For example in chloro(methoxy)methane the anomeric effect stabilizes the synclinalconformation. [image: Not defined] In alkyl glycopyranosides the anomeric effect operates at two sites (i) along the endocyclic C-1 oxygen bond (endo-anomeric effect) and (ii) along the exocyclic C-1 oxygen bond (exo-anomeric effect). The opposite preference is claimed for some systems, e.g., glycopyranosyltrialkylammonium salts, and has been referred to as the reverse anomeric effect. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00372-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00372-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00372-3.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>axial</title>
+          <url>https://goldbook.iupac.org/terms/view/A00546</url>
+        </item>
+        <item>
+          <title>synclinal</title>
+          <url>https://goldbook.iupac.org/terms/view/T06406</url>
+        </item>
+        <item>
+          <title>axial</title>
+          <url>https://goldbook.iupac.org/terms/view/A00546</url>
+        </item>
+        <item>
+          <title>synclinal</title>
+          <url>https://goldbook.iupac.org/terms/view/T06406</url>
+        </item>
+        <item>
+          <title>gauche</title>
+          <url>https://goldbook.iupac.org/terms/view/G02593</url>
+        </item>
+        <item>
+          <title>conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>exo</title>
+          <url>https://goldbook.iupac.org/terms/view/E02094</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2198 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Anomeerinen efekti (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Anomeerinen_efekti</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anomeric effect (en)</title>
+      <url>https://en.wikipedia.org/wiki/Anomeric_effect</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Glycosidische Bindung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Glycosidische_Bindung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Efecto anomérico (es)</title>
+      <url>https://es.wikipedia.org/wiki/Efecto_anomérico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Efeito anomérico (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Efeito_anomérico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Effet anomérique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Effet_anomérique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Effetto anomerico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Effetto_anomerico</url>
+    </item>
+    <item>
+      <title>Wikipedia - アノマー効果 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/アノマー効果</url>
+    </item>
+    <item>
+      <title>Wikipedia - 端基异构效应 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/端基异构效应</url>
+    </item>
+    <item>
+      <title>Wikipedia - 아노머 효과 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/아노머_효과</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00372/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00372/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00372/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00372/plain</plain>
+  </links>
+  <citation>Citation: 'anomeric effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00372</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:55:24+00:00</accessed>
+</term>

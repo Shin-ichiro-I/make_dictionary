@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06778</id>
+  <doi>10.1351/goldbook.MT06778</doi>
+  <code>MT06778</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - magnetic circular dichroism</longtitle>
+  <title>magnetic circular dichroism</title>
+  <acronyms>
+    <item>MCD</item>
+  </acronyms>
+  <abbrevs>
+    <item>EPR</item>
+    <item>IR</item>
+    <item>MCD</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Magnetic circular dichroism is observed when a sample differentially absorbs left- and right- circularly polarized light in a magnetic field parallel to the light beam.</text>
+      <notes>
+        <item>The MCD signal, Δ, is calculated as Δ = α(λ)- - α(λ)+ / α(λ)- + α(λ)+ with α(λ)- and α(λ)+ the absorption coefficients for right and left circularly polarized light, respectively. The spectra are a representation of Δ vs wavelength. Often, Δ is recorded as a function of the applied field (up to 10 T) and the temperature.</item>
+        <item>Phenomenon related to 'magnetically induced optical activity (Faraday effect)' by the 'Kramers-Kronig transformations', which connect optical refraction and absorption, i.e., MCD is observed in optically active materials at wavelengths with non-vanishing absorption. It occurs for diamagnetic, paramagnetic and (anti)-ferromagnetic material and has been observed from IR (infrared) to X-ray regions. MCD optical transitions in molecular species arise if (i) degenerate electronic states are split in the presence of a magnetic field (first-order-Zeeman effect) or (ii) states are mixed together by the applied magnetic field (second-order-Zeeman effect). This may occur in the initial or the final states.</item>
+        <item>MCD is used as a probe of paramagnetism that permits the identification of the electronic and magnetic properties of the ground states of transition metal ion centres. The wavelength dependence of MCD can be used also to identify and assign optical transitions from metal ion sites.</item>
+        <item>Technique complementary to both EPR and electronic absorption spectroscopies in facilitating assignment of the ground-state spin and electronic transitions of a molecular entity.</item>
+      </notes>
+      <links>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>optical activity</title>
+          <url>https://goldbook.iupac.org/terms/view/O04303</url>
+        </item>
+        <item>
+          <title>diamagnetic</title>
+          <url>https://goldbook.iupac.org/terms/view/D01668</url>
+        </item>
+        <item>
+          <title>paramagnetic</title>
+          <url>https://goldbook.iupac.org/terms/view/P04404</url>
+        </item>
+        <item>
+          <title>anti</title>
+          <url>https://goldbook.iupac.org/terms/view/A00381</url>
+        </item>
+        <item>
+          <title>infrared</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07399</url>
+        </item>
+        <item>
+          <title>Zeeman effect</title>
+          <url>https://goldbook.iupac.org/terms/view/Z06739</url>
+        </item>
+        <item>
+          <title>dichroism</title>
+          <url>https://goldbook.iupac.org/terms/view/DT07357</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Δ</alttext>
+          <latex>\Delta</latex>
+        </item>
+        <item>
+          <alttext>Δ = α(λ)- - α(λ)+ / α(λ)- + α(λ)+</alttext>
+          <latex>\Delta  = \frac{\alpha(\lambda)^{-}\,-\,\alpha(\lambda)^{+}}{\alpha(\lambda)^{-}\,+\,\alpha(\lambda)^{+}}</latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>α(λ)-</alttext>
+          <latex>\alpha(\lambda)^{-}</latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>α(λ)+</alttext>
+          <latex>\alpha(\lambda)^{+}</latex>
+        </item>
+        <item>
+          <alttext>Δ</alttext>
+          <latex>\Delta</latex>
+        </item>
+        <item>
+          <alttext>Δ</alttext>
+          <latex>\Delta</latex>
+        </item>
+        <item>
+          <alttext>10 T</alttext>
+          <latex>10\ \text{T}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 368 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Magnetic circular dichroism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Magnetic_circular_dichroism</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/MT06778/html</html>
+    <json>https://goldbook.iupac.org/terms/view/MT06778/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/MT06778/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/MT06778/plain</plain>
+  </links>
+  <citation>Citation: 'magnetic circular dichroism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.MT06778</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:31:36+00:00</accessed>
+</term>

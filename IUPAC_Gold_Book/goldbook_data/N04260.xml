@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04260</id>
+  <doi>10.1351/goldbook.N04260</doi>
+  <code>N04260</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - number concentration, C,n</longtitle>
+  <title>number concentration</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Number of entities of a constituent in a mixture divided by the volume of the mixture.</text>
+      <links>
+        <item>
+          <title>number of entities</title>
+          <url>https://goldbook.iupac.org/terms/view/N04266</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>number of entities</title>
+          <url>https://goldbook.iupac.org/terms/view/N04266</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/C01222</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 39 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 984 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Concentració (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Concentració</url>
+    </item>
+    <item>
+      <title>Wikipedia - Densidad numérica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Densidad_numérica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gęstość liczbowa (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Gęstość_liczbowa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koncentráció (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Koncentráció</url>
+    </item>
+    <item>
+      <title>Wikipedia - Number density (en)</title>
+      <url>https://en.wikipedia.org/wiki/Number_density</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stężenie (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stężenie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Mass concentration (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Mass_concentration_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teilchendichte (de)</title>
+      <url>https://de.wikipedia.org/wiki/Teilchendichte</url>
+    </item>
+    <item>
+      <title>Wikipedia - Концентрация смеси (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Концентрация_смеси</url>
+    </item>
+    <item>
+      <title>Wikipedia - چگالی تعداد (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/چگالی_تعداد</url>
+    </item>
+    <item>
+      <title>Wikipedia - নম্বর ঘনত্ব (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/নম্বর_ঘনত্ব</url>
+    </item>
+    <item>
+      <title>Wikipedia - সংখ্যা ঘনত্ব (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/সংখ্যা_ঘনত্ব</url>
+    </item>
+    <item>
+      <title>Wikipedia - 数密度 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/数密度</url>
+    </item>
+    <item>
+      <title>Wikipedia - 개수밀도 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/개수밀도</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04260/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04260/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04260/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04260/plain</plain>
+  </links>
+  <citation>Citation: 'number concentration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04260</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:02:48+00:00</accessed>
+</term>

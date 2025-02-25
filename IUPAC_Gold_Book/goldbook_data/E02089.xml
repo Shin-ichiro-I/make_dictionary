@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02089</id>
+  <doi>10.1351/goldbook.E02089</doi>
+  <code>E02089</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - encounter-controlled rate</longtitle>
+  <title>encounter-controlled rate</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A rate of reaction corresponding to the rate of encounter of the reacting molecular entities. This is also known as 'diffusion-controlled rate' since rates of encounter are themselves controlled by diffusion rates (which in turn depend on the viscosity of the medium and the dimensions of the reactant molecular entities). For a bimolecular reaction between solutes in water at 25°C an encounter-controlled rate is calculated to have a second-order rate constant of about 10E10 dm3 mol-1 s-1.</text>
+      <links>
+        <item>
+          <title>microscopic diffusion control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03912</url>
+        </item>
+        <item>
+          <title>microscopic diffusion control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03912</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>medium</title>
+          <url>https://goldbook.iupac.org/terms/view/M03814</url>
+        </item>
+        <item>
+          <title>bimolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>microscopic diffusion control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03912</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>medium</title>
+          <url>https://goldbook.iupac.org/terms/view/M03814</url>
+        </item>
+        <item>
+          <title>bimolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>encounter</title>
+          <url>https://goldbook.iupac.org/terms/view/E02086</url>
+        </item>
+        <item>
+          <title>diffusion-controlled rate</title>
+          <url>https://goldbook.iupac.org/terms/view/D01721</url>
+        </item>
+        <item>
+          <title>diffusion</title>
+          <url>https://goldbook.iupac.org/terms/view/D01716</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>25°C</alttext>
+          <latex>25\ ^{\,\unicode{x26ac}}\text{C}</latex>
+        </item>
+        <item>
+          <alttext>10E10 dm3 mol-1 s-1</alttext>
+          <latex>\pu{E10 dm3 mol-1 s-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1112 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02089/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02089/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02089/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02089/plain</plain>
+  </links>
+  <citation>Citation: 'encounter-controlled rate' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02089</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:18:27+00:00</accessed>
+</term>

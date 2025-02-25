@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06717</id>
+  <doi>10.1351/goldbook.X06717</doi>
+  <code>X06717</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - X-ray satellite</longtitle>
+  <title>X-ray satellite</title>
+  <contains>hypersatellite <span class="in">in X-ray spectroscopy</span>, multiple ionization satellite <span class="in">in X-ray spectroscopy</span> , non-diagram line <span class="in">in X-ray spectroscopy</span></contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A weak line in the same energy region as a normal X-ray line. Another name used for weak features is non-diagram line. Recommendations as to the use of these two terms have conflicted. Using the term diagram line as defined here, non-diagram line may well be used for all lines with a different origin. The majority of these lines originate form the dipole-allowed de-excitation of multiply ionized or excited states, and are called multiple-ionization satellites. A line where the initial state has two vacencies in the same shell, notably the K-shell, is called a hypersatellite. Other mechanisms leading to weak spectral features in X-ray emission are, e.g. resonance emission, the radiative Auger effect, magnetic dipole and electric quadrupole transitions and, in metals, plasmon excitation. Atoms with open electron shells, i.e. transition metals, lanthanides and actinides, show a splitting of certain X-ray lines due to the electron interaction involving this open shell. Structures originating in all these ways as well as structures in the valence band of molecules and solid chemical compounds have in the past been given satellite designations.</text>
+      <links>
+        <item>
+          <title>diagram line (in X-ray spectroscopy)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01664</url>
+        </item>
+        <item>
+          <title>diagram line (in X-ray spectroscopy)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01664</url>
+        </item>
+        <item>
+          <title>ionization (in X-ray spectroscopy)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>resonance emission (in X-ray spectroscopy) (in X-ray spectroscopy)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05341</url>
+        </item>
+        <item>
+          <title>Auger effect (in X-ray spectroscopy) (in X-ray spectroscopy)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00520</url>
+        </item>
+        <item>
+          <title>valence band (in X-ray spectroscopy) (in X-ray spectroscopy)</title>
+          <url>https://goldbook.iupac.org/terms/view/V06589</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1991, 63, 735. 'Nomenclature, symbols, units and their usage in spectrochemical analysis - VIII. Nomenclature system for X-ray spectroscopy (Recommendations 1991)' on page 739 (https://doi.org/10.1351/pac199163050735)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/X06717/html</html>
+    <json>https://goldbook.iupac.org/terms/view/X06717/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/X06717/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/X06717/plain</plain>
+  </links>
+  <citation>Citation: 'X-ray satellite' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.X06717</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:58:28+00:00</accessed>
+</term>

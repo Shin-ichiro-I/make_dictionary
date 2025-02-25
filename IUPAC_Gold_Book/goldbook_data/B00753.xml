@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00753</id>
+  <doi>10.1351/goldbook.B00753</doi>
+  <code>B00753</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - bulk concentration in electroanalysis</longtitle>
+  <title>bulk concentration</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In any technique that involves the establishment of a concentration gradient, either within the material from which an electrode is made or in the solution that is in contact with an electrode, the bulk concentration of a substance B is the total or analytical concentration of B at points so remote from the electrode-solution interface that the concentration gradient for B is indistinguishable from zero at the instant under consideration. In common practice the bulk concentration of B is taken to be the total or analytical concentration of B that would be present throughout the electrode or solution if there were no current flowing through the cell and if the electrode and solution did not interact in any way. In the absence of any homogeneous reaction or other process that produces or consumes B, the bulk concentration of B is the total or analytical concentration of B that is present before the excitation signal is applied.</text>
+      <contexts>
+        <in>
+          <item>electroanalysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>concentration gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01227</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1985, 57, 1491. 'Recommended terms, symbols, and definitions for electroanalytical chemistry (Recommendations 1985)' on page 1493 (https://doi.org/10.1351/pac198557101491)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00753/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00753/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00753/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00753/plain</plain>
+  </links>
+  <citation>Citation: 'bulk concentration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00753</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:16:52+00:00</accessed>
+</term>

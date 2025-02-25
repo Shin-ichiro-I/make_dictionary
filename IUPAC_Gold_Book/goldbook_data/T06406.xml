@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06406</id>
+  <doi>10.1351/goldbook.T06406</doi>
+  <code>T06406</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - torsion angle</longtitle>
+  <title>torsion angle</title>
+  <contains>anticlinal, antiperiplanar, clinal, periplanar, synclinal, synperiplanar</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In a chain of atoms A-B-C-D, the dihedral angle between the plane containing the atoms A,B,C and that containing B,C,D. In a Newman projection the torsion angle is the angle (having an absolute value between 0° and 180°) between bonds to two specified (fiducial) groups, one from the atom nearer (proximal) to the observer and the other from the further (distal) atom. The torsion angle between groups A and D is then considered to be positive if the bond A-B is rotated in a clockwise direction through less than 180° in order that it may eclipse the bond C-D: a negative torsion angle requires rotation in the opposite sense. Stereochemical arrangements corresponding to torsion angles between 0° and ±90° are called syn (s), those corresponding to torsion angles between ±90° and 180° anti (a). Similarly, arrangements corresponding to torsion angles between 30° and 150° or between -30° and -150° are called clinal (c) and those between 0° and 30° or 150° and 180° are called periplanar (p). The two types of terms can be combined so as to define four ranges of torsion angle; 0° to 30° synperiplanar (sp); 30° to 90° and -30° to -90° synclinal (sc); 90° to 150°, and -90° to -150° anticlinal (ac); ±150° to 180° antiperiplanar (ap). [image: Not defined] The synperiplanar conformation is also known as the syn- or cis-conformation; antiperiplanar as anti or trans and synclinal as gauche or skew. For macromolecular usage the symbols T, C, G+, G-, A+ and A- are recommended (ap, sp, +sc, -sc, +ac and -ac respectively).</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/T06406.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>dihedral angle</title>
+          <url>https://goldbook.iupac.org/terms/view/D01730</url>
+        </item>
+        <item>
+          <title>Newman projection</title>
+          <url>https://goldbook.iupac.org/terms/view/N04134</url>
+        </item>
+        <item>
+          <title>fiducial</title>
+          <url>https://goldbook.iupac.org/terms/view/F02356</url>
+        </item>
+        <item>
+          <title>eclipse</title>
+          <url>https://goldbook.iupac.org/terms/view/E01884</url>
+        </item>
+        <item>
+          <title>dihedral angle</title>
+          <url>https://goldbook.iupac.org/terms/view/D01730</url>
+        </item>
+        <item>
+          <title>Newman projection</title>
+          <url>https://goldbook.iupac.org/terms/view/N04134</url>
+        </item>
+        <item>
+          <title>fiducial</title>
+          <url>https://goldbook.iupac.org/terms/view/F02356</url>
+        </item>
+        <item>
+          <title>eclipse</title>
+          <url>https://goldbook.iupac.org/terms/view/E01884</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>syn</title>
+          <url>https://goldbook.iupac.org/terms/view/S06216</url>
+        </item>
+        <item>
+          <title>anti</title>
+          <url>https://goldbook.iupac.org/terms/view/A00381</url>
+        </item>
+        <item>
+          <title>conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>trans</title>
+          <url>https://goldbook.iupac.org/terms/view/C01092</url>
+        </item>
+        <item>
+          <title>gauche</title>
+          <url>https://goldbook.iupac.org/terms/view/G02593</url>
+        </item>
+        <item>
+          <title>skew</title>
+          <url>https://goldbook.iupac.org/terms/view/S05709</url>
+        </item>
+        <item>
+          <title>macromolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>T</alttext>
+          <latex>\text{T}</latex>
+        </item>
+        <item>
+          <alttext>C</alttext>
+          <latex>\text{C}</latex>
+        </item>
+        <item>
+          <alttext>G+</alttext>
+          <latex>\text{G}^{+}</latex>
+        </item>
+        <item>
+          <alttext>G-</alttext>
+          <latex>\text{G}^{-}</latex>
+        </item>
+        <item>
+          <alttext>A+</alttext>
+          <latex>\text{A}^{+}</latex>
+        </item>
+        <item>
+          <alttext>A-</alttext>
+          <latex>\text{A}^{-}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2220 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alkane stereochemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Alkane_stereochemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Angle de torsion (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Angle_de_torsion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Conformational isomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Conformational_isomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dihedral angle (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dihedral_angle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Proiezione di Newman (it)</title>
+      <url>https://it.wikipedia.org/wiki/Proiezione_di_Newman</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rotamer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Rotamer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rotamers (en)</title>
+      <url>https://en.wikipedia.org/wiki/Rotamers</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sudut dihedral (id)</title>
+      <url>https://id.wikipedia.org/wiki/Sudut_dihedral</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Dihedral angle (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Dihedral_angle</url>
+    </item>
+    <item>
+      <title>Wikipedia - 二面角 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/二面角</url>
+    </item>
+    <item>
+      <title>Wikipedia - 二面角 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/二面角</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06406/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06406/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06406/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06406/plain</plain>
+  </links>
+  <citation>Citation: 'torsion angle' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06406</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:44:42+00:00</accessed>
+</term>

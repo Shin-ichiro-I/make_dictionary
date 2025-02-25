@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04243</id>
+  <doi>10.1351/goldbook.N04243</doi>
+  <code>N04243</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - nucleation in colloid chemistry</longtitle>
+  <title>nucleation</title>
+  <contains>simultaneous nucleation</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The process by which nuclei are formed in solution. The condensation of a single chemical compound is called homogeneous nucleation. The simultaneous condensation of more than one compound is called simultaneous nucleation. The condensation of a compound on a foreign substance is called heterogeneous nucleation.</text>
+      <contexts>
+        <in>
+          <item>colloid chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>homogeneous nucleation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02848</url>
+        </item>
+        <item>
+          <title>heterogeneous nucleation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02807</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 84 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 608 (https://doi.org/10.1351/pac197231040577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Nucleazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Nucleazione</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04243/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04243/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04243/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04243/plain</plain>
+  </links>
+  <citation>Citation: 'nucleation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04243</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:01:31+00:00</accessed>
+</term>

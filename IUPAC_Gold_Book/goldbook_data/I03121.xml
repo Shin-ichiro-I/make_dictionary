@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03121</id>
+  <doi>10.1351/goldbook.I03121</doi>
+  <code>I03121</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - interstitial velocity in chromatography</longtitle>
+  <title>interstitial velocity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The linear velocity of the mobile phase inside a packed column calculated as the average over the entire cross section. This quantity can, under idealized conditions, be calculated from the equation: u = F ɛ I is the nominal linear flow and ɛI the interstitial fraction</text>
+      <contexts>
+        <in>
+          <item>chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>mobile phase (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03952</url>
+        </item>
+        <item>
+          <title>nominal linear flow (in chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/N04177</url>
+        </item>
+        <item>
+          <title>interstitial fraction (in chromatography) (in chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03120</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>u = F ɛ I</alttext>
+          <latex>u=\frac{F}{\varepsilon_{\text{I}}}</latex>
+        </item>
+        <item>
+          <alttext>F</alttext>
+          <latex>F</latex>
+        </item>
+        <item>
+          <alttext>ɛI</alttext>
+          <latex>\varepsilon_{\text{I}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 102 (https://media.iupac.org/publications/analytical_compendium/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03121/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03121/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03121/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03121/plain</plain>
+  </links>
+  <citation>Citation: 'interstitial velocity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03121</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:07:05+00:00</accessed>
+</term>

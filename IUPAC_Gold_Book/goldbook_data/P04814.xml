@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04814</id>
+  <doi>10.1351/goldbook.P04814</doi>
+  <code>P04814</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - premium coke</longtitle>
+  <title>premium coke</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An extremely well graphitizing carbon with a high degree of optical anisotropy (isochromatic areas of optical texture above about 100 µm) and which is characterized by a combination of the following properties which differ significantly from those of regular coke: high real density, low reversible thermal expansion and low ash content combined, in most cases, with low sulfur content.</text>
+      <notes>
+        <item>Premium coke is mainly produced from tars or residues from petrochemistry by the delayed coking process. Also, refined coal tar pitches are used as precursors for premium coke production.</item>
+      </notes>
+      <links>
+        <item>
+          <title>coke</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+        <item>
+          <title>anisotropy</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06776</url>
+        </item>
+        <item>
+          <title>coke</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+        <item>
+          <title>anisotropy</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06776</url>
+        </item>
+        <item>
+          <title>delayed coking process</title>
+          <url>https://goldbook.iupac.org/terms/view/D01578</url>
+        </item>
+        <item>
+          <title>coal tar pitches</title>
+          <url>https://goldbook.iupac.org/terms/view/C01121</url>
+        </item>
+        <item>
+          <title>regular coke</title>
+          <url>https://goldbook.iupac.org/terms/view/R05245</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>100 µm</alttext>
+          <latex>100\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 501 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04814/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04814/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04814/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04814/plain</plain>
+  </links>
+  <citation>Citation: 'premium coke' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04814</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:31:37+00:00</accessed>
+</term>

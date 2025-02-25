@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00658</id>
+  <doi>10.1351/goldbook.B00658</doi>
+  <code>B00658</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - biological half life</longtitle>
+  <title>biological half life</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For a substance the time required for the amount of that substance in a biological system to be reduced to one half of its value by biological processes, when the rate of removal is approximately exponential.</text>
+      <sources>
+        <item>PAC, 1994, 66, 2513. 'Nomenclature for radioanalytical chemistry (IUPAC Recommendations 1994)' on page 2520 (https://doi.org/10.1351/pac199466122513)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acidum valproicum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Acidum_valproicum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Agomelatinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Agomelatinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amitriptylinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Amitriptylinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aripiprazolum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Aripiprazolum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atomoxetinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Atomoxetinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Benperidolum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Benperidolum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Benzodiazepinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Benzodiazepinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biological half-life (en)</title>
+      <url>https://en.wikipedia.org/wiki/Biological_half-life</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biologický poločas (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Biologický_poločas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biperidenum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Biperidenum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bisoprololum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Bisoprololum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biyolojik yarı ömür (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Biyolojik_yarı_ömür</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bupropionum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Bupropionum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Candesartanum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Candesartanum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ceftriaxonum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Ceftriaxonum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chlorpromazinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Chlorpromazinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Citalopramum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Citalopramum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Clomipraminum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Clomipraminum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diazepamum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Diazepamum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diltiazemum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Diltiazemum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Duloxetinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Duloxetinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fluphenazinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Fluphenazinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Furosemidum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Furosemidum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gabapentinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Gabapentinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Haloperidolum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Haloperidolum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imipraminum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Imipraminum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Irbesartanum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Irbesartanum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ketaminum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Ketaminum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lacosamidum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Lacosamidum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lamotriginum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Lamotriginum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Levetiracetamum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Levetiracetamum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lorazepamum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Lorazepamum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Losartanum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Losartanum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Loxapinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Loxapinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lurasidonum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Lurasidonum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Melperonum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Melperonum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Milnacipranum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Milnacipranum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mirtazapinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Mirtazapinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Moclobemidum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Moclobemidum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molsidominum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Molsidominum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Olanzapinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Olanzapinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxazepamum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Oxazepamum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Paliperidonum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Paliperidonum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pipamperonum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Pipamperonum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Poluvreme eliminacije (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Poluvreme_eliminacije</url>
+    </item>
+    <item>
+      <title>Wikipedia - Poluvreme eliminacije (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Poluvreme_eliminacije</url>
+    </item>
+    <item>
+      <title>Wikipedia - Poluvrijeme eliminacije (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Poluvrijeme_eliminacije</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pregabalinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Pregabalinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Promethazinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Promethazinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Propofolum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Propofolum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prothipendylum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Prothipendylum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Quetiapinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Quetiapinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Risperidonum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Risperidonum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ropivacainum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Ropivacainum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Semivida (farmacologia) (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Semivida_(farmacologia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Semivita biologica (la)</title>
+      <url>https://la.wikipedia.org/wiki/Semivita_biologica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sertralinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Sertralinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sirolimus (la)</title>
+      <url>https://la.wikipedia.org/wiki/Sirolimus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Torasemidum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Torasemidum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trazodonum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Trazodonum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trimipraminum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Trimipraminum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Venlafaxinum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Venlafaxinum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Waktu paruh biologis (id)</title>
+      <url>https://id.wikipedia.org/wiki/Waktu_paruh_biologis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zuclopenthixolum (la)</title>
+      <url>https://la.wikipedia.org/wiki/Zuclopenthixolum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Период полувыведения (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Период_полувыведения</url>
+    </item>
+    <item>
+      <title>Wikipedia - Полувреме на елиминација (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Полувреме_на_елиминација</url>
+    </item>
+    <item>
+      <title>Wikipedia - מחצית החיים הביולוגית (he)</title>
+      <url>https://he.wikipedia.org/wiki/מחצית_החיים_הביולוגית</url>
+    </item>
+    <item>
+      <title>Wikipedia - عمر النصف الحيوي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/عمر_النصف_الحيوي</url>
+    </item>
+    <item>
+      <title>Wikipedia - உயிரியல் அரை-வாழ்வு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/உயிரியல்_அரை-வாழ்வு</url>
+    </item>
+    <item>
+      <title>Wikipedia - 生物半衰期 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/生物半衰期</url>
+    </item>
+    <item>
+      <title>Wikipedia - 생물학적 반감기 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/생물학적_반감기</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00658/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00658/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00658/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00658/plain</plain>
+  </links>
+  <citation>Citation: 'biological half life' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00658</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:10:33+00:00</accessed>
+</term>

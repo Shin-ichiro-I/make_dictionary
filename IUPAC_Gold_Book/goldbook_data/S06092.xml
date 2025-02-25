@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06092</id>
+  <doi>10.1351/goldbook.S06092</doi>
+  <code>S06092</code>
+  <status>obsolete</status>
+  <longtitle>IUPAC Gold Book - sulfanes</longtitle>
+  <title>sulfanes</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A term including hydropolysulfides, polysulfanes, polysulfides. Use is discouraged because of confusion with the newer systematic name sulfane, H2S, and the numerous names derived therefrom.</text>
+      <links>
+        <item>
+          <title>hydropolysulfides</title>
+          <url>https://goldbook.iupac.org/terms/view/H02908</url>
+        </item>
+        <item>
+          <title>polysulfanes</title>
+          <url>https://goldbook.iupac.org/terms/view/P04753</url>
+        </item>
+        <item>
+          <title>polysulfides</title>
+          <url>https://goldbook.iupac.org/terms/view/P04754</url>
+        </item>
+        <item>
+          <title>hydropolysulfides</title>
+          <url>https://goldbook.iupac.org/terms/view/H02908</url>
+        </item>
+        <item>
+          <title>polysulfanes</title>
+          <url>https://goldbook.iupac.org/terms/view/P04753</url>
+        </item>
+        <item>
+          <title>polysulfides</title>
+          <url>https://goldbook.iupac.org/terms/view/P04754</url>
+        </item>
+        <item>
+          <title>systematic name</title>
+          <url>https://goldbook.iupac.org/terms/view/S06236</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1367 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Disulfide (de)</title>
+      <url>https://de.wikipedia.org/wiki/Disulfide</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06092/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06092/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06092/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06092/plain</plain>
+  </links>
+  <citation>Citation: 'sulfanes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06092</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:29:52+00:00</accessed>
+</term>

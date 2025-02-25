@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04479</id>
+  <doi>10.1351/goldbook.P04479</doi>
+  <code>P04479</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - peptides</longtitle>
+  <title>peptides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Amides derived from two or more amino carboxylic acid molecules (the same or different) by formation of a covalent bond from the carbonyl carbon of one to the nitrogen atom of another with formal loss of water. The term is usually applied to structures formed from α-amino acids, but it includes those derived from any amino carboxylic acid. [image: Not defined] (R may be any organyl group, commonly but not necessarily one found in natural amino acids)</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/P04479.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>proteins</title>
+          <url>https://goldbook.iupac.org/terms/view/P04898</url>
+        </item>
+        <item>
+          <title>retro</title>
+          <url>https://goldbook.iupac.org/terms/view/R05370</url>
+        </item>
+        <item>
+          <title>carboxylic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/C00852</url>
+        </item>
+        <item>
+          <title>proteins</title>
+          <url>https://goldbook.iupac.org/terms/view/P04898</url>
+        </item>
+        <item>
+          <title>retro</title>
+          <url>https://goldbook.iupac.org/terms/view/R05370</url>
+        </item>
+        <item>
+          <title>carboxylic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/C00852</url>
+        </item>
+        <item>
+          <title>amides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00266</url>
+        </item>
+        <item>
+          <title>covalent bond</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1356 (https://doi.org/10.1351/pac199567081307)</item>
+        <item>White Book, 2nd ed., p. 48 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Peptide (it)</title>
+      <url>https://it.wikipedia.org/wiki/Peptide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Peptydy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Peptydy</url>
+    </item>
+    <item>
+      <title>Wikipedia - ببتيد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ببتيد</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04479/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04479/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04479/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04479/plain</plain>
+  </links>
+  <citation>Citation: 'peptides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04479</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:13:28+00:00</accessed>
+</term>

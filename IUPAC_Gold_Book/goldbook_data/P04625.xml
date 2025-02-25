@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04625</id>
+  <doi>10.1351/goldbook.P04625</doi>
+  <code>P04625</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - photometry</longtitle>
+  <title>photometry</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The measurement of light over wavelengths which produce visual sensation (approximately 380-780 nm - 2042 K). Thus photometric quantities do not refer to a specific wavelength but to the light emitted by a standard source (formerly a 'standard international candle', now a blackbody radiator emitting at the temperature of solidifying platinum, lm cm-2). Luminance and illuminance are the photometric analogues of the radiometric quantities radiance and irradiance, respectively, but conversion from photometric units (e.g. J s-1 cm-2) to radiometric units (e.g. ) requires convolution over wavelength of the spectral radiation with the relative spectral response of the human eye. The standard response is called the 'spectral luminous efficiency of radiation', and is tabulated for daylight adapted vision in photopic response tables.</text>
+      <links>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>luminance</title>
+          <url>https://goldbook.iupac.org/terms/view/L03640</url>
+        </item>
+        <item>
+          <title>illuminance</title>
+          <url>https://goldbook.iupac.org/terms/view/I02941</url>
+        </item>
+        <item>
+          <title>radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05037</url>
+        </item>
+        <item>
+          <title>irradiance</title>
+          <url>https://goldbook.iupac.org/terms/view/I03254</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>380-780 nanometers</meaning>
+          <type>numeric value</type>
+          <alttext>380-780 nm</alttext>
+          <latex>380{-}780\ \text{nm}</latex>
+        </item>
+        <item>
+          <meaning>2042 Kelvin</meaning>
+          <type>numeric value with unit</type>
+          <alttext>2042 K</alttext>
+          <latex>2042\ \text{K}</latex>
+        </item>
+        <item>
+          <meaning>Lumens per centimeter squared</meaning>
+          <type>unit</type>
+          <alttext>lm cm-2</alttext>
+          <latex>\text{lm cm}^{-2}</latex>
+        </item>
+        <item>
+          <meaning>Joule per second per cemtimeter squared</meaning>
+          <type>unit</type>
+          <alttext>J s-1 cm-2</alttext>
+          <latex>\text{J s}^{-1}\ \text{cm}^{-2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2206 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fotometria (astronomia) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fotometria_(astronomia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotometria (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fotometria</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04625/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04625/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04625/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04625/plain</plain>
+  </links>
+  <citation>Citation: 'photometry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04625</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:21:34+00:00</accessed>
+</term>

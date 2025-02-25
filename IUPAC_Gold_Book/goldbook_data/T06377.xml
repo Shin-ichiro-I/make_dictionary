@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06377</id>
+  <doi>10.1351/goldbook.T06377</doi>
+  <code>T06377</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - time-correlated single photon counting</longtitle>
+  <title>time-correlated single photon counting</title>
+  <abbrevs>
+    <item>CW</item>
+    <item>TAC</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A technique for the measurement of the time histogram of a sequence of photons with respect to a periodic event, e.g. a flash from a repetitive nanosecond lamp or a CW operated laser (mode locked laser). The essential part is a time-to-amplitude-converter (TAC) which transforms the arrival time between a start and a stop pulse into a voltage. Sometimes called single photon timing.</text>
+      <links>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>lamp</title>
+          <url>https://goldbook.iupac.org/terms/view/L03447</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>mode</title>
+          <url>https://goldbook.iupac.org/terms/view/M03958</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2280 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06377/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06377/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06377/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06377/plain</plain>
+  </links>
+  <citation>Citation: 'time-correlated single photon counting' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06377</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:43:41+00:00</accessed>
+</term>

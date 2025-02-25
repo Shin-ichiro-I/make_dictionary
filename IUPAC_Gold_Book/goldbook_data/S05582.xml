@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05582</id>
+  <doi>10.1351/goldbook.S05582</doi>
+  <code>S05582</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - self-diffusion coefficient</longtitle>
+  <title>self-diffusion coefficient</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The diffusion coefficient Di* of species i in the absence of a chemical potentialgradient. It is related to the diffusion coefficientDi by Di* = Di.(∂(lnci)/∂lnai) is the activity of i in the solution, and ci is the concentration of i. If an isotopically labelled species (i*) is used to study diffusion, the tracerdiffusion coefficient, Di*, is practically identical to the self-diffusion coefficient provided that the isotope effect is sufficiently small.</text>
+      <links>
+        <item>
+          <title>diffusion coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/D01719</url>
+        </item>
+        <item>
+          <title>chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/C01032</url>
+        </item>
+        <item>
+          <title>isotopically labelled</title>
+          <url>https://goldbook.iupac.org/terms/view/I03336</url>
+        </item>
+        <item>
+          <title>isotope effect</title>
+          <url>https://goldbook.iupac.org/terms/view/I03327</url>
+        </item>
+        <item>
+          <title>diffusion coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/D01719</url>
+        </item>
+        <item>
+          <title>chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/C01032</url>
+        </item>
+        <item>
+          <title>isotopically labelled</title>
+          <url>https://goldbook.iupac.org/terms/view/I03336</url>
+        </item>
+        <item>
+          <title>isotope effect</title>
+          <url>https://goldbook.iupac.org/terms/view/I03327</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>diffusion</title>
+          <url>https://goldbook.iupac.org/terms/view/D01716</url>
+        </item>
+        <item>
+          <title>tracer</title>
+          <url>https://goldbook.iupac.org/terms/view/T06422</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Di*</alttext>
+          <latex>D_{i}^{*}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>Di</alttext>
+          <latex>D_{i}</latex>
+        </item>
+        <item>
+          <alttext>Di* = Di.(∂(lnci)/∂lnai)</alttext>
+          <latex>D_{i}^{*}=D_{i}\ \frac{\partial (\ln c_{i})}{\partial \ln a_{i}}</latex>
+        </item>
+        <item>
+          <alttext>ai</alttext>
+          <latex>a_{i}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>ci</alttext>
+          <latex>c_{i}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>i*</alttext>
+          <latex>i^{*}</latex>
+        </item>
+        <item>
+          <alttext>Di*</alttext>
+          <latex>D_{i}^{*}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 617 (https://doi.org/10.1351/pac197231040577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Auto-difusión (es)</title>
+      <url>https://es.wikipedia.org/wiki/Auto-difusión</url>
+    </item>
+    <item>
+      <title>Wikipedia - Autodifusão (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Autodifusão</url>
+    </item>
+    <item>
+      <title>Wikipedia - Self-diffusion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Self-diffusion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Özyayınım (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Özyayınım</url>
+    </item>
+    <item>
+      <title>Wikipedia - الانتشار الذاتي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/الانتشار_الذاتي</url>
+    </item>
+    <item>
+      <title>Wikipedia - خودپخشی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/خودپخشی</url>
+    </item>
+    <item>
+      <title>Wikipedia - 自擴散 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/自擴散</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05582/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05582/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05582/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05582/plain</plain>
+  </links>
+  <citation>Citation: 'self-diffusion coefficient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05582</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:05:42+00:00</accessed>
+</term>

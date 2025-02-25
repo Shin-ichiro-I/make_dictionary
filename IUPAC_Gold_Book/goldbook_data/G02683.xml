@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02683</id>
+  <doi>10.1351/goldbook.G02683</doi>
+  <code>G02683</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - graphene layer</longtitle>
+  <title>graphene layer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A single carbon layer of the graphite structure, describing its nature by analogy to a polycyclic aromatic hydrocarbon of quasi infinite size.</text>
+      <notes>
+        <item>Previously, descriptions such as graphite layers, carbon layers or carbon sheets have been used for the term graphene. Because graphite designates that modification of the chemical element carbon, in which planar sheets of carbon atoms, each atom bound to three neighbours in a honeycomb-like structure, are stacked in a three-dimensional regular order, it is not correct to use for a single layer a term which includes the term graphite, which would imply a three-dimensional structure. The term graphene should be used only when the reactions, structural relations or other properties of individual layers are discussed.</item>
+      </notes>
+      <links>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>chemical element</title>
+          <url>https://goldbook.iupac.org/terms/view/C01022</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>chemical element</title>
+          <url>https://goldbook.iupac.org/terms/view/C01022</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 491 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Grafen (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Grafen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grafén (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Grafén</url>
+    </item>
+    <item>
+      <title>Wikipedia - Graphene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Graphene</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02683/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02683/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02683/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02683/plain</plain>
+  </links>
+  <citation>Citation: 'graphene layer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02683</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:44:55+00:00</accessed>
+</term>

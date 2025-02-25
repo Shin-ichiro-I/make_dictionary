@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02259</id>
+  <doi>10.1351/goldbook.E02259</doi>
+  <code>E02259</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - excluded volume of a macromolecule in polymers</longtitle>
+  <title>excluded volume of a macromolecule</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The volume from which a macromolecule in a dilute solution of a macromolecule effectively excludes all other macromolecules. The excluded volume of a macromolecule depends on the Gibbs and Helmholtz energies of mixing of solvent and polymer, i.e. on the thermodynamic quality of the solvent, and is not a measure of the geometrical volume of that macromolecule.</text>
+      <contexts>
+        <in>
+          <item>polymers</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>dilute solution</title>
+          <url>https://goldbook.iupac.org/terms/view/D01739</url>
+        </item>
+      </links>
+      <sources>
+        <item>Purple Book, 1st ed., p. 58 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02259/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02259/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02259/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02259/plain</plain>
+  </links>
+  <citation>Citation: 'excluded volume of a macromolecule' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02259</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:25:19+00:00</accessed>
+</term>

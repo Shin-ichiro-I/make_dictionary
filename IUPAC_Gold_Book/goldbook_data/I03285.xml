@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03285</id>
+  <doi>10.1351/goldbook.I03285</doi>
+  <code>I03285</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isokinetic relationship</longtitle>
+  <title>isokinetic relationship</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>When a series of structurally related substrates undergo the same general reaction or when the reaction conditions for a single substrate are changed in a systematic way, the enthalpies and entropies of activation sometimes satisfy the relation: Δ‡H - βΔ‡S = constant is independent of temperature. This equation (or some equivalent form) is said to represent an 'isokinetic relationship'. The temperature T = β (at which all members of a series obeying the isokinetic relationship react at the same rate) is termed the 'isokinetic temperature'. Supposed isokinetic relationships as established by direct correlation of Δ‡H with Δ‡S are often spurious and the calculated value of β is meaningless, because errors in Δ‡H lead to compensating errors in Δ‡S. Satisfactory methods of establishing such relationships have been devised.</text>
+      <links>
+        <item>
+          <title>compensation effect</title>
+          <url>https://goldbook.iupac.org/terms/view/C01197</url>
+        </item>
+        <item>
+          <title>isoequilibrium relationship</title>
+          <url>https://goldbook.iupac.org/terms/view/I03280</url>
+        </item>
+        <item>
+          <title>isoselective relationship</title>
+          <url>https://goldbook.iupac.org/terms/view/I03311</url>
+        </item>
+        <item>
+          <title>compensation effect</title>
+          <url>https://goldbook.iupac.org/terms/view/C01197</url>
+        </item>
+        <item>
+          <title>isoequilibrium relationship</title>
+          <url>https://goldbook.iupac.org/terms/view/I03280</url>
+        </item>
+        <item>
+          <title>isoselective relationship</title>
+          <url>https://goldbook.iupac.org/terms/view/I03311</url>
+        </item>
+        <item>
+          <title>enthalpies</title>
+          <url>https://goldbook.iupac.org/terms/view/E02142</url>
+        </item>
+        <item>
+          <title>entropies of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02150</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Δ‡H - βΔ‡S = constant</alttext>
+          <latex>\Delta ^{\ddagger}H - \beta \ \Delta ^{\ddagger }S = \text{constant}</latex>
+        </item>
+        <item>
+          <alttext>β</alttext>
+          <latex>\beta </latex>
+        </item>
+        <item>
+          <alttext>T = β</alttext>
+          <latex>T=\beta </latex>
+        </item>
+        <item>
+          <alttext>Δ‡H</alttext>
+          <latex>\Delta ^{\ddagger}H</latex>
+        </item>
+        <item>
+          <alttext>Δ‡S</alttext>
+          <latex>\Delta ^{\ddagger}S</latex>
+        </item>
+        <item>
+          <alttext>β</alttext>
+          <latex>\beta </latex>
+        </item>
+        <item>
+          <alttext>Δ‡H</alttext>
+          <latex>\Delta ^{\ddagger}H</latex>
+        </item>
+        <item>
+          <alttext>Δ‡S</alttext>
+          <latex>\Delta ^{\ddagger}S</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1129 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03285/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03285/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03285/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03285/plain</plain>
+  </links>
+  <citation>Citation: 'isokinetic relationship' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03285</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:12:56+00:00</accessed>
+</term>

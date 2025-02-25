@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07388</id>
+  <doi>10.1351/goldbook.GT07388</doi>
+  <code>GT07388</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Gibbs energy of photoinduced electron transfer</longtitle>
+  <title>Gibbs energy of photoinduced electron transfer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For photoinduced electron transfer between an acceptor (A) and a donor (D) (either one of them may be the electronically excited molecular entity) of any charge type, z(A) and z(D), the change in standard Gibbs energy can be approximated as (the notation is for the case of neutral species D and A) ΔET.Go = NA.D - eE oD +• / D-  	 where e = 1.602176487 x 10E-19 C is the elementary charge, NA = 6.022 141 79 x 10E23 mol-1 is the Avogadro constant, Eo(D+•/D)/V is the standard electrode potential of the donor cation radical resulting from the electron transfer, Eo(A/A-•)/V is the standard electrode potential of the acceptor (both relative to the same reference electrode) and ΔE0,0/J mol-1 is the vibrational zero electronic energy of the excited partner (provided that a vibrationally equilibrated excited state at energy E0,0 takes part in the reaction), all data referring to the same solvent. w(D+•A-•) and w(DA) are the electrostatic work terms that account for the effect of Coulombic attraction in the products and reactants, respectively w(D+•A-•)/J = z(D+•)z(A-•)e2/4piɛoɛra) w DA J = z D z A e 2 4 π ɛ 0 ɛ r where a is the distance of the charged species after electron transfer, ɛr is the relative medium static permittivity (formerly called dielectric constant), ɛ0 ≈ 8.854 x 10E-12 C2 J-1 m-1 is the electric constant (vacuum permittivity), and z(X) the charge of the species X.  In SI units the factor e2.4π.ɛ0 = 2.307 x 10E-28 J m. For the case of neutral species A and D, z(D) = z(A) = 0.</text>
+      <notes>
+        <item>Several approximations are in use for the calculation of the term w(D+•A-•), depending on the nature of the species formed such as contact or solvent-separated radical ion pairs or extended and/or linked D and A molecular entities. In the latter case, the stabilization of a dipole µ in a cavity of radius ρ could be an appropriate model and w(D+•A-•) = NA.µ2/4 π ɛ 0 ρ </item>
+        <item>In the above definitions, the IUPAC recommendations for the sign and symbols of standard potentials are used. Although not complying with the IUPAC-recommended nomenclature for the standard electrode potentials, traditionally the equation has been written as: ΔETGo = NA{e (Eoxo - Eredo) + [z(A)- z(D) - 1]e2/4piɛ0ɛea} - ΔE0,0 with E ox o the standard electrode potential at which the oxidation occurs, and E red o the standard electrode potential at which the reduction occurs. This form of the first term within the brackets is misleading and not recommended.</item>
+        <item>The standard emfs of oxidation and reduction are often called, respectively, 'oxidation' and 'reduction potential'. These terms are intrinsically confusing and should be avoided altogether, because they conflate the chemical concept of reaction with the physical concept of electrical potential.</item>
+        <item>The equation used for the calculation of the Gibbs energy of photoinduced electron-transfer processes should not be called the Rehm-Weller equation.</item>
+      </notes>
+      <links>
+        <item>
+          <title>electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02011</url>
+        </item>
+        <item>
+          <title>electronically excited</title>
+          <url>https://goldbook.iupac.org/terms/view/E01994</url>
+        </item>
+        <item>
+          <title>contact</title>
+          <url>https://goldbook.iupac.org/terms/view/I03231</url>
+        </item>
+        <item>
+          <title>electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02011</url>
+        </item>
+        <item>
+          <title>electronically excited</title>
+          <url>https://goldbook.iupac.org/terms/view/E01994</url>
+        </item>
+        <item>
+          <title>contact</title>
+          <url>https://goldbook.iupac.org/terms/view/I03231</url>
+        </item>
+        <item>
+          <title>standard electrode potential</title>
+          <url>https://goldbook.iupac.org/terms/view/S05912</url>
+        </item>
+        <item>
+          <title>oxidation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04362</url>
+        </item>
+        <item>
+          <title>elementary charge</title>
+          <url>https://goldbook.iupac.org/terms/view/E02032</url>
+        </item>
+        <item>
+          <title>Avogadro constant</title>
+          <url>https://goldbook.iupac.org/terms/view/A00543</url>
+        </item>
+        <item>
+          <title>cation radical</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+        <item>
+          <title>reference electrode</title>
+          <url>https://goldbook.iupac.org/terms/view/R05229</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>permittivity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04507</url>
+        </item>
+        <item>
+          <title>dielectric constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01697</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Acceptor Molecule</meaning>
+          <type>symbol</type>
+          <alttext>A</alttext>
+          <latex>\text{A}</latex>
+        </item>
+        <item>
+          <meaning>Elctron donor molecule</meaning>
+          <type>symbol</type>
+          <alttext>D</alttext>
+          <latex>\text{D}</latex>
+        </item>
+        <item>
+          <meaning>Charge on species A</meaning>
+          <type>quantity</type>
+          <alttext>z(A)</alttext>
+          <latex>z(\text{A})</latex>
+        </item>
+        <item>
+          <meaning>Charge on species D</meaning>
+          <type>quantity</type>
+          <alttext>z(D)</alttext>
+          <latex>z(\text{D})</latex>
+        </item>
+        <item>
+          <meaning>Species D</meaning>
+          <type>symbol</type>
+          <alttext>D</alttext>
+          <latex>\text{D}</latex>
+        </item>
+        <item>
+          <meaning>Species A</meaning>
+          <type>symbol</type>
+          <alttext>A</alttext>
+          <latex>\text{A}</latex>
+        </item>
+        <item>
+          <alttext>ΔET.Go = NA.D - eE oD +• / D- </alttext>
+          <latex>\Delta _{\text{ET}}G^{\text{o}} = N_{\text{A}}\left \{e\, [E^{\text{o}}(\text{D}^{+\bullet }/\text{D})- E^{\text{o}}(\text{A}/\text{A}^{-\bullet }) ]+w(\text{D}^{+\bullet }\text{A}^{-\bullet })-w(\text{DA})\right \} - \Delta E_{0,0}</latex>
+        </item>
+        <item>
+          <alttext>e = 1.602176487 x 10E-19 C</alttext>
+          <latex>e = 1.602\ 176\ 487 \times 10^{-19}\, \text{C}</latex>
+        </item>
+        <item>
+          <alttext>NA = 6.022 141 79 x 10E23 mol-1</alttext>
+          <latex>N_{\rm{A}} = \pu{6.02214076E23 mol-1}</latex>
+        </item>
+        <item>
+          <type>quantity with unit</type>
+          <alttext>Eo(D+•/D)/V</alttext>
+          <latex>E^{\text{o}}(\text{D}^{+\bullet}/\text{D})/\text{V}</latex>
+        </item>
+        <item>
+          <meaning>Std. potential of electron acceptor</meaning>
+          <type>quantity with unit</type>
+          <alttext>Eo(A/A-•)/V</alttext>
+          <latex>E^{\text{o}}(\text{A}/\text{A}^{-\bullet})/\text{V}</latex>
+        </item>
+        <item>
+          <meaning>Vibrational zero electronic energy</meaning>
+          <type>quantity with unit</type>
+          <alttext>ΔE0,0/J mol-1</alttext>
+          <latex>\Delta E_{0,0}/\pu{J mol-1}</latex>
+        </item>
+        <item>
+          <meaning>Vibrational zero electronic energy of the excited partner</meaning>
+          <type>quantity</type>
+          <alttext>E0,0</alttext>
+          <latex>E_{0,0}</latex>
+        </item>
+        <item>
+          <meaning>Electrostatic work for products</meaning>
+          <type>quantity</type>
+          <alttext>w(D+•A-•)</alttext>
+          <latex>w(\text{D}^{+\bullet }\text{A}^{-\bullet })</latex>
+        </item>
+        <item>
+          <meaning>Electrostatic work for reactants</meaning>
+          <type>quantity</type>
+          <alttext>w(DA)</alttext>
+          <latex>w(\text{DA})</latex>
+        </item>
+        <item>
+          <meaning>Electrostatic work for products equation</meaning>
+          <type>equation</type>
+          <alttext>w(D+•A-•)/J = z(D+•)z(A-•)e2/4piɛoɛra)</alttext>
+          <latex>w(\text{D}^{+\bullet }\text{A}^{-\bullet })/J=\frac{z(\text{D}^{+\bullet })z(\text{A}^{-\bullet })e^{2}}{4\pi \epsilon _{0}\epsilon _{r}a}</latex>
+        </item>
+        <item>
+          <meaning>Electrostatic work for reactants equation</meaning>
+          <type>equation</type>
+          <alttext>w DA J = z D z A e 2 4 π ɛ 0 ɛ r</alttext>
+          <latex>w(\text{DA})/J =\frac{z(\text{D})z(\text{A})e^{2}}{4\pi \epsilon _{0}\epsilon _{r}a}</latex>
+        </item>
+        <item>
+          <meaning>Charged species distance</meaning>
+          <type>quantity</type>
+          <alttext>a</alttext>
+          <latex>a</latex>
+        </item>
+        <item>
+          <meaning>Relative permittivity (dielectric constant)</meaning>
+          <type>quantity</type>
+          <alttext>ɛr</alttext>
+          <latex>\varepsilon_{r}</latex>
+        </item>
+        <item>
+          <meaning>Vacuum permittivity</meaning>
+          <type>constant with value</type>
+          <alttext>ɛ0 ≈ 8.854 x 10E-12 C2 J-1 m-1</alttext>
+          <latex>\varepsilon_{0} \approx 8.854 \times 10^{-12}\ \text{C}^{2}\ \text{J}^{-1}\ \text{m}^{-1}</latex>
+        </item>
+        <item>
+          <meaning>Charge on species X</meaning>
+          <type>quantity</type>
+          <alttext>z(X)</alttext>
+          <latex>z(\text{X})</latex>
+        </item>
+        <item>
+          <meaning>Species X</meaning>
+          <type>symbol</type>
+          <alttext>X</alttext>
+          <latex>X</latex>
+        </item>
+        <item>
+          <meaning>Work term equation constant (SI units)</meaning>
+          <type>constant with value</type>
+          <alttext>e2.4π.ɛ0 = 2.307 x 10E-28 J m</alttext>
+          <latex>\frac{e^{2}}{4\pi\varepsilon _{0}} = 2.307 \times 10^{-28}\ \text{J m}</latex>
+        </item>
+        <item>
+          <meaning>Species A</meaning>
+          <type>symbol</type>
+          <alttext>A</alttext>
+          <latex>\text{A}</latex>
+        </item>
+        <item>
+          <meaning>Species D</meaning>
+          <type>abbrev</type>
+          <alttext>D</alttext>
+          <latex>\text{D}</latex>
+        </item>
+        <item>
+          <alttext>z(D) = z(A) = 0</alttext>
+          <latex>z(\text{D})=z(\text{A})=0</latex>
+        </item>
+        <item>
+          <meaning>Electrostatic work for products</meaning>
+          <type>quantity</type>
+          <alttext>w(D+•A-•)</alttext>
+          <latex>w(\text{D}^{+\bullet }\text{A}^{-\bullet })</latex>
+        </item>
+        <item>
+          <meaning>Species D</meaning>
+          <type>abbrev</type>
+          <alttext>D</alttext>
+          <latex>\text{D}</latex>
+        </item>
+        <item>
+          <meaning>Species A</meaning>
+          <type>symbol</type>
+          <alttext>A</alttext>
+          <latex>\text{A}</latex>
+        </item>
+        <item>
+          <meaning>Dipole</meaning>
+          <type>quantity</type>
+          <alttext>µ</alttext>
+          <latex>\mu</latex>
+        </item>
+        <item>
+          <meaning>Radius of cavity</meaning>
+          <type>quantity</type>
+          <alttext>ρ</alttext>
+          <latex>\rho</latex>
+        </item>
+        <item>
+          <alttext>w(D+•A-•) = NA.µ2/4 π ɛ 0 ρ </alttext>
+          <latex>w(\text{D}^{+\bullet }\text{A}^{-\bullet }) = \frac{N_{A}\, \mu\, ^{2}}{4\pi\, \epsilon_{0}\, \rho^{3}}\frac{\epsilon_{r}-1}{2\epsilon_{r}+1}</latex>
+        </item>
+        <item>
+          <alttext>ΔETGo = NA{e (Eoxo - Eredo) + [z(A)- z(D) - 1]e2/4piɛ0ɛea} - ΔE0,0</alttext>
+          <latex>\Delta _{\text{ET}}G^{\text{o}} = N_{\text{A}}\Bigg \{e\left ( E_{\text{ox}}^{\text{o}} - E_{\text{red}}^{\text{o}} \right ) + \frac{[z(\text{A}) -z(\text{D})-1]e^{2}}{4\pi \epsilon _{0}\epsilon _{r}a} \Bigg\} - \Delta E_{0,0}</latex>
+        </item>
+        <item>
+          <alttext>E ox o</alttext>
+          <latex>E_{\text{ox}}^{0}</latex>
+        </item>
+        <item>
+          <alttext>E red o</alttext>
+          <latex>E_{\text{red}}^{0}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 348 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/GT07388/html</html>
+    <json>https://goldbook.iupac.org/terms/view/GT07388/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/GT07388/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/GT07388/plain</plain>
+  </links>
+  <citation>Citation: 'Gibbs energy of photoinduced electron transfer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.GT07388</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:42:14+00:00</accessed>
+</term>

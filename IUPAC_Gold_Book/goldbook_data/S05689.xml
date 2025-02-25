@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05689</id>
+  <doi>10.1351/goldbook.S05689</doi>
+  <code>S05689</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - single-photon timing</longtitle>
+  <title>single-photon timing</title>
+  <abbrevs>
+    <item>CW</item>
+    <item>TAC</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Technique that permits recovery of the parameters characterizing a fluorescence decay after pulse excitation (in particular excited-states lifetimes). It is based on the creation of a time histogram of many stochastic events involving the time delay between the electronic excitation of a molecule or material and its emission of a photon from an excited state. A key to the technique is that no more than one photon strike the detector per pulsed excitation. Excitation is commonly achieved with a flash from a repetitive nanosecond lamp or diode laser or a CW operated laser (mode-locked laser). The essential components of the hardware are a device to measure the excitation-emission delay time and another to determine the relative frequency of photons reaching the detector at each delay time. Delay times are usually measured with a time-to-amplitude-converter (TAC), using voltage to measure the delay between a start and a stop signal. The frequency of events with each delay is stored in a multi-channel analyser. This term is preferred to time-correlated single-photon counting.</text>
+      <links>
+        <item>
+          <title>recovery</title>
+          <url>https://goldbook.iupac.org/terms/view/R05206</url>
+        </item>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+        <item>
+          <title>lamp</title>
+          <url>https://goldbook.iupac.org/terms/view/L03447</url>
+        </item>
+        <item>
+          <title>diode laser</title>
+          <url>https://goldbook.iupac.org/terms/view/D01747</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>mode-locked laser</title>
+          <url>https://goldbook.iupac.org/terms/view/M03959</url>
+        </item>
+        <item>
+          <title>channel</title>
+          <url>https://goldbook.iupac.org/terms/view/C00970</url>
+        </item>
+        <item>
+          <title>single-photon counting</title>
+          <url>https://goldbook.iupac.org/terms/view/P04629</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 420 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05689/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05689/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05689/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05689/plain</plain>
+  </links>
+  <citation>Citation: 'single-photon timing' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05689</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:10:43+00:00</accessed>
+</term>

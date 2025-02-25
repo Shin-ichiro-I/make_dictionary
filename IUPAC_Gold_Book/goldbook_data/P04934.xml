@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04934</id>
+  <doi>10.1351/goldbook.P04934</doi>
+  <code>P04934</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pseudorotation</longtitle>
+  <title>pseudorotation</title>
+  <contains>Berry pseudorotation, turnstile rotation</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Stereoisomerization resulting in a structure that appears to have been produced by rotation of the entire initial molecule and is superposable on the initial one, unless different positions are distinguished by substitution, including isotopic substitution. One example of pseudorotation is a facile interconversion between the many envelope and twist conformers of a cyclopentane due to the out of plane motion of carbon atoms. Another example of pseudorotation (Berry pseudorotation) is a polytopal rearrangement that provides an intramolecular mechanism for the isomerization of trigonal bipyramidal compounds (e.g. λ5-phosphanes), the five bonds to the central atom E being represented as e1, e2, e3, a1 and a2. Two equatorial bonds move apart and become apical bonds at the same time as the apical bonds move together to become equatorial.[image: Not defined] A related conformational change of a trigonal bipyramidal structure is described as turnstile rotation. The process may be visualized as follows. [image: Not defined] An apical and an equatorial bond rotate as a pair ca. 120° relative to the other three bonds. (Doubts have been expressed about the distinct physical reality of this mechanism.)</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/P04934-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/P04934-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>superposable</title>
+          <url>https://goldbook.iupac.org/terms/view/S06144</url>
+        </item>
+        <item>
+          <title>equatorial</title>
+          <url>https://goldbook.iupac.org/terms/view/A00415</url>
+        </item>
+        <item>
+          <title>superposable</title>
+          <url>https://goldbook.iupac.org/terms/view/S06144</url>
+        </item>
+        <item>
+          <title>equatorial</title>
+          <url>https://goldbook.iupac.org/terms/view/A00415</url>
+        </item>
+        <item>
+          <title>polytopal rearrangement</title>
+          <url>https://goldbook.iupac.org/terms/view/P04755</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>isomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03295</url>
+        </item>
+        <item>
+          <title>phosphanes</title>
+          <url>https://goldbook.iupac.org/terms/view/P04548</url>
+        </item>
+        <item>
+          <title>central atom</title>
+          <url>https://goldbook.iupac.org/terms/view/C00930</url>
+        </item>
+        <item>
+          <title>equatorial</title>
+          <url>https://goldbook.iupac.org/terms/view/E02174</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>λ5</alttext>
+          <latex>\lambda ^{5}</latex>
+        </item>
+        <item>
+          <alttext>e1</alttext>
+          <latex>\text{e}^{1}</latex>
+        </item>
+        <item>
+          <alttext>e2</alttext>
+          <latex>\text{e}^{2}</latex>
+        </item>
+        <item>
+          <alttext>e3</alttext>
+          <latex>\text{e}^{3}</latex>
+        </item>
+        <item>
+          <alttext>a1</alttext>
+          <latex>\text{a}^{1}</latex>
+        </item>
+        <item>
+          <alttext>a2</alttext>
+          <latex>\text{a}^{2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2215 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Berry mechanism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Berry_mechanism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Berry-mechanisme (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Berry-mechanisme</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pseudorotació (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Pseudorotació</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pseudorotation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pseudorotation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pseudorotation (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Pseudorotation</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04934/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04934/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04934/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04934/plain</plain>
+  </links>
+  <citation>Citation: 'pseudorotation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04934</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:36:55+00:00</accessed>
+</term>

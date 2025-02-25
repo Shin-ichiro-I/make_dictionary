@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01022</id>
+  <doi>10.1351/goldbook.C01022</doi>
+  <code>C01022</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical element</longtitle>
+  <title>chemical element</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A species of atoms; all atoms with the same number of protons in the atomic nucleus.</text>
+      <links>
+        <item>
+          <title>nucleus</title>
+          <url>https://goldbook.iupac.org/terms/view/N04256</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>A pure chemical substance composed of atoms with the same number of protons in the atomic nucleus. Sometimes this concept is called the elementary substance as distinct from the chemical element as defined under 1, but mostly the term chemical element is used for both concepts.</text>
+      <links>
+        <item>
+          <title>chemical substance</title>
+          <url>https://goldbook.iupac.org/terms/view/C01039</url>
+        </item>
+        <item>
+          <title>nucleus</title>
+          <url>https://goldbook.iupac.org/terms/view/N04256</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources/>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atomo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Atomo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atomslag (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Atomslag</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemical element (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemical element (sco)</title>
+      <url>https://sco.wikipedia.org/wiki/Chemical_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cheminių elementų sąrašas (lt)</title>
+      <url>https://lt.wikipedia.org/wiki/Cheminių_elementų_sąrašas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemisch element (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Chemisch_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Datu kimia (ban)</title>
+      <url>https://ban.wikipedia.org/wiki/Datu_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion:Neutronium (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion:Neutronium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion:Élément chimique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion:Élément_chimique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Drah kimia (ace)</title>
+      <url>https://ace.wikipedia.org/wiki/Drah_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Eileamaid cheimigeach (gd)</title>
+      <url>https://gd.wikipedia.org/wiki/Eileamaid_cheimigeach</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elemento chimico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Elemento_chimico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elementong kimikal (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Elementong_kimikal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elementu chìmicu (sc)</title>
+      <url>https://sc.wikipedia.org/wiki/Elementu_chìmicu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elementu kimiko (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Elementu_kimiko</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grundämne (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Grundämne</url>
+    </item>
+    <item>
+      <title>Wikipedia - History of the periodic table (en)</title>
+      <url>https://en.wikipedia.org/wiki/History_of_the_periodic_table</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemial elemento (io)</title>
+      <url>https://io.wikipedia.org/wiki/Kemial_elemento</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemiala elemento (io)</title>
+      <url>https://io.wikipedia.org/wiki/Kemiala_elemento</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemijski element (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemijski_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemični element (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemični_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kémiai elem (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Kémiai_elem</url>
+    </item>
+    <item>
+      <title>Wikipedia - List of chemical elements (en)</title>
+      <url>https://en.wikipedia.org/wiki/List_of_chemical_elements</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lista över grundämnen (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Lista_över_grundämnen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nguyên tố hóa học (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Nguyên_tố_hóa_học</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nom des éléments chimiques (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Nom_des_éléments_chimiques</url>
+    </item>
+    <item>
+      <title>Wikipedia - Overleg:Chemisch element (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Overleg:Chemisch_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Periodic table (en)</title>
+      <url>https://en.wikipedia.org/wiki/Periodic_table</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pierwiastek chemiczny (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Pierwiastek_chemiczny</url>
+    </item>
+    <item>
+      <title>Wikipedia - Química (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Seznam kemijskih elementov (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Seznam_kemijskih_elementov</url>
+    </item>
+    <item>
+      <title>Wikipedia - Seznam kemičnih elementov (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Seznam_kemičnih_elementov</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sąrašas:Cheminiai elementai (lt)</title>
+      <url>https://lt.wikipedia.org/wiki/Sąrašas:Cheminiai_elementai</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tabel periodik (id)</title>
+      <url>https://id.wikipedia.org/wiki/Tabel_periodik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Chemical element (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Chemical_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Chemical substance (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Chemical_substance</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unsur kimia (id)</title>
+      <url>https://id.wikipedia.org/wiki/Unsur_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - User talk:IiKkEe (en)</title>
+      <url>https://en.wikipedia.org/wiki/User_talk:IiKkEe</url>
+    </item>
+    <item>
+      <title>Wikipedia - User:Double sharp/Periodic table (en)</title>
+      <url>https://en.wikipedia.org/wiki/User:Double_sharp/Periodic_table</url>
+    </item>
+    <item>
+      <title>Wikipedia - User:Joseph Walsh (en)</title>
+      <url>https://en.wikipedia.org/wiki/User:Joseph_Walsh</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia talk:WikiProject Elements (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Elements</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Sandbox (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia:Sandbox</url>
+    </item>
+    <item>
+      <title>Wikipedia - Списак елемената (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Списак_елемената</url>
+    </item>
+    <item>
+      <title>Wikipedia - Химиин элемент (bxr)</title>
+      <url>https://bxr.wikipedia.org/wiki/Химиин_элемент</url>
+    </item>
+    <item>
+      <title>Wikipedia - Химийн элемент (mn)</title>
+      <url>https://mn.wikipedia.org/wiki/Химийн_элемент</url>
+    </item>
+    <item>
+      <title>Wikipedia - Քիմիական տարրերի ցանկ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Քիմիական_տարրերի_ցանկ</url>
+    </item>
+    <item>
+      <title>Wikipedia - عنصر (شیمی) (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/عنصر_(شیمی)</url>
+    </item>
+    <item>
+      <title>Wikipedia - عنصر شیمیایی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/عنصر_شیمیایی</url>
+    </item>
+    <item>
+      <title>Wikipedia - عنصر كيميائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/عنصر_كيميائي</url>
+    </item>
+    <item>
+      <title>Wikipedia - قائمة العناصر الكيميائية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قائمة_العناصر_الكيميائية</url>
+    </item>
+    <item>
+      <title>Wikipedia - रसायनिक तत्त्व (new)</title>
+      <url>https://new.wikipedia.org/wiki/रसायनिक_तत्त्व</url>
+    </item>
+    <item>
+      <title>Wikipedia - ৰাসায়নিক মৌল (as)</title>
+      <url>https://as.wikipedia.org/wiki/ৰাসায়নিক_মৌল</url>
+    </item>
+    <item>
+      <title>Wikipedia - தனிமம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/தனிமம்</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01022/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01022/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01022/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01022/plain</plain>
+  </links>
+  <citation>Citation: 'chemical element' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01022</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:29:44+00:00</accessed>
+</term>

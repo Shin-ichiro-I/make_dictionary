@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02544</id>
+  <doi>10.1351/goldbook.F02544</doi>
+  <code>F02544</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fugacity coefficient, ϕ</longtitle>
+  <title>fugacity coefficient</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Ratio of fugacity to the partial pressure of a gaseous constituent.</text>
+      <links>
+        <item>
+          <title>fugacity</title>
+          <url>https://goldbook.iupac.org/terms/view/F02543</url>
+        </item>
+        <item>
+          <title>partial pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04420</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 50 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1994, 66, 533. 'Standard quantities in chemical thermodynamics. Fugacities, activities and equilibrium constants for pure and mixed phases (IUPAC Recommendations 1994)' on page 539 (https://doi.org/10.1351/pac199466030533)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fugacità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fugacità</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02544/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02544/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02544/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02544/plain</plain>
+  </links>
+  <citation>Citation: 'fugacity coefficient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02544</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:37:58+00:00</accessed>
+</term>

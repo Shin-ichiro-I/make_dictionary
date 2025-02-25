@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06135</id>
+  <doi>10.1351/goldbook.S06135</doi>
+  <code>S06135</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - superacid</longtitle>
+  <title>superacid</title>
+  <contains>magic acid, superbase</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A medium having a high acidity, generally greater than that of 100 wt.% sulfuric acid. The common superacids are made by dissolving a powerful Lewis acid (e.g. SbF5) in a suitable Brønsted acid such as HF or HSO3F. (An equimolar mixture of HSO3F and SbF5 is known by the trade name 'magic acid'.) In a biochemical context 'superacid catalysis' is sometimes used to denote catalysis by metal ions analogous to catalysis by hydrogen ions. By analogy, a compound having a very high basicity, such as lithium diisopropylamide, is called a 'superbase'.</text>
+      <links>
+        <item>
+          <title>acidity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00079</url>
+        </item>
+        <item>
+          <title>Lewis acid (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03508</url>
+        </item>
+        <item>
+          <title>Brønsted acid (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>basicity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00611</url>
+        </item>
+        <item>
+          <title>acidity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00079</url>
+        </item>
+        <item>
+          <title>Lewis acid (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03508</url>
+        </item>
+        <item>
+          <title>Brønsted acid (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00744</url>
+        </item>
+        <item>
+          <title>basicity (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00611</url>
+        </item>
+        <item>
+          <title>catalysis (of a compound, of a medium)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00874</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1169 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acido perclorico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Acido_perclorico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Base (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Base</url>
+    </item>
+    <item>
+      <title>Wikipedia - Base (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Base_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Base (química) (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Base_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Base química (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Base_química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Siêu base (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Siêu_base</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superacido (it)</title>
+      <url>https://it.wikipedia.org/wiki/Superacido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superbase (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Superbase</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superbase (en)</title>
+      <url>https://en.wikipedia.org/wiki/Superbase</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superbase (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Superbase</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superbase (it)</title>
+      <url>https://it.wikipedia.org/wiki/Superbase</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superhappo (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Superhappo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superkwas (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Superkwas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superzasada (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Superzasada</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superzásady (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Superzásady</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superàcid (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Superàcid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Кислота (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Кислота</url>
+    </item>
+    <item>
+      <title>Wikipedia - Кислоты (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Кислоты</url>
+    </item>
+    <item>
+      <title>Wikipedia - Թթուներ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Թթուներ</url>
+    </item>
+    <item>
+      <title>Wikipedia - ابرباز (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ابرباز</url>
+    </item>
+    <item>
+      <title>Wikipedia - 超强碱 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/超强碱</url>
+    </item>
+    <item>
+      <title>Wikipedia - 超强酸 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/超强酸</url>
+    </item>
+    <item>
+      <title>Wikipedia - 超酸 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/超酸</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06135/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06135/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06135/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06135/plain</plain>
+  </links>
+  <citation>Citation: 'superacid' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06135</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:31:47+00:00</accessed>
+</term>

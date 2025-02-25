@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02589</id>
+  <doi>10.1351/goldbook.G02589</doi>
+  <code>G02589</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - gas-phase-grown carbon fibres</longtitle>
+  <title>gas-phase-grown carbon fibres</title>
+  <abbrevs>
+    <item>CVD</item>
+  </abbrevs>
+  <termversion>2.3.2</termversion>
+  <lastupdated>2012-08-19</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Carbon fibres grown in an atmosphere of hydrocarbons with the aid of fine particulate solid catalysts such as iron or other transition metals and consisting of graphitizable carbon.</text>
+      <notes>
+        <item>Gas-phase-grown carbon fibres transform during graphitization heat treatment into graphite fibres. These show a very high degree of preferred orientation and are particularly suitable for intercalation treatments. The term 'vapour-grown carbon fibres' alternatively used in the literature is acceptable. The use of the term 'CVD fibres' is not recommended as an alternative for gas-phase-grown carbon fibres since the term 'CVD fibres' also describes fibres grown by a chemical vapour deposition (CVD) process on substrate fibres.</item>
+      </notes>
+      <links>
+        <item>
+          <title>graphitization heat treatment</title>
+          <url>https://goldbook.iupac.org/terms/view/G02692</url>
+        </item>
+        <item>
+          <title>graphite fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/G02686</url>
+        </item>
+        <item>
+          <title>Carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00831</url>
+        </item>
+        <item>
+          <title>graphitizable carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02690</url>
+        </item>
+        <item>
+          <title>graphitization heat treatment</title>
+          <url>https://goldbook.iupac.org/terms/view/G02692</url>
+        </item>
+        <item>
+          <title>graphite fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/G02686</url>
+        </item>
+        <item>
+          <title>Carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00831</url>
+        </item>
+        <item>
+          <title>graphitizable carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02690</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 490 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02589/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02589/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02589/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02589/plain</plain>
+  </links>
+  <citation>Citation: 'gas-phase-grown carbon fibres' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02589</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:39:54+00:00</accessed>
+</term>

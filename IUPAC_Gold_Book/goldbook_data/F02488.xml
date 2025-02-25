@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02488</id>
+  <doi>10.1351/goldbook.F02488</doi>
+  <code>F02488</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Förster excitation transfer (dipole–dipole excitation transfer)</longtitle>
+  <title>Förster excitation transfer</title>
+  <contains>critical quenching radius, @F02488-0@</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A mechanism of excitation transfer which can occur between molecular entities separated by distances considerably exceeding the sum of their van der Waals radii. It is described in terms of an interaction between the transition dipole moments (a dipolar mechanism). The transfer rate constantkD → A is given by: kD→A = K^2.J 8.8 x 10E-28 mol/(n^4.τo.r^6) is an orientation factor, n the refractive index of the medium, τ 0 the radiative lifetime of the donor, r the distance (cm) between donor (D) and acceptor (A), and J the spectral overlap (in coherent units cm^6 mol^-1) between the absorption spectrum of the acceptor and the fluorescence spectrum of the donor. The critical quenching radius, r 0, is that distance at which kD → A is equal to the inverse of the radiative lifetime.</text>
+      <links>
+        <item>
+          <title>Dexter excitation transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/D01654</url>
+        </item>
+        <item>
+          <title>energy transfer (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02116</url>
+        </item>
+        <item>
+          <title>radiative energy transfer (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05063</url>
+        </item>
+        <item>
+          <title>Dexter excitation transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/D01654</url>
+        </item>
+        <item>
+          <title>energy transfer (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02116</url>
+        </item>
+        <item>
+          <title>radiative energy transfer (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05063</url>
+        </item>
+        <item>
+          <title>excitation transfer (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02256</url>
+        </item>
+        <item>
+          <title>rate constant (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>refractive index (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05240</url>
+        </item>
+        <item>
+          <title>radiative lifetime (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05064</url>
+        </item>
+        <item>
+          <title>spectral overlap (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05818</url>
+        </item>
+        <item>
+          <title>absorption spectrum (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00043</url>
+        </item>
+        <item>
+          <title>fluorescence (in photochemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Rate constant (D -&gt; A)</meaning>
+          <type>quantity</type>
+          <alttext>kD → A</alttext>
+          <latex>k_{D \rightarrow  A}</latex>
+        </item>
+        <item>
+          <type>equation</type>
+          <alttext>kD→A = K^2.J 8.8 x 10E-28 mol/(n^4.τo.r^6)</alttext>
+          <latex>k_{\ce{D -&gt; A}} = \frac{K^{2}J \pu{8.8E-28 mol}}{n^{4} \tau_{0} r^{6}}</latex>
+        </item>
+        <item>
+          <alttext>K</alttext>
+          <latex>K</latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <alttext>τ 0</alttext>
+          <latex>\tau _{0}</latex>
+        </item>
+        <item>
+          <alttext>r</alttext>
+          <latex>r</latex>
+        </item>
+        <item>
+          <alttext>J</alttext>
+          <latex>J</latex>
+        </item>
+        <item>
+          <alttext>cm^6 mol^-1</alttext>
+          <latex>\pu{cm6 mol-1}</latex>
+        </item>
+        <item>
+          <alttext>r 0</alttext>
+          <latex>r_{0}</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>kD → A</alttext>
+          <latex>k_{D \rightarrow  A}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2243 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02488/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02488/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02488/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02488/plain</plain>
+  </links>
+  <citation>Citation: 'Förster excitation transfer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02488</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:35:21+00:00</accessed>
+</term>

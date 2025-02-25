@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04528</id>
+  <doi>10.1351/goldbook.P04528</doi>
+  <code>P04528</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - phase</longtitle>
+  <title>phase</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An entity of a material system which is uniform in chemical composition and physical state.</text>
+      <sources>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 588 (https://doi.org/10.1351/pac199466030577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fase (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fase_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Phase (Materie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Phase_(Materie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Phase (matter) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Phase_(matter)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vita:Szublimáció (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Vita:Szublimáció</url>
+    </item>
+    <item>
+      <title>Wikipedia - 相 (物質) (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/相_(物質)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04528/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04528/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04528/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04528/plain</plain>
+  </links>
+  <citation>Citation: 'phase' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04528</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:16:34+00:00</accessed>
+</term>

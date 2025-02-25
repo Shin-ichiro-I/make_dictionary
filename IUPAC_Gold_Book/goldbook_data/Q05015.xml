@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05015</id>
+  <doi>10.1351/goldbook.Q05015</doi>
+  <code>Q05015</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - quinones</longtitle>
+  <title>quinones</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds having a fully conjugated cyclic dione structure, such as that of benzoquinones, derived from aromatic compounds by conversion of an even number of number of –CH= groups into –C(=O)– groups with any necessary rearrangement of double bonds (polycyclic and heterocyclic analogues are included). [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/Q05015.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>rearrangement</title>
+          <url>https://goldbook.iupac.org/terms/view/R05194</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1362 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chinoni (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chinoni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hinon (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Hinon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kinonit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Kinonit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kinonok (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Kinonok</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kuinon (id)</title>
+      <url>https://id.wikipedia.org/wiki/Kuinon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Quinona (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Quinona</url>
+    </item>
+    <item>
+      <title>Wikipedia - Quinone (en)</title>
+      <url>https://en.wikipedia.org/wiki/Quinone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хінони (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Хінони</url>
+    </item>
+    <item>
+      <title>Wikipedia - كينون (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كينون</url>
+    </item>
+    <item>
+      <title>Wikipedia - کینون (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/کینون</url>
+    </item>
+    <item>
+      <title>Wikipedia - 퀴논 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/퀴논</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/Q05015/html</html>
+    <json>https://goldbook.iupac.org/terms/view/Q05015/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/Q05015/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/Q05015/plain</plain>
+  </links>
+  <citation>Citation: 'quinones' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.Q05015</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:40:16+00:00</accessed>
+</term>

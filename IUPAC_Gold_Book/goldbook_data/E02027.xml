@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02027</id>
+  <doi>10.1351/goldbook.E02027</doi>
+  <code>E02027</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electrostatic filter</longtitle>
+  <title>electrostatic filter</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Filters for which an electrostatic charge is applied to the filter element. A fibrous filter material is often pleated in between V-shaped supports consisting of electrostatically charged, metal rods which are insulated from the supporting frame.</text>
+      <links>
+        <item>
+          <title>filter</title>
+          <url>https://goldbook.iupac.org/terms/view/F02384</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2186 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussion:Électrofiltre (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion:Électrofiltre</url>
+    </item>
+    <item>
+      <title>Wikipedia - Filtro elettrostatico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Filtro_elettrostatico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Électrofiltre (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Électrofiltre</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02027/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02027/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02027/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02027/plain</plain>
+  </links>
+  <citation>Citation: 'electrostatic filter' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02027</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:15:32+00:00</accessed>
+</term>

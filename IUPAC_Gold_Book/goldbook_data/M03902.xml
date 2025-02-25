@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03902</id>
+  <doi>10.1351/goldbook.M03902</doi>
+  <code>M03902</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - microheterogeneity in biochemistry</longtitle>
+  <title>microheterogeneity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A particular glycoprotein may occur in forms that differ in the structure of one or more or its carbohydrate units, a phenomenon known as microheterogeneity.</text>
+      <contexts>
+        <in>
+          <item>biochemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>glycoprotein</title>
+          <url>https://goldbook.iupac.org/terms/view/G02656</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1988, 60, 1389. 'Nomenclature of glycoproteins, glycopeptides and peptidoglycans (Recommendations 1985)' on page 1391 (https://doi.org/10.1351/pac198860091389)</item>
+        <item>White Book, 2nd ed., p. 86 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03902/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03902/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03902/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03902/plain</plain>
+  </links>
+  <citation>Citation: 'microheterogeneity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03902</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:41:47+00:00</accessed>
+</term>

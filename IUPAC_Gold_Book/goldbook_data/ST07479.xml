@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07479</id>
+  <doi>10.1351/goldbook.ST07479</doi>
+  <code>ST07479</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spectral fluence rate</longtitle>
+  <title>spectral fluence rate</title>
+  <abbrevs>
+    <item>SI</item>
+  </abbrevs>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Derivative of fluence rate, Eo, with respect to wavelength, λ. SI unit is W m-3; common unit is W m-2 nm-1.</text>
+      <notes>
+        <item>All spectral terms may also be defined as derivatives with respect to frequency, ν, or wavenumber, ν(tilde), and are referred to, when necessary, as in terms of wavelength, or frequency or wavenumber, respectively.</item>
+      </notes>
+      <links>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>fluence rate</title>
+          <url>https://goldbook.iupac.org/terms/view/FT07376</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Eo</alttext>
+          <latex>E_{\text{o}}</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+        <item>
+          <alttext>W m-3</alttext>
+          <latex>\text{W m}^{-3}</latex>
+        </item>
+        <item>
+          <alttext>W m-2 nm-1</alttext>
+          <latex>\text{W m}^{-2}\ \text{nm}^{-1}</latex>
+        </item>
+        <item>
+          <alttext>ν</alttext>
+          <latex>\nu</latex>
+        </item>
+        <item>
+          <alttext>ν(tilde)</alttext>
+          <latex>\tilde{\nu}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 423 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ST07479/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ST07479/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ST07479/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ST07479/plain</plain>
+  </links>
+  <citation>Citation: 'spectral fluence rate' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ST07479</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:17:07+00:00</accessed>
+</term>

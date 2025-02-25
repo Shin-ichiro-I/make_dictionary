@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00835</id>
+  <doi>10.1351/goldbook.C00835</doi>
+  <code>C00835</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbon fibres type IM</longtitle>
+  <title>carbon fibres type IM</title>
+  <abbrevs>
+    <item>HT</item>
+    <item>IM</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Carbon fibres type IM (intermediate modulus) are related to carbon fibres type HT because of the comparable values of tensile strength, but are characterized by greater stiffness (Young's modulus up to approximately 35% of the theoretical C11 value).</text>
+      <notes>
+        <item>The tensile modulus (Young's modulus) varies between ca. 275 and 350 GPa, but the disposition of the boundaries is somewhat arbitrary. The relatively high ratio of tensile strength to tensile modulus, typically above 1 x 10E-2, in carbon fibres type IM, in spite of an increase of Young's modulus, requires a further increase of strength, which is achievable by a significant reduction of the monofilament diameter down to about 5 µm. Such small filament diameters are typical of carbon fibres type IM.</item>
+      </notes>
+      <links>
+        <item>
+          <title>Young's modulus</title>
+          <url>https://goldbook.iupac.org/terms/view/M03966</url>
+        </item>
+        <item>
+          <title>Young's modulus</title>
+          <url>https://goldbook.iupac.org/terms/view/M03966</url>
+        </item>
+        <item>
+          <title>carbon fibres type HT</title>
+          <url>https://goldbook.iupac.org/terms/view/C00834</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>C11</alttext>
+          <latex>C_{11}</latex>
+        </item>
+        <item>
+          <alttext>275</alttext>
+          <latex>275</latex>
+        </item>
+        <item>
+          <alttext>350 GPa</alttext>
+          <latex>350\ \text{GPa}</latex>
+        </item>
+        <item>
+          <type>numeric value</type>
+          <alttext>1 x 10E-2</alttext>
+          <latex>1 \times 10^{-2}</latex>
+        </item>
+        <item>
+          <alttext>5 µm</alttext>
+          <latex>5\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 482 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fibra di carbonio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fibra_di_carbonio</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00835/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00835/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00835/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00835/plain</plain>
+  </links>
+  <citation>Citation: 'carbon fibres type IM' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00835</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:20:55+00:00</accessed>
+</term>

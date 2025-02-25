@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02085</id>
+  <doi>10.1351/goldbook.E02085</doi>
+  <code>E02085</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - encapsulation in catalysis</longtitle>
+  <title>encapsulation</title>
+  <contains>immobilization by adsorption <span class="in">in catalysis</span>, immobilization by inclusion <span class="in">in catalysis</span>, reticulation <span class="in">in catalysis</span></contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Enzymes or cells which are of relatively large size may be entrapped in a maze of polymeric molecules (a gel). This procedure is called immobilization by inclusion. When the biocatalyst is enclosed inside a semipermeable membrane, usually approximately spherical, the method is known as encapsulation. In the process of reticulation the primary biocatalyst particles (individual enzyme molecules, cofactors or individual cells) are covalently attached to each other by organic chains, into a three-dimensional network. The term grafting is also used in this context. Attachment to the support by adsorption forces is called immobilization by adsorption.</text>
+      <contexts>
+        <in>
+          <item>catalysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>enzymes</title>
+          <url>https://goldbook.iupac.org/terms/view/E02159</url>
+        </item>
+        <item>
+          <title>polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+        <item>
+          <title>biocatalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/B00652</url>
+        </item>
+        <item>
+          <title>membrane</title>
+          <url>https://goldbook.iupac.org/terms/view/MT06878</url>
+        </item>
+        <item>
+          <title>cofactors</title>
+          <url>https://goldbook.iupac.org/terms/view/C01128</url>
+        </item>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+        <item>
+          <title>attachment</title>
+          <url>https://goldbook.iupac.org/terms/view/A00512</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1991, 63, 1227. 'Manual on catalyst characterization (Recommendations 1991)' on page 1230 (https://doi.org/10.1351/pac199163091227)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02085/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02085/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02085/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02085/plain</plain>
+  </links>
+  <citation>Citation: 'encapsulation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02085</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:18:11+00:00</accessed>
+</term>

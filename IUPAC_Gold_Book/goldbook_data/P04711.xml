@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04711</id>
+  <doi>10.1351/goldbook.P04711</doi>
+  <code>P04711</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polarizability</longtitle>
+  <title>polarizability</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The ease of distortion of the electron cloud of a molecular entity by an electric field (such as that due to the proximity of a charged reagent). It is experimentally measured as the ratio of induced dipole moment(µ ind) to the field E which induces it: α = µind/E are C2 m2 V-1. In ordinary usage the term refers to the 'mean polarizability', i.e., the average over three rectilinear axes of the molecule. Polarizabilities in different directions (e.g. along the bond in Cl2 , called 'longitudinal polarizability', and in the direction perpendicular to the bond, called 'transverse polarizability') can be distinguished, at least in principle. Polarizability along the bond joining a substituent to the rest of the molecule is seen in certain modern theoretical approaches as a factor influencing chemical reactivity, etc., and parametrization thereof has been proposed.</text>
+      <links>
+        <item>
+          <title>electric polarizability</title>
+          <url>https://goldbook.iupac.org/terms/view/E01933</url>
+        </item>
+        <item>
+          <title>electric polarizability</title>
+          <url>https://goldbook.iupac.org/terms/view/E01933</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>electric polarizability</title>
+          <url>https://goldbook.iupac.org/terms/view/E01933</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>reagent</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+        <item>
+          <title>dipole moment</title>
+          <url>https://goldbook.iupac.org/terms/view/D01761</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>µ ind</alttext>
+          <latex>\mu _{\mathrm{ind}}</latex>
+        </item>
+        <item>
+          <alttext>E</alttext>
+          <latex>E</latex>
+        </item>
+        <item>
+          <type>equation</type>
+          <alttext>α = µind/E</alttext>
+          <latex>\alpha =\frac{\mu _{\text{ind}}}{E}</latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>α</alttext>
+          <latex>\alpha </latex>
+        </item>
+        <item>
+          <alttext>C2 m2 V-1</alttext>
+          <latex>\text{C}^{2}\ \text{m}^{2}\ \text{V}^{-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1151 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Polaritzabilitat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Polaritzabilitat</url>
+    </item>
+    <item>
+      <title>Wikipedia - قابلية استقطاب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قابلية_استقطاب</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04711/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04711/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04711/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04711/plain</plain>
+  </links>
+  <citation>Citation: 'polarizability' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04711</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:25:21+00:00</accessed>
+</term>

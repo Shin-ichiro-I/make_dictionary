@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01753</id>
+  <doi>10.1351/goldbook.D01753</doi>
+  <code>D01753</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dipolar compounds</longtitle>
+  <title>dipolar compounds</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <intro>Electrically neutral molecules carrying a positive and a negative charge in one of their major canonical descriptions. In most dipolar compounds the charges are delocalized; however the term is also applied to species where this is not the case. 1,2-Dipolar compounds have the opposite charges on adjacent atoms. The term 1,3-dipolar compounds is used for those in which a significant canonical @R05326@ form can be represented by a separation of charge over three atoms (in connection with 1,3-dipolar cycloadditions). Subclasses of 1,3-dipolar compounds include:</intro>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Allyl type X=Y+–Z−X−–Y+=ZX+–Y–Z−X−=Y–Z+ (X, Z = C, N, or O; Y = N or O)</text>
+      <links>
+        <item>
+          <title>azo imides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00561</url>
+        </item>
+        <item>
+          <title>azomethine imides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00562</url>
+        </item>
+        <item>
+          <title>azomethine ylides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00565</url>
+        </item>
+        <item>
+          <title>azoxy compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/A00567</url>
+        </item>
+        <item>
+          <title>carbonyl imides</title>
+          <url>https://goldbook.iupac.org/terms/view/C00845</url>
+        </item>
+        <item>
+          <title>carbonyl oxides</title>
+          <url>https://goldbook.iupac.org/terms/view/C00847</url>
+        </item>
+        <item>
+          <title>carbonyl ylides</title>
+          <url>https://goldbook.iupac.org/terms/view/C00848</url>
+        </item>
+        <item>
+          <title>nitro compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/N04158</url>
+        </item>
+        <item>
+          <title>nitrones</title>
+          <url>https://goldbook.iupac.org/terms/view/N04164</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Tautomer interconversion</meaning>
+          <type>symbol</type>
+          <alttext>↔︎</alttext>
+          <latex>\leftrightarrow</latex>
+        </item>
+      </math>
+    </item>
+    <item>
+      <id>2</id>
+      <text>Propargyl type X≡N+–Z−X−=N+=ZX−=N–Z+X–N=Z (X = C or O, Z = C, N, or O) See: nitrile imides, nitrile oxides, nitrile ylides, nitrilium betaines, azides, diazo compounds</text>
+      <links>
+        <item>
+          <title>azides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00555</url>
+        </item>
+        <item>
+          <title>diazo compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/D01691</url>
+        </item>
+        <item>
+          <title>nitrile imides</title>
+          <url>https://goldbook.iupac.org/terms/view/N04148</url>
+        </item>
+        <item>
+          <title>nitrile oxides</title>
+          <url>https://goldbook.iupac.org/terms/view/N04150</url>
+        </item>
+        <item>
+          <title>nitrile ylides</title>
+          <url>https://goldbook.iupac.org/terms/view/N04153</url>
+        </item>
+        <item>
+          <title>nitrilium betaines</title>
+          <url>https://goldbook.iupac.org/terms/view/N04155</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>Carbene type X:–C=ZX+=C–Z− (X = C or N; Z = C, N, or O) See: acyl carbenes, imidoyl carbenes, vinyl carbenes See: betaines Source:   PAC, 1995, 67, 1307 (Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995))  on page 1333 </text>
+      <links>
+        <item>
+          <title>acyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00121</url>
+        </item>
+        <item>
+          <title>betaines</title>
+          <url>https://goldbook.iupac.org/terms/view/B00637</url>
+        </item>
+        <item>
+          <title>imidoyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/I02953</url>
+        </item>
+        <item>
+          <title>vinyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/V06620</url>
+        </item>
+        <item>
+          <title>acyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00121</url>
+        </item>
+        <item>
+          <title>betaines</title>
+          <url>https://goldbook.iupac.org/terms/view/B00637</url>
+        </item>
+        <item>
+          <title>imidoyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/I02953</url>
+        </item>
+        <item>
+          <title>vinyl carbenes</title>
+          <url>https://goldbook.iupac.org/terms/view/V06620</url>
+        </item>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' Moss, G.P.;Smith, P.A.S.;Tavernier, D.; Pure and Applied Chemistry 1995 67(8-9) 1307</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - 1,3-dipole (en)</title>
+      <url>https://en.wikipedia.org/wiki/1,3-dipole</url>
+    </item>
+    <item>
+      <title>Wikipedia - 1,3-dipól (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/1,3-dipól</url>
+    </item>
+    <item>
+      <title>Wikipedia - 1,3-dipôle (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/1,3-dipôle</url>
+    </item>
+    <item>
+      <title>Wikipedia - 1,3-双極子 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/1,3-双極子</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dipolaire verbinding (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Dipolaire_verbinding</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dipolar compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dipolar_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Ylide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Ylide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Zwitterion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Zwitterion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zwitterion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Zwitterion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zwitterioon (af)</title>
+      <url>https://af.wikipedia.org/wiki/Zwitterioon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zwitteriyon (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Zwitteriyon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Αμφιτεριόν (el)</title>
+      <url>https://el.wikipedia.org/wiki/Αμφιτεριόν</url>
+    </item>
+    <item>
+      <title>Wikipedia - ترکیب دوقطبی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ترکیب_دوقطبی</url>
+    </item>
+    <item>
+      <title>Wikipedia - دوقطبی ۱و ۳ (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/دوقطبی_۱و_۳</url>
+    </item>
+    <item>
+      <title>Wikipedia - مركب ثنائي القطب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مركب_ثنائي_القطب</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01753/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01753/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01753/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01753/plain</plain>
+  </links>
+  <citation>Citation: 'dipolar compounds' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01753</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:02:28+00:00</accessed>
+</term>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04735</id>
+  <doi>10.1351/goldbook.P04735</doi>
+  <code>P04735</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymer</longtitle>
+  <title>polymer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A substance composed of macromolecules.</text>
+      <links>
+        <item>
+          <title>macromolecules</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2299 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Diskussion:Vliesstoff (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Vliesstoff</url>
+    </item>
+    <item>
+      <title>Wikipedia - Draft:Solid Polymer Electrochemical Technology (en)</title>
+      <url>https://en.wikipedia.org/wiki/Draft:Solid_Polymer_Electrochemical_Technology</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimero (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Polimero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymer (de)</title>
+      <url>https://de.wikipedia.org/wiki/Polymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Polymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymère (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Polymère</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polímero (es)</title>
+      <url>https://es.wikipedia.org/wiki/Polímero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Полимер (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Полимер</url>
+    </item>
+    <item>
+      <title>Wikipedia - Պոլիմերներ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Պոլիմերներ</url>
+    </item>
+    <item>
+      <title>Wikipedia - مبلمر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مبلمر</url>
+    </item>
+    <item>
+      <title>Wikipedia - 相転移 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/相転移</url>
+    </item>
+    <item>
+      <title>Wikipedia - 重合体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/重合体</url>
+    </item>
+    <item>
+      <title>Wikipedia - 高分子 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/高分子</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04735/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04735/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04735/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04735/plain</plain>
+  </links>
+  <citation>Citation: 'polymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04735</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:27:01+00:00</accessed>
+</term>

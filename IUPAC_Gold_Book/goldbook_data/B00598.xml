@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00598</id>
+  <doi>10.1351/goldbook.B00598</doi>
+  <code>B00598</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - barn</longtitle>
+  <title>barn</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-SI unit of area, b = 10E-28 m2, used to express cross sections in nuclear reactions.</text>
+      <math>
+        <item>
+          <meaning>Barn</meaning>
+          <type>unit</type>
+          <alttext>b = 10E-28 m2</alttext>
+          <latex>\text{b} = 10^{-28}\ \text{m}^{2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 75 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Reddit-links -  (en)</title>
+      <url>https://en.wikipedia.org/wiki/Barn_(unit)#Etymology</url>
+    </item>
+    <item>
+      <title>Reddit-links -  (en)</title>
+      <url>https://en.wikipedia.org/wiki/Barn_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Barn (unit) (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Barn_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Барн (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Барн</url>
+    </item>
+    <item>
+      <title>Wikipedia - بارن (وحدة) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بارن_(وحدة)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00598/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00598/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00598/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00598/plain</plain>
+  </links>
+  <citation>Citation: 'barn' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00598</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:06:58+00:00</accessed>
+</term>

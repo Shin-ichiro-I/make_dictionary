@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03310</id>
+  <doi>10.1351/goldbook.I03310</doi>
+  <code>I03310</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isosbestic point</longtitle>
+  <title>isosbestic point</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Wavelength, wavenumber or frequency at which the total absorbance of a sample does not change during a chemical reaction or a physical change of the sample.</text>
+      <notes>
+        <item>A simple example occurs when one molecular entity is converted into another that has the same molar absorption coefficient at a given wavelength. As long as the sum of the concentrations of the two molecular entities in the solution is held constant there will be no change in absorbance at this wavelength as the ratio of the concentrations of the two entities is varied.</item>
+        <item>The name derives from the Greek words: isos: equal, the same, and sbestos: extinguishable.</item>
+        <item>Contrary to a widely accepted idea, the existence of an isosbestic point does not prove that the reaction is a quantitative conversion of one species into a unique other species or that an equilibrium exists between only two species. The observation of isosbestic points only indicates that the stoichiometry of the reaction remains unchanged during the chemical reaction or the physical change of the sample, and that no secondary reactions occur during the considered time range, since Aλ.l-1 = (n)∑(i=1) ɛi(λ)ci is invariant (Aλ is the absorbance at wavelength λ, l is the optical path, ɛi is the molar decadic absorption coefficient of the species i of concentration ci). For the reaction A + B → c C + d D + e E, with c, d, and e the percentages of the products C, D, and E, an isosbestic point will be observed at every wavelength where the condition ɛA + ɛB = cɛC + dɛD + eɛE , provided that the values of the percentages c, d, and e remain constant during the chemical reaction or the physical change. The use of the obsolete term isoabsorption point is not recommended.</item>
+      </notes>
+      <links>
+        <item>
+          <title>molar absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/M03972</url>
+        </item>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>wavenumber</title>
+          <url>https://goldbook.iupac.org/terms/view/W06664</url>
+        </item>
+        <item>
+          <title>frequency</title>
+          <url>https://goldbook.iupac.org/terms/view/F02525</url>
+        </item>
+        <item>
+          <title>molar absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/M03972</url>
+        </item>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>wavenumber</title>
+          <url>https://goldbook.iupac.org/terms/view/W06664</url>
+        </item>
+        <item>
+          <title>frequency</title>
+          <url>https://goldbook.iupac.org/terms/view/F02525</url>
+        </item>
+        <item>
+          <title>stoichiometry</title>
+          <url>https://goldbook.iupac.org/terms/view/S06026</url>
+        </item>
+        <item>
+          <title>isoabsorption point</title>
+          <url>https://goldbook.iupac.org/terms/view/I03259</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Aλ.l-1 = (n)∑(i=1) ɛi(λ)ci</alttext>
+          <latex>A_{\lambda }l^{-1} = \sum_{i=1}^{n}\varepsilon _{i}(\lambda)\, c_{i}</latex>
+        </item>
+        <item>
+          <alttext>Aλ</alttext>
+          <latex>A_{\lambda}</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+        <item>
+          <alttext>l</alttext>
+          <latex>I</latex>
+        </item>
+        <item>
+          <alttext>ɛi</alttext>
+          <latex>\varepsilon_{i}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>ci</alttext>
+          <latex>c_{i}</latex>
+        </item>
+        <item>
+          <alttext>ɛA + ɛB = cɛC + dɛD + eɛE </alttext>
+          <latex>\varepsilon_{A} + \varepsilon_{B} = c\, \varepsilon_{C} + d\, \varepsilon_{D} + e\, \varepsilon_{E}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 359 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Absorbtividade molar (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Absorbtividade_molar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isosbestic point (en)</title>
+      <url>https://en.wikipedia.org/wiki/Isosbestic_point</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isosbestischer Punkt (de)</title>
+      <url>https://de.wikipedia.org/wiki/Isosbestischer_Punkt</url>
+    </item>
+    <item>
+      <title>Wikipedia - Point isobestique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Point_isobestique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Punt isosbèstic (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Punt_isosbèstic</url>
+    </item>
+    <item>
+      <title>Wikipedia - Punto isosbestico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Punto_isosbestico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Punto isosbéstico (es)</title>
+      <url>https://es.wikipedia.org/wiki/Punto_isosbéstico</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03310/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03310/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03310/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03310/plain</plain>
+  </links>
+  <citation>Citation: 'isosbestic point' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03310</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:14:04+00:00</accessed>
+</term>

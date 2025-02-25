@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07327</id>
+  <doi>10.1351/goldbook.AT07327</doi>
+  <code>AT07327</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aromatic photocycloaddition</longtitle>
+  <title>aromatic photocycloaddition</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Inter- and intramolecularphotochemical processes involving the addition of a C–C double (or triple) bond to (i) to the 1,2-positions of an arene in which case it is called an ortho photocycloaddition, with formation of a benzocyclobutene (or a benzocyclobutadiene) derivative, (ii) to the 1,3-positions of an arene in which case it is called a meta photocycloaddition, with formation of tricyclo[3.3.0.02,8]oct-3-ene (or octa-3,6-diene) derivatives, or (iii) to the 1,4-positions of an arene in which case it is called a para photocycloaddition, with formation of bicyclo[2,2,2]oct-2-ene (or octa-2,5-diene) derivatives.</text>
+      <links>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>photocycloaddition</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07451</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 303 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/AT07327/html</html>
+    <json>https://goldbook.iupac.org/terms/view/AT07327/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/AT07327/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/AT07327/plain</plain>
+  </links>
+  <citation>Citation: 'aromatic photocycloaddition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.AT07327</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:58:47+00:00</accessed>
+</term>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07177</id>
+  <doi>10.1351/goldbook.MT07177</doi>
+  <code>MT07177</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - macroporous polymer</longtitle>
+  <title>macroporous polymer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Glass or rubbery polymer that includes a large number of macropores (50 nm–1 µm in diameter) that persist when the polymer is immersed in solvents or in the dry state.</text>
+      <notes>
+        <item>Macroporous polymers are often network polymers produced in bead form. However, linear polymers can also be prepared in the form of macroporous polymer beads.</item>
+        <item>Macroporous polymers swell only slightly in solvents.</item>
+        <item>Macroporous polymers are used, for example, as precursors for ion-exchange polymers, as adsorbents, as supports for catalysts or reagents, and as stationary phases in size-exclusion chromatography columns.</item>
+        <item>Porous polymers with pore diameters from ca 2 to 50 nm are called mesoporous polymers.</item>
+      </notes>
+      <links>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+        <item>
+          <title>exclusion chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/E02261</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>50 nm</alttext>
+          <latex>50\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>1 µm</alttext>
+          <latex>1\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+        <item>
+          <alttext>2</alttext>
+          <latex>2</latex>
+        </item>
+        <item>
+          <alttext>50 nm</alttext>
+          <latex>50\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 900 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Nanoporos (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Nanoporos</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nanoporous materials (en)</title>
+      <url>https://en.wikipedia.org/wiki/Nanoporous_materials</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vật liệu mao quản nano (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Vật_liệu_mao_quản_nano</url>
+    </item>
+    <item>
+      <title>Wikipedia - Нанопористый материал (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Нанопористый_материал</url>
+    </item>
+    <item>
+      <title>Wikipedia - نانومنفذ (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/نانومنفذ</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/MT07177/html</html>
+    <json>https://goldbook.iupac.org/terms/view/MT07177/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/MT07177/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/MT07177/plain</plain>
+  </links>
+  <citation>Citation: 'macroporous polymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.MT07177</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:31:15+00:00</accessed>
+</term>

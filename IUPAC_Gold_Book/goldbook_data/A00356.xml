@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00356</id>
+  <doi>10.1351/goldbook.A00356</doi>
+  <code>A00356</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - anilides</longtitle>
+  <title>anilides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds derived from oxoacidsRkE(=O)l(OH)m (l ≠ 0) by replacing an OH group by the NHPh group or derivative formed by ring substitution; N-phenyl amides, e.g. CH3C(=O)NHPh acetanilide.</text>
+      <links>
+        <item>
+          <title>oxoacids</title>
+          <url>https://goldbook.iupac.org/terms/view/O04374</url>
+        </item>
+        <item>
+          <title>oxoacids</title>
+          <url>https://goldbook.iupac.org/terms/view/O04374</url>
+        </item>
+        <item>
+          <title>amides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00266</url>
+        </item>
+        <item>
+          <title>oxoacids</title>
+          <url>https://goldbook.iupac.org/terms/view/O04374</url>
+        </item>
+        <item>
+          <title>amides</title>
+          <url>https://goldbook.iupac.org/terms/view/A00266</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>Salts formed by replacement of a nitrogen-bound hydron of aniline by a metal or other cation, e.g. NaNHPh sodium anilide.</text>
+      <links>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' Moss, G.P.;Smith, P.A.S.;Tavernier, D.; Pure and Applied Chemistry 1995 67(8-9) 1307</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Anilina (it)</title>
+      <url>https://it.wikipedia.org/wiki/Anilina</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00356/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00356/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00356/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00356/plain</plain>
+  </links>
+  <citation>Citation: 'anilides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00356</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:54:28+00:00</accessed>
+</term>

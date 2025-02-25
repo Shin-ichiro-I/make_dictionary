@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01944</id>
+  <doi>10.1351/goldbook.E01944</doi>
+  <code>E01944</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electrochemical method of detection in analysis</longtitle>
+  <title>electrochemical method of detection</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A method in which either current or potential is measured during an electrochemical reaction. The gas or liquid containing the trace impurity to be analysed is sent through an electrochemical cell containing a liquid or solid electrolyte and in which an electrochemical reaction specific to the impurity takes place.</text>
+      <contexts>
+        <in>
+          <item>analysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>amperometric detection method (in electrochemical analysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00301</url>
+        </item>
+        <item>
+          <title>coulometric detection method (in electrochemical analysis) (in electrochemical analysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01367</url>
+        </item>
+        <item>
+          <title>potentiometric detection method (in electrochemical analysis) (in electrochemical analysis) (in electrochemical analysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04790</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2186 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01944/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01944/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01944/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01944/plain</plain>
+  </links>
+  <citation>Citation: 'electrochemical method of detection' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01944</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:11:48+00:00</accessed>
+</term>

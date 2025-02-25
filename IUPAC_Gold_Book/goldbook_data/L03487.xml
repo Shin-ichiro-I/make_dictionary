@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03487</id>
+  <doi>10.1351/goldbook.L03487</doi>
+  <code>L03487</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - laws of distribution in precipitation</longtitle>
+  <title>laws of distribution</title>
+  <contains>logarithmic distribution coefficient <span class="in">in precipitation</span></contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>During the formation of a mixed crystal from a solution containing two components 'A' and 'B', the latter may be distributed according to the equation KA,B = b(a0 - a)/a(b0 - b) and b0 are the respective concentrations in the solution before crystallization and a and b are the respective concentrations in the solution after crystallization. KA,B is usually called the separation factor. The term homogeneous distribution coefficient is not recommended. Alternatively the distribution of the micro-component may follow the equation of Doerner and Hoskins ln ( a 0 a ) = λ ln ( b 0 b ) is usually called the logarithmic distribution coefficient, the meaning of the other symbols remaining the same. Exactly homogeneous or logarithmic distributions are extreme cases and very seldom encountered.</text>
+      <contexts>
+        <in>
+          <item>precipitation</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>crystallization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01434</url>
+        </item>
+        <item>
+          <title>distribution coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/D01812</url>
+        </item>
+        <item>
+          <title>micro</title>
+          <url>https://goldbook.iupac.org/terms/view/M03894</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Separation factor (in precipitation)</meaning>
+          <type>equation</type>
+          <alttext>KA,B = b(a0 - a)/a(b0 - b)</alttext>
+          <latex>K_{\text{A},\text{B}}=\frac{b\ (a_{0}- a)}{a\ (b_{0}- b)}</latex>
+        </item>
+        <item>
+          <alttext>a0</alttext>
+          <latex>a_{0}</latex>
+        </item>
+        <item>
+          <alttext>b0</alttext>
+          <latex>b_{0}</latex>
+        </item>
+        <item>
+          <alttext>a</alttext>
+          <latex>a</latex>
+        </item>
+        <item>
+          <alttext>b</alttext>
+          <latex>b</latex>
+        </item>
+        <item>
+          <meaning>Separation factor (in precipitation)</meaning>
+          <type>quantity</type>
+          <alttext>KA,B</alttext>
+          <latex>K_{\text{A},\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>ln ( a 0 a ) = λ ln ( b 0 b )</alttext>
+          <latex>\ln (\frac{a_{0}}{a}) = \lambda \ \ln (\frac{b_{0}}{b})</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda </latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 85 (https://media.iupac.org/publications/analytical_compendium/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03487/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03487/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03487/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03487/plain</plain>
+  </links>
+  <citation>Citation: 'laws of distribution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03487</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:21:40+00:00</accessed>
+</term>

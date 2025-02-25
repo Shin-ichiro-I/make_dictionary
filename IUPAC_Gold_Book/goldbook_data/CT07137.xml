@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07137</id>
+  <doi>10.1351/goldbook.CT07137</doi>
+  <code>CT07137</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - curing</longtitle>
+  <title>curing</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Chemical process of converting a prepolymer or a polymer into a polymer of higher molar mass and then into a network.</text>
+      <notes>
+        <item>Curing is achieved by the induction of chemical reactions which might or might not require mixing with a chemical curing agent.</item>
+        <item>Physical aging, crystallization, physical crosslinking and post-polymerization reactions are sometimes referred to as 'curing'. Use of the term 'curing' to describe such processes is deprecated.</item>
+      </notes>
+      <links>
+        <item>
+          <title>vulcanization</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07153</url>
+        </item>
+        <item>
+          <title>vulcanization</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07153</url>
+        </item>
+        <item>
+          <title>crystallization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01434</url>
+        </item>
+        <item>
+          <title>crosslinking</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07136</url>
+        </item>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>prepolymer</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07163</url>
+        </item>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1822 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Curing (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Curing_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - پخت (شیمی) (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/پخت_(شیمی)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT07137/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT07137/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT07137/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT07137/plain</plain>
+  </links>
+  <citation>Citation: 'curing' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT07137</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:50:09+00:00</accessed>
+</term>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07409</id>
+  <doi>10.1351/goldbook.LT07409</doi>
+  <code>LT07409</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Landau–Zener model</longtitle>
+  <title>Landau–Zener model</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Within the Born–Oppenheimer approximation, a semi-classical model for the probability, P, of hopping from one electronic state to another of the same or different multiplicity P = exp(-4π2ɛ(12)^2/hν|s1 - s2|)  is the potential energy gap between the two electronic states at a surface crossing point, |s1- s2| is the difference in slopes between the intersecting potential energy curves at this point and ν is the nuclear relative velocity with which the system passes the point of closest approach.</text>
+      <notes>
+        <item>The original formalism only considered states of the same spin multiplicity.</item>
+      </notes>
+      <links>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+        <item>
+          <title>surface crossing</title>
+          <url>https://goldbook.iupac.org/terms/view/S06166</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>P = exp(-4π2ɛ(12)^2/hν|s1 - s2|) </alttext>
+          <latex>P=\exp (- \frac{4\ \pi ^{2}\ \varepsilon_{12}^{2}}{h\ \nu\ |s_{1}-s_{2}|})</latex>
+        </item>
+        <item>
+          <alttext>ɛ12</alttext>
+          <latex>ɛ_{12}</latex>
+        </item>
+        <item>
+          <alttext>|s1- s2|</alttext>
+          <latex>|s_{1}- s_{2}|</latex>
+        </item>
+        <item>
+          <alttext>ν</alttext>
+          <latex>\nu</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 362 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/LT07409/html</html>
+    <json>https://goldbook.iupac.org/terms/view/LT07409/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/LT07409/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/LT07409/plain</plain>
+  </links>
+  <citation>Citation: 'Landau–Zener model' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.LT07409</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:20:04+00:00</accessed>
+</term>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07148</id>
+  <doi>10.1351/goldbook.PT07148</doi>
+  <code>PT07148</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - protection of a reactive group</longtitle>
+  <title>protection of a reactive group</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Temporary chemical transformation of a reactive group into a group that does not react under conditions where the non-protected group reacts.</text>
+      <notes>
+        <item>For example, trimethylsilylation is a typical transformation used to protect reactive functional groups, such as hydroxy or amino groups, from their reaction with growing anionic species in anionic polymerization.</item>
+      </notes>
+      <links>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>anionic polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/A00361</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 894 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07148/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07148/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07148/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07148/plain</plain>
+  </links>
+  <citation>Citation: 'protection of a reactive group' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07148</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:35:05+00:00</accessed>
+</term>

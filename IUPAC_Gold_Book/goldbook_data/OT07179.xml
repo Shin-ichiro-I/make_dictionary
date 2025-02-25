@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07179</id>
+  <doi>10.1351/goldbook.OT07179</doi>
+  <code>OT07179</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - optically active polymer</longtitle>
+  <title>optically active polymer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Polymer capable of rotating the polarization plane of a transmitted beam of linear-polarized light.</text>
+      <notes>
+        <item>The optical activity originates from the presence of chiral elements in a polymer such as chiral centers or chiral axes due to long-range conformational order in a polymer (helicity).</item>
+      </notes>
+      <links>
+        <item>
+          <title>optical activity</title>
+          <url>https://goldbook.iupac.org/terms/view/O04303</url>
+        </item>
+        <item>
+          <title>helicity</title>
+          <url>https://goldbook.iupac.org/terms/view/H02763</url>
+        </item>
+        <item>
+          <title>optical activity</title>
+          <url>https://goldbook.iupac.org/terms/view/O04303</url>
+        </item>
+        <item>
+          <title>helicity</title>
+          <url>https://goldbook.iupac.org/terms/view/H02763</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+        <item>
+          <title>polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04712</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 900 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/OT07179/html</html>
+    <json>https://goldbook.iupac.org/terms/view/OT07179/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/OT07179/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/OT07179/plain</plain>
+  </links>
+  <citation>Citation: 'optically active polymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.OT07179</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:05:40+00:00</accessed>
+</term>

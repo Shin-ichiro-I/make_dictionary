@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02478</id>
+  <doi>10.1351/goldbook.F02478</doi>
+  <code>F02478</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - foot</longtitle>
+  <title>foot</title>
+  <index>unit</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-SI unit of length, ft = 12 in = 0.3048 m.</text>
+      <math>
+        <item>
+          <alttext>ft = 12 in = 0.3048 m</alttext>
+          <latex>\text{ft} = 12\ \text{in}=0.3048\ \text{m}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 110 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Piede (unità di misura) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Piede_(unità_di_misura)</url>
+    </item>
+    <item>
+      <title>Wikipedia - قدم (وحدة قياس) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قدم_(وحدة_قياس)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02478/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02478/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02478/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02478/plain</plain>
+  </links>
+  <citation>Citation: 'foot' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02478</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:34:58+00:00</accessed>
+</term>

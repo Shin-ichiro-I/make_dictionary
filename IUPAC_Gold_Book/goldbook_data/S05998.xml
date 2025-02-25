@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05998</id>
+  <doi>10.1351/goldbook.S05998</doi>
+  <code>S05998</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - steric factor</longtitle>
+  <title>steric factor</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A factor introduced into simple versions of the collision theory of reactions to take care of the fact that the reaction probability depends on the certain mutual orientations of the reactant molecules.</text>
+      <links>
+        <item>
+          <title>collision frequency</title>
+          <url>https://goldbook.iupac.org/terms/view/C01166</url>
+        </item>
+        <item>
+          <title>collision frequency</title>
+          <url>https://goldbook.iupac.org/terms/view/C01166</url>
+        </item>
+        <item>
+          <title>collision theory</title>
+          <url>https://goldbook.iupac.org/terms/view/C01170</url>
+        </item>
+        <item>
+          <title>collision frequency</title>
+          <url>https://goldbook.iupac.org/terms/view/C01166</url>
+        </item>
+        <item>
+          <title>collision theory</title>
+          <url>https://goldbook.iupac.org/terms/view/C01170</url>
+        </item>
+        <item>
+          <title>reaction probability</title>
+          <url>https://goldbook.iupac.org/terms/view/R05176</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2216 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 187 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Collision theory (en)</title>
+      <url>https://en.wikipedia.org/wiki/Collision_theory</url>
+    </item>
+    <item>
+      <title>Wikipedia - Steric factor (en)</title>
+      <url>https://en.wikipedia.org/wiki/Steric_factor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teori tumbukan (id)</title>
+      <url>https://id.wikipedia.org/wiki/Teori_tumbukan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoria ciocnirilor (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Teoria_ciocnirilor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teoría de las colisiones (es)</title>
+      <url>https://es.wikipedia.org/wiki/Teoría_de_las_colisiones</url>
+    </item>
+    <item>
+      <title>Wikipedia - Théorie des collisions (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Théorie_des_collisions</url>
+    </item>
+    <item>
+      <title>Wikipedia - Теорија за судирите (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Теорија_за_судирите</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05998/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05998/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05998/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05998/plain</plain>
+  </links>
+  <citation>Citation: 'steric factor' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05998</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:25:20+00:00</accessed>
+</term>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03853</id>
+  <doi>10.1351/goldbook.M03853</doi>
+  <code>M03853</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mesopore in catalysis</longtitle>
+  <title>mesopore</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Pore of intermediate size. [Those with widths exceeding about 0.05 µm or 50 nm(500 Å) are called macropores; those with widths not exceeding about 2 nm(20 Å) are called micropores].</text>
+      <contexts>
+        <in>
+          <item>catalysis</item>
+        </in>
+      </contexts>
+      <math>
+        <item>
+          <alttext>0.05 µm</alttext>
+          <latex>0.05\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+        <item>
+          <alttext>50 nm</alttext>
+          <latex>50\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>500 Å</alttext>
+          <latex>500\ \mathring{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>2 nm</alttext>
+          <latex>2\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>20 Å</alttext>
+          <latex>20\ \mathring{\text{A}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 585 (https://doi.org/10.1351/pac197231040577)</item>
+        <item>PAC, 1976, 46, 71. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units - Appendix II. Definitions, Terminology and Symbols in Colloid and Surface Chemistry. Part II: Heterogeneous Catalysis' on page 79 (https://doi.org/10.1351/pac197646010071)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Heterogene Katalyse (de)</title>
+      <url>https://de.wikipedia.org/wiki/Heterogene_Katalyse</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nanoporos (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Nanoporos</url>
+    </item>
+    <item>
+      <title>Wikipedia - Porosità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Porosità</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03853/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03853/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03853/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03853/plain</plain>
+  </links>
+  <citation>Citation: 'mesopore' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03853</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:39:23+00:00</accessed>
+</term>

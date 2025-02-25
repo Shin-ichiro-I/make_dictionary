@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03749</id>
+  <doi>10.1351/goldbook.M03749</doi>
+  <code>M03749</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mass spectrum</longtitle>
+  <title>mass spectrum</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A spectrum which is obtained when a beam of ions is separated according to the mass-to-charge (m/z) ratios of the ionic species contained within it.</text>
+      <math>
+        <item>
+          <alttext>m/z</alttext>
+          <latex>\frac{m}{z}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 204 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2200 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1550 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Espectro (es)</title>
+      <url>https://es.wikipedia.org/wiki/Espectro</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mass spectrum (en)</title>
+      <url>https://en.wikipedia.org/wiki/Mass_spectrum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mass spectrum (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Mass_spectrum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Massaspektrometria (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Massaspektrometria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Massespektrum (no)</title>
+      <url>https://no.wikipedia.org/wiki/Massespektrum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spectrum (en)</title>
+      <url>https://en.wikipedia.org/wiki/Spectrum</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spectrum (physical sciences) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Spectrum_(physical_sciences)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Widmo masowe (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Widmo_masowe</url>
+    </item>
+    <item>
+      <title>Wikipedia - شەبەنگە بارستایی (ckb)</title>
+      <url>https://ckb.wikipedia.org/wiki/شەبەنگە_بارستایی</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03749/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03749/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03749/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03749/plain</plain>
+  </links>
+  <citation>Citation: 'mass spectrum' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03749</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:34:20+00:00</accessed>
+</term>

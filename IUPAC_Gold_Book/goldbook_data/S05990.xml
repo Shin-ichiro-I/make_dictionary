@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05990</id>
+  <doi>10.1351/goldbook.S05990</doi>
+  <code>S05990</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stereoselective synthesis</longtitle>
+  <title>stereoselective synthesis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A chemical reaction (or reaction sequence) in which one or more new elements of chirality are formed in a substrate molecule and which produces the stereoisomeric (enantiomeric or diastereoisomeric) products in unequal amounts. Traditionally called asymmetric synthesis.</text>
+      <links>
+        <item>
+          <title>stereoselectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05991</url>
+        </item>
+        <item>
+          <title>stereoselectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05991</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>stereoselectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05991</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>asymmetric synthesis</title>
+          <url>https://goldbook.iupac.org/terms/view/A00484</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2219 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Asimetrična sinteza (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Asimetrična_sinteza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantioselective synthesis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Enantioselective_synthesis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiyoselektif sentez (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Enantiyoselektif_sentez</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sintesi asimmetrica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Sintesi_asimmetrica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sinteză asimetrică (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Sinteză_asimetrică</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stereoselektive Synthese (de)</title>
+      <url>https://de.wikipedia.org/wiki/Stereoselektive_Synthese</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sydnone (en)</title>
+      <url>https://en.wikipedia.org/wiki/Sydnone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Síntesis asimétrica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Síntesis_asimétrica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стереоселективный синтез (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Стереоселективный_синтез</url>
+    </item>
+    <item>
+      <title>Wikipedia - اصطناع لامتناظر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/اصطناع_لامتناظر</url>
+    </item>
+    <item>
+      <title>Wikipedia - سنتز نامتقارن (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/سنتز_نامتقارن</url>
+    </item>
+    <item>
+      <title>Wikipedia - シドノン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/シドノン</url>
+    </item>
+    <item>
+      <title>Wikipedia - 不对称合成 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/不对称合成</url>
+    </item>
+    <item>
+      <title>Wikipedia - 悉尼酮 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/悉尼酮</url>
+    </item>
+    <item>
+      <title>Wikipedia - 비대칭 합성 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/비대칭_합성</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05990/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05990/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05990/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05990/plain</plain>
+  </links>
+  <citation>Citation: 'stereoselective synthesis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05990</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:25:02+00:00</accessed>
+</term>

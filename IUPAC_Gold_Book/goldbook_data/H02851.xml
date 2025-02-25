@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02851</id>
+  <doi>10.1351/goldbook.H02851</doi>
+  <code>H02851</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - homolysis (homolytic)</longtitle>
+  <title>homolysis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The cleavage of a bond ('homolytic cleavage' or 'homolytic fission') so that each of the molecular fragments between which the bond is broken retains one of the bonding electrons. A unimolecular reaction involving homolysis of a bond (not forming part of a cyclic structure) in a molecular entity containing an even number of (paired) electrons results in the formation of two radicals: [image: Not defined] It is the reverse of colligation. Homolysis is also commonly a feature of bimolecular substitution reactions (and of other reactions) involving radicals and molecules.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02851.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>bond-dissociation energy</title>
+          <url>https://goldbook.iupac.org/terms/view/B00699</url>
+        </item>
+        <item>
+          <title>heterolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/H02809</url>
+        </item>
+        <item>
+          <title>bond-dissociation energy</title>
+          <url>https://goldbook.iupac.org/terms/view/B00699</url>
+        </item>
+        <item>
+          <title>heterolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/H02809</url>
+        </item>
+        <item>
+          <title>unimolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>colligation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01153</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1122 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Collision-induced dissociation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Collision-induced_dissociation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dissociació induïda per col·lisió (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Dissociació_induïda_per_col·lisió</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homoliza (hr)</title>
+      <url>https://hr.wikipedia.org/wiki/Homoliza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homoliza (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Homoliza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homolyse (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Homolyse</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homolysis (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Homolysis_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homolýza (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Homolýza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homòlisi (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Homòlisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kollisionsinduzierte Dissoziation (de)</title>
+      <url>https://de.wikipedia.org/wiki/Kollisionsinduzierte_Dissoziation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kollisjonsindusert dissosiasjon (no)</title>
+      <url>https://no.wikipedia.org/wiki/Kollisjonsindusert_dissosiasjon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Scissione (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Scissione_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Szabad gyökök (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Szabad_gyökök</url>
+    </item>
+    <item>
+      <title>Wikipedia - Đồng ly (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Đồng_ly</url>
+    </item>
+    <item>
+      <title>Wikipedia - Гомоліз (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Гомоліз</url>
+    </item>
+    <item>
+      <title>Wikipedia - انحلال تماثلي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/انحلال_تماثلي</url>
+    </item>
+    <item>
+      <title>Wikipedia - حل مثلي (كيمياء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حل_مثلي_(كيمياء)</url>
+    </item>
+    <item>
+      <title>Wikipedia - சமப்பகுப்பு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/சமப்பகுப்பு</url>
+    </item>
+    <item>
+      <title>Wikipedia - ホモリシス (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ホモリシス</url>
+    </item>
+    <item>
+      <title>Wikipedia - 氯代烷 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/氯代烷</url>
+    </item>
+    <item>
+      <title>Wikipedia - 溴代烷 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/溴代烷</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02851/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02851/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02851/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02851/plain</plain>
+  </links>
+  <citation>Citation: 'homolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02851</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:53:33+00:00</accessed>
+</term>

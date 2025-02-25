@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00273</id>
+  <doi>10.1351/goldbook.A00273</doi>
+  <code>A00273</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - amine oxides</longtitle>
+  <title>amine oxides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds derived from tertiary amines by the attachment of one oxygen atom to the nitrogen atom R3N+–O−. By extension the term includes the analogous derivatives of primary and secondary amines.</text>
+      <links>
+        <item>
+          <title>amines</title>
+          <url>https://goldbook.iupac.org/terms/view/A00274</url>
+        </item>
+        <item>
+          <title>attachment</title>
+          <url>https://goldbook.iupac.org/terms/view/A00512</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1316 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Amiinioksidit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Amiinioksidit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amin-oxid (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Amin-oxid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Amine oxide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Amine_oxide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ammino ossido (it)</title>
+      <url>https://it.wikipedia.org/wiki/Ammino_ossido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Zwitterion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Zwitterion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tlenki amin (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Tlenki_amin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Óxido de amina (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Óxido_de_amina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Оксиди амінів (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Оксиди_амінів</url>
+    </item>
+    <item>
+      <title>Wikipedia - Оксиды аминов (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Оксиды_аминов</url>
+    </item>
+    <item>
+      <title>Wikipedia - أكسيد الأمين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أكسيد_الأمين</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00273/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00273/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00273/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00273/plain</plain>
+  </links>
+  <citation>Citation: 'amine oxides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00273</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:50:58+00:00</accessed>
+</term>

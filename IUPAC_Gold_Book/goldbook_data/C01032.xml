@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01032</id>
+  <doi>10.1351/goldbook.C01032</doi>
+  <code>C01032</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical potential, μB</longtitle>
+  <title>chemical potential</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The chemical potential of a substance B in a mixture of substances B, C ... is related to the Gibbs energy G of the mixture by: µB = (∂G/∂nB)T,p,nC≠B is the thermodynamic temperature, p is the pressure and nB, nC, ... are the amounts of substance of B, C, ... . For a pure substance B, the chemical potential µB* is given by: µB* = G*/nB = Gm* is the molar Gibbs energy, and where the superscript * attached to a symbol denotes the property of the pure substance. The superscript Θ or ° attached to a symbol may be used to denote a standard thermodynamic quantity.</text>
+      <links>
+        <item>
+          <title>standard chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/S05908</url>
+        </item>
+        <item>
+          <title>standard chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/S05908</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>standard chemical potential</title>
+          <url>https://goldbook.iupac.org/terms/view/S05908</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>standard thermodynamic quantity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05927</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>G</alttext>
+          <latex>G</latex>
+        </item>
+        <item>
+          <alttext>µB = (∂G/∂nB)T,p,nC≠B</alttext>
+          <latex>\mu _{\text{B}}=(\frac{\partial G}{\partial n_{\text{B}}})_{T,p,n_{\text{C}\neq \text{B}}}</latex>
+        </item>
+        <item>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+        <item>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+        <item>
+          <alttext>nB</alttext>
+          <latex>n_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>nC</alttext>
+          <latex>n_{\text{C}}</latex>
+        </item>
+        <item>
+          <alttext>µB*</alttext>
+          <latex>\mu _{\text{B}}^{*}</latex>
+        </item>
+        <item>
+          <alttext>µB* = G*/nB = Gm*</alttext>
+          <latex>\mu _{\text{B}}^{*}=\frac{G^{*}}{n_{\text{B}}}=G_{\text{m}}^{*}</latex>
+        </item>
+        <item>
+          <alttext>Gm*</alttext>
+          <latex>G_{\text{m}}^{*}</latex>
+        </item>
+        <item>
+          <type>quantity</type>
+          <alttext>Θ</alttext>
+          <latex>^{⦵}</latex>
+        </item>
+        <item>
+          <type>symbol</type>
+          <alttext>°</alttext>
+          <latex>^{\circ}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 49 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1994, 66, 533. 'Standard quantities in chemical thermodynamics. Fugacities, activities and equilibrium constants for pure and mixed phases (IUPAC Recommendations 1994)' on page 535 (https://doi.org/10.1351/pac199466030533)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 966 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Energi bebas Gibbs (id)</title>
+      <url>https://id.wikipedia.org/wiki/Energi_bebas_Gibbs</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gibbs free energy (en)</title>
+      <url>https://en.wikipedia.org/wiki/Gibbs_free_energy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gibsova slobodna energija (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Gibsova_slobodna_energija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gibsova slobodna energija (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Gibsova_slobodna_energija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Partielle molare Größe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Partielle_molare_Größe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Potenziale chimico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Potenziale_chimico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ελεύθερη ενέργεια Γκιμπς (el)</title>
+      <url>https://el.wikipedia.org/wiki/Ελεύθερη_ενέργεια_Γκιμπς</url>
+    </item>
+    <item>
+      <title>Wikipedia - Обговорення:Хімічний потенціал (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Обговорення:Хімічний_потенціал</url>
+    </item>
+    <item>
+      <title>Wikipedia - Химический потенциал (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Химический_потенциал</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01032/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01032/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01032/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01032/plain</plain>
+  </links>
+  <citation>Citation: 'chemical potential' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01032</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:30:16+00:00</accessed>
+</term>

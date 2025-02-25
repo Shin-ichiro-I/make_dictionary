@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02874</id>
+  <doi>10.1351/goldbook.H02874</doi>
+  <code>H02874</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hybridization</longtitle>
+  <title>hybridization</title>
+  <abbrevs>
+    <item>DNA</item>
+    <item>RNA</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Linear combination of atomic orbitals on an atom. Hybrid orbitals are often used in organic chemistry to describe the bonding molecules containing tetrahedral (sp 3), trigonal (sp 2) and digonal (sp) atoms.</text>
+      <links>
+        <item>
+          <title>atomic orbitals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00500</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>sp 3</alttext>
+          <latex>\mathrm{sp}^{3}</latex>
+        </item>
+        <item>
+          <alttext>sp 2</alttext>
+          <latex>\mathrm{sp}^{2}</latex>
+        </item>
+        <item>
+          <alttext>sp</alttext>
+          <latex>\mathrm{sp}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1122 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+    <item>
+      <id>2</id>
+      <text>The formation of stable duplexes of two DNA and/or RNA (complementary) strands via Watson-Crick base pairing used for locating or identifying nucleotide sequences and to establish the effective transfer of nucleic acid material to a new host.</text>
+      <links>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>base pairing</title>
+          <url>https://goldbook.iupac.org/terms/view/B00607</url>
+        </item>
+        <item>
+          <title>nucleotide</title>
+          <url>https://goldbook.iupac.org/terms/view/N04255</url>
+        </item>
+        <item>
+          <title>nucleic acid</title>
+          <url>https://goldbook.iupac.org/terms/view/N04245</url>
+        </item>
+        <item>
+          <title>host (in biotechnology)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02859</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>The formation of a novel diploid organism either by sexual processes or by protoplast fusion.</text>
+      <links>
+        <item>
+          <title>protoplast</title>
+          <url>https://goldbook.iupac.org/terms/view/P04917</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' Nagel, B.;Dellweg, H.;Gierasch, L.M.; Pure and Applied Chemistry 1992 64(1) 143</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussioni progetto:Chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussioni_progetto:Chimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Orbitale atomico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Orbitale_atomico</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02874/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02874/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02874/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02874/plain</plain>
+  </links>
+  <citation>Citation: 'hybridization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02874</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:54:46+00:00</accessed>
+</term>

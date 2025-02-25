@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00546</id>
+  <doi>10.1351/goldbook.A00546</doi>
+  <code>A00546</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - axial (equatorial)</longtitle>
+  <title>axial (equatorial)</title>
+  <contains>pseudo-axial, pseudo-equatorial, quasi-axial, quasi-equatorial</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In the chair form of cyclohexane ring bonds to ring atoms (and molecular entities attached to such bonds) are termed axial or equatorial according to whether the bonds make a relatively large or small angle, respectively, with the plane containing or passing closest to a majority of the ring atoms. Thus the axial bonds are approximately parallel to the C3 axis and the equatorial bonds approximately parallel to two of the ring bonds. These terms are also used for the chair form of other saturated six-membered rings. The corresponding bonds occurring at the allylic positions in mono-unsaturated six-membered rings are termed pseudo-axial (or quasi-axial) and pseudo-equatorial (or quasi-equatorial). The terms axial and equatorial have similarly been used in relation to the puckered conformation of cyclobutane, crownconformer of cyclooctane, etc. and the terms pseudo-axial and pseudo-equatorial in the context of the non-planar structures of cyclopentane and cycloheptane. [image: Not defined]./A/A00415.html" class="internal-link"&gt;apical (basal, equatorial) for an alternative use of axial and equatorial with bipyramidal structures.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00546.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>equatorial</title>
+          <url>https://goldbook.iupac.org/terms/view/E02174</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>crown</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>conformer</title>
+          <url>https://goldbook.iupac.org/terms/view/C01262</url>
+        </item>
+        <item>
+          <title>equatorial</title>
+          <url>https://goldbook.iupac.org/terms/view/E02174</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>conformation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01258</url>
+        </item>
+        <item>
+          <title>crown</title>
+          <url>https://goldbook.iupac.org/terms/view/C01421</url>
+        </item>
+        <item>
+          <title>conformer</title>
+          <url>https://goldbook.iupac.org/terms/view/C01262</url>
+        </item>
+        <item>
+          <title>apical (basal, equatorial)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00415</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2200 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cyklohexan (da)</title>
+      <url>https://da.wikipedia.org/wiki/Cyklohexan</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00546/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00546/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00546/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00546/plain</plain>
+  </links>
+  <citation>Citation: 'axial (equatorial)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00546</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:04:12+00:00</accessed>
+</term>

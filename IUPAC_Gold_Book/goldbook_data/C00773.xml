@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00773</id>
+  <doi>10.1351/goldbook.C00773</doi>
+  <code>C00773</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - calcination</longtitle>
+  <title>calcination</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Heating to high temperatures in air or oxygen.</text>
+      <notes>
+        <item>The term is most likely to be applied to a step in the preparation of a catalyst.</item>
+        <item>In sol-gel processing the term applies to the heating of a polymer network containing metal compounds to convert it into an oxide network.</item>
+        <item>Modified from previous definition. The definition proposed here is more explicit about the elevated temperatures that are required.</item>
+      </notes>
+      <links>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>sol</title>
+          <url>https://goldbook.iupac.org/terms/view/S05727</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+        <item>
+          <title>polymer network</title>
+          <url>https://goldbook.iupac.org/terms/view/P04742</url>
+        </item>
+        <item>
+          <title>oxide network</title>
+          <url>https://goldbook.iupac.org/terms/view/OT07569</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1806 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Calcination (en)</title>
+      <url>https://en.wikipedia.org/wiki/Calcination</url>
+    </item>
+    <item>
+      <title>Wikipedia - Calcinazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Calcinazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kalcinacija (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Kalcinacija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kalsinasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Kalsinasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kalsinasyon (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Kalsinasyon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kalzinierung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Kalzinierung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Обговорення Вікіпедії:Проєкт:Хімія (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Обговорення_Вікіпедії:Проєкт:Хімія</url>
+    </item>
+    <item>
+      <title>Wikipedia - ভস্মীকরণ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ভস্মীকরণ</url>
+    </item>
+    <item>
+      <title>Wikipedia - 煅燒 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/煅燒</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00773/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00773/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00773/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00773/plain</plain>
+  </links>
+  <citation>Citation: 'calcination' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00773</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:18:03+00:00</accessed>
+</term>

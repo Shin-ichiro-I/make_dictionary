@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04720</id>
+  <doi>10.1351/goldbook.P04720</doi>
+  <code>P04720</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polyaddition</longtitle>
+  <title>polyaddition</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A polymerization in which the growth of polymer chains proceeds by addition reactions between molecules of all degrees of polymerization.</text>
+      <notes>
+        <item>The growth steps are expressed by: Px + Py → Px+y {x} ∈ {1,2,\,...∞};{y} ∈ {1,2,\,...∞} where Px and P_y denote chains of degrees of polymerization x and y, respectively.</item>
+        <item>The earlier term 'addition polymerization' embraced both the current concepts of 'polyaddition' and 'chain polymerization', but did not include 'condensative chain polymerization (in polymers)'.</item>
+      </notes>
+      <links>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>chain polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00958</url>
+        </item>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>chain polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00958</url>
+        </item>
+        <item>
+          <title>chains (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00946</url>
+        </item>
+        <item>
+          <title>degrees of polymerization (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01569</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>Px + Py → Px+y {x} ∈ {1,2,\,...∞};{y} ∈ {1,2,\,...∞}</alttext>
+          <latex>\text{P}_{x} + \text{P}_{y}\rightarrow \text{P}_{x + y}\hspace{35pt} \{x\}\in \{1,2, \dots \infty\}; \{y\}\in \{1,2, \dots \infty \}</latex>
+        </item>
+        <item>
+          <alttext>Px</alttext>
+          <latex>\text{P}_{x}</latex>
+        </item>
+        <item>
+          <alttext>P_y</alttext>
+          <latex>\text{P}_{y}</latex>
+        </item>
+        <item>
+          <alttext>x</alttext>
+          <latex>x</latex>
+        </item>
+        <item>
+          <alttext>y</alttext>
+          <latex>y</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2307 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Dyskusja:Polimeryzacja addycyjna (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Dyskusja:Polimeryzacja_addycyjna</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimeryzacja addycyjna (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Polimeryzacja_addycyjna</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polyaddition (de)</title>
+      <url>https://de.wikipedia.org/wiki/Polyaddition</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polyaddition (en)</title>
+      <url>https://en.wikipedia.org/wiki/Polyaddition</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stufenwachstumsreaktion (de)</title>
+      <url>https://de.wikipedia.org/wiki/Stufenwachstumsreaktion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Polyaddition (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Polyaddition</url>
+    </item>
+    <item>
+      <title>Wikipedia - البلمرة بالإضافة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/البلمرة_بالإضافة</url>
+    </item>
+    <item>
+      <title>Wikipedia - بلمرة بالإضافة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بلمرة_بالإضافة</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04720/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04720/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04720/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04720/plain</plain>
+  </links>
+  <citation>Citation: 'polyaddition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04720</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:25:48+00:00</accessed>
+</term>

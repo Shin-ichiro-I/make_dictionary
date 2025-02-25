@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03997</id>
+  <doi>10.1351/goldbook.M03997</doi>
+  <code>M03997</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molecular rearrangement</longtitle>
+  <title>molecular rearrangement</title>
+  <contains>principle of minimum structural change</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The term is traditionally applied to any reaction that involves a change of connectivity (sometimes including hydrogen), and violates the so-called 'principle of minimum structural change'. According to this oversimplified principle, chemical species do not isomerize in the course of a transformation, e.g. substitution, or the change of a functional group of a chemical species into a different functional group is not expected to involve the making or breaking of more than the minimum number of bonds required to effect that transformation. For example, any new substituents are expected to enter the precise positions previously occupied by displaced groups. The simplest type of rearrangement is an intramolecular reaction in which the product is isomeric with the reactant (one type of 'intramolecularisomerization'). An example is the first step of the Claisen rearrangement: [image: Not defined] The definition of molecular rearrangement includes changes in which there is a migration of an atom or bond (unexpected on the basis of the principle of minimum structural change), as in the reaction: [image: Not defined] where the rearrangement stage can formally be represented as the '1,2-shift' of hydride between adjacent carbon atoms in the carbocation: [image: Not defined] Such migrations occur also in radicals, e.g.: [image: Not defined] The definition also includes reactions in which an entering group takes up a different position from the leaving group, with accompanying bond migration. An example of the latter type is the 'allylic rearrangement': [image: Not defined] A distinction is made between 'intramolecular rearrangements' (or 'true molecular rearrangements') and 'intermolecular rearrangements' (or 'apparent rearrangements'). In the former case the atoms and groups that are common to a reactant and a product never separate into independent fragments during the rearrangement stage (i.e. the change is intramolecular), whereas in an 'intermolecularrearrangement' a migrating group is completely free from the parent molecule and is re-attached to a different position in a subsequent step, as in the Orton reaction: [image: Not defined] </text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/M03997-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/M03997-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/M03997-3.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/M03997-4.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/M03997-5.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/M03997-6.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>connectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01274</url>
+        </item>
+        <item>
+          <title>functional group</title>
+          <url>https://goldbook.iupac.org/terms/view/F02555</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>rearrangement</title>
+          <url>https://goldbook.iupac.org/terms/view/R05194</url>
+        </item>
+        <item>
+          <title>isomeric</title>
+          <url>https://goldbook.iupac.org/terms/view/I03291</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>isomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03295</url>
+        </item>
+        <item>
+          <title>hydride</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>carbocation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00817</url>
+        </item>
+        <item>
+          <title>bond migration</title>
+          <url>https://goldbook.iupac.org/terms/view/M03920</url>
+        </item>
+        <item>
+          <title>rearrangement stage</title>
+          <url>https://goldbook.iupac.org/terms/view/R05196</url>
+        </item>
+        <item>
+          <title>intermolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03098</url>
+        </item>
+        <item>
+          <title>connectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01274</url>
+        </item>
+        <item>
+          <title>functional group</title>
+          <url>https://goldbook.iupac.org/terms/view/F02555</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>rearrangement</title>
+          <url>https://goldbook.iupac.org/terms/view/R05194</url>
+        </item>
+        <item>
+          <title>isomeric</title>
+          <url>https://goldbook.iupac.org/terms/view/I03291</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>isomerization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03295</url>
+        </item>
+        <item>
+          <title>hydride</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>carbocation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00817</url>
+        </item>
+        <item>
+          <title>migration</title>
+          <url>https://goldbook.iupac.org/terms/view/M03920</url>
+        </item>
+        <item>
+          <title>rearrangement stage</title>
+          <url>https://goldbook.iupac.org/terms/view/R05196</url>
+        </item>
+        <item>
+          <title>intermolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03098</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>substitution</title>
+          <url>https://goldbook.iupac.org/terms/view/S06078</url>
+        </item>
+        <item>
+          <title>entering group</title>
+          <url>https://goldbook.iupac.org/terms/view/E02130</url>
+        </item>
+        <item>
+          <title>leaving group</title>
+          <url>https://goldbook.iupac.org/terms/view/L03493</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1142 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Diskussion:Chemische Reaktion (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Chemische_Reaktion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reazione di riarrangiamento (it)</title>
+      <url>https://it.wikipedia.org/wiki/Reazione_di_riarrangiamento</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03997/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03997/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03997/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03997/plain</plain>
+  </links>
+  <citation>Citation: 'molecular rearrangement' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03997</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:47:07+00:00</accessed>
+</term>

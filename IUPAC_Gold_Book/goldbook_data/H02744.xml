@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02744</id>
+  <doi>10.1351/goldbook.H02744</doi>
+  <code>H02744</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - harmonic frequency generation</longtitle>
+  <title>harmonic frequency generation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Production of coherent radiation of frequency kν(k = 2, 3, ...) from coherent radiation of frequency. In general, this effect is obtained through the interaction of laser light with a suitable optical medium with non-linear polarizability. The case k = 2 is referred to as frequency doubling, k = 3 is frequency tripling and k = 4 is frequency quadrupling. Even higher integer values of k are possible.</text>
+      <links>
+        <item>
+          <title>coherent radiation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01130</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>polarizability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04711</url>
+        </item>
+        <item>
+          <title>frequency doubling</title>
+          <url>https://goldbook.iupac.org/terms/view/F02527</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Coherent radiation frequency</meaning>
+          <type>quantity</type>
+          <alttext>kν</alttext>
+          <latex>k\ \nu </latex>
+        </item>
+        <item>
+          <meaning>Harmonic frequency factor</meaning>
+          <type>numeric value</type>
+          <alttext>k = 2, 3, ...</alttext>
+          <latex>k=2,3,...</latex>
+        </item>
+        <item>
+          <meaning>Harmonic frequency factor</meaning>
+          <type>numeric value</type>
+          <alttext>k = 2</alttext>
+          <latex>k=2</latex>
+        </item>
+        <item>
+          <meaning>Harmonic frequency factor</meaning>
+          <type>numeric value</type>
+          <alttext>k = 3</alttext>
+          <latex>k=3</latex>
+        </item>
+        <item>
+          <meaning>Harmonic frequency factor</meaning>
+          <type>numeric value</type>
+          <alttext>k = 4</alttext>
+          <latex>k=4</latex>
+        </item>
+        <item>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2245 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02744/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02744/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02744/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02744/plain</plain>
+  </links>
+  <citation>Citation: 'harmonic frequency generation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02744</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:48:01+00:00</accessed>
+</term>

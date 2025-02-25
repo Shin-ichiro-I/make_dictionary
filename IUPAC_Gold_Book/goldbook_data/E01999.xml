@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01999</id>
+  <doi>10.1351/goldbook.E01999</doi>
+  <code>E01999</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electron ionization in mass spectrometry</longtitle>
+  <title>electron ionization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This is the term used to describe ionization of any species by electrons. The process may, for example, be written:   for atoms or molecules: M + e → M + · + 2 e   for radicals: M· + e → M+ + 2e   The term 'electron impact' should not be used.</text>
+      <contexts>
+        <in>
+          <item>mass spectrometry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>photoionization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04620</url>
+        </item>
+        <item>
+          <title>photoionization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04620</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>photoionization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04620</url>
+        </item>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+        <item>
+          <title>radical ion</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>M + e → M + · + 2 e</alttext>
+          <latex>\text{M} + e \rightarrow \text{M}^{+\cdot } + 2e</latex>
+        </item>
+        <item>
+          <type>reaction</type>
+          <alttext>M· + e → M+ + 2e</alttext>
+          <latex>\text{M}^{\cdot}  + e \rightarrow \text{M}^{+} + 2e</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1547 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Electron ionization (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electron_ionization</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronová ionizace (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Elektronová_ionizace</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mass spectral interpretation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Mass_spectral_interpretation</url>
+    </item>
+    <item>
+      <title>Wikipedia - 质谱解析 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/质谱解析</url>
+    </item>
+    <item>
+      <title>Wikipedia - 전자 이온화 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/전자_이온화</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01999/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01999/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01999/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01999/plain</plain>
+  </links>
+  <citation>Citation: 'electron ionization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01999</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:13:44+00:00</accessed>
+</term>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02782</id>
+  <doi>10.1351/goldbook.H02782</doi>
+  <code>H02782</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - henry</longtitle>
+  <title>henry</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>SI derived unit of inductance, H = V A^-1 s = m^2 kg s^-2 A^-2.</text>
+      <math>
+        <item>
+          <meaning>Henry</meaning>
+          <type>unit</type>
+          <alttext>H = V A^-1 s = m^2 kg s^-2 A^-2</alttext>
+          <latex>\pu{H} = \pu{V A-1 s} = \pu{m2 kg s-2 A-2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 72 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 975 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Henry (unità di misura) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Henry_(unità_di_misura)</url>
+    </item>
+    <item>
+      <title>Wikipedia - هنري (وحدة) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/هنري_(وحدة)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02782/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02782/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02782/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02782/plain</plain>
+  </links>
+  <citation>Citation: 'henry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02782</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:50:05+00:00</accessed>
+</term>

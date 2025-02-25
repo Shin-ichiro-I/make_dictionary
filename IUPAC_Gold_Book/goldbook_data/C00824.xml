@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00824</id>
+  <doi>10.1351/goldbook.C00824</doi>
+  <code>C00824</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbon black</longtitle>
+  <title>carbon black</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An industrially manufactured colloidal carbon material in the form of spheres and of their fused aggregates with sizes below 1000 nm.</text>
+      <notes>
+        <item>Carbon black is a commercial product manufactured by thermal decomposition, including detonation, or by incomplete combustion of carbon hydrogen compounds and has a well-defined morphology with a minimum content of tars or other extraneous materials. For historical reasons, however, carbon black is popularly but incorrectly regarded as a form of soot. In fact, in many languages, the same word is used to designate both materials. Carbon black is manufactured under controlled conditions, whereas soot is randomly formed. They can be distinguished on the basis of tar, ash content and impurities. Attempts in the literature to create a general term, 'aciniform carbon', which would cover both carbon black and soot, are not yet generally accepted.</item>
+      </notes>
+      <links>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+        <item>
+          <title>morphology</title>
+          <url>https://goldbook.iupac.org/terms/view/MT07285</url>
+        </item>
+        <item>
+          <title>soot</title>
+          <url>https://goldbook.iupac.org/terms/view/S05768</url>
+        </item>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+        <item>
+          <title>morphology</title>
+          <url>https://goldbook.iupac.org/terms/view/MT07285</url>
+        </item>
+        <item>
+          <title>soot</title>
+          <url>https://goldbook.iupac.org/terms/view/S05768</url>
+        </item>
+        <item>
+          <title>colloidal carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/C01173</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>1000 nm</alttext>
+          <latex>1000\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2178 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 479 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Nero di carbone (it)</title>
+      <url>https://it.wikipedia.org/wiki/Nero_di_carbone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Noir de carbone (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Noir_de_carbone</url>
+    </item>
+    <item>
+      <title>Wikipedia - カーボンブラック (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/カーボンブラック</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00824/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00824/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00824/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00824/plain</plain>
+  </links>
+  <citation>Citation: 'carbon black' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00824</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:20:30+00:00</accessed>
+</term>

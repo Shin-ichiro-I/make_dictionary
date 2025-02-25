@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06146</id>
+  <doi>10.1351/goldbook.S06146</doi>
+  <code>S06146</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - supersaturation</longtitle>
+  <title>supersaturation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In chemistry, an unstable system which has a greater concentration of a material in solution than would exist at equilibrium is said to be supersaturated.</text>
+      <links>
+        <item>
+          <title>unstable</title>
+          <url>https://goldbook.iupac.org/terms/view/U06569</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>In meteorology, supersaturation of an air mass with respect to H2O vapour is of special interest. It is the saturation ratio minus one, or the percent supersaturation is the percentrelative humidity minus 100.</text>
+      <links>
+        <item>
+          <title>saturation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05472</url>
+        </item>
+        <item>
+          <title>percent</title>
+          <url>https://goldbook.iupac.org/terms/view/P04483</url>
+        </item>
+        <item>
+          <title>relative humidity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05267</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of atmospheric chemistry terms (Recommendations 1990)' Calvert, J.G.; Pure and Applied Chemistry 1990 62(11) 2167</sources>
+  <seealso/>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Soluzione sovrasatura (it)</title>
+      <url>https://it.wikipedia.org/wiki/Soluzione_sovrasatura</url>
+    </item>
+    <item>
+      <title>Wikipedia - تشبع فائق (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تشبع_فائق</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06146/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06146/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06146/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06146/plain</plain>
+  </links>
+  <citation>Citation: 'supersaturation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06146</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:32:16+00:00</accessed>
+</term>

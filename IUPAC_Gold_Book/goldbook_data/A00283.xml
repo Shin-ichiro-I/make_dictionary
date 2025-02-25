@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00283</id>
+  <doi>10.1351/goldbook.A00283</doi>
+  <code>A00283</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - amino sugars</longtitle>
+  <title>amino sugars</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Monosaccharides having one alcoholic hydroxy group (commonly but not necessarily in position 2) replaced by an amino group; systematically known as x-amino-x-deoxymonosaccharides. (Glycosylamines are excluded.),E.g. d-glucosamine or 2-amino-2-deoxy-d-glucopyranose. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00283.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>monosaccharides</title>
+          <url>https://goldbook.iupac.org/terms/view/M04021</url>
+        </item>
+        <item>
+          <title>monosaccharides</title>
+          <url>https://goldbook.iupac.org/terms/view/M04021</url>
+        </item>
+        <item>
+          <title>Glycosylamines</title>
+          <url>https://goldbook.iupac.org/terms/view/G02663</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1317 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aminoazucre (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Aminoazucre</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aminocukry (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Aminocukry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aminosokerit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Aminosokerit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glicosilamina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Glicosilamina</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00283/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00283/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00283/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00283/plain</plain>
+  </links>
+  <citation>Citation: 'amino sugars' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00283</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:51:23+00:00</accessed>
+</term>

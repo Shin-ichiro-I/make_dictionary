@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00720</id>
+  <doi>10.1351/goldbook.B00720</doi>
+  <code>B00720</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - branch (side chain, pendant chain) in polymers</longtitle>
+  <title>branch (side chain, pendant chain)</title>
+  <contains>long-chain branch, short-chain branch</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An oligomeric or polymeric offshoot from a macromolecular chain.</text>
+      <notes>
+        <item>An oligomeric branch may be termed a short-chain branch.</item>
+        <item>A polymeric branch may be termed a long-chain branch.</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>polymers</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>oligomeric</title>
+          <url>https://goldbook.iupac.org/terms/view/O04286</url>
+        </item>
+        <item>
+          <title>polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+        <item>
+          <title>oligomeric</title>
+          <url>https://goldbook.iupac.org/terms/view/O04286</url>
+        </item>
+        <item>
+          <title>polymeric</title>
+          <url>https://goldbook.iupac.org/terms/view/M03667</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2287. 'Glossary of basic terms in polymer science (IUPAC Recommendations 1996)' on page 2297 (https://doi.org/10.1351/pac199668122287)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Bočni lanac (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Bočni_lanac</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bočni lanac (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Bočni_lanac</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bočni lanac (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Bočni_lanac</url>
+    </item>
+    <item>
+      <title>Wikipedia - Branching (polymer chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Branching_(polymer_chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cadea lateral (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Cadea_lateral</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cadena lateral (es)</title>
+      <url>https://es.wikipedia.org/wiki/Cadena_lateral</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mạch nhánh (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Mạch_nhánh</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rantai samping (id)</title>
+      <url>https://id.wikipedia.org/wiki/Rantai_samping</url>
+    </item>
+    <item>
+      <title>Wikipedia - Side chain (en)</title>
+      <url>https://en.wikipedia.org/wiki/Side_chain</url>
+    </item>
+    <item>
+      <title>Wikipedia - Łańcuch atomów (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Łańcuch_atomów</url>
+    </item>
+    <item>
+      <title>Wikipedia - Πλευρική αλυσίδα (el)</title>
+      <url>https://el.wikipedia.org/wiki/Πλευρική_αλυσίδα</url>
+    </item>
+    <item>
+      <title>Wikipedia - 側鎖 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/側鎖</url>
+    </item>
+    <item>
+      <title>Wikipedia - 곁사슬 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/곁사슬</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00720/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00720/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00720/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00720/plain</plain>
+  </links>
+  <citation>Citation: 'branch (side chain, pendant chain)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00720</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:14:30+00:00</accessed>
+</term>

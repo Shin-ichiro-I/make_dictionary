@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00594</id>
+  <doi>10.1351/goldbook.B00594</doi>
+  <code>B00594</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - bandpass filter</longtitle>
+  <title>bandpass filter</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An optical device which permits the transmission of radiation within a specified wavelength range and does not permit transmission of radiation at higher or lower wavelengths. It can be an interference filter.</text>
+      <links>
+        <item>
+          <title>cut-off filter</title>
+          <url>https://goldbook.iupac.org/terms/view/C01482</url>
+        </item>
+        <item>
+          <title>cut-off filter</title>
+          <url>https://goldbook.iupac.org/terms/view/C01482</url>
+        </item>
+        <item>
+          <title>transmission</title>
+          <url>https://goldbook.iupac.org/terms/view/T06477</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>interference filter</title>
+          <url>https://goldbook.iupac.org/terms/view/I03090</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2229 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - مرشح تمرير النطاق (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مرشح_تمرير_النطاق</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00594/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00594/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00594/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00594/plain</plain>
+  </links>
+  <citation>Citation: 'bandpass filter' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00594</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:06:49+00:00</accessed>
+</term>

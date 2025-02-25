@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05730</id>
+  <doi>10.1351/goldbook.S05730</doi>
+  <code>S05730</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - solar radiation in atmospheric chemistry</longtitle>
+  <title>solar radiation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The electromagnetic radiation emitted by the sun. The total range of wavelengths of light emitted by the sun (99.9% in the range from 150 to 4000 nm to 290 nm) is filtered on entering the earth's atmosphere, largely through the absorption by oxygen, ozone, water vapour and carbon dioxide. Near sea level only light of wavelengths longer than about 290-400 nm is present. The light from  –  is effective in inducing important photochemical processes since absorption by the important trace gases, ozone, nitrogen dioxide, aldehydes, ketones, etc., is significant in this region.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>aldehydes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00208</url>
+        </item>
+        <item>
+          <title>ketones</title>
+          <url>https://goldbook.iupac.org/terms/view/K03386</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>150 to 4000 nm</alttext>
+          <latex>150\ \text{to}\ 4000\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>290 nm</alttext>
+          <latex>290\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>290-400 nm</alttext>
+          <latex>290{-}400\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2214 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Radiazione solare (it)</title>
+      <url>https://it.wikipedia.org/wiki/Radiazione_solare</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05730/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05730/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05730/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05730/plain</plain>
+  </links>
+  <citation>Citation: 'solar radiation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05730</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:13:17+00:00</accessed>
+</term>

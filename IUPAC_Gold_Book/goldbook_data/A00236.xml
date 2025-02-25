@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00236</id>
+  <doi>10.1351/goldbook.A00236</doi>
+  <code>A00236</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - alkynes</longtitle>
+  <title>alkynes</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Acyclic branched or unbranched hydrocarbons having a carbon-carbon triple bond and the general formula CnH2n-2, RC≡CR. Acyclic branched or unbranched hydrocarbons having more than one triple bond are known as alkadiynes, alkatriynes, etc.</text>
+      <links>
+        <item>
+          <title>acetylenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00066</url>
+        </item>
+        <item>
+          <title>acetylenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00066</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1314 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acetyleny (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Acetyleny</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alchini (it)</title>
+      <url>https://it.wikipedia.org/wiki/Alchini</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkadiine (de)</title>
+      <url>https://de.wikipedia.org/wiki/Alkadiine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkine (de)</title>
+      <url>https://de.wikipedia.org/wiki/Alkine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkino (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Alkino</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkiny (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Alkiny</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkyynit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Alkyynit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Alkine (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Alkine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia talk:WikiProject Chemicals (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Chemicals</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Kandidaturen von Artikeln, Listen und Portalen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Kandidaturen_von_Artikeln,_Listen_und_Portalen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Węglowodory nienasycone (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Węglowodory_nienasycone</url>
+    </item>
+    <item>
+      <title>Wikipedia - Չհագեցած ածխաջրածիններ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Չհագեցած_ածխաջրածիններ</url>
+    </item>
+    <item>
+      <title>Wikipedia - ألكاين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ألكاين</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00236/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00236/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00236/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00236/plain</plain>
+  </links>
+  <citation>Citation: 'alkynes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00236</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:48:58+00:00</accessed>
+</term>

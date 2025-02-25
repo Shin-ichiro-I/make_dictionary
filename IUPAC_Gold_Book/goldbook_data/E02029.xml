@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02029</id>
+  <doi>10.1351/goldbook.E02029</doi>
+  <code>E02029</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electrothermal atomizer, in spectrochemical analysis</longtitle>
+  <title>electrothermal atomizer</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A device which is heated to the temperature required for analyte atomization by the passage of electrical current through its body. In open atomizers the sample vapour, together with analyte atoms, leaving the atomizer surface may move freely into the surrounding space. In confined atomizers the sample vapour is restricted by the atomizer wall except for the openings where the optical beam enters and leaves the atomizer and the sample introduction hole.</text>
+      <contexts>
+        <in>
+          <item>spectrochemical analysis</item>
+        </in>
+      </contexts>
+      <sources>
+        <item>PAC, 1992, 64, 253. 'Nomenclature, symbols, units and their usage in spectrochemical analysis - XII. Terms related to electrothermal atomization (IUPAC Recommendations 1992)' on page 254 (https://doi.org/10.1351/pac199264020253)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02029/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02029/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02029/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02029/plain</plain>
+  </links>
+  <citation>Citation: 'electrothermal atomizer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02029</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:15:39+00:00</accessed>
+</term>

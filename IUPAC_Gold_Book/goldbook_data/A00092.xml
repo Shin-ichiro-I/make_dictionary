@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00092</id>
+  <doi>10.1351/goldbook.A00092</doi>
+  <code>A00092</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - activated complex</longtitle>
+  <title>activated complex</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An activated complex, often characterized by the superscript ‡, is defined as that assembly of atoms which corresponds to an arbitrary infinitesimally small region at or near the col (saddle point) of a potential energy surface.</text>
+      <links>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>saddle point</title>
+          <url>https://goldbook.iupac.org/terms/view/C01145</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2291. 'Nomenclature of kinetic methods of analysis (IUPAC Recommendations 1993)' on page 2292 (https://doi.org/10.1351/pac199365102291)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 150 (https://doi.org/10.1351/pac199668010149)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1081 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Activated complex (en)</title>
+      <url>https://en.wikipedia.org/wiki/Activated_complex</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aktivált komplex (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Aktivált_komplex</url>
+    </item>
+    <item>
+      <title>Wikipedia - Complex activat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Complex_activat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Complexe activé (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Complexe_activé</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Theorie des Übergangszustandes (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Theorie_des_Übergangszustandes</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konplexu aktibatu (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Konplexu_aktibatu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stan przejściowy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stan_przejściowy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stato di transizione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_di_transizione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Theorie des Übergangszustandes (de)</title>
+      <url>https://de.wikipedia.org/wiki/Theorie_des_Übergangszustandes</url>
+    </item>
+    <item>
+      <title>Wikipedia - کمپلکس فعال (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/کمپلکس_فعال</url>
+    </item>
+    <item>
+      <title>Wikipedia - 活性錯合体 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/活性錯合体</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00092/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00092/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00092/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00092/plain</plain>
+  </links>
+  <citation>Citation: 'activated complex' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00092</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:41:26+00:00</accessed>
+</term>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02783</id>
+  <doi>10.1351/goldbook.H02783</doi>
+  <code>H02783</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Henry's law</longtitle>
+  <title>Henry's law</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The partial pressure (fugacity) of a solute (B) in a solution is directly proportional to the rational chemical activity (ax) of the solute; this relationship is called Henry's law: pB = ax,B/a∞x,B is the rational solubilitycoefficient for infinite dilution, i.e. for pure solvent. For the solvent (A) the relationship is called Raoult's law, and the proportionality factor is the fugacity of the pure solvent, p(~)A∗: </text>
+      <links>
+        <item>
+          <title>partial pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/P04420</url>
+        </item>
+        <item>
+          <title>Henry</title>
+          <url>https://goldbook.iupac.org/terms/view/H02782</url>
+        </item>
+        <item>
+          <title>solubility</title>
+          <url>https://goldbook.iupac.org/terms/view/S05740</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>Raoult's law</title>
+          <url>https://goldbook.iupac.org/terms/view/R05135</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ax</alttext>
+          <latex>a_{x}</latex>
+        </item>
+        <item>
+          <alttext>pB = ax,B/a∞x,B</alttext>
+          <latex>p_{\text{B}}=\frac{a_{x,\text{B}}}{\alpha _{x,\text{B}}^{\infty }}</latex>
+        </item>
+        <item>
+          <alttext>a∞x,B</alttext>
+          <latex>\alpha _{x,\text{B}}^{\infty }</latex>
+        </item>
+        <item>
+          <alttext>p(~)A∗</alttext>
+          <latex>\overset{˜}{p}_{\text{A}}^{\ast }</latex>
+        </item>
+        <item>
+          <alttext>pA = p(~)A∗.aA</alttext>
+          <latex>p_{\text{A}}=\overset{˜}{p}_{\text{A}}^{\ast }\ a_{\text{A}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1984, 56, 567. 'Physicochemical quantities and units in clinical chemistry with special emphasis on activities and activity coefficients (Recommendations 1983)' on page 571 (https://doi.org/10.1351/pac198456050567)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2193 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1994, 66, 533. 'Standard quantities in chemical thermodynamics. Fugacities, activities and equilibrium constants for pure and mixed phases (IUPAC Recommendations 1994)' on page 544 (https://doi.org/10.1351/pac199466030533)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Legge di Henry (it)</title>
+      <url>https://it.wikipedia.org/wiki/Legge_di_Henry</url>
+    </item>
+    <item>
+      <title>Wikipedia - قانون هنري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قانون_هنري</url>
+    </item>
+    <item>
+      <title>Wikipedia - ヘンリーの法則 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ヘンリーの法則</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02783/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02783/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02783/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02783/plain</plain>
+  </links>
+  <citation>Citation: 'Henry's law' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02783</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:50:08+00:00</accessed>
+</term>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01572</id>
+  <doi>10.1351/goldbook.D01572</doi>
+  <code>D01572</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - degrees of freedom, ν</longtitle>
+  <title>degrees of freedom</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A statistical quantity indicating the number of values which could be arbitrarily assigned within the specification of a system of observations. For simple replication, with n measurements and one estimated parameter (the mean), ν = n- 1. More generally, for multivariable computations, the number of degrees of freedom equals the number of observations minus the number of fitted parameters.</text>
+      <links>
+        <item>
+          <title>replication</title>
+          <url>https://goldbook.iupac.org/terms/view/R05300</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <alttext>ν = n- 1</alttext>
+          <latex>\nu =n- 1</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 595. 'Nomenclature for the presentation of results of chemical analysis (IUPAC Recommendations 1994)' on page 599 (https://doi.org/10.1351/pac199466030595)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - درجة حرية (إحصاء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/درجة_حرية_(إحصاء)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01572/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01572/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01572/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01572/plain</plain>
+  </links>
+  <citation>Citation: 'degrees of freedom' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01572</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:54:59+00:00</accessed>
+</term>

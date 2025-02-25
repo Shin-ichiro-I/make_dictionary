@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06952</id>
+  <doi>10.1351/goldbook.CT06952</doi>
+  <code>CT06952</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - computational chemistry</longtitle>
+  <title>computational chemistry</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Computational chemistry is a discipline using mathematical methods for the calculation of molecular properties or for the simulation of molecular behaviour. It also includes, e.g., synthesis planning, database searching, combinatorial library manipulation.</text>
+      <sources>
+        <item>PAC, 1997, 69, 1137. 'Glossary of terms used in computational drug design (IUPAC Recommendations 1997)' on page 1141 (https://doi.org/10.1351/pac199769051137)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chimica computazionale (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chimica_computazionale</url>
+    </item>
+    <item>
+      <title>Wikipedia - Вычислительная химия (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Вычислительная_химия</url>
+    </item>
+    <item>
+      <title>Wikipedia - كيمياء حاسوبية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كيمياء_حاسوبية</url>
+    </item>
+    <item>
+      <title>Wikipedia - كيمياء محوسبة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كيمياء_محوسبة</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT06952/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT06952/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT06952/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT06952/plain</plain>
+  </links>
+  <citation>Citation: 'computational chemistry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT06952</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:39:52+00:00</accessed>
+</term>

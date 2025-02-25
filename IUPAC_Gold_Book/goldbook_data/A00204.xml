@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00204</id>
+  <doi>10.1351/goldbook.A00204</doi>
+  <code>A00204</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - alcohols</longtitle>
+  <title>alcohols</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds in which a hydroxy group, –OH, is attached to a saturated carbon atom R3COH. The term 'hydroxyl' refers to the radical species, HO..</text>
+      <links>
+        <item>
+          <title>enols</title>
+          <url>https://goldbook.iupac.org/terms/view/E02124</url>
+        </item>
+        <item>
+          <title>phenols</title>
+          <url>https://goldbook.iupac.org/terms/view/P04539</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 1357. 'Revised nomenclature for radicals, ions, radical ions and related species (IUPAC Recommendations 1993)' on page 1357 (https://doi.org/10.1351/pac199365061357)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1312 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alcohol (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Alcohol_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcohol (en)</title>
+      <url>https://en.wikipedia.org/wiki/Alcohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcohol (es)</title>
+      <url>https://es.wikipedia.org/wiki/Alcohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcohol (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Alcohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcohol (stofklasse) (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Alcohol_(stofklasse)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcol (gd)</title>
+      <url>https://gd.wikipedia.org/wiki/Alcol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcoli (it)</title>
+      <url>https://it.wikipedia.org/wiki/Alcoli</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkohol (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Alkohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkohol (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Alkohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkohol (id)</title>
+      <url>https://id.wikipedia.org/wiki/Alkohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkohol (ilo)</title>
+      <url>https://ilo.wikipedia.org/wiki/Alkohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkohol (min)</title>
+      <url>https://min.wikipedia.org/wiki/Alkohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkohol (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Alkohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkohole (als)</title>
+      <url>https://als.wikipedia.org/wiki/Alkohole</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkohole (de)</title>
+      <url>https://de.wikipedia.org/wiki/Alkohole</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkoholi (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Alkoholi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aromatic alcohol (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aromatic_alcohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Brukerdiskusjon:Silje (no)</title>
+      <url>https://no.wikipedia.org/wiki/Brukerdiskusjon:Silje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Ethanol (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Ethanol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Hydroxygruppe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Hydroxygruppe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fenol (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Fenol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Groupe hydroxyle (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Groupe_hydroxyle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidroksil (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Hidroksil</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidroksil (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Hidroksil</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidroksil (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Hidroksil</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidroksil qrupu (az)</title>
+      <url>https://az.wikipedia.org/wiki/Hidroksil_qrupu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydroxy group (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydroxy_group</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydroxyl (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Hydroxyl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydroxyle (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Hydroxyle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Alcohol (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Alcohol_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Alcohol (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Alcohol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Alkene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Alkene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Álcool (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Álcool</url>
+    </item>
+    <item>
+      <title>Wikipedia - Алкохол (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Алкохол</url>
+    </item>
+    <item>
+      <title>Wikipedia - Алкохол (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Алкохол</url>
+    </item>
+    <item>
+      <title>Wikipedia - Арганічная хімія (be)</title>
+      <url>https://be.wikipedia.org/wiki/Арганічная_хімія</url>
+    </item>
+    <item>
+      <title>Wikipedia - Органическая химия (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Органическая_химия</url>
+    </item>
+    <item>
+      <title>Wikipedia - Спирты (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Спирты</url>
+    </item>
+    <item>
+      <title>Wikipedia - Спірты (be)</title>
+      <url>https://be.wikipedia.org/wiki/Спірты</url>
+    </item>
+    <item>
+      <title>Wikipedia - Химическое соединение (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Химическое_соединение</url>
+    </item>
+    <item>
+      <title>Wikipedia - Սպիրտ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Սպիրտ</url>
+    </item>
+    <item>
+      <title>Wikipedia - كحول (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كحول</url>
+    </item>
+    <item>
+      <title>Wikipedia - অ্যালকোহল (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/অ্যালকোহল</url>
+    </item>
+    <item>
+      <title>Wikipedia - ফেনল (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ফেনল</url>
+    </item>
+    <item>
+      <title>Wikipedia - આલ્કોહોલ (gu)</title>
+      <url>https://gu.wikipedia.org/wiki/આલ્કોહોલ</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஐதராக்சைல் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஐதராக்சைல்</url>
+    </item>
+    <item>
+      <title>Wikipedia - மதுசாரம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மதுசாரம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ಆಲ್ಕೋಹಾಲ್ (kn)</title>
+      <url>https://kn.wikipedia.org/wiki/ಆಲ್ಕೋಹಾಲ್</url>
+    </item>
+    <item>
+      <title>Wikipedia - ഹൈഡ്രോക്സി ഗ്രൂപ്പ് (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/ഹൈഡ്രോക്സി_ഗ്രൂപ്പ്</url>
+    </item>
+    <item>
+      <title>Wikipedia - ไฮดรอกซิล (th)</title>
+      <url>https://th.wikipedia.org/wiki/ไฮดรอกซิล</url>
+    </item>
+    <item>
+      <title>Wikipedia - 羟自由基 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/羟自由基</url>
+    </item>
+    <item>
+      <title>Wikipedia - 芳香醇 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/芳香醇</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00204/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00204/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00204/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00204/plain</plain>
+  </links>
+  <citation>Citation: 'alcohols' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00204</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:46:52+00:00</accessed>
+</term>

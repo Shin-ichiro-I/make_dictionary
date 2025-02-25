@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00804</id>
+  <doi>10.1351/goldbook.C00804</doi>
+  <code>C00804</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbanion</longtitle>
+  <title>carbanion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Generic name for anions containing an even number of electrons and having an unshared pair of electrons on a tervalent carbon atom (e.g. Cl3C− or HC≡C− ) or — if the ion is mesomeric (see mesomerism) — having at least one significant  contributing structure with an unshared pair of electrons on a tervalent carbon atom, for example: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C00804-1.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>radical ion</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+        <item>
+          <title>radical ion</title>
+          <url>https://goldbook.iupac.org/terms/view/R05073</url>
+        </item>
+        <item>
+          <title>mesomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/M03845</url>
+        </item>
+        <item>
+          <title>contributing structure</title>
+          <url>https://goldbook.iupac.org/terms/view/C01309</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1092 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1324 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Carbanion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Carbanion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbanion (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Carbanion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Carbanione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Carbanione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karbanioni (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Karbanioni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karbanyon (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Karbanyon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Karboanion (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Karboanion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Карбанион (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Карбанион</url>
+    </item>
+    <item>
+      <title>Wikipedia - קרבאניון (he)</title>
+      <url>https://he.wikipedia.org/wiki/קרבאניון</url>
+    </item>
+    <item>
+      <title>Wikipedia - أنيون كربوني (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أنيون_كربوني</url>
+    </item>
+    <item>
+      <title>Wikipedia - 탄소 음이온 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/탄소_음이온</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00804/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00804/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00804/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00804/plain</plain>
+  </links>
+  <citation>Citation: 'carbanion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00804</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:19:32+00:00</accessed>
+</term>

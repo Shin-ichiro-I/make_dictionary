@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04035</id>
+  <doi>10.1351/goldbook.M04035</doi>
+  <code>M04035</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - most probable distribution (in macromolecular assemblies)</longtitle>
+  <title>most probable distribution (in macromolecular assemblies)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A discrete distribution with the differential mass-distribution function of the form: fw(x) = a2.x(1 - a)^(x - 1) is a parameter characterizing the chain length, such as relative molecular mass or degree of polymerization and a is a positive adjustable parameter. For large values of x, the most probable distribution converges to the particular case of the Schulz–Zimm distribution with b = 1. In the literature, this distribution is sometimes referred to as the Flory distribution or the Schulz–Flory distribution.</text>
+      <links>
+        <item>
+          <title>mass-distribution function</title>
+          <url>https://goldbook.iupac.org/terms/view/M03716</url>
+        </item>
+        <item>
+          <title>chain length</title>
+          <url>https://goldbook.iupac.org/terms/view/C00956</url>
+        </item>
+        <item>
+          <title>relative molecular mass</title>
+          <url>https://goldbook.iupac.org/terms/view/R05271</url>
+        </item>
+        <item>
+          <title>degree of polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01569</url>
+        </item>
+        <item>
+          <title>mass-distribution function</title>
+          <url>https://goldbook.iupac.org/terms/view/M03716</url>
+        </item>
+        <item>
+          <title>chain length</title>
+          <url>https://goldbook.iupac.org/terms/view/C00956</url>
+        </item>
+        <item>
+          <title>relative molecular mass</title>
+          <url>https://goldbook.iupac.org/terms/view/R05271</url>
+        </item>
+        <item>
+          <title>degree of polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01569</url>
+        </item>
+        <item>
+          <title>Schulz–Zimm distribution</title>
+          <url>https://goldbook.iupac.org/terms/view/S05502</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>fw(x) = a2.x(1 - a)^(x - 1)</alttext>
+          <latex>f_{\text{w}}(x) = a^{2}\ x\ (1- a)^{x- 1}</latex>
+        </item>
+        <item>
+          <alttext>x</alttext>
+          <latex>x</latex>
+        </item>
+        <item>
+          <alttext>a</alttext>
+          <latex>a</latex>
+        </item>
+        <item>
+          <alttext>x</alttext>
+          <latex>x</latex>
+        </item>
+        <item>
+          <meaning>TODO</meaning>
+          <type>numeric value</type>
+          <alttext>b = 1</alttext>
+          <latex>b=1</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Purple Book, 1st ed., p. 56 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Flory–Schulz distribution (en)</title>
+      <url>https://en.wikipedia.org/wiki/Flory–Schulz_distribution</url>
+    </item>
+    <item>
+      <title>Wikipedia - Schulz-Flory-Verteilung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Schulz-Flory-Verteilung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Розподіл Флорі–Шульца (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Розподіл_Флорі–Шульца</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M04035/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M04035/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M04035/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M04035/plain</plain>
+  </links>
+  <citation>Citation: 'most probable distribution (in macromolecular assemblies)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M04035</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:49:30+00:00</accessed>
+</term>

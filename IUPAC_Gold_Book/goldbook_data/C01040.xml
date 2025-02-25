@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01040</id>
+  <doi>10.1351/goldbook.C01040</doi>
+  <code>C01040</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical vapour generation, in spectrochemical analysis</longtitle>
+  <title>chemical vapour generation</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A system in which the analyte is separated from the sample matrix by the generation of gaseous species as a result of a chemical reaction.</text>
+      <contexts>
+        <in>
+          <item>spectrochemical analysis</item>
+        </in>
+      </contexts>
+      <sources>
+        <item>PAC, 1992, 64, 261. 'Nomenclature, symbols, units and their usage in spectrochemical analysis - XIII. Terms related to chemical vapour generation (IUPAC Recommendations 1992)' on page 262 (https://doi.org/10.1351/pac199264020261)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01040/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01040/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01040/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01040/plain</plain>
+  </links>
+  <citation>Citation: 'chemical vapour generation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01040</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:31:10+00:00</accessed>
+</term>

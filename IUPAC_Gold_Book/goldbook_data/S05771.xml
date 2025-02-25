@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05771</id>
+  <doi>10.1351/goldbook.S05771</doi>
+  <code>S05771</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - sorption techniques in trace analysis</longtitle>
+  <title>sorption techniques</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Techniques based on the distribution of components being separated between two phases, one of which is stationary and the other mobile. The advantage of some chromatographic methods is the possibility of combining the preconcentration and determination steps, as well as improving the speed of determination, and the possibility of separation of components with similar properties, and of achieving high values of the preconcentration coefficient. The methods enable analyses of microamounts of substances. Ion-exchange chromatography is not widely used owing to the great volumes of solutions being treated and, consequently, to a great degree to the variation in the blank, and to some diffusional limitations. Static ion-exchange, which is much simpler and more readily carried out, is practised quite widely.</text>
+      <contexts>
+        <in>
+          <item>trace analysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>preconcentration (in trace analysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04803</url>
+        </item>
+        <item>
+          <title>preconcentration coefficient (in trace analysis) (in trace analysis, of a desired microcomponent)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04804</url>
+        </item>
+        <item>
+          <title>ion-exchange chromatography (in trace analysis) (in trace analysis, of a desired microcomponent)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03168</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1979, 51, 1195. 'Separation and Preconcentration of Trace Substances. I-Preconcentration for Inorganic Trace Analysis' on page 1199 (https://doi.org/10.1351/pac197951051195)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05771/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05771/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05771/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05771/plain</plain>
+  </links>
+  <citation>Citation: 'sorption techniques' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05771</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:15:23+00:00</accessed>
+</term>

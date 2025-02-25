@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06199</id>
+  <doi>10.1351/goldbook.S06199</doi>
+  <code>S06199</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - suspension effect in an ion-selective electrode</longtitle>
+  <title>suspension effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An effect which occurs when ion-selective electrodes are used in concentrated, space-filled suspensions while the external reference electrode remains in the supernatant (suspension-free) solution. The suspensions are specifically solvent-swollen ion exchangers or other materials, like soils and clays, that concentrate ions by adsorption and absorption. Space-filled, gravity-packed suspensions act like a second phase and form apparently an interfacial potential difference (PD) with respect to the supernatant. The measured ion activity in the suspension differs from the value in the supernatant by the interfacial PD, and corresponds to a higher value approximating the activity inside the ion exchangergel. The effect nearly disappears when the outer reference electrode is placed in the same region of the suspension as the sensor electrode. There are some changes in the junction potential differences of the reference electrode, between suspension and supernatant.</text>
+      <contexts>
+        <in>
+          <item>an ion-selective electrode</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>reference electrode</title>
+          <url>https://goldbook.iupac.org/terms/view/R05229</url>
+        </item>
+        <item>
+          <title>suspension</title>
+          <url>https://goldbook.iupac.org/terms/view/S06198</url>
+        </item>
+        <item>
+          <title>ion exchanger</title>
+          <url>https://goldbook.iupac.org/terms/view/I03171</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 2527. 'Recommendations for nomenclature of ionselective electrodes (IUPAC Recommendations 1994)' on page 2533 (https://doi.org/10.1351/pac199466122527)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06199/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06199/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06199/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06199/plain</plain>
+  </links>
+  <citation>Citation: 'suspension effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06199</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:35:17+00:00</accessed>
+</term>

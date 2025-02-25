@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00044</id>
+  <doi>10.1351/goldbook.A00044</doi>
+  <code>A00044</code>
+  <status>obsolete</status>
+  <longtitle>IUPAC Gold Book - absorptivity</longtitle>
+  <title>absorptivity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Absorptance divided by the optical path length. For very low attenuance it approximates the absorption coefficient [within the approximation (1 - e-A) ~ A]. The use of this term is not recommended.</text>
+      <links>
+        <item>
+          <title>absorptance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00035</url>
+        </item>
+        <item>
+          <title>absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/A00037</url>
+        </item>
+        <item>
+          <title>absorptance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00035</url>
+        </item>
+        <item>
+          <title>absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/A00037</url>
+        </item>
+        <item>
+          <title>attenuance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00513</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Absorptivity</meaning>
+          <type>math</type>
+          <alttext>(1 - e-A) ~ A</alttext>
+          <latex>(1 - e^{-A}) \sim A</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2227 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Draft:Glossary of engineering (M) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Draft:Glossary_of_engineering_(M)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Draft:Glossary of engineering: M (en)</title>
+      <url>https://en.wikipedia.org/wiki/Draft:Glossary_of_engineering:_M</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: M (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_M</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: M - Z (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_M_-_Z</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: M–Z (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_M–Z</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koefisien atenuasi molar (id)</title>
+      <url>https://id.wikipedia.org/wiki/Koefisien_atenuasi_molar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molar absorption coefficient (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molar_absorption_coefficient</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molar attenuation coefficient (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molar_attenuation_coefficient</url>
+    </item>
+    <item>
+      <title>Wikipedia - ضریب جذب مولی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ضریب_جذب_مولی</url>
+    </item>
+    <item>
+      <title>Wikipedia - मोलर अवशोषण गुणांक (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/मोलर_अवशोषण_गुणांक</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00044/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00044/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00044/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00044/plain</plain>
+  </links>
+  <citation>Citation: 'absorptivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00044</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:39:03+00:00</accessed>
+</term>

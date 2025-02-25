@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02279</id>
+  <doi>10.1351/goldbook.E02279</doi>
+  <code>E02279</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - extended Hammett equation</longtitle>
+  <title>extended Hammett equation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This term applies in a general way to any multiparametric extension of the Hammett equation. It is sometimes used specifically for a form of dual substituent-parameter equation in which the actual value of the correlated property P under the influence of the substituent X is used, rather than the value relative to that for X = H. An intercept term h corresponding to the value of P for X = H is introduced, e.g.  The equation may be applied to systems for which the inclusion of further terms to represent other effects, e.g. steric, is appropriate.</text>
+      <links>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>dual substituent-parameter equation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01866</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <meaning>Intercept term in extended Hammett equation</meaning>
+          <type>quantity</type>
+          <alttext>h</alttext>
+          <latex>h</latex>
+        </item>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>P = α σ I + β σ R + h</alttext>
+          <latex>P=\alpha \ \sigma _{I}+\beta \ \sigma _{R}+h</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1114 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Equazione di Hammett (it)</title>
+      <url>https://it.wikipedia.org/wiki/Equazione_di_Hammett</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02279/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02279/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02279/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02279/plain</plain>
+  </links>
+  <citation>Citation: 'extended Hammett equation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02279</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:26:20+00:00</accessed>
+</term>

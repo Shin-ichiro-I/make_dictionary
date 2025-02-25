@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00141</id>
+  <doi>10.1351/goldbook.A00141</doi>
+  <code>A00141</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - adiabatic</longtitle>
+  <title>adiabatic</title>
+  <contains>nonadiabatic</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This word is used with various different meanings, and when it is used it should be defined. In thermodynamics 'adiabatic' is used in a macroscopic sense to refer to a process occurring in a thermally insulated system, so that there is no flow of heat to or from the surroundings. In reaction dynamics, the word has been used in a microscopic sense, with a range of meanings which have only a tenuous relationship to the thermodynamic meaning or the etymology. Whereas the thermodynamic meaning relates to conditions imposed on a process by an observer, the microscopic meaning relates to conditions under which the process occurs naturally. The microscopic meanings, as used in reaction dynamics, all have in common the feature that quantum states remain unchanged during the course of reaction. Different quantum states may be referred to: A reaction that is not adiabatic is referred to as nonadiabatic or diabatic, and some workers make a distinction between the two words.</text>
+      <links>
+        <item>
+          <title>diabatic coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/D01658</url>
+        </item>
+        <item>
+          <title>diabatic coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/D01658</url>
+        </item>
+        <item>
+          <title>reaction dynamics</title>
+          <url>https://goldbook.iupac.org/terms/view/R05170</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>unimolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>diabatic coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/D01658</url>
+        </item>
+        <item>
+          <title>reaction dynamics</title>
+          <url>https://goldbook.iupac.org/terms/view/R05170</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>unimolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>reactants</title>
+          <url>https://goldbook.iupac.org/terms/view/R05163</url>
+        </item>
+        <item>
+          <title>products</title>
+          <url>https://goldbook.iupac.org/terms/view/P04861</url>
+        </item>
+        <item>
+          <title>Rice–Ramsperger–Kassel–Marcus (RRKM)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05390</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 152 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00141/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00141/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00141/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00141/plain</plain>
+  </links>
+  <citation>Citation: 'adiabatic' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00141</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:43:37+00:00</accessed>
+</term>

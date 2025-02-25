@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02899</id>
+  <doi>10.1351/goldbook.H02899</doi>
+  <code>H02899</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hydrogen bond</longtitle>
+  <title>hydrogen bond</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A form of association between an electronegative atom and a hydrogen atom attached to a second, relatively electronegative atom. It is best considered as an electrostatic interaction, heightened by the small size of hydrogen, which permits proximity of the interacting dipoles or charges. Both electronegative atoms are usually (but not necessarily) from the first row of the Periodic Table, i.e. N, O or F. Hydrogen bonds may be inter-molecular or intramolecular. With a few exceptions, usually involving fluorine, the associated energies are less than 20-25 kJ mol-1 - 5-6 kcal mol-1 ( - ).</text>
+      <links>
+        <item>
+          <title>association</title>
+          <url>https://goldbook.iupac.org/terms/view/A00472</url>
+        </item>
+        <item>
+          <title>association</title>
+          <url>https://goldbook.iupac.org/terms/view/A00472</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>20-25 kJ mol-1</alttext>
+          <latex>\pu{20\!-\! 25 kJ mol-1}</latex>
+        </item>
+        <item>
+          <alttext>5-6 kcal mol-1</alttext>
+          <latex>\pu{5\!{-}\! 6 kcal mol-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1123 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Reddit-links -  (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrogen#History</url>
+    </item>
+    <item>
+      <title>Wikipedia - Batch reactor (en)</title>
+      <url>https://en.wikipedia.org/wiki/Batch_reactor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bond hydrogen (cy)</title>
+      <url>https://cy.wikipedia.org/wiki/Bond_hydrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemical compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Brücke (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Brücke_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enlace de hidrógeno (es)</title>
+      <url>https://es.wikipedia.org/wiki/Enlace_de_hidrógeno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enllaç per pont d'hidrogen (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Enllaç_per_pont_d'hidrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enthalpy (en)</title>
+      <url>https://en.wikipedia.org/wiki/Enthalpy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fuercia per ponte d'hidróxenu (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Fuercia_per_ponte_d'hidróxenu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fuerza por puente de hidrógeno (es)</title>
+      <url>https://es.wikipedia.org/wiki/Fuerza_por_puente_de_hidrógeno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gaya antarmolekul (id)</title>
+      <url>https://id.wikipedia.org/wiki/Gaya_antarmolekul</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrogen (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Hidrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrogen (id)</title>
+      <url>https://id.wikipedia.org/wiki/Hidrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrogen (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Hidrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrogeno lotura (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Hidrogeno_lotura</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrogén (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Hidrogén</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrogénio (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Hidrogénio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrogen (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrogen bond (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrogen_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrogen bond (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Hydrogen_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrogen compounds (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrogen_compounds</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ikatan hidrogen (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Ikatan_hidrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Intermolecular force (en)</title>
+      <url>https://en.wikipedia.org/wiki/Intermolecular_force</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ionic bonding (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ionic_bonding</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legame a idrogeno (it)</title>
+      <url>https://it.wikipedia.org/wiki/Legame_a_idrogeno</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legătură de hidrogen (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Legătură_de_hidrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Međumolekulska sila (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Međumolekulska_sila</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pembicaraan:Hidrogen (id)</title>
+      <url>https://id.wikipedia.org/wiki/Pembicaraan:Hidrogen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:氢 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/Talk:氢</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vodik (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Vodik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Waterstofbinding (af)</title>
+      <url>https://af.wikipedia.org/wiki/Waterstofbinding</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:De kroeg (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Wikipedia:De_kroeg</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wiązanie wodorowe (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Wiązanie_wodorowe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ácido desoxirribonucleico (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Ácido_desoxirribonucleico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Водонична веза (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Водонична_веза</url>
+    </item>
+    <item>
+      <title>Wikipedia - Водород (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Водород</url>
+    </item>
+    <item>
+      <title>Wikipedia - Водород (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Водород</url>
+    </item>
+    <item>
+      <title>Wikipedia - Водородная связь (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Водородная_связь</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ջրածնային կապ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Ջրածնային_կապ</url>
+    </item>
+    <item>
+      <title>Wikipedia - رابطة هيدروجينية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/رابطة_هيدروجينية</url>
+    </item>
+    <item>
+      <title>Wikipedia - قوة بين جزيئية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قوة_بين_جزيئية</url>
+    </item>
+    <item>
+      <title>Wikipedia - هيدروجين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/هيدروجين</url>
+    </item>
+    <item>
+      <title>Wikipedia - هیدروژن (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/هیدروژن</url>
+    </item>
+    <item>
+      <title>Wikipedia - हाइड्रोजन आबंध (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/हाइड्रोजन_आबंध</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஐதரசன் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஐதரசன்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஐதரசன் சேர்மங்கள் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஐதரசன்_சேர்மங்கள்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஐதரசன் பிணைப்பு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஐதரசன்_பிணைப்பு</url>
+    </item>
+    <item>
+      <title>Wikipedia - நீரியம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/நீரியம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ഹൈഡ്രജൻ (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/ഹൈഡ്രജൻ</url>
+    </item>
+    <item>
+      <title>Wikipedia - พันธะไฮโดรเจน (th)</title>
+      <url>https://th.wikipedia.org/wiki/พันธะไฮโดรเจน</url>
+    </item>
+    <item>
+      <title>Wikipedia - แรงระหว่างโมเลกุล (th)</title>
+      <url>https://th.wikipedia.org/wiki/แรงระหว่างโมเลกุล</url>
+    </item>
+    <item>
+      <title>Wikipedia - ไฮโดรเจน (th)</title>
+      <url>https://th.wikipedia.org/wiki/ไฮโดรเจน</url>
+    </item>
+    <item>
+      <title>Wikipedia - 化合物 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/化合物</url>
+    </item>
+    <item>
+      <title>Wikipedia - 氢 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/氢</url>
+    </item>
+    <item>
+      <title>Wikipedia - 氢键 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/氢键</url>
+    </item>
+    <item>
+      <title>Wikipedia - 水素結合 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/水素結合</url>
+    </item>
+    <item>
+      <title>Wikipedia - 분자간 힘 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/분자간_힘</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02899/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02899/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02899/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02899/plain</plain>
+  </links>
+  <citation>Citation: 'hydrogen bond' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02899</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:56:06+00:00</accessed>
+</term>

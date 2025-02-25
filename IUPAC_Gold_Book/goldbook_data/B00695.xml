@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00695</id>
+  <doi>10.1351/goldbook.B00695</doi>
+  <code>B00695</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Boltzmann constant</longtitle>
+  <title>Boltzmann constant</title>
+  <index>constant</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2020-01-01</lastupdated>
+  <definitions>
+    <item>
+      <id>2</id>
+      <text>The Boltzmann constant, k, is one of seven fixed constants defining the International System of Units, the SI, with k = 1.380 649 x 10-23 J K-1. The Boltzmann constant is a proportionality constant between the quantities temperature (with unit kelvin) and energy (with unit joule).</text>
+      <sources>
+        <item>BIPM, The International System of Units, SI Brochure, 9th ed. (2019), p. 127ff (https://www.bipm.org/en/publications/si-brochure/)</item>
+        <item>Newell et al., Metrologia 55, L13-L16 (2018) (https://doi.org/10.1088/1681-7575/aa950a)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Boltzmann constant (en)</title>
+      <url>https://en.wikipedia.org/wiki/Boltzmann_constant</url>
+    </item>
+    <item>
+      <title>Wikipedia - Costante di Boltzmann (it)</title>
+      <url>https://it.wikipedia.org/wiki/Costante_di_Boltzmann</url>
+    </item>
+    <item>
+      <title>Wikipedia - ثابت بولتزمان (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ثابت_بولتزمان</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00695/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00695/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00695/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00695/plain</plain>
+  </links>
+  <citation>Citation: 'Boltzmann constant' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00695</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:12:51+00:00</accessed>
+</term>

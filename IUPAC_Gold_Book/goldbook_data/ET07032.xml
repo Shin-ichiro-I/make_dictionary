@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07032</id>
+  <doi>10.1351/goldbook.ET07032</doi>
+  <code>ET07032</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - extended Hückel MO method (EHMO)</longtitle>
+  <title>extended Hückel MO method</title>
+  <abbrevs>
+    <item>EHMO</item>
+    <item>HMO</item>
+    <item>MO</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A semi-empirical all-valence electron quantum mechanical method which uses the same approximations, apart from π-approximation and neglect of overlap integrals, as those of the Hückel molecular orbital theory. The method reproduces relatively well the shapes and the order of energy levels of molecular orbitals. The account for overlap makes it possible to describe the net destabilization caused by interaction of two doubly occupied orbitals, which effect is not reproduced by HMO theory.</text>
+      <links>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>molecular orbital</title>
+          <url>https://goldbook.iupac.org/terms/view/M03996</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1939 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ET07032/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ET07032/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ET07032/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ET07032/plain</plain>
+  </links>
+  <citation>Citation: 'extended Hückel MO method' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ET07032</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:26:22+00:00</accessed>
+</term>

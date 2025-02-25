@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04255</id>
+  <doi>10.1351/goldbook.N04255</doi>
+  <code>N04255</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - nucleotides</longtitle>
+  <title>nucleotides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds formally obtained by esterification of the 3 or 5 hydroxy group of nucleosides with phosphoric acid. They are the monomers of nucleic acids and are formed from them by hydrolytic cleavage. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/N04255.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>nucleosides</title>
+          <url>https://goldbook.iupac.org/terms/view/N04253</url>
+        </item>
+        <item>
+          <title>nucleic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/N04245</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 162 (https://doi.org/10.1351/pac199264010143)</item>
+        <item>White Book, 2nd ed., p. 109 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1352 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Conversa usuario:Atobar (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Conversa_usuario:Atobar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nucleotide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Nucleotide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nucleotide (it)</title>
+      <url>https://it.wikipedia.org/wiki/Nucleotide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nucleósido trifosfato (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Nucleósido_trifosfato</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nucleótido (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Nucleótido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nucleótido (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Nucleótido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nukleotida (id)</title>
+      <url>https://id.wikipedia.org/wiki/Nukleotida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ribose 5-phosphate (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ribose_5-phosphate</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ribose 5-phosphate (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Ribose_5-phosphate</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ribóza-5-fosfát (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Ribóza-5-fosfát</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ácido desoxirribonucleico (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Ácido_desoxirribonucleico</url>
+    </item>
+    <item>
+      <title>Wikipedia - نوكليوتيد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نوكليوتيد</url>
+    </item>
+    <item>
+      <title>Wikipedia - ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್ (kn)</title>
+      <url>https://kn.wikipedia.org/wiki/ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್</url>
+    </item>
+    <item>
+      <title>Wikipedia - 리보스 5-인산 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/리보스_5-인산</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04255/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04255/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04255/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04255/plain</plain>
+  </links>
+  <citation>Citation: 'nucleotides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04255</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:02:28+00:00</accessed>
+</term>

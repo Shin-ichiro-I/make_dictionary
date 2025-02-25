@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00135</id>
+  <doi>10.1351/goldbook.A00135</doi>
+  <code>A00135</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - additive name</longtitle>
+  <title>additive name</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The formal assembly of names for the components of a compound without loss of atoms or groups of atoms from any component.</text>
+    </item>
+    <item>
+      <id>2</id>
+      <text>The addition or attachment of atoms or groups of atoms.</text>
+      <links>
+        <item>
+          <title>attachment</title>
+          <url>https://goldbook.iupac.org/terms/view/A00512</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Corrections to 'A Guide to IUPAC Nomenclature of Organic Compounds'' Favre, H.A.;Hellwich, K.;Moss, G.P.;Powell, W.H.;Traynham, J.G.; Pure and Applied Chemistry 1999 71(7) 1327</sources>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00135/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00135/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00135/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00135/plain</plain>
+  </links>
+  <citation>Citation: 'additive name' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00135</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:43:18+00:00</accessed>
+</term>

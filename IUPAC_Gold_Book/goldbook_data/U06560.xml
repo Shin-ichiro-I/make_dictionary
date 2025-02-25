@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06560</id>
+  <doi>10.1351/goldbook.U06560</doi>
+  <code>U06560</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - unit (item/portion/individual) in analytical chemistry</longtitle>
+  <title>unit</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Each of the discrete, identifiable portions of material suitable for removal from a population as a sample or as a portion of a sample, and which can be individually considered, examined or tested, or combined. In the case of sampling bulk materials (or large packages), the units are increments, created by a sampling device. In the case of packaged materials, the unit may vary with the level of commercial distribution. For example, an individual piece of candy is the sampling unit at the consumer level; a package of individual pieces is the sampling unit at the retail level; a carton of packages is the sampling unit at the wholesale level; a pallet of cartons is the shipping unit at the distribution centre level; and a truckload of pallets is the consignment unit at the manufacture level. Before packaging, the bin containing the individual pieces would be the bulk lot (or batch) for sampling.</text>
+      <contexts>
+        <in>
+          <item>analytical chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>sample (in analytical chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05451</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 1193. 'Nomenclature for sampling in analytical chemistry (Recommendations 1990)' on page 1202 (https://doi.org/10.1351/pac199062061193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/U06560/html</html>
+    <json>https://goldbook.iupac.org/terms/view/U06560/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/U06560/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/U06560/plain</plain>
+  </links>
+  <citation>Citation: 'unit' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.U06560</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:51:48+00:00</accessed>
+</term>

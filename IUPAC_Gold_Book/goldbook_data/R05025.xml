@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05025</id>
+  <doi>10.1351/goldbook.R05025</doi>
+  <code>R05025</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - racemate</longtitle>
+  <title>racemate</title>
+  <contains><i>rac</i>, <span class="s"><i>RS</i></span></contains>
+  <synonyms>
+    <item>SR</item>
+  </synonyms>
+  <abbrevs>
+    <item>SR</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An equimolar mixture of a pair of enantiomers. It does not exhibit optical activity. The chemical name or formula of a racemate is distinguished from those of the enantiomers by the prefix (±)- or rac- (or racem-) or by the symbols RS and SR.</text>
+      <links>
+        <item>
+          <title>enantiomers</title>
+          <url>https://goldbook.iupac.org/terms/view/E02069</url>
+        </item>
+        <item>
+          <title>optical activity</title>
+          <url>https://goldbook.iupac.org/terms/view/O04303</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2216 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chiralność cząsteczek (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Chiralność_cząsteczek</url>
+    </item>
+    <item>
+      <title>Wikipedia - Datazione assoluta (it)</title>
+      <url>https://it.wikipedia.org/wiki/Datazione_assoluta</url>
+    </item>
+    <item>
+      <title>Wikipedia - Descriptor (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Descriptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deskriptor (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Deskriptor_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussione:Potere rotatorio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Potere_rotatorio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enantiomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Enantiomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Racemizzazione degli amminoacidi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Racemizzazione_degli_amminoacidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Racemo (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Racemo_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Raseeminen seos (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Raseeminen_seos</url>
+    </item>
+    <item>
+      <title>Wikipedia - Εναντιομερές (el)</title>
+      <url>https://el.wikipedia.org/wiki/Εναντιομερές</url>
+    </item>
+    <item>
+      <title>Wikipedia - Рацемат (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Рацемат</url>
+    </item>
+    <item>
+      <title>Wikipedia - Энантиомеры (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Энантиомеры</url>
+    </item>
+    <item>
+      <title>Wikipedia - مزيج راسيمي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مزيج_راسيمي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05025/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05025/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05025/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05025/plain</plain>
+  </links>
+  <citation>Citation: 'racemate' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05025</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:40:49+00:00</accessed>
+</term>

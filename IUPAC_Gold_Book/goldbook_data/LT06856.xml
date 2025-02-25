@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06856</id>
+  <doi>10.1351/goldbook.LT06856</doi>
+  <code>LT06856</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - liquid crystal</longtitle>
+  <title>liquid crystal</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A substance in the liquid-crystalline state.</text>
+      <links>
+        <item>
+          <title>liquid-crystalline state</title>
+          <url>https://goldbook.iupac.org/terms/view/LT06854</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2002, 74, 493. 'Definitions of basic terms relating to polymer liquid crystals (IUPAC Recommendations 2001)' on page 495 (https://doi.org/10.1351/pac200274030493)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cristalli liquidi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Cristalli_liquidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - بلورة سائلة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/بلورة_سائلة</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/LT06856/html</html>
+    <json>https://goldbook.iupac.org/terms/view/LT06856/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/LT06856/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/LT06856/plain</plain>
+  </links>
+  <citation>Citation: 'liquid crystal' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.LT06856</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:26:30+00:00</accessed>
+</term>

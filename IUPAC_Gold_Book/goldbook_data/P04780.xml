@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04780</id>
+  <doi>10.1351/goldbook.P04780</doi>
+  <code>P04780</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - potential-energy (reaction) surface</longtitle>
+  <title>potential-energy (reaction) surface</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A geometric hypersurface on which the potential energy of a set of reactants is plotted as a function of the coordinates representing the molecular geometries of the system. For simple systems two such coordinates (characterizing two variables that change during the progress from reactants to products) can be selected, and the potential energy plotted as a contour map. For simple elementary reactions, e.g. A–B + C → A + B–C , the surface can show the potential energy for all values of the A, B, C geometry, providing that the ABC angle is fixed. For more complicated reactions a different choice of two coordinates is sometimes preferred, e.g. the bond orders of two different bonds. Such a diagram is often arranged so that reactants are located at the bottom left corner and products at the top right. If the trace of the representative point characterizing the route from reactants to products follows two adjacent edges of the diagram, the changes represented by the two coordinates take place in distinct succession; if the trace leaves the edges and crosses the interior of the diagram, the two changes are concerted. In many qualitative applications it is convenient (although not strictly equivalent) for the third coordinate to represent the standard Gibbs energy rather than potential energy. Using bond orders is, however, an oversimplification, since these are not well-defined, even for the transition state. (Some reservations concerning the diagrammatic use of Gibbs energies are noted under Gibbs energy diagram). The energetically easiest route from reactants to products on the potential-energy contour map defines the potential-energy profile.</text>
+      <links>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>elementary reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>bond orders</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>concerted</title>
+          <url>https://goldbook.iupac.org/terms/view/C01234</url>
+        </item>
+        <item>
+          <title>Gibbs energy diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02630</url>
+        </item>
+        <item>
+          <title>potential-energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>elementary reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>bond orders</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>concerted</title>
+          <url>https://goldbook.iupac.org/terms/view/C01234</url>
+        </item>
+        <item>
+          <title>Gibbs energy diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02630</url>
+        </item>
+        <item>
+          <title>potential-energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>A–B + C → A + B–C</alttext>
+          <latex>\text{A}\!-\!\text{B}\,+\,\text{C}\rightarrow \text{A}\,+\,\text{B}\!-\!\text{C}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1151 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 177 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Energia potentzial gainazala (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Energia_potentzial_gainazala</url>
+    </item>
+    <item>
+      <title>Wikipedia - Potential energy surface (en)</title>
+      <url>https://en.wikipedia.org/wiki/Potential_energy_surface</url>
+    </item>
+    <item>
+      <title>Wikipedia - Superficie de energía potencial (es)</title>
+      <url>https://es.wikipedia.org/wiki/Superficie_de_energía_potencial</url>
+    </item>
+    <item>
+      <title>Wikipedia - Поверхность потенциальной энергии (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Поверхность_потенциальной_энергии</url>
+    </item>
+    <item>
+      <title>Wikipedia - ポテンシャルエネルギー曲面 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ポテンシャルエネルギー曲面</url>
+    </item>
+    <item>
+      <title>Wikipedia - 势能面 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/势能面</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04780/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04780/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04780/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04780/plain</plain>
+  </links>
+  <citation>Citation: 'potential-energy (reaction) surface' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04780</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:29:58+00:00</accessed>
+</term>

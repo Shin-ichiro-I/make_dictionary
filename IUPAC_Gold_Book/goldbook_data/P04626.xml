@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04626</id>
+  <doi>10.1351/goldbook.P04626</doi>
+  <code>P04626</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - photomultiplier tube</longtitle>
+  <title>photomultiplier tube</title>
+  <contains>channel photomultiplier tube, strip dynode photomultiplier tube</contains>
+  <abbrevs>
+    <item>CEM</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A vacuum phototube with additional amplification by electron multiplication. It consists of a photocathode, a series of dynodes, called a dynode chain on which a secondary-electron multiplication process occurs, and an anode. According to the desired response time, transit time, time spread, gain, or low dark current, different types of dynode structures have been developed, e.g. circular cage structure, linear focused structure, venetian blind structure, box and grid structure. Some special dynode structures permit combination with additional electric or magnetic fields. A strip dynode photomultiplier tube consists of a photocathode followed by thin dynode material on an insulating substrate. In a continuous-strip photomultiplier, two strip dynodes are arranged in parallel. A potential applied to the ends of the two strips produces an electric field across the continuous strip dynodes, giving rise to electron multiplication along the dynodes. In a resistance-strip magnetic photomultiplier, a uniform magnetic field is applied to the planes of the strips, so that the electrons travel in the crossed electric and magnetic fields. A channel photomultiplier tube photocathode consists of a channel electron multiplier (CEM) system for the photoelectrons, and an anode to collect the final electron current. The basic part of the CEM is a tube with a semiconducting inner surface. In general it is curved in order to inhibit the acceleration of positive ions towards the photocathode. A number of small channels called microchannels can be constructed in arrays for imaging applications.</text>
+      <links>
+        <item>
+          <title>vacuum phototube</title>
+          <url>https://goldbook.iupac.org/terms/view/V06586</url>
+        </item>
+        <item>
+          <title>response time (of a radiation detector)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05345</url>
+        </item>
+        <item>
+          <title>dark current (of a radiation detector) (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05347</url>
+        </item>
+        <item>
+          <title>vacuum phototube</title>
+          <url>https://goldbook.iupac.org/terms/view/V06586</url>
+        </item>
+        <item>
+          <title>response time (of a radiation detector)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05345</url>
+        </item>
+        <item>
+          <title>dark current (of a radiation detector) (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05347</url>
+        </item>
+        <item>
+          <title>anode</title>
+          <url>https://goldbook.iupac.org/terms/view/A00370</url>
+        </item>
+        <item>
+          <title>cage (of a radiation detector) (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00769</url>
+        </item>
+        <item>
+          <title>resistance (of a radiation detector) (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05315</url>
+        </item>
+        <item>
+          <title>channel (of a radiation detector) (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00970</url>
+        </item>
+        <item>
+          <title>acceleration (of a radiation detector) (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1982, 54, 1533. 'Glossary of terms used in nuclear analytical chemistry (Provisional)' on page 1548 (https://doi.org/10.1351/pac198254081533)</item>
+        <item>PAC, 1995, 67, 1745. 'Nomenclature, symbols, units and their usage in spectrochemical analysis-XI. Detection of radiation (IUPAC Recommendations 1995)' on page 1753 (https://doi.org/10.1351/pac199567101745)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fotomoltiplicatore (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fotomoltiplicatore</url>
+    </item>
+    <item>
+      <title>Wikipedia - صمام تضخيم ضوئي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/صمام_تضخيم_ضوئي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04626/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04626/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04626/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04626/plain</plain>
+  </links>
+  <citation>Citation: 'photomultiplier tube' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04626</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:21:36+00:00</accessed>
+</term>

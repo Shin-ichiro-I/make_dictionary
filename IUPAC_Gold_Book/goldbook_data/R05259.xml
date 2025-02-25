@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05259</id>
+  <doi>10.1351/goldbook.R05259</doi>
+  <code>R05259</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - relative biological effectiveness of radiation</longtitle>
+  <title>relative biological effectiveness</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The ratio of the appropriate value of the biological effectiveness of the radiation in question to that of X-radiation with an average specific ionization of 100 ion pairs per micron of water, for the particular biological effect under consideration and for the condition under which the radiation is received.</text>
+      <contexts>
+        <of>
+          <item>radiation</item>
+        </of>
+      </contexts>
+      <links>
+        <item>
+          <title>effectiveness</title>
+          <url>https://goldbook.iupac.org/terms/view/E01897</url>
+        </item>
+        <item>
+          <title>X-radiation</title>
+          <url>https://goldbook.iupac.org/terms/view/X06703</url>
+        </item>
+        <item>
+          <title>effectiveness</title>
+          <url>https://goldbook.iupac.org/terms/view/E01897</url>
+        </item>
+        <item>
+          <title>X-radiation</title>
+          <url>https://goldbook.iupac.org/terms/view/X06703</url>
+        </item>
+        <item>
+          <title>specific ionization (in nuclear chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05801</url>
+        </item>
+        <item>
+          <title>radiation (in nuclear chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05048</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1982, 54, 1533. 'Glossary of terms used in nuclear analytical chemistry (Provisional)' on page 1551 (https://doi.org/10.1351/pac198254081533)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05259/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05259/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05259/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05259/plain</plain>
+  </links>
+  <citation>Citation: 'relative biological effectiveness' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05259</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:51:24+00:00</accessed>
+</term>

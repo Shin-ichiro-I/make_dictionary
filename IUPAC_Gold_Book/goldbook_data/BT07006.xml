@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07006</id>
+  <doi>10.1351/goldbook.BT07006</doi>
+  <code>BT07006</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - bond-dissociation energy (BDE) in theoretical chemistry</longtitle>
+  <title>bond-dissociation energy</title>
+  <abbrevs>
+    <item>BDE</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For a diatomic molecule, the maximum vibrational energy that a molecule can have prior to its decomposition into the ground electronic states of the constituent atoms (spectroscopic bond-dissociation energy, De). The De value is related to the chemical dissociation energy: D0 = De - Evib(0), where E vib 0 is zero-point vibrational energy. This definition is usually extended to the dissociation of polyatomic molecules into certain molecular fragments through homolytic or heterolytic bond cleavages.</text>
+      <contexts>
+        <in>
+          <item>theoretical chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>bond-dissociation energy</title>
+          <url>https://goldbook.iupac.org/terms/view/B00699</url>
+        </item>
+        <item>
+          <title>dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01801</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>De</alttext>
+          <latex>D_{\text{e}}</latex>
+        </item>
+        <item>
+          <alttext>De</alttext>
+          <latex>D_{\text{e}}</latex>
+        </item>
+        <item>
+          <alttext>D0 = De - Evib(0)</alttext>
+          <latex>D_{\text{0}}=D_{\text{e}}- \mathrm{E}_{\text{vib}}\left(0\right)</latex>
+        </item>
+        <item>
+          <alttext>E vib 0</alttext>
+          <latex>\mathrm{E}_{\text{vib}}\left(0\right)</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1928 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/BT07006/html</html>
+    <json>https://goldbook.iupac.org/terms/view/BT07006/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/BT07006/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/BT07006/plain</plain>
+  </links>
+  <citation>Citation: 'bond-dissociation energy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.BT07006</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:13:36+00:00</accessed>
+</term>

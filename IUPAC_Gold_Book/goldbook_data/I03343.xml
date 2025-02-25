@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03343</id>
+  <doi>10.1351/goldbook.I03343</doi>
+  <code>I03343</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - isotopic fractionation factor</longtitle>
+  <title>isotopic fractionation factor</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The ratio x 1 x 2 A x 1 x 2 B is the abundance, expressed as the atom fraction of the isotope distinguished by the subscript numeral, when the two isotopes are equilibrated between two different chemical species A and B (or between specific sites A and B in the same or different chemical species). The term is most commonly met in connection with deuterium solvent isotope effects, when the fractionation factor Φ expresses the ratio:  for the exchangeable hydrogen atoms in the chemical species (or sites) concerned. The concept is also applicable to transition states.</text>
+      <links>
+        <item>
+          <title>isotopes</title>
+          <url>https://goldbook.iupac.org/terms/view/I03331</url>
+        </item>
+        <item>
+          <title>deuterium</title>
+          <url>https://goldbook.iupac.org/terms/view/D01648</url>
+        </item>
+        <item>
+          <title>isotopes</title>
+          <url>https://goldbook.iupac.org/terms/view/I03331</url>
+        </item>
+        <item>
+          <title>deuterium</title>
+          <url>https://goldbook.iupac.org/terms/view/D01648</url>
+        </item>
+        <item>
+          <title>isotope effects</title>
+          <url>https://goldbook.iupac.org/terms/view/I03327</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>x 1 x 2 A x 1 x 2 B</alttext>
+          <latex>\frac{(x_{1}/x_{2})_{\text{A}}}{(x_{1}/x_{2})_{\text{B}}}</latex>
+        </item>
+        <item>
+          <alttext>x</alttext>
+          <latex>x</latex>
+        </item>
+        <item>
+          <alttext>Φ</alttext>
+          <latex>\mathit{\Phi}</latex>
+        </item>
+        <item>
+          <alttext>Φ = x D x H solute x D x H solve</alttext>
+          <latex>\varPhi = \frac{(x_{\text{D}}/x_{\text{H}})_{\text{solute}}}{(x_{\text{D}}/x_{\text{H}})_{\text{solvent}}}
+</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1115 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03343/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03343/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03343/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03343/plain</plain>
+  </links>
+  <citation>Citation: 'isotopic fractionation factor' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03343</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:15:10+00:00</accessed>
+</term>

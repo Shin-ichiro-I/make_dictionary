@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07104</id>
+  <doi>10.1351/goldbook.ST07104</doi>
+  <code>ST07104</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spin crossover</longtitle>
+  <title>spin crossover</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A type of molecular magnetism that is the result of electronic instability (see electronic stability) caused by external constraints (temperature, pressure, or electromagnetic radiation), which induce structural changes at molecular and lattice levels. The phenomenon is most characteristic of first-row transition metal complexes, e g,. those of FeII. An example of spin-crossover complexes (the term of spin-state isomers is also used) is [Fe(2-pic)3]Cl2·EtOH (2-pic = 2-picolylamine). At the Fe–N distance of 203.2 pm (115 K), the complex has an electronic low-spin state (1A1), whereas stretching the bond up to 219.9 pm at 227 K induces the transition to a high-spin state (5T2).</text>
+      <links>
+        <item>
+          <title>electronic stability</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07027</url>
+        </item>
+        <item>
+          <title>electronic stability</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07027</url>
+        </item>
+        <item>
+          <title>low-spin state</title>
+          <url>https://goldbook.iupac.org/terms/view/LT07067</url>
+        </item>
+        <item>
+          <title>high-spin</title>
+          <url>https://goldbook.iupac.org/terms/view/LT06788</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>203.2 pm</alttext>
+          <latex>203.2\ \text{pm}</latex>
+        </item>
+        <item>
+          <alttext>115 K</alttext>
+          <latex>115\ \text{K}</latex>
+        </item>
+        <item>
+          <alttext>219.9 pm</alttext>
+          <latex>219.9\ \text{pm}</latex>
+        </item>
+        <item>
+          <alttext>227 K</alttext>
+          <latex>227\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1963 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ST07104/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ST07104/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ST07104/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ST07104/plain</plain>
+  </links>
+  <citation>Citation: 'spin crossover' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ST07104</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:18:54+00:00</accessed>
+</term>

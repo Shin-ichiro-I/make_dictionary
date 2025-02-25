@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07480</id>
+  <doi>10.1351/goldbook.ST07480</doi>
+  <code>ST07480</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - spectral radiant energy, Q_λ</longtitle>
+  <title>spectral radiant energy</title>
+  <abbrevs>
+    <item>SI</item>
+  </abbrevs>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Derivative of radiant energy, Q, with respect to wavelengthλ. SI unit is J m-1; common unit is J nm-1.</text>
+      <links>
+        <item>
+          <title>radiant energy</title>
+          <url>https://goldbook.iupac.org/terms/view/R05039</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Q</alttext>
+          <latex>Q</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda </latex>
+        </item>
+        <item>
+          <meaning>Joule per meter</meaning>
+          <type>unit</type>
+          <alttext>J m-1</alttext>
+          <latex>\text{J m}^{-1}</latex>
+        </item>
+        <item>
+          <meaning>Spectral radiant energy</meaning>
+          <type>unit</type>
+          <alttext>J nm-1</alttext>
+          <latex>\text{J nm}^{-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 425 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ST07480/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ST07480/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ST07480/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ST07480/plain</plain>
+  </links>
+  <citation>Citation: 'spectral radiant energy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ST07480</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:17:33+00:00</accessed>
+</term>

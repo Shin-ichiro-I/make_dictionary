@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05490</id>
+  <doi>10.1351/goldbook.S05490</doi>
+  <code>S05490</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - scattering cross-section, σ_scat</longtitle>
+  <title>scattering cross-section</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The scattering coefficient per particle (cm2/particle); bscat = n σ scat is the number concentration of particles (particles cm-3) and σ scat is the scattering cross-section. bscat, the scattering component of extinction due to gas and particles, is measured in the atmosphere using a nephelometer. For a homogeneous atmosphere it is related in theory to the meteorological range (LV): LV = 3.9/bscat; bscat and babs represent the scattering and absorption coefficients per unit length for a light beam (of path length L) which has a spectral radiance (intensity) i0 incident on a sample of air and I is the transmitted spectral radiance (intensity), ln ( I 0 I ) = L ( b scat + b ab.</text>
+      <links>
+        <item>
+          <title>scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05487</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>extinction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02293</url>
+        </item>
+        <item>
+          <title>spectral radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05824</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>cm2/particle</alttext>
+          <latex>\frac{\text{cm}^{2}}{\text{particle}}</latex>
+        </item>
+        <item>
+          <alttext>bscat = n σ scat</alttext>
+          <latex>b_{\text{scat}}=n\ \sigma _{\text{scat}}</latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <alttext>particles cm-3</alttext>
+          <latex>\text{particles cm}^{-3}</latex>
+        </item>
+        <item>
+          <alttext>σ scat</alttext>
+          <latex>\sigma _{\text{scat}}</latex>
+        </item>
+        <item>
+          <alttext>bscat</alttext>
+          <latex>b_{\text{scat}}</latex>
+        </item>
+        <item>
+          <meaning>Meteorological range </meaning>
+          <type>quantity</type>
+          <alttext>LV</alttext>
+          <latex>L_{\text{V}}</latex>
+        </item>
+        <item>
+          <meaning>Meteorological range </meaning>
+          <type>equation</type>
+          <alttext>LV = 3.9/bscat</alttext>
+          <latex>L_{\text{V}}=\frac{3.9}{b_{\text{scat}}}</latex>
+        </item>
+        <item>
+          <alttext>bscat</alttext>
+          <latex>b_{\text{scat}}</latex>
+        </item>
+        <item>
+          <alttext>babs</alttext>
+          <latex>b_{\text{abs}}</latex>
+        </item>
+        <item>
+          <alttext>L</alttext>
+          <latex>L</latex>
+        </item>
+        <item>
+          <alttext>i0</alttext>
+          <latex>I_{0}</latex>
+        </item>
+        <item>
+          <alttext>I</alttext>
+          <latex>I</latex>
+        </item>
+        <item>
+          <alttext>ln ( I 0 I ) = L ( b scat + b ab</alttext>
+          <latex>\ln (\frac{I_{0}}{I}) = L\ (b_{\text{scat}}+b_{\text{abs}})</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2212 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cross section (physics) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cross_section_(physics)</url>
+    </item>
+    <item>
+      <title>Wikipedia - سطح مقطع پراکندگی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/سطح_مقطع_پراکندگی</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05490/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05490/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05490/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05490/plain</plain>
+  </links>
+  <citation>Citation: 'scattering cross-section' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05490</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:01:40+00:00</accessed>
+</term>

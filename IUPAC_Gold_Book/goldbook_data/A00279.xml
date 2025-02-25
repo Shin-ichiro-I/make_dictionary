@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00279</id>
+  <doi>10.1351/goldbook.A00279</doi>
+  <code>A00279</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - amino-acid residue in a polypeptide</longtitle>
+  <title>amino-acid residue</title>
+  <contains>N-terminal residue <span class="in">in a polypeptide</span></contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>When two or more amino acids combine to form a peptide, the elements of water are removed, and what remains of each amino acid is called an amino-acid residue. α-Amino-acid residues are therefore structures that lack a hydrogen atom of the amino group (–NH–CHR–COOH), or the hydroxyl moiety of the carboxyl group (NH2–CHR–CO–), or both (–NH–CHR–COO–); all units of a peptide chain are therefore amino-acid residues. (Residues of amino acids that contain two amino groups or two carboxyl groups may be joined by isopeptide bonds, and so may not have the formulas shown.) The residue in a peptide that has an amino group that is free, or at least not acylated by another amino-acid residue (it may, for example, be acylated or formylated), is called N-terminal; it is at the N-terminus. The residue that has a free carboxyl group, or at least does not acylate another amino-acid residue, (it may, for example, acylate ammonia to give –NH–CHR–CO–NH2), is called C-terminal.</text>
+      <contexts>
+        <in>
+          <item>a polypeptide</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>peptide</title>
+          <url>https://goldbook.iupac.org/terms/view/P04479</url>
+        </item>
+        <item>
+          <title>isopeptide bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/I03303</url>
+        </item>
+        <item>
+          <title>peptide</title>
+          <url>https://goldbook.iupac.org/terms/view/P04479</url>
+        </item>
+        <item>
+          <title>isopeptide bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/I03303</url>
+        </item>
+        <item>
+          <title>moiety</title>
+          <url>https://goldbook.iupac.org/terms/view/M03968</url>
+        </item>
+      </links>
+      <sources>
+        <item>White Book, 2nd ed., p. 48 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Amino- ja karboksiterminaali (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Amino-_ja_karboksiterminaali</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Hydroxygruppe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Hydroxygruppe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Peptide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Peptide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Péptida (su)</title>
+      <url>https://su.wikipedia.org/wiki/Péptida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Amino acid (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Amino_acid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipédia-vita:Kémiaműhely (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Wikipédia-vita:Kémiaműhely</url>
+    </item>
+    <item>
+      <title>Wikipedia - পেপটাইড (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/পেপটাইড</url>
+    </item>
+    <item>
+      <title>Wikipedia - 残基 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/残基</url>
+    </item>
+    <item>
+      <title>Wikipedia - 殘基 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/殘基</url>
+    </item>
+    <item>
+      <title>Wikipedia - 펩타이드 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/펩타이드</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00279/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00279/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00279/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00279/plain</plain>
+  </links>
+  <citation>Citation: 'amino-acid residue' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00279</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:51:26+00:00</accessed>
+</term>

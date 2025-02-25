@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01577</id>
+  <doi>10.1351/goldbook.D01577</doi>
+  <code>D01577</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - delayed coke</longtitle>
+  <title>delayed coke</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A commonly used term for a primary carbonization product (green or raw coke) from high-boiling hydrocarbon fractions (heavy residues of petroleum or coal processing) produced by the delayed coking process.</text>
+      <notes>
+        <item>Delayed coke has, with only a few exceptions, a better graphitizability than cokes produced by other coking processes even if the same feedstock is used. Delayed coke contains a mass fraction of volatile matter between 4 and 15 wt% which can be released during heat treatment.</item>
+      </notes>
+      <links>
+        <item>
+          <title>coke</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+        <item>
+          <title>coking</title>
+          <url>https://goldbook.iupac.org/terms/view/C01144</url>
+        </item>
+        <item>
+          <title>mass fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/M03722</url>
+        </item>
+        <item>
+          <title>coke</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+        <item>
+          <title>coking</title>
+          <url>https://goldbook.iupac.org/terms/view/C01144</url>
+        </item>
+        <item>
+          <title>mass fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/M03722</url>
+        </item>
+        <item>
+          <title>carbonization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00840</url>
+        </item>
+        <item>
+          <title>green</title>
+          <url>https://goldbook.iupac.org/terms/view/G02697</url>
+        </item>
+        <item>
+          <title>raw coke</title>
+          <url>https://goldbook.iupac.org/terms/view/R05158</url>
+        </item>
+        <item>
+          <title>delayed coking process</title>
+          <url>https://goldbook.iupac.org/terms/view/D01578</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 486 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01577/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01577/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01577/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01577/plain</plain>
+  </links>
+  <citation>Citation: 'delayed coke' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01577</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:55:12+00:00</accessed>
+</term>

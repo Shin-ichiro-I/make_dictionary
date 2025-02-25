@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01216</id>
+  <doi>10.1351/goldbook.C01216</doi>
+  <code>C01216</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - compression factor, Z</longtitle>
+  <title>compression factor</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Product of pressure and molar volume divided by the gas constant and thermodynamic temperature. For an ideal gas it is equal to 1.</text>
+      <links>
+        <item>
+          <title>gas constant</title>
+          <url>https://goldbook.iupac.org/terms/view/G02579</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>ideal gas</title>
+          <url>https://goldbook.iupac.org/terms/view/I02935</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 49 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fattore di comprimibilità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fattore_di_comprimibilità</url>
+    </item>
+    <item>
+      <title>Wikipedia - Teorema degli stati corrispondenti (it)</title>
+      <url>https://it.wikipedia.org/wiki/Teorema_degli_stati_corrispondenti</url>
+    </item>
+    <item>
+      <title>Wikipedia - معامل انضغاط (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/معامل_انضغاط</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01216/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01216/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01216/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01216/plain</plain>
+  </links>
+  <citation>Citation: 'compression factor' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01216</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:39:37+00:00</accessed>
+</term>

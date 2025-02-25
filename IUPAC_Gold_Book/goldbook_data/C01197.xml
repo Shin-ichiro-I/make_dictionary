@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01197</id>
+  <doi>10.1351/goldbook.C01197</doi>
+  <code>C01197</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - compensation effect</longtitle>
+  <title>compensation effect</title>
+  <termversion>2.0.1</termversion>
+  <lastupdated>2008-09-12</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In a considerable number of cases plots of TΔ‡S vs. Δ‡H, for a series of reactions, e.g. for a reaction in a range of different solvents, are straight lines of approximately unit slope. Therefore, the terms Δ‡H and TΔ‡S in the expression partially compensate, and Δ‡G = Δ‡H - TΔ‡S or TΔ‡S separately.</text>
+      <links>
+        <item>
+          <title>isokinetic relationship</title>
+          <url>https://goldbook.iupac.org/terms/view/I03285</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>TΔ‡S</alttext>
+          <latex>T\ \Delta ^{\ddagger }S</latex>
+        </item>
+        <item>
+          <alttext>Δ‡H</alttext>
+          <latex>\Delta ^{\ddagger}H</latex>
+        </item>
+        <item>
+          <alttext>Δ‡H</alttext>
+          <latex>\Delta ^{\ddagger}H</latex>
+        </item>
+        <item>
+          <alttext>TΔ‡S</alttext>
+          <latex>T\ \Delta ^{\ddagger }S</latex>
+        </item>
+        <item>
+          <alttext>Δ‡G = Δ‡H - TΔ‡S</alttext>
+          <latex>\Delta ^{\ddagger}G = \Delta ^{\ddagger}H - T\ \Delta ^{\ddagger}S</latex>
+        </item>
+        <item>
+          <alttext>Δ‡H</alttext>
+          <latex>\Delta ^{\ddagger}H</latex>
+        </item>
+        <item>
+          <alttext>TΔ‡S</alttext>
+          <latex>T\ \Delta ^{\ddagger }S</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1098 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01197/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01197/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01197/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01197/plain</plain>
+  </links>
+  <citation>Citation: 'compensation effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01197</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:38:30+00:00</accessed>
+</term>

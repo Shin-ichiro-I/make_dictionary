@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02830</id>
+  <doi>10.1351/goldbook.H02830</doi>
+  <code>H02830</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Hofmann rule</longtitle>
+  <title>Hofmann rule</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>"The principal olefin formed in the decomposition of quaternary ammonium hydroxides that contain different primary alkyl groups is always ethylene, if an ethyl group is present." Originally given in this limited form by A. W. Hofmann, the rule has since been extended and modified as follows: "When two or more alkenes can be produced in a β-elimination reaction, the alkene having the smallest number of alkyl groups attached to the double bond carbon atoms will be the predominant product." This orientation described by the Hofmann rule is observed in elimination reactions of quaternary ammonium salts and tertiary sulfonium salts, and in certain other cases.</text>
+      <links>
+        <item>
+          <title>Zaitsev rule</title>
+          <url>https://goldbook.iupac.org/terms/view/S05481</url>
+        </item>
+        <item>
+          <title>Zaitsev rule</title>
+          <url>https://goldbook.iupac.org/terms/view/S05481</url>
+        </item>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+        <item>
+          <title>alkyl groups</title>
+          <url>https://goldbook.iupac.org/terms/view/A00228</url>
+        </item>
+        <item>
+          <title>alkenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00224</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1121 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Eliminazione di Hofmann (it)</title>
+      <url>https://it.wikipedia.org/wiki/Eliminazione_di_Hofmann</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hofmann-en arau (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Hofmann-en_arau</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hofmannen araua (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Hofmannen_araua</url>
+    </item>
+    <item>
+      <title>Wikipedia - Regla de Hofmann (es)</title>
+      <url>https://es.wikipedia.org/wiki/Regla_de_Hofmann</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02830/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02830/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02830/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02830/plain</plain>
+  </links>
+  <citation>Citation: 'Hofmann rule' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02830</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:52:27+00:00</accessed>
+</term>

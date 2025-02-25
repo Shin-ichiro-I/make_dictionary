@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05169</id>
+  <doi>10.1351/goldbook.R05169</doi>
+  <code>R05169</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - reaction cross-section, σ_r</longtitle>
+  <title>reaction cross-section</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A quantity used in collision theories of reactions in order to interpret calculated or experimental rates. In some collision theories the reaction cross-section is considered to be related to bmax, the maximum value of the impact parameter that allows reaction to occur, by: σ r = P r π b max 2 is the reaction probability.</text>
+      <links>
+        <item>
+          <title>impact parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/I02987</url>
+        </item>
+        <item>
+          <title>impact parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/I02987</url>
+        </item>
+        <item>
+          <title>reaction probability</title>
+          <url>https://goldbook.iupac.org/terms/view/R05176</url>
+        </item>
+        <item>
+          <title>impact parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/I02987</url>
+        </item>
+        <item>
+          <title>reaction probability</title>
+          <url>https://goldbook.iupac.org/terms/view/R05176</url>
+        </item>
+        <item>
+          <title>collision cross-section</title>
+          <url>https://goldbook.iupac.org/terms/view/C01161</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>bmax</alttext>
+          <latex>b_{\max }</latex>
+        </item>
+        <item>
+          <alttext>σ r = P r π b max 2</alttext>
+          <latex>\sigma _{\text{r}}=P_{\text{r}}\ \pi \ b_{\max }^{2}</latex>
+        </item>
+        <item>
+          <alttext>P r</alttext>
+          <latex>P_{\text{r}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 183 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cross section (physics) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cross_section_(physics)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nuklearni udarni presjek (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Nuklearni_udarni_presjek</url>
+    </item>
+    <item>
+      <title>Wikipedia - Secțiune eficace (fizică) (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Secțiune_eficace_(fizică)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Seção de choque (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Seção_de_choque</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tiết diện hiệu dụng (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Tiết_diện_hiệu_dụng</url>
+    </item>
+    <item>
+      <title>Wikipedia - سطح مقطع (فیزیک) (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/سطح_مقطع_(فیزیک)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05169/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05169/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05169/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05169/plain</plain>
+  </links>
+  <citation>Citation: 'reaction cross-section' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05169</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:47:14+00:00</accessed>
+</term>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06502</id>
+  <doi>10.1351/goldbook.T06502</doi>
+  <code>T06502</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - triple point</longtitle>
+  <title>triple point</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The point in a one-component system at which the temperature and pressure of three phases are in equilibrium. If there are p possible phases, there are p ! ( p- 3 ) ! 3 ! triple points. Example: In the sulfur system four possible triple points (one metastable) exist for the four phases comprising rhombic S (solid), monoclinic S (solid), S (liquid) and S (vapour).</text>
+      <links>
+        <item>
+          <title>metastable</title>
+          <url>https://goldbook.iupac.org/terms/view/M03872</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+        <item>
+          <alttext>p ! ( p- 3 ) ! 3 !</alttext>
+          <latex>\frac{p!}{(p\,-\,3)!\ 3!}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 593 (https://doi.org/10.1351/pac199466030577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Reddit-links -  (en)</title>
+      <url>https://en.wikipedia.org/wiki/Triple_point</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussione:Punto triplo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Punto_triplo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Drei (de)</title>
+      <url>https://de.wikipedia.org/wiki/Drei</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: M - Z (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_M_-_Z</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: M–Z (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_M–Z</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hármaspont (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Hármaspont</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kolmoispiste (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Kolmoispiste</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ponto triplo (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Ponto_triplo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Punto triplo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Punto_triplo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Puntu hirukoitz (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Puntu_hirukoitz</url>
+    </item>
+    <item>
+      <title>Wikipedia - Titik tripel (id)</title>
+      <url>https://id.wikipedia.org/wiki/Titik_tripel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tripelpunkt (de)</title>
+      <url>https://de.wikipedia.org/wiki/Tripelpunkt</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trojna tačka (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Trojna_tačka</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trīskāršais punkts (lv)</title>
+      <url>https://lv.wikipedia.org/wiki/Trīskāršais_punkts</url>
+    </item>
+    <item>
+      <title>Wikipedia - Üçlü nokta (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Üçlü_nokta</url>
+    </item>
+    <item>
+      <title>Wikipedia - Điểm ba (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Điểm_ba</url>
+    </item>
+    <item>
+      <title>Wikipedia - Тройная точка (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Тройная_точка</url>
+    </item>
+    <item>
+      <title>Wikipedia - Тројна тачка (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Тројна_тачка</url>
+    </item>
+    <item>
+      <title>Wikipedia - نقطة ثلاثية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نقطة_ثلاثية</url>
+    </item>
+    <item>
+      <title>Wikipedia - نقطه سه‌گانه (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/نقطه_سه‌گانه</url>
+    </item>
+    <item>
+      <title>Wikipedia - மும்மைப் புள்ளி (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மும்மைப்_புள்ளி</url>
+    </item>
+    <item>
+      <title>Wikipedia - 三重点 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/三重点</url>
+    </item>
+    <item>
+      <title>Wikipedia - 相 (物质) (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/相_(物质)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/T06502/html</html>
+    <json>https://goldbook.iupac.org/terms/view/T06502/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/T06502/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/T06502/plain</plain>
+  </links>
+  <citation>Citation: 'triple point' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.T06502</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:48:55+00:00</accessed>
+</term>

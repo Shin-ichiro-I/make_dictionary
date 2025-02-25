@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05037</id>
+  <doi>10.1351/goldbook.R05037</doi>
+  <code>R05037</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - radiance</longtitle>
+  <title>radiance</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Radiant power, P, leaving or passing through a small transparent element of surface in a given direction from the source about the solid angleΩ, divided by the solid angle and by the orthogonally projected area of the element in a plane normal to the given beam direction, dS⊥ = dS cos θ</text>
+      <notes>
+        <item>Mathematical definition: L = d^2.P/dΩ.dS⊥ = d^2.P/dΩ.dS.cosθ for a divergent beam propagating in an elementary cone of the solid angle Ω containing the direction θ. SI unit is W m-2 sr-1.</item>
+        <item>For a parallel beam it is the radiant power, P, of all wavelengths leaving or passing through a small element of surface in a given direction from the source divided by the orthogonally projected area of the element in a plane normal to the given direction of the beam, θ. Mathematical definition in this case: dP/(dS cos θ). If the Radiant power is constant over the surface area considered, P/S cosθ. SI unit is W m-2.</item>
+        <item>Equivalent to L = ∫(λ).Lλ.dλ, where Lλ is the spectral radiance at wavelength λ.</item>
+      </notes>
+      <links>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>spectral radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05824</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>Radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05046</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>Ω</alttext>
+          <latex>\varOmega</latex>
+        </item>
+        <item>
+          <alttext>dS⊥ = dS cos θ</alttext>
+          <latex>\text{d}S_{\perp } = \text{d}S\, \text{cos}\,\theta</latex>
+        </item>
+        <item>
+          <meaning>Radiance</meaning>
+          <type>equation</type>
+          <alttext>L = d^2.P/dΩ.dS⊥ = d^2.P/dΩ.dS.cosθ</alttext>
+          <latex>L = \frac{\text{d}^{2}P}{\text{d}\Omega \, \text{d}S_{\perp }} = \frac{\text{d}^{2}P}{\text{d}\Omega \, \text{d}S\, \text{cos}\,\theta}</latex>
+        </item>
+        <item>
+          <alttext>Ω</alttext>
+          <latex>\varOmega</latex>
+        </item>
+        <item>
+          <alttext>θ</alttext>
+          <latex>\theta</latex>
+        </item>
+        <item>
+          <alttext>W m-2 sr-1</alttext>
+          <latex>\text{W m}^{-2}\ \text{sr}^{-1}</latex>
+        </item>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>θ</alttext>
+          <latex>\theta</latex>
+        </item>
+        <item>
+          <alttext>dP/(dS cos θ)</alttext>
+          <latex>\text{d}P/(\text{d}S\, \text{cos}\,\theta)</latex>
+        </item>
+        <item>
+          <alttext>P/S cosθ</alttext>
+          <latex>P/(S\, \text{cos}\,\theta)</latex>
+        </item>
+        <item>
+          <alttext>W m-2</alttext>
+          <latex>\text{W m}^{-2}</latex>
+        </item>
+        <item>
+          <meaning>Radiance (at wavelength λ)</meaning>
+          <type>equation</type>
+          <alttext>L = ∫(λ).Lλ.dλ</alttext>
+          <latex>L = \int_{\lambda}L_{\lambda}\, \text{d}\lambda</latex>
+        </item>
+        <item>
+          <meaning>Radiance (at wavelength λ)</meaning>
+          <type>quantity</type>
+          <alttext>Lλ</alttext>
+          <latex>L_{\lambda}</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 408 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Radianza (it)</title>
+      <url>https://it.wikipedia.org/wiki/Radianza</url>
+    </item>
+    <item>
+      <title>Wikipedia - إشعاعية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إشعاعية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05037/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05037/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05037/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05037/plain</plain>
+  </links>
+  <citation>Citation: 'radiance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05037</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:41:31+00:00</accessed>
+</term>

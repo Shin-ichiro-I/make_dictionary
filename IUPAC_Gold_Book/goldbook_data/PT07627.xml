@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07627</id>
+  <doi>10.1351/goldbook.PT07627</doi>
+  <code>PT07627</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - precipitation in sol-gel processing</longtitle>
+  <title>precipitation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Sedimentation of a solid material (a precipitate) from a liquid solution in which the material is present in amounts greater than its solubility in the liquid.</text>
+      <notes>
+        <item>When precipitation occurs in sol-gel processing, sol particles have aggregated to a size where gravitational forces cause them to sink or float. Generally, aggregation arises from a change in the sol that reduces the interparticle repulsion.</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>sol-gel processing</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>precipitation</title>
+          <url>https://goldbook.iupac.org/terms/view/P04795</url>
+        </item>
+        <item>
+          <title>sol</title>
+          <url>https://goldbook.iupac.org/terms/view/S05727</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+        <item>
+          <title>sedimentation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05534</url>
+        </item>
+        <item>
+          <title>solubility</title>
+          <url>https://goldbook.iupac.org/terms/view/S05740</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1824 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07627/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07627/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07627/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07627/plain</plain>
+  </links>
+  <citation>Citation: 'precipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07627</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:31:04+00:00</accessed>
+</term>

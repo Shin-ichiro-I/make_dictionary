@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03572</id>
+  <doi>10.1351/goldbook.L03572</doi>
+  <code>L03572</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - lipophilic</longtitle>
+  <title>lipophilic</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Literally 'fat-loving'. Applied to molecular entities (or parts of molecular entities) having a tendency to dissolve in fat-like (e.g. hydrocarbon) solvents.</text>
+      <links>
+        <item>
+          <title>hydrophilic</title>
+          <url>https://goldbook.iupac.org/terms/view/H02906</url>
+        </item>
+        <item>
+          <title>hydrophobic interaction</title>
+          <url>https://goldbook.iupac.org/terms/view/H02907</url>
+        </item>
+        <item>
+          <title>lyophilic</title>
+          <url>https://goldbook.iupac.org/terms/view/L03655</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 607 (https://doi.org/10.1351/pac197231040577)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1136 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hidrófobo (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Hidrófobo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipofiel (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Lipofiel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipofili (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Lipofili</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipofilia (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Lipofilia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipofilicidade (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Lipofilicidade</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipofilitas (id)</title>
+      <url>https://id.wikipedia.org/wiki/Lipofilitas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipofilnost (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Lipofilnost</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipofilnost (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Lipofilnost</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipofília (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Lipofília</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipophilicity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Lipophilicity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lipófilo (es)</title>
+      <url>https://es.wikipedia.org/wiki/Lipófilo</url>
+    </item>
+    <item>
+      <title>Wikipedia - محب للدهن (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/محب_للدهن</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03572/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03572/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03572/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03572/plain</plain>
+  </links>
+  <citation>Citation: 'lipophilic' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03572</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:26:09+00:00</accessed>
+</term>

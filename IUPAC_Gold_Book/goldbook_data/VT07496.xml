@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07496</id>
+  <doi>10.1351/goldbook.VT07496</doi>
+  <code>VT07496</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - visible</longtitle>
+  <title>visible</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Region of the electromagnetic spectrum extending from about 400 nm to 760 nm. This is the wavelength region to which the human eye is sensitive. There are no precise limits for the spectral range of visible radiation since they depend upon the amount of radiant power reaching the retina and on the responsivity of the observer.</text>
+      <links>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05046</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>400 nm</alttext>
+          <latex>400\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>760 nm</alttext>
+          <latex>760\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 439 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - طيف مرئي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/طيف_مرئي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/VT07496/html</html>
+    <json>https://goldbook.iupac.org/terms/view/VT07496/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/VT07496/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/VT07496/plain</plain>
+  </links>
+  <citation>Citation: 'visible' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.VT07496</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:55:19+00:00</accessed>
+</term>

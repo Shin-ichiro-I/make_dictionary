@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02665</id>
+  <doi>10.1351/goldbook.G02665</doi>
+  <code>G02665</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - glycosyl group</longtitle>
+  <title>glycosyl group</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The structure obtained by removing the hydroxy group from the hemiacetal function of a monosaccharide and, by extension, of a lower oligosaccharide.</text>
+      <links>
+        <item>
+          <title>hemiacetal</title>
+          <url>https://goldbook.iupac.org/terms/view/H02774</url>
+        </item>
+        <item>
+          <title>monosaccharide</title>
+          <url>https://goldbook.iupac.org/terms/view/M04021</url>
+        </item>
+        <item>
+          <title>oligosaccharide</title>
+          <url>https://goldbook.iupac.org/terms/view/O04289</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1338 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Gruppo glicosilico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Gruppo_glicosilico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Progetto:Bio (it)</title>
+      <url>https://it.wikipedia.org/wiki/Progetto:Bio</url>
+    </item>
+    <item>
+      <title>Wikipedia - غليكوزيل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/غليكوزيل</url>
+    </item>
+    <item>
+      <title>Wikipedia - グリコシル基 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/グリコシル基</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02665/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02665/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02665/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02665/plain</plain>
+  </links>
+  <citation>Citation: 'glycosyl group' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02665</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:43:51+00:00</accessed>
+</term>

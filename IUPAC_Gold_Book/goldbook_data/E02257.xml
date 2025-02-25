@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02257</id>
+  <doi>10.1351/goldbook.E02257</doi>
+  <code>E02257</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - excited state</longtitle>
+  <title>excited state</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>State of a system with energy higher than that of the ground state. This term is most commonly used to characterize a molecule in one of its electronically excited states, but can also refer to vibrational and/or rotational excitation in the electronic ground state.</text>
+      <links>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1114 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2241 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Eccitazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Eccitazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Eccitazione (meccanica quantistica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Eccitazione_(meccanica_quantistica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالة مثارة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حالة_مثارة</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02257/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02257/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02257/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02257/plain</plain>
+  </links>
+  <citation>Citation: 'excited state' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02257</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:25:14+00:00</accessed>
+</term>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03892</id>
+  <doi>10.1351/goldbook.M03892</doi>
+  <code>M03892</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Michaelis–Menten kinetics</longtitle>
+  <title>Michaelis–Menten kinetics</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The dependence of an initial rate of reaction upon the concentration of a substrate S that is present in large excess over the concentration of an enzyme or other catalyst (or reagent) E with the appearance of saturation behaviour following the Michaelis-Menten equation: v = V S K m + S is the observed initial rate, V is its limiting value at substrate saturation (i.e. S ≫ K m), and Km the substrate concentration when v = V 2. The definition is experimental, i.e. it applies to any reaction that follows an equation of this general form. The symbols V max or v max are sometimes used for V. The parameters V and Km (the 'Michaelis constant') of the equation can be evaluated from the slope and intercept of a linear plot of v-1vs. [S]-1 (a 'Lineweaver–Burk plot') or from slope and intercept of a linear plot of vvs. v/[S] ('Eadie–Hofstee plot'). A Michaelis–Menten equation is also applicable to the condition where E is present in large excess, E appears in the equation instead of S. The term has sometimes been used to describe reactions that proceed according to the scheme: in which case Km = (k-1 + kcat)/k1 (Briggs–Haldane conditions). It has more usually been applied only to the special case in which k-1 ≫ k cat and Km = k-1/k1 = Ks; in this case Km is a true dissociation constant (Michaelis–Menten conditions).</text>
+      <links>
+        <item>
+          <title>rate-determining step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05140</url>
+        </item>
+        <item>
+          <title>rate-determining step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05140</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>substrate</title>
+          <url>https://goldbook.iupac.org/terms/view/S06082</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>rate-determining step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05140</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>substrate</title>
+          <url>https://goldbook.iupac.org/terms/view/S06082</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>reagent</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+        <item>
+          <title>saturation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05472</url>
+        </item>
+        <item>
+          <title>Michaelis constant</title>
+          <url>https://goldbook.iupac.org/terms/view/M03891</url>
+        </item>
+        <item>
+          <title>Lineweaver–Burk plot</title>
+          <url>https://goldbook.iupac.org/terms/view/L03566</url>
+        </item>
+        <item>
+          <title>dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01801</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>v = V S K m + S</alttext>
+          <latex>\nu=\frac{V\ \left[\text{S}\right]}{K_{\text{m}}+\left[\text{S}\right]}</latex>
+        </item>
+        <item>
+          <alttext>v</alttext>
+          <latex>\nu</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>S ≫ K m</alttext>
+          <latex>\left[\text{S}\right]\gg K_{\text{m}}</latex>
+        </item>
+        <item>
+          <meaning>Michaelis constant</meaning>
+          <type>quantity</type>
+          <alttext>Km</alttext>
+          <latex>K_{\text{m}}</latex>
+        </item>
+        <item>
+          <alttext>v = V 2</alttext>
+          <latex>\nu = \frac{V}{2}</latex>
+        </item>
+        <item>
+          <alttext>V max</alttext>
+          <latex>V_{\max }</latex>
+        </item>
+        <item>
+          <alttext>v max</alttext>
+          <latex>\nu_{\max }</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <meaning>Michaelis constant</meaning>
+          <type>quantity</type>
+          <alttext>Km</alttext>
+          <latex>K_{\text{m}}</latex>
+        </item>
+        <item>
+          <alttext>v-1</alttext>
+          <latex>\nu^{-1}</latex>
+        </item>
+        <item>
+          <alttext>[S]-1</alttext>
+          <latex>\left[\text{S}\right]^{-1}</latex>
+        </item>
+        <item>
+          <alttext>v</alttext>
+          <latex>\nu</latex>
+        </item>
+        <item>
+          <alttext>v/[S]</alttext>
+          <latex>\frac{\nu}{\left[\text{S}\right]}</latex>
+        </item>
+        <item>
+          <alttext>E</alttext>
+          <latex>\left[\text{E}\right]</latex>
+        </item>
+        <item>
+          <alttext>S</alttext>
+          <latex>\left[\text{S}\right]</latex>
+        </item>
+        <item>
+          <type>reaction</type>
+          <alttext>E + S (k1)⇄(k-1) ES (kcat)→ Products</alttext>
+          <latex>\text{E}+\text{S}\overset{k_{1}}{\underset{k_{-1}}\rightleftarrows }\text{ES}\overset{k_{\text{cat}}}{\rightarrow }\text{Products}</latex>
+        </item>
+        <item>
+          <meaning>Michaelis constant</meaning>
+          <type>equation</type>
+          <alttext>Km = (k-1 + kcat)/k1</alttext>
+          <latex>K_{\text{m}} = \frac{k_{-1}+k_{\text{cat}}}{k_{1}}</latex>
+        </item>
+        <item>
+          <meaning>Reverse reaction rate &gt;&gt; catalysis reaction rate</meaning>
+          <type>math</type>
+          <alttext>k-1 ≫ k cat</alttext>
+          <latex>k_{-1}\gg k_{\text{cat}}</latex>
+        </item>
+        <item>
+          <meaning>Michaelis constant</meaning>
+          <type>equation</type>
+          <alttext>Km = k-1/k1 = Ks</alttext>
+          <latex>K_{\text{m}} = \frac{k_{-1}}{k_{1}}=K_{s}</latex>
+        </item>
+        <item>
+          <meaning>Michaelis constant</meaning>
+          <type>quantity</type>
+          <alttext>Km</alttext>
+          <latex>K_{\text{m}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1140 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 172 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cinetica di Michaelis-Menten (it)</title>
+      <url>https://it.wikipedia.org/wiki/Cinetica_di_Michaelis-Menten</url>
+    </item>
+    <item>
+      <title>Wikipedia - Michaelis-Menten-Theorie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Michaelis-Menten-Theorie</url>
+    </item>
+    <item>
+      <title>Wikipedia - حركية ميكايليس و مينتين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حركية_ميكايليس_و_مينتين</url>
+    </item>
+    <item>
+      <title>Wikipedia - حركية ميكايليس ومينتين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حركية_ميكايليس_ومينتين</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03892/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03892/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03892/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03892/plain</plain>
+  </links>
+  <citation>Citation: 'Michaelis–Menten kinetics' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03892</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:41:16+00:00</accessed>
+</term>

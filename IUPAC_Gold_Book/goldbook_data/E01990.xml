@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01990</id>
+  <doi>10.1351/goldbook.E01990</doi>
+  <code>E01990</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electronegativity</longtitle>
+  <title>electronegativity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Concept introduced by L. Pauling as the power of an atom to attract electrons to itself. There are several definitions of this quantity. According to Mulliken it is the average of the ionization energy and electron affinity of an atom, but more frequently a relative scale due to Pauling is used where dimensionless relative electronegativity differences are defined on the basis of bond dissociation energies, Ed, expressed in electronvolts: χr(A) - χr(B) = eV(-1/2).sqrt(Ed(AB) - 1/2[Ed(AA) + Ed(BB]). The sign of the square root was chosen intuitively by Pauling.</text>
+      <links>
+        <item>
+          <title>power</title>
+          <url>https://goldbook.iupac.org/terms/view/P04792</url>
+        </item>
+        <item>
+          <title>ionization energy</title>
+          <url>https://goldbook.iupac.org/terms/view/I03199</url>
+        </item>
+        <item>
+          <title>electron affinity</title>
+          <url>https://goldbook.iupac.org/terms/view/E01977</url>
+        </item>
+        <item>
+          <title>bond dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/B00698</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Ed</alttext>
+          <latex>E_{\text{d}}</latex>
+        </item>
+        <item>
+          <alttext>χr(A) - χr(B) = eV(-1/2).sqrt(Ed(AB) - 1/2[Ed(AA) + Ed(BB])</alttext>
+          <latex>\chi _{\text{r}}\left(\text{A}\right)- \chi _{\text{r}}\left(\text{B}\right)=\left(\text{eV}\right)^{-\frac{1}{2}}\ \sqrt{E_{\text{d}}\left(\text{AB}\right)- \frac{1}{2}\ [E_{\text{d}}\left(\text{AA}\right)+E_{\text{d}}\left(\text{BB}\right)]}</latex>
+        </item>
+        <item>
+          <alttext>χr = 2.1</alttext>
+          <latex>\chi _{\text{r}} = 2.1</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 20 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1111 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alkali metal (en)</title>
+      <url>https://en.wikipedia.org/wiki/Alkali_metal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Assorbività molare (it)</title>
+      <url>https://it.wikipedia.org/wiki/Assorbività_molare</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bảng tuần hoàn (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Bảng_tuần_hoàn</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chi (letter) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chi_(letter)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electronegatividad (es)</title>
+      <url>https://es.wikipedia.org/wiki/Electronegatividad</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electronegatividade (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Electronegatividade</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electronegativity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electronegativity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electronegativity (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Electronegativity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronegatibotasun (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Elektronegatibotasun</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronegatiflik (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Elektronegatiflik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronegativitas (id)</title>
+      <url>https://id.wikipedia.org/wiki/Elektronegativitas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronegativität (de)</title>
+      <url>https://de.wikipedia.org/wiki/Elektronegativität</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektronegativnost (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Elektronegativnost</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elettronegatività (it)</title>
+      <url>https://it.wikipedia.org/wiki/Elettronegatività</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: A–L (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_A–L</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keelektronegatifan (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Keelektronegatifan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kémiai elemek periódusos rendszere (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Kémiai_elemek_periódusos_rendszere</url>
+    </item>
+    <item>
+      <title>Wikipedia - Logam alkali (id)</title>
+      <url>https://id.wikipedia.org/wiki/Logam_alkali</url>
+    </item>
+    <item>
+      <title>Wikipedia - Materia (es)</title>
+      <url>https://es.wikipedia.org/wiki/Materia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Materia (física) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Materia_(física)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metall alcalí (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Metall_alcalí</url>
+    </item>
+    <item>
+      <title>Wikipedia - Periodensystem (de)</title>
+      <url>https://de.wikipedia.org/wiki/Periodensystem</url>
+    </item>
+    <item>
+      <title>Wikipedia - Periodic table (en)</title>
+      <url>https://en.wikipedia.org/wiki/Periodic_table</url>
+    </item>
+    <item>
+      <title>Wikipedia - Periodic trends (en)</title>
+      <url>https://en.wikipedia.org/wiki/Periodic_trends</url>
+    </item>
+    <item>
+      <title>Wikipedia - Periodiske system (da)</title>
+      <url>https://da.wikipedia.org/wiki/Periodiske_system</url>
+    </item>
+    <item>
+      <title>Wikipedia - Periodiske trender (no)</title>
+      <url>https://no.wikipedia.org/wiki/Periodiske_trender</url>
+    </item>
+    <item>
+      <title>Wikipedia - Periodni sistem elemenata (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Periodni_sistem_elemenata</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tabel periodik (id)</title>
+      <url>https://id.wikipedia.org/wiki/Tabel_periodik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Periodic table (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Periodic_table</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tendances périodiques (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Tendances_périodiques</url>
+    </item>
+    <item>
+      <title>Wikipedia - Táboa periódica dos elementos (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Táboa_periódica_dos_elementos</url>
+    </item>
+    <item>
+      <title>Wikipedia - Échelle de Pauling (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Échelle_de_Pauling</url>
+    </item>
+    <item>
+      <title>Wikipedia - Électronégativité (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Électronégativité</url>
+    </item>
+    <item>
+      <title>Wikipedia - Електронегативност (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Електронегативност</url>
+    </item>
+    <item>
+      <title>Wikipedia - Електронегативність (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Електронегативність</url>
+    </item>
+    <item>
+      <title>Wikipedia - Периодни систем (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Периодни_систем</url>
+    </item>
+    <item>
+      <title>Wikipedia - Պարբերական աղյուսակ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Պարբերական_աղյուսակ</url>
+    </item>
+    <item>
+      <title>Wikipedia - سلوم د پاولينغ (ary)</title>
+      <url>https://ary.wikipedia.org/wiki/سلوم_د_پاولينغ</url>
+    </item>
+    <item>
+      <title>Wikipedia - سلوم د پاولينڭ (ary)</title>
+      <url>https://ary.wikipedia.org/wiki/سلوم_د_پاولينڭ</url>
+    </item>
+    <item>
+      <title>Wikipedia - سلوم د پاولينݣ (ary)</title>
+      <url>https://ary.wikipedia.org/wiki/سلوم_د_پاولينݣ</url>
+    </item>
+    <item>
+      <title>Wikipedia - كهرسلبية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كهرسلبية</url>
+    </item>
+    <item>
+      <title>Wikipedia - كهروسلبية (ary)</title>
+      <url>https://ary.wikipedia.org/wiki/كهروسلبية</url>
+    </item>
+    <item>
+      <title>Wikipedia - ఆవర్తన పట్టిక (te)</title>
+      <url>https://te.wikipedia.org/wiki/ఆవర్తన_పట్టిక</url>
+    </item>
+    <item>
+      <title>Wikipedia - കൈ (അക്ഷരം) (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/കൈ_(അക്ഷരം)</url>
+    </item>
+    <item>
+      <title>Wikipedia - ตารางธาตุ (th)</title>
+      <url>https://th.wikipedia.org/wiki/ตารางธาตุ</url>
+    </item>
+    <item>
+      <title>Wikipedia - อิเล็กโตรเนกาทิวิตี (th)</title>
+      <url>https://th.wikipedia.org/wiki/อิเล็กโตรเนกาทิวิตี</url>
+    </item>
+    <item>
+      <title>Wikipedia - အီလက်ထရောနစ် ဆွဲငင်အား (my)</title>
+      <url>https://my.wikipedia.org/wiki/အီလက်ထရောနစ်_ဆွဲငင်အား</url>
+    </item>
+    <item>
+      <title>Wikipedia - 元素周期表 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/元素周期表</url>
+    </item>
+    <item>
+      <title>Wikipedia - 碱金属 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/碱金属</url>
+    </item>
+    <item>
+      <title>Wikipedia - 週期性趨勢 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/週期性趨勢</url>
+    </item>
+    <item>
+      <title>Wikipedia - 알칼리 금속 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/알칼리_금속</url>
+    </item>
+    <item>
+      <title>Wikipedia - 전기 음성도 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/전기_음성도</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01990/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01990/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01990/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01990/plain</plain>
+  </links>
+  <citation>Citation: 'electronegativity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01990</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:14:46+00:00</accessed>
+</term>

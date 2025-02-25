@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05139</id>
+  <doi>10.1351/goldbook.R05139</doi>
+  <code>R05139</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - rate-controlling step</longtitle>
+  <title>rate-controlling step</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A rate-controlling (rate-determining or rate-limiting) step in a reaction occurring by a composite reactionsequence is an elementary reaction the rate constant for which exerts a strong effect — stronger than that of any other rate constant — on the overall rate. It is recommended that the expressions rate-controlling, rate-determining and rate-limiting be regarded as synonymous, but some special meanings sometimes given to the last two expressions are considered under a separate heading. A rate-controlling step can be formally defined on the basis of a control function (or control factor) CF, identified for an elementary reaction having a rate constantki by: CF = ∂(lnv)/∂lnki is the overall rate of reaction. In performing the partial differentiation all equilibrium constants Kj and all rate constants except ki are held constant. The elementary reaction having the largest control factor exerts the strongest influence on the rate v, and a step having a CF much larger than any other step may be said to be rate-controlling. A rate-controlling step defined in the way recommended here has the advantage that it is directly related to the interpretation of kinetic isotope effects. As formulated this implies that all rate constants are of the same dimensionality. Consider however the reaction of A and B to give an intermediate C, which then reacts further with D to give products:    [image: Not defined]  (1)    [image: Not defined]  (2)   Assuming that C reaches a steady state, then the observed rate is given by: v = k 1 k 2 A B D k-1 + k 2 D a pseudo-first order rate constant, then k2[D] ≫ k-1, and the observed rate v = k 1 A B and kobs = k1. Step (1) is said to be the rate-controlling step. If k2[D] ≪ k-1, then the observed rate: v = k 1 k 2 k-1 A B D = K k 2 A is the equilibrium constant for the pre-equilibrium (1) and is equal to k1/k-1, and kobs = K.k2. Step (2) is said to be the rate-controlling step.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/R05139-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/R05139-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>Gibbs energy diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02630</url>
+        </item>
+        <item>
+          <title>microscopic diffusion control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03912</url>
+        </item>
+        <item>
+          <title>mixing control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03946</url>
+        </item>
+        <item>
+          <title>rate-determining step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05140</url>
+        </item>
+        <item>
+          <title>Gibbs energy diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02630</url>
+        </item>
+        <item>
+          <title>microscopic diffusion control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03912</url>
+        </item>
+        <item>
+          <title>mixing control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03946</url>
+        </item>
+        <item>
+          <title>rate-determining step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05140</url>
+        </item>
+        <item>
+          <title>composite reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01211</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>Gibbs energy diagram</title>
+          <url>https://goldbook.iupac.org/terms/view/G02630</url>
+        </item>
+        <item>
+          <title>microscopic diffusion control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03912</url>
+        </item>
+        <item>
+          <title>mixing control</title>
+          <url>https://goldbook.iupac.org/terms/view/M03946</url>
+        </item>
+        <item>
+          <title>rate-determining step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05140</url>
+        </item>
+        <item>
+          <title>composite reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01211</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>kinetic isotope effects</title>
+          <url>https://goldbook.iupac.org/terms/view/K03405</url>
+        </item>
+        <item>
+          <title>steady state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05962</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Rate constant for step i</meaning>
+          <type>quantity</type>
+          <alttext>ki</alttext>
+          <latex>k_{i}</latex>
+        </item>
+        <item>
+          <alttext>CF = ∂(lnv)/∂lnki</alttext>
+          <latex>\text{CF}=\frac{\partial (\ln \nu)}{\partial \ln k_{i}}</latex>
+        </item>
+        <item>
+          <alttext>v</alttext>
+          <latex>\nu</latex>
+        </item>
+        <item>
+          <meaning>Equilibrium constant for species j</meaning>
+          <type>quantity</type>
+          <alttext>Kj</alttext>
+          <latex>K_{j}</latex>
+        </item>
+        <item>
+          <meaning>Rate constant for step i</meaning>
+          <type>quantity</type>
+          <alttext>ki</alttext>
+          <latex>k_{i}</latex>
+        </item>
+        <item>
+          <alttext>v</alttext>
+          <latex>\nu</latex>
+        </item>
+        <item>
+          <alttext>v = k 1 k 2 A B D k-1 + k 2 D</alttext>
+          <latex>\nu = \frac{k_{1}\,k_{2}\,\left[\text{A}\right]\left[\text{B}\right]\left[\text{D}\right]}{k_{-1}+k_{2}\left[\text{D}\right]}</latex>
+        </item>
+        <item>
+          <meaning>Pseudo first-order rate constant</meaning>
+          <type>quantity</type>
+          <alttext>k2[D]</alttext>
+          <latex>k_{2}\left[\text{D}\right]</latex>
+        </item>
+        <item>
+          <meaning>Pseudo first-order rate constant</meaning>
+          <type>math</type>
+          <alttext>k2[D] ≫ k-1</alttext>
+          <latex>k_{2}\left[\text{D}\right]\gg k_{-1}</latex>
+        </item>
+        <item>
+          <alttext>v = k 1 A B</alttext>
+          <latex>\nu = k_{1}\ \left[\text{A}\right]\left[\text{B}\right]</latex>
+        </item>
+        <item>
+          <meaning>Rate controlling step</meaning>
+          <type>math</type>
+          <alttext>kobs = k1</alttext>
+          <latex>k_{\text{obs}}=k_{1}</latex>
+        </item>
+        <item>
+          <meaning>Pseudo first-order rate constant</meaning>
+          <type>math</type>
+          <alttext>k2[D] ≪ k-1</alttext>
+          <latex>k_{2}\left[\text{D}\right]\ll k_{-1}</latex>
+        </item>
+        <item>
+          <alttext>v = k 1 k 2 k-1 A B D = K k 2 A</alttext>
+          <latex>\nu = \frac{k_{1}\ k_{2}}{k_{-1}}\left[\text{A}\right]\left[\text{B}\right]\left[\text{D}\right]=K\ k_{2}\left[\text{A}\right]\left[\text{B}\right]\left[\text{D}\right]</latex>
+        </item>
+        <item>
+          <alttext>K</alttext>
+          <latex>K</latex>
+        </item>
+        <item>
+          <meaning>Pre-equilibrium constant</meaning>
+          <type>math</type>
+          <alttext>k1/k-1</alttext>
+          <latex>\frac{k_{1}}{k_{-1}}</latex>
+        </item>
+        <item>
+          <meaning>Rate-controlling step</meaning>
+          <type>math</type>
+          <alttext>kobs = K.k2</alttext>
+          <latex>k_{\text{obs}}=K\ k_{2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1156 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 182 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Stadio cineticamente determinante (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stadio_cineticamente_determinante</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05139/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05139/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05139/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05139/plain</plain>
+  </links>
+  <citation>Citation: 'rate-controlling step' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05139</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:46:24+00:00</accessed>
+</term>

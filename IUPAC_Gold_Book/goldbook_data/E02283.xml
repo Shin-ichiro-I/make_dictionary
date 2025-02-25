@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02283</id>
+  <doi>10.1351/goldbook.E02283</doi>
+  <code>E02283</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - extent of reaction, ξ</longtitle>
+  <title>extent of reaction</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Extensive quantity describing the progress of a chemical reaction equal to the number of chemical transformations, as indicated by the reaction equation on a molecular scale, divided by the Avogadro constant (it is essentially the amount of chemical transformations). The change in the extent of reaction is given by dξ = dnB/νB, where νB is the stoichiometric number of any reaction entity B (reactant or product) and dnB is the corresponding amount.</text>
+      <links>
+        <item>
+          <title>extensive quantity</title>
+          <url>https://goldbook.iupac.org/terms/view/E02281</url>
+        </item>
+        <item>
+          <title>Avogadro constant</title>
+          <url>https://goldbook.iupac.org/terms/view/A00543</url>
+        </item>
+        <item>
+          <title>amount</title>
+          <url>https://goldbook.iupac.org/terms/view/A00297</url>
+        </item>
+        <item>
+          <title>stoichiometric number</title>
+          <url>https://goldbook.iupac.org/terms/view/S06025</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>dξ = dnB/νB</alttext>
+          <latex>\mathrm{d}\xi =\frac{\mathrm{d}n_{\text{B}}}{\nu _{\text{B}}}</latex>
+        </item>
+        <item>
+          <alttext>νB</alttext>
+          <latex>\nu _{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>dnB</alttext>
+          <latex>\mathrm{d}n_{\text{B}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 43 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1992, 64, 1569. 'Quantities and units for metabolic processes as a function of time (IUPAC Recommendations 1992)' on page 1572 (https://doi.org/10.1351/pac199264101569)</item>
+        <item>PAC, 1993, 65, 2291. 'Nomenclature of kinetic methods of analysis (IUPAC Recommendations 1993)' on page 2295 (https://doi.org/10.1351/pac199365102291)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 165 (https://doi.org/10.1351/pac199668010149)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 973 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Benutzer Diskussion:Walmei (de)</title>
+      <url>https://de.wikipedia.org/wiki/Benutzer_Diskussion:Walmei</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Stoffmenge (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Stoffmenge</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Umsatzvariable (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Umsatzvariable</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stoichiometry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Stoichiometry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Xi (letter) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Xi_(letter)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Umsatzvariable (de)</title>
+      <url>https://de.wikipedia.org/wiki/Umsatzvariable</url>
+    </item>
+    <item>
+      <title>Wikipedia - Xi (letter) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Xi_(letter)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Xi (lettera) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Xi_(lettera)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ξ (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Ξ</url>
+    </item>
+    <item>
+      <title>Wikipedia - Химическая переменная (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Химическая_переменная</url>
+    </item>
+    <item>
+      <title>Wikipedia - تقدم تفاعل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تقدم_تفاعل</url>
+    </item>
+    <item>
+      <title>Wikipedia - ساي (حرف) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ساي_(حرف)</url>
+    </item>
+    <item>
+      <title>Wikipedia - كسي (حرف) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كسي_(حرف)</url>
+    </item>
+    <item>
+      <title>Wikipedia - জি (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/জি</url>
+    </item>
+    <item>
+      <title>Wikipedia - সি (অক্ষর) (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/সি_(অক্ষর)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02283/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02283/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02283/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02283/plain</plain>
+  </links>
+  <citation>Citation: 'extent of reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02283</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:26:42+00:00</accessed>
+</term>

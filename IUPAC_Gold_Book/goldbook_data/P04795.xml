@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04795</id>
+  <doi>10.1351/goldbook.P04795</doi>
+  <code>P04795</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - precipitation</longtitle>
+  <title>precipitation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The sedimentation of a solid material (a precipitate) from a liquid solution in which the material is present in amounts greater than its solubility in the liquid. Source:   PAC, 1990, 62, 2167 (Glossary of atmospheric chemistry terms (Recommendations 1990))  on page 2207  See also: Orange Book, p. 84<br/> PAC, 1994, 66, 577 (Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations1994)) on page 589 </text>
+      <links>
+        <item>
+          <title>sedimentation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05534</url>
+        </item>
+        <item>
+          <title>solubility</title>
+          <url>https://goldbook.iupac.org/terms/view/S05740</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 84 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 589 (https://doi.org/10.1351/pac199466030577)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2207 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+    <item>
+      <id>2</id>
+      <text>Electrostatic precipitation: Separation of particles or droplets suspended in a gas or air. A large potential difference (12 to 30 kV dc) is required between the spaced electrodes in the precipitator. The charged particles are attracted to an electrode of opposite charge and collected. Source:    PAC, 1990, 62, 2167 (Glossary of atmospheric chemistry terms (Recommendations 1990))  on page 2207 </text>
+      <math>
+        <item>
+          <alttext>12</alttext>
+          <latex>12</latex>
+        </item>
+        <item>
+          <alttext>30 kV</alttext>
+          <latex>30\ \text{kV}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2207 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+    <item>
+      <id>3</id>
+      <text>Precipitation (in meteorology): Rain, snowfall, hail, etc. Source:    PAC, 1990, 62, 2167 (Glossary of atmospheric chemistry terms (Recommendations 1990))  on page 2207 </text>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2207 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chemical reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemijska reakcija (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemijska_reakcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemična reakcija (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemična_reakcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Precipitation (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Precipitation_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Precipitazione (chimica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Precipitazione_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Precipitazione (meteorologia) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Precipitazione_(meteorologia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Precipitazione meteorologica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Precipitazione_meteorologica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Précipité (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Précipité</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaksi kimia (id)</title>
+      <url>https://id.wikipedia.org/wiki/Reaksi_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Réaksi kimia (jv)</title>
+      <url>https://jv.wikipedia.org/wiki/Réaksi_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Strącanie (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Strącanie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хемиска реакција (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Хемиска_реакција</url>
+    </item>
+    <item>
+      <title>Wikipedia - வேதி வினை (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/வேதி_வினை</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04795/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04795/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04795/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04795/plain</plain>
+  </links>
+  <citation>Citation: 'precipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04795</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:30:57+00:00</accessed>
+</term>

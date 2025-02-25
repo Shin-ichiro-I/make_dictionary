@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07008</id>
+  <doi>10.1351/goldbook.BT07008</doi>
+  <code>BT07008</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Born–Oppenheimer (BO) approximation</longtitle>
+  <title>Born–Oppenheimer (BO) approximation</title>
+  <abbrevs>
+    <item>BO</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Representation of the complete wavefunction as a product of an electronic and a nuclear part, Ψ r,R = Ψ e r,R Ψ N R) is sufficiently small and the nuclei, as compared to the rapidly moving electrons, appear to be fixed. The approximation breaks down near a point where two electronic states acquire the same energy (see Jahn–Teller effect). The BO approximation is often considered as being synonymous with the adiabatic approximation. More precisely, the latter term denotes the case when Ψ e diagonalize the electronic Hamiltonian. Thus, the adiabatic approximation is an application of the BO approximation.</text>
+      <links>
+        <item>
+          <title>wavefunction</title>
+          <url>https://goldbook.iupac.org/terms/view/W06657</url>
+        </item>
+        <item>
+          <title>Jahn–Teller effect</title>
+          <url>https://goldbook.iupac.org/terms/view/J03361</url>
+        </item>
+        <item>
+          <title>wavefunction</title>
+          <url>https://goldbook.iupac.org/terms/view/W06657</url>
+        </item>
+        <item>
+          <title>Jahn–Teller effect</title>
+          <url>https://goldbook.iupac.org/terms/view/J03361</url>
+        </item>
+        <item>
+          <title>adiabatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00141</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Ψ r,R = Ψ e r,R Ψ N R</alttext>
+          <latex>\Psi \left(\text{r,R}\right)=\Psi _{\text{e}}\left(\text{r,R}\right)\ \Psi _{\text{N}}\left(\text{R}\right)</latex>
+        </item>
+        <item>
+          <alttext>mM ≅ 5 x 10E-4</alttext>
+          <latex>\frac{m}{M}\cong 5\times 10^{-4}</latex>
+        </item>
+        <item>
+          <alttext>Ψ e</alttext>
+          <latex>\Psi _{\text{e}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1929 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Approssimazione di Born-Oppenheimer (it)</title>
+      <url>https://it.wikipedia.org/wiki/Approssimazione_di_Born-Oppenheimer</url>
+    </item>
+    <item>
+      <title>Wikipedia - تقريب بورن-أوبنهايمر (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تقريب_بورن-أوبنهايمر</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/BT07008/html</html>
+    <json>https://goldbook.iupac.org/terms/view/BT07008/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/BT07008/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/BT07008/plain</plain>
+  </links>
+  <citation>Citation: 'Born–Oppenheimer (BO) approximation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.BT07008</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:14:10+00:00</accessed>
+</term>

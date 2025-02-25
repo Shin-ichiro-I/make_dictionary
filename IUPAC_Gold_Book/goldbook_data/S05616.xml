@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05616</id>
+  <doi>10.1351/goldbook.S05616</doi>
+  <code>S05616</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - separation number</longtitle>
+  <title>separation number</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This expresses the number of peaks which can be resolved in a given part of the chromatogram between the peaks of two consecutive n-alkanes with z and (z + 1) carbon atoms in their molecules: SN = t R z + 1- t R z w h z + w (trennzahl) is commonly used to express the separation number. As the separation number depends on the n-alkanes used for the calculation, they always must be specified with any given SN value.</text>
+      <contexts>
+        <in>
+          <item>chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>chromatogram</title>
+          <url>https://goldbook.iupac.org/terms/view/C01071</url>
+        </item>
+        <item>
+          <title>alkanes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00222</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>z</alttext>
+          <latex>z</latex>
+        </item>
+        <item>
+          <alttext>z + 1</alttext>
+          <latex>z+1</latex>
+        </item>
+        <item>
+          <alttext>SN = t R z + 1- t R z w h z + w</alttext>
+          <latex>\text{SN} = \frac{t_{\text{R}\left(z\,+\,1\right)}- t_{\text{R}z}}{w_{\text{h}z}\,+\,w_{\text{h}\left(z+1\right)}} - 1</latex>
+        </item>
+        <item>
+          <alttext>TZ</alttext>
+          <latex>\text{TZ}</latex>
+        </item>
+        <item>
+          <alttext>SN</alttext>
+          <latex>\text{SN}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 847 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05616/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05616/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05616/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05616/plain</plain>
+  </links>
+  <citation>Citation: 'separation number' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05616</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:07:22+00:00</accessed>
+</term>

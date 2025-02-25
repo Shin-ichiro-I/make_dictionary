@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03004</id>
+  <doi>10.1351/goldbook.I03004</doi>
+  <code>I03004</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - indicated hydrogen</longtitle>
+  <title>indicated hydrogen</title>
+  <contains>added hydrogen</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Under certain circumstances it is necessary to indicate in the name of a ring, or ring system, containing the maximum number of non-cumulative double bonds, one or more positions where no multiple bond is attached. This is done by specifying the presence of an 'extra' hydrogen atom at such positions by citation of the appropriate numbered locant followed by an italicized capital H. Example: [image: Not defined] A second type of indicated hydrogen (sometimes referred to as 'added hydrogen') describes hydrogen atoms added to a specific structure as a consequence of the addition of a suffix or a prefix describing a structural modification. This type of indicated hydrogen is normally cited in parentheses after the locant of the additional feature. Example: [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/I03004-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/I03004-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>cumulative double bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/C01437</url>
+        </item>
+      </links>
+      <sources>
+        <item>Blue Book Guide, p. 34 (https://doi.org/10.1351/pac199971071327)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03004/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03004/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03004/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03004/plain</plain>
+  </links>
+  <citation>Citation: 'indicated hydrogen' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03004</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:01:52+00:00</accessed>
+</term>

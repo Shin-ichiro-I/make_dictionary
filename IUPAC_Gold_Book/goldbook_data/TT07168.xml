@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07168</id>
+  <doi>10.1351/goldbook.TT07168</doi>
+  <code>TT07168</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - thermosetting polymer</longtitle>
+  <title>thermosetting polymer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Prepolymer in a soft solid or viscous state that changes irreversibly into an infusible, insoluble polymer network by curing.</text>
+      <notes>
+        <item>Curing can be induced by the action of heat or suitable radiation, or both.</item>
+        <item>A cured thermosetting polymer is called a thermoset.</item>
+      </notes>
+      <links>
+        <item>
+          <title>prepolymer</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07163</url>
+        </item>
+        <item>
+          <title>polymer network</title>
+          <url>https://goldbook.iupac.org/terms/view/P04742</url>
+        </item>
+        <item>
+          <title>curing</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07137</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 898 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Harz (Material) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Harz_(Material)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Melamina (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Melamina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polimeri termoindurenti (it)</title>
+      <url>https://it.wikipedia.org/wiki/Polimeri_termoindurenti</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaktoplast (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Reaktoplast</url>
+    </item>
+    <item>
+      <title>Wikipedia - Résine (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Résine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Thermosetting polymer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Thermosetting_polymer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Термореактивен полимер (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Термореактивен_полимер</url>
+    </item>
+    <item>
+      <title>Wikipedia - لدائن صلبة بالحرارة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/لدائن_صلبة_بالحرارة</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/TT07168/html</html>
+    <json>https://goldbook.iupac.org/terms/view/TT07168/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/TT07168/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/TT07168/plain</plain>
+  </links>
+  <citation>Citation: 'thermosetting polymer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.TT07168</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:41:50+00:00</accessed>
+</term>

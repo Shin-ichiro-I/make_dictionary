@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03483</id>
+  <doi>10.1351/goldbook.L03483</doi>
+  <code>L03483</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - lateral resolution in in situ microanalysis</longtitle>
+  <title>lateral resolution</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For qualitative analysis, this should be defined as the minimum distance of two points (areas) on the specimen corresponding to signal levels of 16 and 84%. For electron signals originating from top surface layers like secondary or Auger electrons and secondary ions the lateral resolution for qualitative purposes corresponds to the beam diameter. For signals originating in a greater depth of the sample (back scattered electrons, X-rays) the lateral resolution is worse than the corresponding value of the beam diameter due to the diffusion of the primary electrons. The lateral resolution may be determined exactly with a sandwich specimen or a sharp edge specimen, or approximately with a specimen showing a regular microstructure of known dimensions. Recommended abbreviation: Lat. Res. (qualitative); unit: m; range: nm or µm. For quantitative analysis, this should be defined as the minimum distance of two points (areas) on the specimen corresponding to signal ratios of 10E4. This condition assures that the value for the lateral resolution defines the diameter of the analytical area which yields the total analytical signal. Due to the effect of electron diffusion in a solid and 'tail effects' in ion beam analysis the quantitative lateral resolution is significantly larger than the beam diameter. Recommended abbreviation: Lat. Res. (quantitative); unit: m; range: nm or µm.</text>
+      <contexts>
+        <in>
+          <item>in situ microanalysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>qualitative analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04973</url>
+        </item>
+        <item>
+          <title>diffusion (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01716</url>
+        </item>
+        <item>
+          <title>quantitative analysis (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04980</url>
+        </item>
+        <item>
+          <title>qualitative analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04973</url>
+        </item>
+        <item>
+          <title>diffusion (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01716</url>
+        </item>
+        <item>
+          <title>quantitative analysis (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04980</url>
+        </item>
+        <item>
+          <title>secondary (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05518</url>
+        </item>
+        <item>
+          <title>Auger electrons (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00521</url>
+        </item>
+        <item>
+          <title>beam diameter (in in situ microanalysis) (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00622</url>
+        </item>
+        <item>
+          <title>back scattered electrons (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00583</url>
+        </item>
+        <item>
+          <title>primary electrons (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis) (in in situ microanalysis)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04829</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>m</alttext>
+          <latex>\text{m}</latex>
+        </item>
+        <item>
+          <alttext>nm</alttext>
+          <latex>\text{nm}</latex>
+        </item>
+        <item>
+          <alttext>µm</alttext>
+          <latex>\unicode[Times]{x3BC} \text{m}</latex>
+        </item>
+        <item>
+          <alttext>10E4</alttext>
+          <latex>10^{4}</latex>
+        </item>
+        <item>
+          <alttext>m</alttext>
+          <latex>\text{m}</latex>
+        </item>
+        <item>
+          <alttext>nm</alttext>
+          <latex>\text{nm}</latex>
+        </item>
+        <item>
+          <alttext>µm</alttext>
+          <latex>\unicode[Times]{x3BC} \text{m}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1983, 55, 2023. 'Nomenclature, symbols and units recommended for in situ microanalysis (Provisional)' on page 2027 (https://doi.org/10.1351/pac198355122023)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03483/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03483/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03483/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03483/plain</plain>
+  </links>
+  <citation>Citation: 'lateral resolution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03483</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:21:30+00:00</accessed>
+</term>

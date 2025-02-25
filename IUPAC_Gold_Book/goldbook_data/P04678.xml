@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04678</id>
+  <doi>10.1351/goldbook.P04678</doi>
+  <code>P04678</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pitch-based carbon fibres</longtitle>
+  <title>pitch-based carbon fibres</title>
+  <abbrevs>
+    <item>HM</item>
+    <item>LM</item>
+    <item>MPP</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Carbon fibres obtained from pitch precursor fibres after stabilization treatment, carbonization and final heat treatment.</text>
+      <notes>
+        <item>The term pitch-based carbon fibres comprises the isotropic pitch-based carbon fibres as well as the anisotropic mesophase pitch-based carbon fibres (MPP-based carbon fibres). The isotropic type belongs to the carbon fibres type LM (low modulus) and is mainly used as filler in polymers and insulation materials and for similar applications. The anisotropic type (MPP-based carbon fibres) belongs to the carbon fibres type HM and is used mainly for reinforcement purposes due to its high Young's modulus value.</item>
+      </notes>
+      <links>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>filler</title>
+          <url>https://goldbook.iupac.org/terms/view/F02363</url>
+        </item>
+        <item>
+          <title>Young's modulus</title>
+          <url>https://goldbook.iupac.org/terms/view/M03966</url>
+        </item>
+        <item>
+          <title>pitch</title>
+          <url>https://goldbook.iupac.org/terms/view/P04677</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>filler</title>
+          <url>https://goldbook.iupac.org/terms/view/F02363</url>
+        </item>
+        <item>
+          <title>Young's modulus</title>
+          <url>https://goldbook.iupac.org/terms/view/M03966</url>
+        </item>
+        <item>
+          <title>isotropic pitch-based carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/I03355</url>
+        </item>
+        <item>
+          <title>mesophase pitch-based carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/M03851</url>
+        </item>
+        <item>
+          <title>carbon fibres type LM</title>
+          <url>https://goldbook.iupac.org/terms/view/C00836</url>
+        </item>
+        <item>
+          <title>Carbon fibres</title>
+          <url>https://goldbook.iupac.org/terms/view/C00831</url>
+        </item>
+        <item>
+          <title>carbonization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00840</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 500 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04678/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04678/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04678/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04678/plain</plain>
+  </links>
+  <citation>Citation: 'pitch-based carbon fibres' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04678</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:23:47+00:00</accessed>
+</term>

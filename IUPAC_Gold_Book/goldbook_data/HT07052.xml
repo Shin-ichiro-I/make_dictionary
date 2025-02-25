@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07052</id>
+  <doi>10.1351/goldbook.HT07052</doi>
+  <code>HT07052</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hyperfine coupling</longtitle>
+  <title>hyperfine coupling</title>
+  <abbrevs>
+    <item>ESR</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The interaction between the spin magnetic moment of an unpaired electron and the nuclear spin magnetic moments resulting in the splitting of the α (spin up) and β (spin down) energy levels in an external magnetic field and, thus, in the multiplet pattern of the ESR spectra of radical-like species and transition metal compounds. Two main contributions to the hyperfine coupling are usually considered, Fermi contact and dipolar interactions. The contact interaction is isotropic and related to the unpaired spin density at the nucleus, |ψσ|2. The dipolar interaction is anisotropic, and related to r-3, where r is the distance between the atom holding the unpaired electron and the nucleus with non-zero spin.</text>
+      <links>
+        <item>
+          <title>coupling</title>
+          <url>https://goldbook.iupac.org/terms/view/C01025</url>
+        </item>
+        <item>
+          <title>Fermi</title>
+          <url>https://goldbook.iupac.org/terms/view/F02339</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>spin density</title>
+          <url>https://goldbook.iupac.org/terms/view/S05864</url>
+        </item>
+        <item>
+          <title>nucleus</title>
+          <url>https://goldbook.iupac.org/terms/view/N04256</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>|ψσ|2</alttext>
+          <latex>|\psi _{\unicode[Times]{x3C3}}|^{2}</latex>
+        </item>
+        <item>
+          <alttext>r-3</alttext>
+          <latex>r^{-3}</latex>
+        </item>
+        <item>
+          <alttext>r</alttext>
+          <latex>r</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1945 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/HT07052/html</html>
+    <json>https://goldbook.iupac.org/terms/view/HT07052/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/HT07052/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/HT07052/plain</plain>
+  </links>
+  <citation>Citation: 'hyperfine coupling' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.HT07052</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:57:21+00:00</accessed>
+</term>

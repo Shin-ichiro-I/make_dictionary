@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03970</id>
+  <doi>10.1351/goldbook.M03970</doi>
+  <code>M03970</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molality, m, b</longtitle>
+  <title>molality</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Amount of entities of a solute divided by the mass of the solvent</text>
+      <links>
+        <item>
+          <title>solute</title>
+          <url>https://goldbook.iupac.org/terms/view/S05744</url>
+        </item>
+        <item>
+          <title>solvent</title>
+          <url>https://goldbook.iupac.org/terms/view/S05746</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 42 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 982 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Concentració (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Concentració</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koncentráció (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Koncentráció</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konsentrasjon (kjemi) (no)</title>
+      <url>https://no.wikipedia.org/wiki/Konsentrasjon_(kjemi)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molalidad (tl)</title>
+      <url>https://tl.wikipedia.org/wiki/Molalidad</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molalidade (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Molalidade</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molalitas (id)</title>
+      <url>https://id.wikipedia.org/wiki/Molalitas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molalitat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Molalitat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molalitate (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Molalitate</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molality (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molality</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molalità (it)</title>
+      <url>https://it.wikipedia.org/wiki/Molalità</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molalität (de)</title>
+      <url>https://de.wikipedia.org/wiki/Molalität</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molalité (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Molalité</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stężenie (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stężenie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stężenie molalne (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stężenie_molalne</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Ionic strength (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Ionic_strength</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Molality (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Molality</url>
+    </item>
+    <item>
+      <title>Wikipedia - User talk:Mikhail Ryazanov (en)</title>
+      <url>https://en.wikipedia.org/wiki/User_talk:Mikhail_Ryazanov</url>
+    </item>
+    <item>
+      <title>Wikipedia - مولالیته (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/مولالیته</url>
+    </item>
+    <item>
+      <title>Wikipedia - 重量摩爾濃度 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/重量摩爾濃度</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03970/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03970/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03970/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03970/plain</plain>
+  </links>
+  <citation>Citation: 'molality' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03970</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:45:08+00:00</accessed>
+</term>

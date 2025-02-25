@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05736</id>
+  <doi>10.1351/goldbook.S05736</doi>
+  <code>S05736</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - solid state lasers</longtitle>
+  <title>solid state lasers</title>
+  <abbrevs>
+    <item>CW</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>CW or pulsed lasers in which the active medium is a solid matrix (crystal or glass) doped with an ion (e.g. Nd3+ , Cr3+ , Er3+ ). The emitted wavelength depends on the active ion, the selected optical transition, and the matrix. Some of these lasers are tunable within a very broad range (e.g. from 700 to 1000 nm for Ti3+ doped sapphire). Pulsed lasers may be free-running, Q-switched, or mode-locked. Some CW lasers may be mode-locked.</text>
+      <links>
+        <item>
+          <title>active medium</title>
+          <url>https://goldbook.iupac.org/terms/view/A00106</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>mode</title>
+          <url>https://goldbook.iupac.org/terms/view/M03958</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>700</alttext>
+          <latex>700</latex>
+        </item>
+        <item>
+          <alttext>1000 nm</alttext>
+          <latex>1000\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2274 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Laser a stato solido (it)</title>
+      <url>https://it.wikipedia.org/wiki/Laser_a_stato_solido</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05736/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05736/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05736/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05736/plain</plain>
+  </links>
+  <citation>Citation: 'solid state lasers' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05736</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:13:30+00:00</accessed>
+</term>

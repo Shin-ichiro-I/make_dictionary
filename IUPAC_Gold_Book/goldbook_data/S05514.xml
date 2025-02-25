@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05514</id>
+  <doi>10.1351/goldbook.S05514</doi>
+  <code>S05514</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - second of arc</longtitle>
+  <title>second</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-SI unit of plane angle: 1″ = (1/3600)° = 4.84837... x 10E-6 rad.</text>
+      <contexts>
+        <of>
+          <item>arc</item>
+        </of>
+      </contexts>
+      <links>
+        <item>
+          <title>plane angle</title>
+          <url>https://goldbook.iupac.org/terms/view/P04686</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Second (angle)</meaning>
+          <type>unit</type>
+          <alttext>1″ = (1/3600)° = 4.84837... x 10E-6 rad</alttext>
+          <latex>1^{\prime\prime} = \frac{1}{3600}\ ^{\unicode{x26ac}} = 4.848\ 137\,...\,\times\ 10^{-6}\ \text{rad}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 113 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 991 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Secondo (geometria) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Secondo_(geometria)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Segundo sexagesimal (es)</title>
+      <url>https://es.wikipedia.org/wiki/Segundo_sexagesimal</url>
+    </item>
+    <item>
+      <title>Wikipedia - ثانية قوسية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ثانية_قوسية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05514/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05514/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05514/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05514/plain</plain>
+  </links>
+  <citation>Citation: 'second' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05514</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:02:47+00:00</accessed>
+</term>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02754</id>
+  <doi>10.1351/goldbook.H02754</doi>
+  <code>H02754</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - heat capacity of activation, Δ^‡C^o_p</longtitle>
+  <title>heat capacity of activation</title>
+  <index>quantity</index>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A quantity related to the temperature coefficient of Δ‡H (enthalpy of activation) and Δ‡S (entropy of activation) according to the equations: Δ‡Cp = (∂Δ‡H/∂T)p = T(∂Δ‡S/∂T)p.</text>
+      <links>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>enthalpy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02142</url>
+        </item>
+        <item>
+          <title>entropy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02150</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/R05138</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Δ‡H</alttext>
+          <latex>\Delta ^{\ddagger}H</latex>
+        </item>
+        <item>
+          <alttext>Δ‡S</alttext>
+          <latex>\Delta ^{\ddagger}S</latex>
+        </item>
+        <item>
+          <alttext>Δ‡Cp = (∂Δ‡H/∂T)p = T(∂Δ‡S/∂T)p</alttext>
+          <latex>\Delta ^{\ddagger}C_{p} = (\frac{\partial \Delta ^{\ddagger }H}{\partial T})_{p}=T\ (\frac{\partial \Delta ^{\ddagger }S}{\partial T})_{p}</latex>
+        </item>
+        <item>
+          <alttext>lnk = (a/T) + b + clnT + dT</alttext>
+          <latex>\ln k = \frac{a}{T}+b+c\ \ln T + \text{d}T,</latex>
+        </item>
+        <item>
+          <alttext>Δ‡Cp = (c - 1)R + 2 d(RT)</alttext>
+          <latex>\Delta ^{\ddagger}C_{p} = (c - 1)\ R+2\ \text{d}(R\ T)</latex>
+        </item>
+        <item>
+          <meaning>Heat capacity of activation</meaning>
+          <type>unit</type>
+          <alttext>J mol-1 K-1</alttext>
+          <latex>\pu{J mol-1 K-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1120 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 168 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02754/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02754/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02754/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02754/plain</plain>
+  </links>
+  <citation>Citation: 'heat capacity of activation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02754</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:48:29+00:00</accessed>
+</term>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03725</id>
+  <doi>10.1351/goldbook.M03725</doi>
+  <code>M03725</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mass-law effect</longtitle>
+  <title>mass-law effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>At equilibrium, the product of the activities (or concentrations) of the reacting species is constant. Thus for the equilibrium:  </text>
+      <links>
+        <item>
+          <title>common-ion effect</title>
+          <url>https://goldbook.iupac.org/terms/view/C01191</url>
+        </item>
+        <item>
+          <title>equilibrium</title>
+          <url>https://goldbook.iupac.org/terms/view/C01023</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>reaction</type>
+          <alttext>αA + βB ⇌ γC + δD</alttext>
+          <latex>\alpha\,\text{A}\,+\,\beta\,\text{B}\rightleftharpoons \gamma\,\text{C}\,+\,\delta\,\text{D}</latex>
+        </item>
+        <item>
+          <meaning>Equilibrium constant</meaning>
+          <type>equation</type>
+          <alttext>K = [C]^γ.[D]^δ/[A]^α.[B]^β</alttext>
+          <latex>K=\frac{\left[\text{C}\right]^{\gamma }\ \left[\text{D}\right]^{\delta }}{\left[\text{A}\right]^{\alpha }\ \left[\text{B}\right]^{\beta }}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1138 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chemisches Gleichgewicht (de)</title>
+      <url>https://de.wikipedia.org/wiki/Chemisches_Gleichgewicht</url>
+    </item>
+    <item>
+      <title>Wikipedia - Constant d'equilibri (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Constant_d'equilibri</url>
+    </item>
+    <item>
+      <title>Wikipedia - Energia de dissociació (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Energia_de_dissociació</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heteròlisi (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Heteròlisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homòlisi (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Homòlisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legge di azione di massa (it)</title>
+      <url>https://it.wikipedia.org/wiki/Legge_di_azione_di_massa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Llei d'acció de masses (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Llei_d'acció_de_masses</url>
+    </item>
+    <item>
+      <title>Wikipedia - Massenwirkungsgesetz (de)</title>
+      <url>https://de.wikipedia.org/wiki/Massenwirkungsgesetz</url>
+    </item>
+    <item>
+      <title>Wikipedia - Usuari:Antoni Salvà (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Usuari:Antoni_Salvà</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03725/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03725/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03725/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03725/plain</plain>
+  </links>
+  <citation>Citation: 'mass-law effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03725</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:34:36+00:00</accessed>
+</term>

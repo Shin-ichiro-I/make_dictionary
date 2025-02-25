@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02631</id>
+  <doi>10.1351/goldbook.G02631</doi>
+  <code>G02631</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Gibbs energy of activation (standard free energy of activation), Δ‡Go</longtitle>
+  <title>Gibbs energy of activation</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The standard Gibbs energy difference between the transition state of a reaction (either an elementary reaction or a stepwise reaction) and the ground state of the reactants. It is calculated from the experimental rate constantkvia the conventional form of the absolute rate equation: Δ ‡ G = R T ln ( k B h )- ln (  is the Boltzmann constant and h the Planck constant (kB/h = 2.08358 x 10E10 K-1 s ). The values of the rate constants, and hence Gibbs energies of activation, depend upon the choice of concentration units (or of the thermodynamic standard state).</text>
+      <links>
+        <item>
+          <title>enthalpy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02142</url>
+        </item>
+        <item>
+          <title>entropy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02150</url>
+        </item>
+        <item>
+          <title>enthalpy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02142</url>
+        </item>
+        <item>
+          <title>entropy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02150</url>
+        </item>
+        <item>
+          <title>Gibbs energy</title>
+          <url>https://goldbook.iupac.org/terms/view/G02629</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>stepwise reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/S05970</url>
+        </item>
+        <item>
+          <title>enthalpy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02142</url>
+        </item>
+        <item>
+          <title>entropy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02150</url>
+        </item>
+        <item>
+          <title>Gibbs energy</title>
+          <url>https://goldbook.iupac.org/terms/view/G02629</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>stepwise reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/S05970</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>Boltzmann constant</title>
+          <url>https://goldbook.iupac.org/terms/view/B00695</url>
+        </item>
+        <item>
+          <title>Planck constant</title>
+          <url>https://goldbook.iupac.org/terms/view/P04685</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>standard state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05925</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+        <item>
+          <alttext>Δ ‡ G = R T ln ( k B h )- ln ( </alttext>
+          <latex>\Delta ^{\ddagger}G = R\ T\ \left[\ln (\frac{k_{\text{B}}}{h}) - \ln (\frac{k}{T})\right]</latex>
+        </item>
+        <item>
+          <meaning>Boltzmann constant</meaning>
+          <type>constant</type>
+          <alttext>kB</alttext>
+          <latex>k_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>h</alttext>
+          <latex>h</latex>
+        </item>
+        <item>
+          <meaning>Boltzmann constant divided by plank's constant</meaning>
+          <type>constant</type>
+          <alttext>kB/h = 2.08358 x 10E10 K-1 s </alttext>
+          <latex>\frac{k_{\text{B}}}{h} = 2.083\ 58\times 10^{10}\ \text{K}^{-1}\ \text{s}^{-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1118 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 166 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussione:Energia di attivazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Energia_di_attivazione</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02631/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02631/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02631/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02631/plain</plain>
+  </links>
+  <citation>Citation: 'Gibbs energy of activation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02631</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:42:11+00:00</accessed>
+</term>

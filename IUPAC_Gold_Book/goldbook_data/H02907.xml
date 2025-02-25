@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02907</id>
+  <doi>10.1351/goldbook.H02907</doi>
+  <code>H02907</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hydrophobic interaction</longtitle>
+  <title>hydrophobic interaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The tendency of hydrocarbons (or of lipophilic hydrocarbon-like groups in solutes) to form intermolecular aggregates in an aqueous medium, and analogous intramolecular interactions. The name arises from the attribution of the phenomenon to the apparent repulsion between water and hydrocarbons. However, the phenomenon ought to be attributed to the effect of the hydrocarbon-like groups on the water-water interaction. The misleading alternative term 'hydrophobic bond' is discouraged.</text>
+      <links>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>lipophilic</title>
+          <url>https://goldbook.iupac.org/terms/view/L03572</url>
+        </item>
+        <item>
+          <title>intermolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03098</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1123 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Efecte hidròfob (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Efecte_hidròfob</url>
+    </item>
+    <item>
+      <title>Wikipedia - Efecto hidrófobo (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Efecto_hidrófobo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrophobic effect (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrophobic_effect</url>
+    </item>
+    <item>
+      <title>Wikipedia - Interaction non covalente (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Interaction_non_covalente</url>
+    </item>
+    <item>
+      <title>Wikipedia - Interaction non-covalente (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Interaction_non-covalente</url>
+    </item>
+    <item>
+      <title>Wikipedia - Non-covalent interaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Non-covalent_interaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Non-covalent interactions (en)</title>
+      <url>https://en.wikipedia.org/wiki/Non-covalent_interactions</url>
+    </item>
+    <item>
+      <title>Wikipedia - تأثير كره الماء (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تأثير_كره_الماء</url>
+    </item>
+    <item>
+      <title>Wikipedia - जलविरोधी प्रभाव (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/जलविरोधी_प्रभाव</url>
+    </item>
+    <item>
+      <title>Wikipedia - நீர் விலக்கு விளைவு (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/நீர்_விலக்கு_விளைவு</url>
+    </item>
+    <item>
+      <title>Wikipedia - 非共有結合性相互作用 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/非共有結合性相互作用</url>
+    </item>
+    <item>
+      <title>Wikipedia - 소수성 효과 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/소수성_효과</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02907/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02907/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02907/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02907/plain</plain>
+  </links>
+  <citation>Citation: 'hydrophobic interaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02907</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:56:44+00:00</accessed>
+</term>

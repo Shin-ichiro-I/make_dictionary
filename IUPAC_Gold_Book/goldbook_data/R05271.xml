@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05271</id>
+  <doi>10.1351/goldbook.R05271</doi>
+  <code>R05271</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - relative molecular mass, M_r</longtitle>
+  <title>relative molecular mass</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Ratio of the mass of a molecule to the unified atomic mass unit. Sometimes called the molecular weight or relative molar mass.</text>
+      <links>
+        <item>
+          <title>unified atomic mass unit</title>
+          <url>https://goldbook.iupac.org/terms/view/U06554</url>
+        </item>
+        <item>
+          <title>relative molar mass</title>
+          <url>https://goldbook.iupac.org/terms/view/R05270</url>
+        </item>
+        <item>
+          <title>unified atomic mass unit</title>
+          <url>https://goldbook.iupac.org/terms/view/U06554</url>
+        </item>
+        <item>
+          <title>relative molar mass</title>
+          <url>https://goldbook.iupac.org/terms/view/R05270</url>
+        </item>
+        <item>
+          <title>molecular weight</title>
+          <url>https://goldbook.iupac.org/terms/view/M04000</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 41 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 990 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Massa molecular (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Massa_molecular</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molekylmasse (nn)</title>
+      <url>https://nn.wikipedia.org/wiki/Molekylmasse</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Molecular mass (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Molecular_mass</url>
+    </item>
+    <item>
+      <title>Wikipedia - Молекулна маса (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Молекулна_маса</url>
+    </item>
+    <item>
+      <title>Wikipedia - モル質量 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/モル質量</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子量 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/分子量</url>
+    </item>
+    <item>
+      <title>Wikipedia - 原子量 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/原子量</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05271/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05271/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05271/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05271/plain</plain>
+  </links>
+  <citation>Citation: 'relative molecular mass' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05271</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:51:59+00:00</accessed>
+</term>

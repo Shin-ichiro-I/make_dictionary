@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07438</id>
+  <doi>10.1351/goldbook.OT07438</doi>
+  <code>OT07438</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - optical parametric oscillator</longtitle>
+  <title>optical parametric oscillator</title>
+  <acronyms>
+    <item>OPO</item>
+  </acronyms>
+  <abbrevs>
+    <item>BBO</item>
+    <item>OPO</item>
+    <item>YAG</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Light source similar to a laser, but based on 'non-linear optical gain' from parametric amplification rather than on stimulated emission.</text>
+      <notes>
+        <item>The device is a powerful solid-state source of broadly tunable coherent radiation. It consists of a crystal, usually BBO (BaB2O4), located inside an optical resonator and pumped by a very intense laser beam (typically provided by a pulsed neodymium laser or a diode laser). The pump beam (wavelength λp frequency ν p) is partially converted into two coherent beams, the signal and the idler, with wavelengths (λs, λI) and frequencies (ν s, ν I) such that ν s + ν i = ν p. By simultaneous rotation of the crystal and adjustment of the optical resonator, the wavelength of the signal beam is continuously tunable, theoretically from λp to 2 x λp and practically over a slightly more reduced range.</item>
+        <item>For example, for λp = 355 nm (3rd harmonic of a Nd:YAG laser), ν s can be tuned from 400 nm (with λi ≈ 3.15 µm) up to 600 nm (with λi ≈ 870 nm).</item>
+        <item>This 'splitting of one photon into two photons' is the reverse of the 'sum frequency mixing' used, for instance, to generate the 3rd harmonic of a laser emission by mixing in a convenient crystal the fundamental and the frequency doubled beams (a way to get the 3rd harmonic much more efficiently than by pure frequency tripling as described under harmonic frequency generation).</item>
+      </notes>
+      <links>
+        <item>
+          <title>coherent radiation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01130</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>neodymium laser</title>
+          <url>https://goldbook.iupac.org/terms/view/N04103</url>
+        </item>
+        <item>
+          <title>diode laser</title>
+          <url>https://goldbook.iupac.org/terms/view/D01747</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>harmonic frequency generation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02744</url>
+        </item>
+        <item>
+          <title>light source</title>
+          <url>https://goldbook.iupac.org/terms/view/L03526</url>
+        </item>
+        <item>
+          <title>parametric amplification</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07440</url>
+        </item>
+        <item>
+          <title>stimulated emission</title>
+          <url>https://goldbook.iupac.org/terms/view/S06015</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>λp</alttext>
+          <latex>\lambda_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>ν p</alttext>
+          <latex>\nu_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>λs</alttext>
+          <latex>\lambda_{\text{s}}</latex>
+        </item>
+        <item>
+          <alttext>λI</alttext>
+          <latex>\lambda_{\text{l}}</latex>
+        </item>
+        <item>
+          <alttext>ν s</alttext>
+          <latex>\nu_{\text{s}}</latex>
+        </item>
+        <item>
+          <alttext>ν I</alttext>
+          <latex>\nu_{\text{l}}</latex>
+        </item>
+        <item>
+          <alttext>ν s + ν i = ν p</alttext>
+          <latex>\nu_{\text{s}} + \nu_{\text{i}} = \nu_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>λp</alttext>
+          <latex>\lambda_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>2 x λp</alttext>
+          <latex>2 \times \lambda_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>λp = 355 nm</alttext>
+          <latex>\lambda_{\text{p}} = 355\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>νs</alttext>
+          <latex>\nu_{\text{s}}</latex>
+        </item>
+        <item>
+          <alttext>400 nm</alttext>
+          <latex>400\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>λi ≈ 3.15 µm</alttext>
+          <latex>\lambda_{\text{i}} \approx  3.15\ \unicode[Times]{x3BC}\text{m}</latex>
+        </item>
+        <item>
+          <alttext>600 nm</alttext>
+          <latex>600\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>λi ≈ 870 nm</alttext>
+          <latex>\lambda_{\text{i}} \approx 870\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 378 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/OT07438/html</html>
+    <json>https://goldbook.iupac.org/terms/view/OT07438/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/OT07438/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/OT07438/plain</plain>
+  </links>
+  <citation>Citation: 'optical parametric oscillator' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.OT07438</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:05:21+00:00</accessed>
+</term>

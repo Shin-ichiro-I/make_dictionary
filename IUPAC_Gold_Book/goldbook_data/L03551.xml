@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03551</id>
+  <doi>10.1351/goldbook.L03551</doi>
+  <code>L03551</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - linear free-energy relation</longtitle>
+  <title>linear free-energy relation</title>
+  <contains>linear Gibbs energy relation</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A linear correlation between the logarithm of a rate constant or equilibrium constant for one series of reactions and the logarithm of the rate constant or equilibrium constant for a related series of reactions. Typical examples of such relations (also known as linear Gibbs energy relations) are the Brønsted relation, and the Hammett equation (See also: σ-constant).,The name arises because the logarithm of an equilibrium constant (at constant temperature and pressure) is proportional to a standard free energy (Gibbs energy) change, and the logarithm of a rate constant is a linear function of the free energy (Gibbs energy) of activation.,It has been suggested that this name should be replaced by linear Gibbs energy relation, but at present there is little sign of acceptance of this change.,The area of physical organic chemistry which deals with such relations is commonly referred to as 'Linear Free-Energy Relationships'.</text>
+      <links>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>free energy</title>
+          <url>https://goldbook.iupac.org/terms/view/F02515</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>free energy</title>
+          <url>https://goldbook.iupac.org/terms/view/F02515</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>Brønsted relation</title>
+          <url>https://goldbook.iupac.org/terms/view/B00746</url>
+        </item>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>free energy</title>
+          <url>https://goldbook.iupac.org/terms/view/F02515</url>
+        </item>
+        <item>
+          <title>activation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00093</url>
+        </item>
+        <item>
+          <title>Brønsted relation</title>
+          <url>https://goldbook.iupac.org/terms/view/B00746</url>
+        </item>
+        <item>
+          <title>Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/H02732</url>
+        </item>
+        <item>
+          <title>σ-constant</title>
+          <url>https://goldbook.iupac.org/terms/view/C05438</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1136 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Free-energy relationship (en)</title>
+      <url>https://en.wikipedia.org/wiki/Free-energy_relationship</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hammett-yhtälö (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Hammett-yhtälö</url>
+    </item>
+    <item>
+      <title>Wikipedia - Relación de energía libre (es)</title>
+      <url>https://es.wikipedia.org/wiki/Relación_de_energía_libre</url>
+    </item>
+    <item>
+      <title>Wikipedia - 自由エネルギー関係 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/自由エネルギー関係</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03551/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03551/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03551/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03551/plain</plain>
+  </links>
+  <citation>Citation: 'linear free-energy relation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03551</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:25:21+00:00</accessed>
+</term>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>08015</id>
+  <doi>10.1351/goldbook.08015</doi>
+  <code>08015</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - consensus property value</longtitle>
+  <title>consensus property value</title>
+  <synonyms>
+    <item>consensus value</item>
+  </synonyms>
+  <termversion>5.0.0</termversion>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Property value derived from a collection of results.</text>
+      <notes>
+        <item>The term "consensus value" is typically used to describe estimates of a measure of location, such as mean value, median or mode, and dispersion derived from results reported by participants in a proficiency testing round (see participant in an interlaboratory comparison), but may also be used to refer to values derived from results of a specified subset of such results or, for example, from a number of laboratories chosen for their expertise for the particular analysis.</item>
+        <item>The consensus property value, when it is a value of a unitary quantity, may be expressed as a mean, median, or mode, and is then termed "consensus mean", "consensus median", or "consensus mode", respectively. The mode and the median also apply for ordinal quantities and the mode applies for nominal properties.</item>
+        <item>A consensus property value is an example of assigned value.</item>
+        <item>A consensus property value could, through appropriate actions, become a certified property value; this is in analogy to the certification of a reference material.</item>
+        <item>A consensus property value may be obtained in a material-certification study or by agreement between appropriate organizations or experts.</item>
+      </notes>
+      <links>
+        <item>
+          <title>certified property value</title>
+          <url>https://goldbook.iupac.org/terms/view/08013</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2021, 93, 997. 'Metrological and quality concepts in analytical chemistry (IUPAC Recommendations 2021)' on page 1004 (https://doi.org/10.1515/pac-2019-0819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/08015/html</html>
+    <json>https://goldbook.iupac.org/terms/view/08015/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/08015/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/08015/plain</plain>
+  </links>
+  <citation>Citation: 'consensus property value' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.08015</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:43:08+00:00</accessed>
+</term>

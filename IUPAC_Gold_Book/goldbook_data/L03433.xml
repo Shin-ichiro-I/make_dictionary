@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03433</id>
+  <doi>10.1351/goldbook.L03433</doi>
+  <code>L03433</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - laboratory sample</longtitle>
+  <title>laboratory sample</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The sample or subsample(s) sent to or received by the laboratory. When the laboratory sample is further prepared (reduced) by subdividing, mixing, grinding or by combinations of these operations, the result is the test sample. When no preparation of the laboratory sample is required, the laboratory sample is the test sample. A test portion is removed from the test sample for the performance of the test or for analysis. The laboratory sample is the final sample from the point of view of sample collection but it is the initial sample from the point of view of the laboratory. Several laboratory samples may be prepared and sent to different laboratories or to the same laboratory for different purposes. When sent to the same laboratory, the set is generally considered as a single laboratory sample and is documented as a single sample.</text>
+      <links>
+        <item>
+          <title>subsample</title>
+          <url>https://goldbook.iupac.org/terms/view/S06071</url>
+        </item>
+        <item>
+          <title>test sample</title>
+          <url>https://goldbook.iupac.org/terms/view/T06285</url>
+        </item>
+        <item>
+          <title>test portion</title>
+          <url>https://goldbook.iupac.org/terms/view/T06284</url>
+        </item>
+        <item>
+          <title>collection</title>
+          <url>https://goldbook.iupac.org/terms/view/C01148</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1988, 60, 1461. 'Nomenclature, symbols, units and their usage in spectrochemical analysis-X. Preparation of materials for analytical atomic spectroscopy and other related techniques (Recommendations 1988)' on page 1465 (https://doi.org/10.1351/pac198860091461)</item>
+        <item>PAC, 1990, 62, 1193. 'Nomenclature for sampling in analytical chemistry (Recommendations 1990)' on page 1206 (https://doi.org/10.1351/pac199062061193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03433/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03433/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03433/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03433/plain</plain>
+  </links>
+  <citation>Citation: 'laboratory sample' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03433</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:19:12+00:00</accessed>
+</term>

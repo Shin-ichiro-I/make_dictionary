@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01329</id>
+  <doi>10.1351/goldbook.C01329</doi>
+  <code>C01329</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - coordination</longtitle>
+  <title>coordination</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The formation of a covalent bond, the two shared electrons of which have come from only one of the two parts of the molecular entity linked by it, as in the reaction of a Lewis acid and a Lewis base to form a Lewis adduct; alternatively, the bonding formed in this way. In the former sense, it is the reverse of unimolecular heterolysis. 'Coordinate covalence' and 'coordinate link' are synonymous (obsolescent) terms. The synonym 'dative bond' is obsolete. (The origin of the bonding electrons has by itself no bearing on the character of the bond formed. Thus, the formation of methyl chloride from a methyl cation and a chloride ion involves coordination; the resultant bond obviously differs in no way from the C–Cl bond in methyl chloride formed by any other path, e.g. by colligation of a methyl radical and a chlorine atom.) The term is also used to describe the number of ligands around a central atom without necessarily implying two-electron bonds.</text>
+      <links>
+        <item>
+          <title>dipolar bond</title>
+          <url>https://goldbook.iupac.org/terms/view/D01752</url>
+        </item>
+        <item>
+          <title>π-adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/A04388</url>
+        </item>
+        <item>
+          <title>dipolar bond</title>
+          <url>https://goldbook.iupac.org/terms/view/D01752</url>
+        </item>
+        <item>
+          <title>π-adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/A04388</url>
+        </item>
+        <item>
+          <title>bond</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>unimolecular heterolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>dipolar bond</title>
+          <url>https://goldbook.iupac.org/terms/view/D01752</url>
+        </item>
+        <item>
+          <title>π-adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/A04388</url>
+        </item>
+        <item>
+          <title>bond</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>unimolecular heterolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/M03989</url>
+        </item>
+        <item>
+          <title>Lewis acid</title>
+          <url>https://goldbook.iupac.org/terms/view/L03508</url>
+        </item>
+        <item>
+          <title>Lewis base</title>
+          <url>https://goldbook.iupac.org/terms/view/L03511</url>
+        </item>
+        <item>
+          <title>Lewis adduct</title>
+          <url>https://goldbook.iupac.org/terms/view/L03510</url>
+        </item>
+        <item>
+          <title>Coordinate covalence</title>
+          <url>https://goldbook.iupac.org/terms/view/C01326</url>
+        </item>
+        <item>
+          <title>coordinate link</title>
+          <url>https://goldbook.iupac.org/terms/view/C01328</url>
+        </item>
+        <item>
+          <title>dative bond</title>
+          <url>https://goldbook.iupac.org/terms/view/D01523</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>colligation</title>
+          <url>https://goldbook.iupac.org/terms/view/C01153</url>
+        </item>
+        <item>
+          <title>ligands</title>
+          <url>https://goldbook.iupac.org/terms/view/L03518</url>
+        </item>
+        <item>
+          <title>central atom</title>
+          <url>https://goldbook.iupac.org/terms/view/C00930</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1100 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Coordinate covalent bond (en)</title>
+      <url>https://en.wikipedia.org/wiki/Coordinate_covalent_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ikatan kovalen koordinasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Ikatan_kovalen_koordinasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Komplexchemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Komplexchemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koordinaatiosidos (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Koordinaatiosidos</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koordinaciona veza (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Koordinaciona_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koordinative Bindung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Koordinative_Bindung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koordinatna veza (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Koordinatna_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Legame di coordinazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Legame_di_coordinazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Liên kết cộng hóa trị phối hợp (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Liên_kết_cộng_hóa_trị_phối_hợp</url>
+    </item>
+    <item>
+      <title>Wikipedia - Liên kết cộng hóa trị phối trí (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Liên_kết_cộng_hóa_trị_phối_trí</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Coordinate covalent bond (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Coordinate_covalent_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - رابطة تناسقية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/رابطة_تناسقية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01329/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01329/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01329/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01329/plain</plain>
+  </links>
+  <citation>Citation: 'coordination' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01329</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:45:18+00:00</accessed>
+</term>

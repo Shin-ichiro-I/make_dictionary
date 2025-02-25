@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02493</id>
+  <doi>10.1351/goldbook.F02493</doi>
+  <code>F02493</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Fourier transform spectrometer</longtitle>
+  <title>Fourier transform spectrometer</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A scanning interferometer, containing no principal dispersive element, which first splits a beam into two or more components, then recombines these with a phase difference. The spectrum is obtained by a Fourier transformation of the output of the interferometer.</text>
+      <links>
+        <item>
+          <title>multiplex spectrometer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04059</url>
+        </item>
+        <item>
+          <title>multiplex spectrometer</title>
+          <url>https://goldbook.iupac.org/terms/view/M04059</url>
+        </item>
+        <item>
+          <title>interferometer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03094</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2243 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02493/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02493/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02493/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02493/plain</plain>
+  </links>
+  <citation>Citation: 'Fourier transform spectrometer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02493</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:35:40+00:00</accessed>
+</term>

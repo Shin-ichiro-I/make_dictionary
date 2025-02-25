@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06928</id>
+  <doi>10.1351/goldbook.MT06928</doi>
+  <code>MT06928</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mass distribution ratio</longtitle>
+  <title>mass distribution ratio</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Defined as: kMEKC = nmc/naq = K.(Vmc/Vaq) and naq are the chemical amounts of the analyte in the micellar and aqueous phases, respectively, K is the distribution constant and V mc and Vaq are the corresponding volumes of the phases.</text>
+      <notes>
+        <item>In the case of an electrically neutral analyte, kMEKC can be calculated directly from the migration times: kMEKC = (tm - teo)/(teo(1 - tm/tmc))</item>
+        <item>kMEKC should not be confused with the retention factor (in column chromatography) k. However, kMEKC is analogous to the mass distribution ratio (in chromatography).</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>micellar electrokinetic chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>migration</title>
+          <url>https://goldbook.iupac.org/terms/view/M03920</url>
+        </item>
+        <item>
+          <title>column chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01182</url>
+        </item>
+        <item>
+          <title>mass distribution ratio</title>
+          <url>https://goldbook.iupac.org/terms/view/E02305</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>distribution constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01813</url>
+        </item>
+        <item>
+          <title>migration</title>
+          <url>https://goldbook.iupac.org/terms/view/M03920</url>
+        </item>
+        <item>
+          <title>column chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01182</url>
+        </item>
+        <item>
+          <title>mass distribution ratio</title>
+          <url>https://goldbook.iupac.org/terms/view/E02305</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>distribution constant</title>
+          <url>https://goldbook.iupac.org/terms/view/D01813</url>
+        </item>
+        <item>
+          <title>analyte</title>
+          <url>https://goldbook.iupac.org/terms/view/A00331</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Mass distribution ratio (in micellar electrokinetic chromatography)</meaning>
+          <type>equation</type>
+          <alttext>kMEKC = nmc/naq = K.(Vmc/Vaq)</alttext>
+          <latex>k_{\text{MEKC}} = \frac{n_{\text{mc}}}{n_{\text{aq}}} = K\cdot \frac{V_{\text{mc}}}{V_{\text{aq}}}</latex>
+        </item>
+        <item>
+          <alttext>n mc</alttext>
+          <latex>n_{\text{mc}}</latex>
+        </item>
+        <item>
+          <alttext>naq</alttext>
+          <latex>n_{\text{aq}}</latex>
+        </item>
+        <item>
+          <alttext>K</alttext>
+          <latex>K</latex>
+        </item>
+        <item>
+          <alttext>V mc</alttext>
+          <latex>V_{\text{mc}}</latex>
+        </item>
+        <item>
+          <alttext>Vaq</alttext>
+          <latex>V_{\text{aq}}</latex>
+        </item>
+        <item>
+          <meaning>Mass distribution ratio (in micellar electrokinetic chromatography)</meaning>
+          <type>quantity</type>
+          <alttext>kMEKC</alttext>
+          <latex>k_{\text{MEKC}}</latex>
+        </item>
+        <item>
+          <meaning>Mass distribution ratio (in micellar electrokinetic chromatography)</meaning>
+          <type>equation</type>
+          <alttext>kMEKC = (tm - teo)/(teo(1 - tm/tmc))</alttext>
+          <latex>k_{\text{MEKC}} = \frac{t_{\text{m}} - t_{\text{eo}}}{t_{\text{eo}}(1 - t_{\text{m}}/t_{\text{mc}})}</latex>
+        </item>
+        <item>
+          <meaning>Mass distribution ratio (in micellar electrokinetic chromatography)</meaning>
+          <type>quantity</type>
+          <alttext>kMEKC</alttext>
+          <latex>k_{\text{MEKC}}</latex>
+        </item>
+        <item>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+        <item>
+          <meaning>Mass distribution ratio (in micellar electrokinetic chromatography)</meaning>
+          <type>quantity</type>
+          <alttext>kMEKC</alttext>
+          <latex>k_{\text{MEKC}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2004, 76, 443. 'Terminology for analytical capillary electromigration techniques (IUPAC Recommendations 2003)' on page 449 (https://doi.org/10.1351/pac200476020443)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/MT06928/html</html>
+    <json>https://goldbook.iupac.org/terms/view/MT06928/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/MT06928/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/MT06928/plain</plain>
+  </links>
+  <citation>Citation: 'mass distribution ratio' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.MT06928</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:33:32+00:00</accessed>
+</term>

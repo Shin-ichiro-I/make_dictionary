@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05145</id>
+  <doi>10.1351/goldbook.R05145</doi>
+  <code>R05145</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - rate of change ratio</longtitle>
+  <title>rate of change ratio</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The quotient of two rates where the quantities are of the same kind in the same system for different components: (dQ(1)/dt)/(dQ(2)/dt); amount of substance rate ratio, (dn1/dt)/(dn2/dt).</text>
+      <links>
+        <item>
+          <title>amount of substance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00297</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <type>math</type>
+          <alttext>(dQ(1)/dt)/(dQ(2)/dt)</alttext>
+          <latex>\frac{\text{d}Q_{1}/\text{d}t}{\text{d}Q_{2}/\text{d}t}</latex>
+        </item>
+        <item>
+          <alttext>Δ Q 1 / Δ t Δ Q 2 / Δ t = Δ Q 1 </alttext>
+          <latex>\frac{\Delta Q_{1}/\Delta t}{\Delta Q_{2}/\Delta t}=\frac{\Delta Q_{1}}{\Delta Q_{2}}\ \Delta t</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>(dm1/dt)/(dm2/dt)</alttext>
+          <latex>\frac{\text{d}m_{1}/\text{d}t}{\text{d}m_{2}/\text{d}t}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>(dn1/dt)/(dn2/dt)</alttext>
+          <latex>\frac{\text{d}n_{1}/\text{d}t}{\text{d}n_{2}/\text{d}t}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1992, 64, 1569. 'Quantities and units for metabolic processes as a function of time (IUPAC Recommendations 1992)' on page 1572 (https://doi.org/10.1351/pac199264101569)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05145/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05145/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05145/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05145/plain</plain>
+  </links>
+  <citation>Citation: 'rate of change ratio' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05145</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:45:53+00:00</accessed>
+</term>

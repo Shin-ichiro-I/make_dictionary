@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02938</id>
+  <doi>10.1351/goldbook.I02938</doi>
+  <code>I02938</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ideal mixture</longtitle>
+  <title>ideal mixture</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A mixture of substances B, C, ... is called an ideal mixture when aB = xB, aC = xC, ... or fB = 1, fC = 1 where aB and fB are the relative activity and the activity coefficient, respectively, of a substance B in a liquid or solid mixture.</text>
+      <links>
+        <item>
+          <title>relative activity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05256</url>
+        </item>
+        <item>
+          <title>activity coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/A00116</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Chemical activity (in ideal mixture)</meaning>
+          <type>math</type>
+          <alttext>aB = xB</alttext>
+          <latex>a_{\text{B}}=x_{\text{B}}</latex>
+        </item>
+        <item>
+          <meaning>Chemical activity (in ideal mixture)</meaning>
+          <type>math</type>
+          <alttext>aC = xC</alttext>
+          <latex>a_{\text{C}}=x_{\text{C}}</latex>
+        </item>
+        <item>
+          <alttext>fB = 1</alttext>
+          <latex>f_{\text{B}}=1</latex>
+        </item>
+        <item>
+          <alttext>fC = 1</alttext>
+          <latex>f_{\text{C}}=1</latex>
+        </item>
+        <item>
+          <alttext>aB</alttext>
+          <latex>a_{\text{B}}</latex>
+        </item>
+        <item>
+          <alttext>fB</alttext>
+          <latex>f_{\text{B}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 533. 'Standard quantities in chemical thermodynamics. Fugacities, activities and equilibrium constants for pure and mixed phases (IUPAC Recommendations 1994)' on page 543 (https://doi.org/10.1351/pac199466030533)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Dissolució ideal (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Dissolució_ideal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ideal solution (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ideal_solution</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ideale oplossing (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Ideale_oplossing</url>
+    </item>
+    <item>
+      <title>Wikipedia - Idealni rastvor (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Idealni_rastvor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ideális oldat (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Ideális_oldat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Larutan ideal (id)</title>
+      <url>https://id.wikipedia.org/wiki/Larutan_ideal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Soluzione ideale (it)</title>
+      <url>https://it.wikipedia.org/wiki/Soluzione_ideale</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spore (2008 video game) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Spore_(2008_video_game)</url>
+    </item>
+    <item>
+      <title>Wikipedia - محلول مثالي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/محلول_مثالي</url>
+    </item>
+    <item>
+      <title>Wikipedia - 이상 용액 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/이상_용액</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02938/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02938/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02938/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02938/plain</plain>
+  </links>
+  <citation>Citation: 'ideal mixture' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02938</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:58:19+00:00</accessed>
+</term>

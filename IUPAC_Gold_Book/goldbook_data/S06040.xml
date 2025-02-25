@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06040</id>
+  <doi>10.1351/goldbook.S06040</doi>
+  <code>S06040</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stratified sample</longtitle>
+  <title>stratified sample</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A sample consisting of portions obtained from identified subparts (strata) of the parent population. Within each stratum, the samples are taken randomly. The objective of taking stratified samples is to obtain a more representative sample than that which might otherwise be obtained by random sampling.</text>
+      <links>
+        <item>
+          <title>representative sample</title>
+          <url>https://goldbook.iupac.org/terms/view/R05303</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 1193. 'Nomenclature for sampling in analytical chemistry (Recommendations 1990)' on page 1203 (https://doi.org/10.1351/pac199062061193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06040/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06040/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06040/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06040/plain</plain>
+  </links>
+  <citation>Citation: 'stratified sample' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06040</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:27:30+00:00</accessed>
+</term>

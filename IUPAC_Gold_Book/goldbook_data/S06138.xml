@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06138</id>
+  <doi>10.1351/goldbook.S06138</doi>
+  <code>S06138</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - supercritical fluid</longtitle>
+  <title>supercritical fluid</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The defined state of a compound, mixture or element above its critical pressure(p c) and critical temperature(T c).</text>
+      <links>
+        <item>
+          <title>critical pressure</title>
+          <url>https://goldbook.iupac.org/terms/view/C01397</url>
+        </item>
+        <item>
+          <title>critical temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/C01402</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>p c</alttext>
+          <latex>p_{\text{c}}</latex>
+        </item>
+        <item>
+          <alttext>T c</alttext>
+          <latex>T_{\text{c}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1993, 65, 2397. 'Nomenclature for supercritical fluid chromatography and extraction (IUPAC Recommendations 1993)' on page 2399 (https://doi.org/10.1351/pac199365112397)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Stato supercritico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_supercritico</url>
+    </item>
+    <item>
+      <title>Wikipedia - مائع فوق حرج (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مائع_فوق_حرج</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06138/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06138/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06138/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06138/plain</plain>
+  </links>
+  <citation>Citation: 'supercritical fluid' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06138</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:31:56+00:00</accessed>
+</term>

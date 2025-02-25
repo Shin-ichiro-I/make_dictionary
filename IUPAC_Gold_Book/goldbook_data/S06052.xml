@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06052</id>
+  <doi>10.1351/goldbook.S06052</doi>
+  <code>S06052</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stress graphitization</longtitle>
+  <title>stress graphitization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The solid-state transformation of non-graphitic carbon into graphite by heat treatment combined with application of mechanical stress, resulting in a defined degree of graphitization being obtained at a lower temperature and/or after a shorter time of heat treatment than in the absence of applied stress.</text>
+      <notes>
+        <item>Stress graphitization may also occur in volume elements of a carbon body in the process of heat treatment as a result of the action of internal residual or thermal stresses.</item>
+      </notes>
+      <links>
+        <item>
+          <title>graphitization</title>
+          <url>https://goldbook.iupac.org/terms/view/G02691</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>graphitization</title>
+          <url>https://goldbook.iupac.org/terms/view/G02691</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>non-graphitic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/N04193</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 505 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06052/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06052/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06052/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06052/plain</plain>
+  </links>
+  <citation>Citation: 'stress graphitization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06052</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:28:00+00:00</accessed>
+</term>

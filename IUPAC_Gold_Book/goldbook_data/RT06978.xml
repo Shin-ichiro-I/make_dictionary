@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06978</id>
+  <doi>10.1351/goldbook.RT06978</doi>
+  <code>RT06978</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - receptor in drug design</longtitle>
+  <title>receptor</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A receptor is a protein or a protein complex in or on a cell that specifically recognizes and binds to a compound acting as a molecular messenger (neurotransmitter, hormone, lymphokine, lectin, drug, etc). In a broader sense, the term receptor is often used as a synonym for any specific (as opposed to non-specific such as binding to plasma proteins) drugbinding site, also including nucleic acids such as DNA.</text>
+      <contexts>
+        <in>
+          <item>drug design</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>receptor</title>
+          <url>https://goldbook.iupac.org/terms/view/RT06841</url>
+        </item>
+        <item>
+          <title>drug</title>
+          <url>https://goldbook.iupac.org/terms/view/D01863</url>
+        </item>
+        <item>
+          <title>proteins</title>
+          <url>https://goldbook.iupac.org/terms/view/P04898</url>
+        </item>
+        <item>
+          <title>binding site</title>
+          <url>https://goldbook.iupac.org/terms/view/B00649</url>
+        </item>
+        <item>
+          <title>nucleic acids</title>
+          <url>https://goldbook.iupac.org/terms/view/N04245</url>
+        </item>
+        <item>
+          <title>DNA</title>
+          <url>https://goldbook.iupac.org/terms/view/D01597</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1997, 69, 1137. 'Glossary of terms used in computational drug design (IUPAC Recommendations 1997)' on page 1149 (https://doi.org/10.1351/pac199769051137)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/RT06978/html</html>
+    <json>https://goldbook.iupac.org/terms/view/RT06978/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/RT06978/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/RT06978/plain</plain>
+  </links>
+  <citation>Citation: 'receptor' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.RT06978</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:48:31+00:00</accessed>
+</term>

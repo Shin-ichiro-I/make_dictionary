@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02902</id>
+  <doi>10.1351/goldbook.H02902</doi>
+  <code>H02902</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hydrolysis</longtitle>
+  <title>hydrolysis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Solvolysis by water.</text>
+      <links>
+        <item>
+          <title>solvolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/S05762</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1123 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hidroliz (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Hidroliz</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidroliza (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Hidroliza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrólise (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Hidrólise</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrolysis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrolysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrolysis (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Hydrolysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Idrolisi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Idrolisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reacție de hidroliză (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Reacție_de_hidroliză</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Hydrolysis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Hydrolysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хидролиза (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Хидролиза</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хидролиза (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Хидролиза</url>
+    </item>
+    <item>
+      <title>Wikipedia - تحلل مائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تحلل_مائي</url>
+    </item>
+    <item>
+      <title>Wikipedia - जलीय विश्लेषण (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/जलीय_विश्लेषण</url>
+    </item>
+    <item>
+      <title>Wikipedia - আর্দ্র বিশ্লেষণ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/আর্দ্র_বিশ্লেষণ</url>
+    </item>
+    <item>
+      <title>Wikipedia - நீராற்பகுத்தல் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/நீராற்பகுத்தல்</url>
+    </item>
+    <item>
+      <title>Wikipedia - జలవిశ్లేషణ (te)</title>
+      <url>https://te.wikipedia.org/wiki/జలవిశ్లేషణ</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02902/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02902/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02902/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02902/plain</plain>
+  </links>
+  <citation>Citation: 'hydrolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02902</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:56:19+00:00</accessed>
+</term>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02758</id>
+  <doi>10.1351/goldbook.H02758</doi>
+  <code>H02758</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - heavy water</longtitle>
+  <title>heavy water</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Water containing a significant fraction (up to 100 per cent) of deuterium in the form of D2O or HDO.</text>
+      <links>
+        <item>
+          <title>deuterium</title>
+          <url>https://goldbook.iupac.org/terms/view/D01648</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1982, 54, 1533. 'Glossary of terms used in nuclear analytical chemistry (Provisional)' on page 1544 (https://doi.org/10.1351/pac198254081533)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acqua pesante (it)</title>
+      <url>https://it.wikipedia.org/wiki/Acqua_pesante</url>
+    </item>
+    <item>
+      <title>Wikipedia - Agua pesada (es)</title>
+      <url>https://es.wikipedia.org/wiki/Agua_pesada</url>
+    </item>
+    <item>
+      <title>Wikipedia - Agua pesao (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Agua_pesao</url>
+    </item>
+    <item>
+      <title>Wikipedia - Air berat (id)</title>
+      <url>https://id.wikipedia.org/wiki/Air_berat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Air berat (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Air_berat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Apă grea (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Apă_grea</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ciężka woda (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Ciężka_woda</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deuterium-depleted water (en)</title>
+      <url>https://en.wikipedia.org/wiki/Deuterium-depleted_water</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heavy water (en)</title>
+      <url>https://en.wikipedia.org/wiki/Heavy_water</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heavy water (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Heavy_water</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydronium (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydronium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nehézvíz (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Nehézvíz</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nước nặng (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Nước_nặng</url>
+    </item>
+    <item>
+      <title>Wikipedia - ماء ثقيل (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ماء_ثقيل</url>
+    </item>
+    <item>
+      <title>Wikipedia - وحدة:Chembox Identifiers (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/وحدة:Chembox_Identifiers</url>
+    </item>
+    <item>
+      <title>Wikipedia - وحدة:Chembox Identifiers (arz)</title>
+      <url>https://arz.wikipedia.org/wiki/وحدة:Chembox_Identifiers</url>
+    </item>
+    <item>
+      <title>Wikipedia - وحدة:Identifiers (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/وحدة:Identifiers</url>
+    </item>
+    <item>
+      <title>Wikipedia - وحدة:Identifiers (arz)</title>
+      <url>https://arz.wikipedia.org/wiki/وحدة:Identifiers</url>
+    </item>
+    <item>
+      <title>Wikipedia - ويكيبيديا:ملعب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ويكيبيديا:ملعب</url>
+    </item>
+    <item>
+      <title>Wikipedia - ভারী পানি (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ভারী_পানি</url>
+    </item>
+    <item>
+      <title>Wikipedia - கன நீர் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/கன_நீர்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ഘനജലം (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/ഘനജലം</url>
+    </item>
+    <item>
+      <title>Wikipedia - მძიმე წყალი (ka)</title>
+      <url>https://ka.wikipedia.org/wiki/მძიმე_წყალი</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02758/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02758/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02758/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02758/plain</plain>
+  </links>
+  <citation>Citation: 'heavy water' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02758</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:48:50+00:00</accessed>
+</term>

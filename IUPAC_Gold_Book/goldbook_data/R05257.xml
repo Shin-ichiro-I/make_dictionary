@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05257</id>
+  <doi>10.1351/goldbook.R05257</doi>
+  <code>R05257</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - relative adsorption</longtitle>
+  <title>relative adsorption</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>If Γ i σ and Γ 1 σ are the Gibbs surface concentrations of components i and 1, respectively, with reference to the same, but arbitrarily chosen, Gibbs surface, then the relative adsorption of component i with respect to component 1, is defined as Γ i 1 = Γ i σ- Γ 1 σ c i α- c  may be regarded as the Gibbs surface concentration of i when the Gibbs surface is chosen so that Γ i σ is zero, i.e. the Gibbs surface is chosen so that the reference system contains the same amount of component 1 as the real system. Hence Γ 1 1 ≡ 0.</text>
+      <links>
+        <item>
+          <title>Gibbs surface</title>
+          <url>https://goldbook.iupac.org/terms/view/G02635</url>
+        </item>
+        <item>
+          <title>Gibbs surface</title>
+          <url>https://goldbook.iupac.org/terms/view/G02635</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Γ i σ</alttext>
+          <latex>\mathit{\Gamma}_{i}^{\sigma}</latex>
+        </item>
+        <item>
+          <alttext>Γ 1 σ</alttext>
+          <latex>\mathit{\Gamma}_{1}^{\sigma}</latex>
+        </item>
+        <item>
+          <alttext>Γ i 1 = Γ i σ- Γ 1 σ c i α- c </alttext>
+          <latex>\mathit{\Gamma}_{i}^{\left(1\right)} = \mathit{\Gamma}_{i}^{\sigma}- \mathit{\Gamma}_{1}^{\sigma}\ \frac{c_{i}^{\alpha}- c_{i}^{\beta}}{c_{1}^{\alpha}- c_{1}^{\beta}}</latex>
+        </item>
+        <item>
+          <alttext>Γ i 1</alttext>
+          <latex>\mathit{\Gamma}_{i}^{\left(1\right)}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>Γ i σ</alttext>
+          <latex>\mathit{\Gamma}_{i}^{\sigma}</latex>
+        </item>
+        <item>
+          <alttext>Γ 1 1 ≡ 0</alttext>
+          <latex>\mathit{\Gamma}_{1}^{\left(1\right)}\equiv 0</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1972, 31, 577. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry' on page 591 (https://doi.org/10.1351/pac197231040577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05257/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05257/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05257/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05257/plain</plain>
+  </links>
+  <citation>Citation: 'relative adsorption' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05257</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:51:16+00:00</accessed>
+</term>

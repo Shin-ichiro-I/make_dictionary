@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02765</id>
+  <doi>10.1351/goldbook.H02765</doi>
+  <code>H02765</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - helium–cadmium laser</longtitle>
+  <title>helium–cadmium laser</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A continuous wave laser emitting mainly at 325.0 and 441.6 nm from singly ionized cadmium.</text>
+      <links>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>laser</title>
+          <url>https://goldbook.iupac.org/terms/view/L03459</url>
+        </item>
+        <item>
+          <title>gas lasers</title>
+          <url>https://goldbook.iupac.org/terms/view/G02585</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>325.0</alttext>
+          <latex>325.0</latex>
+        </item>
+        <item>
+          <alttext>441.6 nm</alttext>
+          <latex>441.6\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2246 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Lista di tipi di laser (it)</title>
+      <url>https://it.wikipedia.org/wiki/Lista_di_tipi_di_laser</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tipi di laser (it)</title>
+      <url>https://it.wikipedia.org/wiki/Tipi_di_laser</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02765/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02765/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02765/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02765/plain</plain>
+  </links>
+  <citation>Citation: 'helium–cadmium laser' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02765</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:49:16+00:00</accessed>
+</term>

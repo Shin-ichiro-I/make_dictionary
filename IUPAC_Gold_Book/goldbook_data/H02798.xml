@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02798</id>
+  <doi>10.1351/goldbook.H02798</doi>
+  <code>H02798</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - heterocyclic compounds</longtitle>
+  <title>heterocyclic compounds</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Cyclic compounds having as ring members atoms of at least two different elements, e.g. quinoline, 1,2-thiazole, bicyclo[3.3.1]tetrasiloxane.</text>
+      <links>
+        <item>
+          <title>carbocyclic compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/C00818</url>
+        </item>
+        <item>
+          <title>homocyclic compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/H02843</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1340 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Benzimidazole (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Benzimidazole</url>
+    </item>
+    <item>
+      <title>Wikipedia - Biciklična molekula (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Biciklična_molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bicyclic molecule (en)</title>
+      <url>https://en.wikipedia.org/wiki/Bicyclic_molecule</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bicyklická molekula (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Bicyklická_molekula</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cincin (kimia) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Cincin_(kimia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Comhdhúil heitreafháinneach (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Comhdhúil_heitreafháinneach</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composto cíclico (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Composto_cíclico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composto eterociclico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Composto_eterociclico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composto heterocíclico (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Composto_heterocíclico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Compuesto heterocíclico (es)</title>
+      <url>https://es.wikipedia.org/wiki/Compuesto_heterocíclico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cyclic compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cyclic_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cyclische Verbindungen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Cyclische_Verbindungen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cyklus (chémia) (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Cyklus_(chémia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterociklična spojina (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Heterociklična_spojina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterociklični spoj (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Heterociklični_spoj</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterociklično jedinjenje (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Heterociklično_jedinjenje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterociklično jedinjenje (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Heterociklično_jedinjenje</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterocyclen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Heterocyclen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterocyclic compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Heterocyclic_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterocyklisk forbindelse (da)</title>
+      <url>https://da.wikipedia.org/wiki/Heterocyklisk_forbindelse</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterosyklinen yhdiste (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Heterosyklinen_yhdiste</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hétérocycle (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Hétérocycle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hợp chất dị vòng (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Hợp_chất_dị_vòng</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molécula bicíclica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Molécula_bicíclica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ring (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ring_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ring forming reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ring_forming_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ετεροκυκλικές ενώσεις (el)</title>
+      <url>https://el.wikipedia.org/wiki/Ετεροκυκλικές_ενώσεις</url>
+    </item>
+    <item>
+      <title>Wikipedia - Гетероциклические соединения (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Гетероциклические_соединения</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хетероциклично съединение (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Хетероциклично_съединение</url>
+    </item>
+    <item>
+      <title>Wikipedia - טבעת (כימיה) (he)</title>
+      <url>https://he.wikipedia.org/wiki/טבעת_(כימיה)</url>
+    </item>
+    <item>
+      <title>Wikipedia - ترکیب ناجورحلقه (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ترکیب_ناجورحلقه</url>
+    </item>
+    <item>
+      <title>Wikipedia - ترکیبات هتروسیکلیک (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ترکیبات_هتروسیکلیک</url>
+    </item>
+    <item>
+      <title>Wikipedia - مركب حلقي غير متجانس (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مركب_حلقي_غير_متجانس</url>
+    </item>
+    <item>
+      <title>Wikipedia - مولکول دوحلقه‌ای (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/مولکول_دوحلقه‌ای</url>
+    </item>
+    <item>
+      <title>Wikipedia - واکنش تشکیل حلقه (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/واکنش_تشکیل_حلقه</url>
+    </item>
+    <item>
+      <title>Wikipedia - ჰეტეროციკლური ნაერთები (ka)</title>
+      <url>https://ka.wikipedia.org/wiki/ჰეტეროციკლური_ნაერთები</url>
+    </item>
+    <item>
+      <title>Wikipedia - 成环反应 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/成环反应</url>
+    </item>
+    <item>
+      <title>Wikipedia - 環 (化學) (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/環_(化學)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 複素環式化合物 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/複素環式化合物</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02798/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02798/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02798/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02798/plain</plain>
+  </links>
+  <citation>Citation: 'heterocyclic compounds' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02798</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:50:54+00:00</accessed>
+</term>

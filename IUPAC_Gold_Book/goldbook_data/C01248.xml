@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01248</id>
+  <doi>10.1351/goldbook.C01248</doi>
+  <code>C01248</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - configuration (electronic)</longtitle>
+  <title>configuration (electronic)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A distribution of the electrons of an atom or a molecular entity over a set of one-electron wavefunctions called orbitals, according to the Pauli principle. From one configuration several states with different multiplicities may result. For example, the ground electronic configuration of the oxygen molecule (O2) is: 1σg2, 1σu2, 2σg2, 2σu2, 1πu4, 3σg2, 1πg2 resulting in the 3Σg, 1Δg and 1Σg+ multiplets.</text>
+      <links>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>orbitals</title>
+          <url>https://goldbook.iupac.org/terms/view/O04317</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>1σg2</alttext>
+          <latex>1\sigma _{\text{g}}^{2}</latex>
+        </item>
+        <item>
+          <alttext>1σu2</alttext>
+          <latex>1\sigma _{\text{u}}^{2}</latex>
+        </item>
+        <item>
+          <alttext>2σg2</alttext>
+          <latex>2\sigma _{\text{g}}^{2}</latex>
+        </item>
+        <item>
+          <alttext>2σu2</alttext>
+          <latex>2\sigma _{\text{u}}^{2}</latex>
+        </item>
+        <item>
+          <alttext>1πu4</alttext>
+          <latex>1\pi _{\text{u}}^{4}</latex>
+        </item>
+        <item>
+          <alttext>3σg2</alttext>
+          <latex>3\sigma _{\text{g}}^{2}</latex>
+        </item>
+        <item>
+          <alttext>1πg2</alttext>
+          <latex>1\pi _{\text{g}}^{2}</latex>
+        </item>
+        <item>
+          <alttext>3Σg</alttext>
+          <latex>^{3}\Sigma_{\rm{g}}</latex>
+        </item>
+        <item>
+          <alttext>1Δg</alttext>
+          <latex>^{1}\Delta_{\rm{g}}</latex>
+        </item>
+        <item>
+          <alttext>1Σg+</alttext>
+          <latex>^{1}\Sigma_{\rm{g}}^{+}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1099 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2233 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Configuración electrónica (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Configuración_electrónica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Configuración electrónica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Configuración_electrónica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Configuration électronique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Configuration_électronique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Configurazione elettronica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Configurazione_elettronica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cấu hình electron (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Cấu_hình_electron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Electron configuration (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electron_configuration</url>
+    </item>
+    <item>
+      <title>Wikipedia - Elektron dizilimi (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Elektron_dizilimi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kernel (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Kernel_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konfigurasi elektron (id)</title>
+      <url>https://id.wikipedia.org/wiki/Konfigurasi_elektron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konfigurasi èlèktron (jv)</title>
+      <url>https://jv.wikipedia.org/wiki/Konfigurasi_èlèktron</url>
+    </item>
+    <item>
+      <title>Wikipedia - Materia (es)</title>
+      <url>https://es.wikipedia.org/wiki/Materia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Materia (física) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Materia_(física)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Електронска конфигурација (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Електронска_конфигурација</url>
+    </item>
+    <item>
+      <title>Wikipedia - इलेक्ट्रॉन विन्यास (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/इलेक्ट्रॉन_विन्यास</url>
+    </item>
+    <item>
+      <title>Wikipedia - विद्युदणु विन्यास (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/विद्युदणु_विन्यास</url>
+    </item>
+    <item>
+      <title>Wikipedia - ইলেকট্রন বিন্যাস (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/ইলেকট্রন_বিন্যাস</url>
+    </item>
+    <item>
+      <title>Wikipedia - ਬਿਜਲਾਣੂ ਤਰਤੀਬ (pa)</title>
+      <url>https://pa.wikipedia.org/wiki/ਬਿਜਲਾਣੂ_ਤਰਤੀਬ</url>
+    </item>
+    <item>
+      <title>Wikipedia - 电子排布 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/电子排布</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01248/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01248/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01248/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01248/plain</plain>
+  </links>
+  <citation>Citation: 'configuration (electronic)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01248</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:41:37+00:00</accessed>
+</term>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00371</id>
+  <doi>10.1351/goldbook.A00371</doi>
+  <code>A00371</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - anodic transfer coefficient</longtitle>
+  <title>anodic transfer coefficient</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Defined by analogy with cathodic transfer coefficient.</text>
+      <links>
+        <item>
+          <title>cathodic transfer coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C00906</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1974, 37, 499. 'Electrochemical nomenclature' on page 515 (https://doi.org/10.1351/pac197437040499)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Charge transfer coefficient (en)</title>
+      <url>https://en.wikipedia.org/wiki/Charge_transfer_coefficient</url>
+    </item>
+    <item>
+      <title>Wikipedia - ضریب انتقال بار (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ضریب_انتقال_بار</url>
+    </item>
+    <item>
+      <title>Wikipedia - 电荷转移因子 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/电荷转移因子</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00371/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00371/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00371/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00371/plain</plain>
+  </links>
+  <citation>Citation: 'anodic transfer coefficient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00371</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:55:19+00:00</accessed>
+</term>

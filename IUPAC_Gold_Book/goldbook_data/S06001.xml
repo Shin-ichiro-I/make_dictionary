@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06001</id>
+  <doi>10.1351/goldbook.S06001</doi>
+  <code>S06001</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - steric isotope effect</longtitle>
+  <title>steric isotope effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A secondary isotope effect attributed to the different vibrational amplitudes of isotopologues. For example, both the mean and mean-square amplitudes of vibrations associated with C–H bonds are greater than those of C–D bonds. The greater effective bulk of molecules containing the former may be manifested by a steric effect on a rate or equilibrium constant.</text>
+      <links>
+        <item>
+          <title>secondary isotope effect</title>
+          <url>https://goldbook.iupac.org/terms/view/S05523</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>secondary isotope effect</title>
+          <url>https://goldbook.iupac.org/terms/view/S05523</url>
+        </item>
+        <item>
+          <title>equilibrium constant</title>
+          <url>https://goldbook.iupac.org/terms/view/E02177</url>
+        </item>
+        <item>
+          <title>isotopologues</title>
+          <url>https://goldbook.iupac.org/terms/view/I03351</url>
+        </item>
+        <item>
+          <title>steric effect</title>
+          <url>https://goldbook.iupac.org/terms/view/S05997</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1131 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Kinetic isotope effect (en)</title>
+      <url>https://en.wikipedia.org/wiki/Kinetic_isotope_effect</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S06001/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S06001/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S06001/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S06001/plain</plain>
+  </links>
+  <citation>Citation: 'steric isotope effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S06001</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:25:27+00:00</accessed>
+</term>

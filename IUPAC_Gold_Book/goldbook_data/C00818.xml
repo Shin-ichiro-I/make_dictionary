@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00818</id>
+  <doi>10.1351/goldbook.C00818</doi>
+  <code>C00818</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carbocyclic compounds</longtitle>
+  <title>carbocyclic compounds</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Cyclic compounds in which all of the ring members are carbon atoms, e.g. 1,2-dihydronaphthalene.</text>
+      <links>
+        <item>
+          <title>homocyclic compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/H02843</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1325 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cincin (kimia) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Cincin_(kimia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composto cíclico (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Composto_cíclico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cyclische Verbindungen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Cyclische_Verbindungen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cyklus (chémia) (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Cyklus_(chémia)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ring (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ring_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Związki cykliczne (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Związki_cykliczne</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ετεροκυκλικές ενώσεις (el)</title>
+      <url>https://el.wikipedia.org/wiki/Ετεροκυκλικές_ενώσεις</url>
+    </item>
+    <item>
+      <title>Wikipedia - טבעת (כימיה) (he)</title>
+      <url>https://he.wikipedia.org/wiki/טבעת_(כימיה)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 環 (化學) (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/環_(化學)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00818/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00818/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00818/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00818/plain</plain>
+  </links>
+  <citation>Citation: 'carbocyclic compounds' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00818</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:20:17+00:00</accessed>
+</term>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05063</id>
+  <doi>10.1351/goldbook.R05063</doi>
+  <code>R05063</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - radiative energy transfer</longtitle>
+  <title>radiative energy transfer</title>
+  <contains>trivial energy transfer</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Transfer of excitation energy by radiative deactivation of a donor molecular entity and reabsorption of the emitted radiation by an acceptor molecular entity.</text>
+      <notes>
+        <item>Radiative transfer results in a decrease of the donor fluorescence intensity in the region of spectral overlap. Such a distortion of the fluorescence spectrum is called inner-filter effect.</item>
+        <item>Radiative energy transfer depends on the shape and size of the vessel utilized and on the configuration of the latter with respect to excitation and observation.</item>
+        <item>The fraction a of photons emitted by D and absorbed by A is given by a = (1/ΦD0)∫(λ) IλD(λ)[1-10(-ɛA(λ)cAl)]dλ where cA is the molar concentration of acceptor, ΦD0 is the fluorescence quantum yield in the absence of acceptor, l is the thickness of the sample, IλD(λ) and ɛA(λ) are the spectral distribution of the spectral radiant intensity of the donor fluorescence and the molar decadic absorption coefficient of the acceptor, respectively, with the normalization condition ΦD0 = ∫(λ).IλD(λ).dλ.<br/>For relatively low absorbance, a can be approximated by a = (2.3/ΦD0).cAl∫(λ) IλD(λ)-ɛA(λ).dλ where the integral represents the overlap between the donor fluorescence spectrum and the acceptor absorption spectrum.</item>
+      </notes>
+      <links>
+        <item>
+          <title>fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/F02453</url>
+        </item>
+        <item>
+          <title>spectral overlap</title>
+          <url>https://goldbook.iupac.org/terms/view/S05818</url>
+        </item>
+        <item>
+          <title>filter</title>
+          <url>https://goldbook.iupac.org/terms/view/F02384</url>
+        </item>
+        <item>
+          <title>quantum yield</title>
+          <url>https://goldbook.iupac.org/terms/view/Q04991</url>
+        </item>
+        <item>
+          <title>spectral distribution</title>
+          <url>https://goldbook.iupac.org/terms/view/S05813</url>
+        </item>
+        <item>
+          <title>spectral radiant intensity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05827</url>
+        </item>
+        <item>
+          <title>molar decadic absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/M03972</url>
+        </item>
+        <item>
+          <title>normalization</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07086</url>
+        </item>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>absorption spectrum</title>
+          <url>https://goldbook.iupac.org/terms/view/A00043</url>
+        </item>
+        <item>
+          <title>excitation energy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02250</url>
+        </item>
+        <item>
+          <title>deactivation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01528</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>a</alttext>
+          <latex>a</latex>
+        </item>
+        <item>
+          <alttext>a = (1/ΦD0)∫(λ) IλD(λ)[1-10(-ɛA(λ)cAl)]dλ</alttext>
+          <latex>a = \frac{1}{\mathit{\Phi}_{\text{D}}^{0}}\int _{_{\lambda }}I_{\lambda}^{\text{D}}(\lambda)\left [ 1 - 10^{-\varepsilon_{\text{A}}(\lambda)c_{\text{A}}\, l} \right ]\text{d}\lambda</latex>
+        </item>
+        <item>
+          <alttext>cA</alttext>
+          <latex>c_{\text{A}}</latex>
+        </item>
+        <item>
+          <alttext>ΦD0</alttext>
+          <latex>\mathit{\Phi} _{\text{D}}^{0}</latex>
+        </item>
+        <item>
+          <alttext>l</alttext>
+          <latex>l</latex>
+        </item>
+        <item>
+          <alttext>IλD(λ)</alttext>
+          <latex>I_{\lambda}^{\text{D}}(\lambda)</latex>
+        </item>
+        <item>
+          <meaning>Molar decadic absorption coefficient</meaning>
+          <alttext>ɛA(λ)</alttext>
+          <latex>\varepsilon_{\text{A}}(\lambda )</latex>
+        </item>
+        <item>
+          <alttext>ΦD0 = ∫(λ).IλD(λ).dλ</alttext>
+          <latex>\mathit{\Phi} _{\text{D}}^{0} = \int_{\lambda}I_{\lambda}^{\text{D}}(\lambda)\, \text{d}\lambda</latex>
+        </item>
+        <item>
+          <alttext>a</alttext>
+          <latex>a</latex>
+        </item>
+        <item>
+          <alttext>a = (2.3/ΦD0).cAl∫(λ) IλD(λ)-ɛA(λ).dλ</alttext>
+          <latex>a = \frac{2.3}{\mathit{\Phi}_{\text{D}}^{0}}c_{\text{A}}\, l\int _{\lambda}I_{\lambda}^{\text{D}}(\lambda)\varepsilon_{\text{A}}(\lambda)\text{d}\lambda</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 411 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05063/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05063/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05063/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05063/plain</plain>
+  </links>
+  <citation>Citation: 'radiative energy transfer' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05063</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:42:35+00:00</accessed>
+</term>

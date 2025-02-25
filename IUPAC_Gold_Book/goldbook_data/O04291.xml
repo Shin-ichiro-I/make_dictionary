@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04291</id>
+  <doi>10.1351/goldbook.O04291</doi>
+  <code>O04291</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - onium compounds</longtitle>
+  <title>onium compounds</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Cations (with their counter-ions) derived by addition of a hydron to a mononuclear parent hydride of the nitrogen, chalcogen and halogen families. <br/>(H4N+) ammonium <br/>(H3O+) oxonium <br/>(H2F+) fluoronium <br/>(H4P+) phosphonium <br/>(H3S+) sulfonium <br/>(H2Cl+) chloronium <br/>(H4As+) arsonium <br/>(H3Se+) selenonium <br/>(H2Br+) bromonium <br/>(H4Sb+) stibonium <br/>(H3Te+) telluronium <br/>(H2I+) iodonium <br/>(H4Bi+) bismuthonium</text>
+      <links>
+        <item>
+          <title>Cations</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>hydron (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>Cations</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>hydron (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>counter-ions (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01371</url>
+        </item>
+        <item>
+          <title>parent hydride (in an ion exchanger, in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04405</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>Derivatives formed by substitution of the above parent ions by univalent groups. The number of substituted hydrogen atoms is, especially in the case of hydrocarbyl substituents, indicated by the adjectives primary, secondary, tertiary or quaternary. E.g. (Cl2F+) dichlorofluoronium, (CH3)2S+H dimethylsulfonium (a secondary sulfonium ion), Cl(CH3)3P+ chlorotrimethylphosphonium, (CH3CH2)4N+ tetraethylammonium (a quaternary ammonium ion).</text>
+      <links>
+        <item>
+          <title>arsonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/A00457</url>
+        </item>
+        <item>
+          <title>halonium ions</title>
+          <url>https://goldbook.iupac.org/terms/view/H02728</url>
+        </item>
+        <item>
+          <title>oxonium ions</title>
+          <url>https://goldbook.iupac.org/terms/view/O04378</url>
+        </item>
+        <item>
+          <title>phosphonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/P04562</url>
+        </item>
+        <item>
+          <title>quaternary ammonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05003</url>
+        </item>
+        <item>
+          <title>stibonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/S06011</url>
+        </item>
+        <item>
+          <title>sulfonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/S06121</url>
+        </item>
+        <item>
+          <title>arsonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/A00457</url>
+        </item>
+        <item>
+          <title>halonium ions</title>
+          <url>https://goldbook.iupac.org/terms/view/H02728</url>
+        </item>
+        <item>
+          <title>oxonium ions</title>
+          <url>https://goldbook.iupac.org/terms/view/O04378</url>
+        </item>
+        <item>
+          <title>phosphonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/P04562</url>
+        </item>
+        <item>
+          <title>quaternary ammonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05003</url>
+        </item>
+        <item>
+          <title>stibonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/S06011</url>
+        </item>
+        <item>
+          <title>sulfonium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/S06121</url>
+        </item>
+        <item>
+          <title>hydrocarbyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02891</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>Derivatives formed by substitution of the above parent ions by groups having two or three free valencies on the same atom. Such derivatives are, where possible, designated by a specific class name. E.g. RC≡O+ hydrocarbylidyne oxonium ions, R2C=N+H2X−iminium compounds, RC≡NH+nitrilium ions.</text>
+      <links>
+        <item>
+          <title>oxonium ions</title>
+          <url>https://goldbook.iupac.org/terms/view/O04378</url>
+        </item>
+        <item>
+          <title>iminium compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/I02958</url>
+        </item>
+        <item>
+          <title>nitrilium ions</title>
+          <url>https://goldbook.iupac.org/terms/view/N04156</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' Moss, G.P.;Smith, P.A.S.;Tavernier, D.; Pure and Applied Chemistry 1995 67(8-9) 1307</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Composto cuaternario (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Composto_cuaternario</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composé onium (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Composé_onium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composé quaternaire (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Composé_quaternaire</url>
+    </item>
+    <item>
+      <title>Wikipedia - Compuesto cuaternario (es)</title>
+      <url>https://es.wikipedia.org/wiki/Compuesto_cuaternario</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ion oxonium (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Ion_oxonium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oksoniumion (no)</title>
+      <url>https://no.wikipedia.org/wiki/Oksoniumion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oniový ion (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Oniový_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Onium compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Onium_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Onium ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Onium_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Onium-Verbindung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Onium-Verbindung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxonium (de)</title>
+      <url>https://de.wikipedia.org/wiki/Oxonium</url>
+    </item>
+    <item>
+      <title>Wikipedia - Quaternary compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Quaternary_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Onium ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Onium_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Імінієві сполуки (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Імінієві_сполуки</url>
+    </item>
+    <item>
+      <title>Wikipedia - Аммониевые соединения (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Аммониевые_соединения</url>
+    </item>
+    <item>
+      <title>Wikipedia - Аммоний (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Аммоний</url>
+    </item>
+    <item>
+      <title>Wikipedia - Амоній (be)</title>
+      <url>https://be.wikipedia.org/wiki/Амоній</url>
+    </item>
+    <item>
+      <title>Wikipedia - Гидриды (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Гидриды</url>
+    </item>
+    <item>
+      <title>Wikipedia - Гідрыды (be)</title>
+      <url>https://be.wikipedia.org/wiki/Гідрыды</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ковалентная связь (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Ковалентная_связь</url>
+    </item>
+    <item>
+      <title>Wikipedia - Неарганічная хімія (be)</title>
+      <url>https://be.wikipedia.org/wiki/Неарганічная_хімія</url>
+    </item>
+    <item>
+      <title>Wikipedia - Неорганическая химия (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Неорганическая_химия</url>
+    </item>
+    <item>
+      <title>Wikipedia - Обсуждение участника:Golart (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Обсуждение_участника:Golart</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ониевые соединения (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Ониевые_соединения</url>
+    </item>
+    <item>
+      <title>Wikipedia - Онієві сполуки (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Онієві_сполуки</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стибонієві сполуки (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Стибонієві_сполуки</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хидрид (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Хидрид</url>
+    </item>
+    <item>
+      <title>Wikipedia - أكسونيوم (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أكسونيوم</url>
+    </item>
+    <item>
+      <title>Wikipedia - ترکیبات چهارتایی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ترکیبات_چهارتایی</url>
+    </item>
+    <item>
+      <title>Wikipedia - オニウム化合物 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/オニウム化合物</url>
+    </item>
+    <item>
+      <title>Wikipedia - 鎓化合物 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/鎓化合物</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04291/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04291/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04291/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04291/plain</plain>
+  </links>
+  <citation>Citation: 'onium compounds' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04291</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:04:28+00:00</accessed>
+</term>

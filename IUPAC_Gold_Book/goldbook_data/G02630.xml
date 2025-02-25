@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02630</id>
+  <doi>10.1351/goldbook.G02630</doi>
+  <code>G02630</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Gibbs energy diagram</longtitle>
+  <title>Gibbs energy diagram</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A diagram showing the relative standard Gibbs energies of reactants, transition states, reaction intermediates and products, in the same sequence as they occur in a chemical reaction. These points are often connected by a smooth curve (a 'Gibbs energy profile', commonly still referred to as a 'free energy profile') but experimental observation can provide information on relative standard Gibbs energies only at the maxima and minima and not at the configurations between them. The abscissa expresses the sequence of reactants, products, reaction intermediates and transition states and is usually undefined or only vaguely defined by the reaction coordinate (extent of bond breaking or bond making). In some adaptations the abscissas are however explicitly defined as bond orders, Brønsted exponents, etc. Contrary to statements in many text books, the highest point on a Gibbs energy diagram does not necessarily correspond to the transition state of the rate-limiting step. For example, in a stepwise reaction consisting of two reaction steps: [image: Not defined] one of the transition states of the two reaction steps must (in general) have a higher standard Gibbs energy than the other, whatever the concentration of D in the system. However, the value of that concentration will determine which of the reaction steps is rate-limiting. If the particular concentrations of interest, which may vary, are chosen as the standard state, then the rate-limiting step is the one of highest Gibbs energy. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/G02630-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/G02630.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>potential-energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>potential-energy (reaction) surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>potential-energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>potential-energy (reaction) surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>Gibbs energies</title>
+          <url>https://goldbook.iupac.org/terms/view/G02629</url>
+        </item>
+        <item>
+          <title>transition states</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>intermediates</title>
+          <url>https://goldbook.iupac.org/terms/view/I03096</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>bond orders</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>rate-limiting step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05140</url>
+        </item>
+        <item>
+          <title>stepwise reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/S05970</url>
+        </item>
+        <item>
+          <title>potential-energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/P04779</url>
+        </item>
+        <item>
+          <title>potential-energy (reaction) surface</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+        <item>
+          <title>Gibbs energies</title>
+          <url>https://goldbook.iupac.org/terms/view/G02629</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>intermediates</title>
+          <url>https://goldbook.iupac.org/terms/view/I03096</url>
+        </item>
+        <item>
+          <title>reaction coordinate</title>
+          <url>https://goldbook.iupac.org/terms/view/R05168</url>
+        </item>
+        <item>
+          <title>bond orders</title>
+          <url>https://goldbook.iupac.org/terms/view/B00707</url>
+        </item>
+        <item>
+          <title>rate-limiting step</title>
+          <url>https://goldbook.iupac.org/terms/view/R05140</url>
+        </item>
+        <item>
+          <title>stepwise reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/S05970</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>Gibbs energy profile</title>
+          <url>https://goldbook.iupac.org/terms/view/G02633</url>
+        </item>
+        <item>
+          <title>free energy</title>
+          <url>https://goldbook.iupac.org/terms/view/F02515</url>
+        </item>
+        <item>
+          <title>standard state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05925</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1117 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 167 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02630/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02630/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02630/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02630/plain</plain>
+  </links>
+  <citation>Citation: 'Gibbs energy diagram' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02630</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:42:09+00:00</accessed>
+</term>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00746</id>
+  <doi>10.1351/goldbook.B00746</doi>
+  <code>B00746</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Brønsted relation</longtitle>
+  <title>Br&amp;#xF8;nsted relation</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The term applies to either of the equations: (or their logarithmic forms) where α, α and β are called 'Brønsted exponents'), kHA and kA are catalytic coefficients (or rate coefficients) of reactions whose rates depend on the concentrations of HA and/or of A−. KHA is the acid dissociation constant of the acid HA, p is the number of equivalent acidic protons in the acid HA, and q is the number of equivalent basic sites in its conjugate base A−. The chosen values of p and q should always be specified. (The charge designations of H and A are only illustrative.) The Brønsted relation is often termed the 'Brønsted catalysis law' (or the 'Catalysis Law'). Although justifiable on historical grounds, this name is not recommended, since Brønsted relations are known to apply to many uncatalysed and pseudo-catalysed reactions (such as simple protondron ). The term 'pseudo-Brønsted relation' is sometimes used for reactions which involve nucleophilic catalysis instead of acid–base catalysis. Various types of Brønsted parameters have been proposed such as βlg, βnuc, βeq for leaving group, nucleophile and equilibrium constants, respectively.</text>
+      <links>
+        <item>
+          <title>linear free-energy relation</title>
+          <url>https://goldbook.iupac.org/terms/view/L03551</url>
+        </item>
+        <item>
+          <title>linear free-energy relation</title>
+          <url>https://goldbook.iupac.org/terms/view/L03551</url>
+        </item>
+        <item>
+          <title>catalytic coefficients</title>
+          <url>https://goldbook.iupac.org/terms/view/C00885</url>
+        </item>
+        <item>
+          <title>dissociation</title>
+          <url>https://goldbook.iupac.org/terms/view/D01801</url>
+        </item>
+        <item>
+          <title>catalysis law</title>
+          <url>https://goldbook.iupac.org/terms/view/C00875</url>
+        </item>
+        <item>
+          <title>proton (hydron) transfer reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04915</url>
+        </item>
+        <item>
+          <title>nucleophilic catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/N04250</url>
+        </item>
+        <item>
+          <title>catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/C00874</url>
+        </item>
+        <item>
+          <title>leaving group</title>
+          <url>https://goldbook.iupac.org/terms/view/L03493</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Brønsted relation</meaning>
+          <type>equation</type>
+          <alttext>kHa/p = G(qKHa/p)^α</alttext>
+          <latex>\frac{k_{\text{HA}}}{p} = G\left ( \frac{q\ K_{\text{HA}}}{p} \right )^{\alpha}</latex>
+        </item>
+        <item>
+          <meaning>Brønsted relation</meaning>
+          <type>equation</type>
+          <alttext>kA/q = G(qKHa/p)^-β</alttext>
+          <latex>\frac{k_{\text{A}}}{q} = G\left ( \frac{q\ K_{\text{HA}}}{p} \right )^{-\beta} </latex>
+        </item>
+        <item>
+          <meaning>Brønsted exponent</meaning>
+          <type>symbol</type>
+          <alttext>α</alttext>
+          <latex>\alpha</latex>
+        </item>
+        <item>
+          <meaning>Brønsted exponent</meaning>
+          <type>symbol</type>
+          <alttext>α</alttext>
+          <latex>\alpha</latex>
+        </item>
+        <item>
+          <meaning>Brønsted exponent</meaning>
+          <type>symbol</type>
+          <alttext>β</alttext>
+          <latex>\beta</latex>
+        </item>
+        <item>
+          <meaning>Brønsted exponent</meaning>
+          <type>symbol</type>
+          <alttext>β</alttext>
+          <latex>\beta</latex>
+        </item>
+        <item>
+          <meaning>Brønsted exponent</meaning>
+          <type>symbol</type>
+          <alttext>G</alttext>
+          <latex>G</latex>
+        </item>
+        <item>
+          <meaning>Weak acid rate coefficient</meaning>
+          <type>symbol</type>
+          <alttext>kHA</alttext>
+          <latex>k_{\text{HA}}</latex>
+        </item>
+        <item>
+          <meaning>Conjugate base rate coefficient</meaning>
+          <type>symbol</type>
+          <alttext>kA</alttext>
+          <latex>k_{\text{A}}</latex>
+        </item>
+        <item>
+          <meaning>Weak acid dissociation constant</meaning>
+          <type>symbol</type>
+          <alttext>KHA</alttext>
+          <latex>K_{\text{HA}}</latex>
+        </item>
+        <item>
+          <meaning>Stoichiometric coefficient of weak acid</meaning>
+          <type>symbol</type>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+        <item>
+          <meaning>Stoichiometric coefficient of conjugate base</meaning>
+          <type>symbol</type>
+          <alttext>q</alttext>
+          <latex>q</latex>
+        </item>
+        <item>
+          <meaning>Stoichiometric coefficient of weak acid</meaning>
+          <type>symbol</type>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+        <item>
+          <meaning>Stoichiometric coefficient of conjugate base</meaning>
+          <type>symbol</type>
+          <alttext>q</alttext>
+          <latex>q</latex>
+        </item>
+        <item>
+          <meaning>Brønsted parameter (leaving group)</meaning>
+          <type>symbol</type>
+          <alttext>βlg</alttext>
+          <latex>\beta_{\text{lg}}</latex>
+        </item>
+        <item>
+          <meaning>Brønsted parameter (nucleophile)</meaning>
+          <type>symbol</type>
+          <alttext>βnuc</alttext>
+          <latex>\beta_{\text{nuc}}</latex>
+        </item>
+        <item>
+          <meaning>Brønsted parameter (equilibrium constant)</meaning>
+          <type>symbol</type>
+          <alttext>βeq</alttext>
+          <latex>\beta_{\text{eq}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1091 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 154 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alfa (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Alfa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Beta (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Beta</url>
+    </item>
+    <item>
+      <title>Wikipedia - نظرية برونستد-لوري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نظرية_برونستد-لوري</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00746/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00746/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00746/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00746/plain</plain>
+  </links>
+  <citation>Citation: 'Br&amp;#xF8;nsted relation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00746</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:16:42+00:00</accessed>
+</term>

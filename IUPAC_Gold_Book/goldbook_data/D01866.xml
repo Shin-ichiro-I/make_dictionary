@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01866</id>
+  <doi>10.1351/goldbook.D01866</doi>
+  <code>D01866</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dual substituent-parameter equation</longtitle>
+  <title>dual substituent-parameter equation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In a general sense, any equation which expresses substituent effects in terms of two parameters. However, in practice the term is used more specifically for an equation for summarizing the effects of meta- or para- substituents (i = m or p) X on chemical reactivity, spectroscopic properties, etc. of a probe site Y in benzene or other aromatic system. P i = ρ I i σ I + ρ R i σ R is the magnitude of the property Y for substituent X, expressed relative to the property for X = H; σ I and σ R are inductive or polar and resonance substituent constants, respectively, there being various scales for σ R;ρ I and ρ R are the corresponding regression coefficients.</text>
+      <links>
+        <item>
+          <title>extended Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02279</url>
+        </item>
+        <item>
+          <title>extended Hammett equation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02279</url>
+        </item>
+        <item>
+          <title>resonance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05326</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>P i = ρ I i σ I + ρ R i σ R</alttext>
+          <latex>P^{\textrm{i}}=\rho _{I}^{\textrm{i}}\ \sigma _{I}+\rho _{R}^{\textrm{i}}\ \sigma _{R}</latex>
+        </item>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>σ I</alttext>
+          <latex>\sigma _{I}</latex>
+        </item>
+        <item>
+          <alttext>σ R</alttext>
+          <latex>\sigma _{R}</latex>
+        </item>
+        <item>
+          <alttext>σ R</alttext>
+          <latex>\sigma _{R};\,\rho _{I}</latex>
+        </item>
+        <item>
+          <alttext>ρ I</alttext>
+          <latex>\rho _{I}</latex>
+        </item>
+        <item>
+          <alttext>ρ R</alttext>
+          <latex>\rho _{R}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1107 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01866/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01866/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01866/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01866/plain</plain>
+  </links>
+  <citation>Citation: 'dual substituent-parameter equation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01866</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:07:56+00:00</accessed>
+</term>

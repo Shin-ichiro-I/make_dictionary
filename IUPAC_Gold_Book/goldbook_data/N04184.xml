@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04184</id>
+  <doi>10.1351/goldbook.N04184</doi>
+  <code>N04184</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - non-calorimetric thermophysical measurements</longtitle>
+  <title>non-calorimetric thermophysical measurements</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>These include (p,V, T) measurements, saturated density measurements, and any other measurements which give information on the (p,V, T) surface of a fluid.</text>
+      <math>
+        <item>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+        <item>
+          <alttext>p</alttext>
+          <latex>p</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1981, 53, 1805. 'Assignment and Presentation of Uncertainties of the Numerical Results of Thermodynamic Measurements' on page 1818 (https://doi.org/10.1351/pac198153091805)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04184/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04184/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04184/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04184/plain</plain>
+  </links>
+  <citation>Citation: 'non-calorimetric thermophysical measurements' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04184</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:57:09+00:00</accessed>
+</term>

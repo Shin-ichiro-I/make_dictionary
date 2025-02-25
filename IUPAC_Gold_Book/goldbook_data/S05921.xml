@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05921</id>
+  <doi>10.1351/goldbook.S05921</doi>
+  <code>S05921</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - standard pressure</longtitle>
+  <title>standard pressure</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Chosen value of pressure denoted by p ⦵ or p°. In 1982 IUPAC recommended the value 10E5 Pa, but prior to 1982 the value 101325 Pa (= 1 atm) was usually used.</text>
+      <math>
+        <item>
+          <alttext>p ⦵</alttext>
+          <latex>p^{\unicode{x29B5}}</latex>
+        </item>
+        <item>
+          <alttext>p°</alttext>
+          <latex>p^{\,\unicode{x26ac}}</latex>
+        </item>
+        <item>
+          <alttext>10E5 Pa</alttext>
+          <latex>10^{5}\ \text{Pa}</latex>
+        </item>
+        <item>
+          <alttext>101325 Pa</alttext>
+          <latex>101\ 325\ \text{Pa}</latex>
+        </item>
+        <item>
+          <alttext>1 atm</alttext>
+          <latex>1\ \text{atm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 54 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1994, 66, 533. 'Standard quantities in chemical thermodynamics. Fugacities, activities and equilibrium constants for pure and mixed phases (IUPAC Recommendations 1994)' on page 536 (https://doi.org/10.1351/pac199466030533)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atmosfer (satuan) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Atmosfer_(satuan)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atmosfera (jedinica) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Atmosfera_(jedinica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atmosfera (unit) (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Atmosfera_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atmosfera padrão (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Atmosfera_padrão</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atmosphere (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Atmosphere_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atmosphere (unit) (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Atmosphere_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bar (unit) (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Bar_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Boiling point (en)</title>
+      <url>https://en.wikipedia.org/wiki/Boiling_point</url>
+    </item>
+    <item>
+      <title>Wikipedia - Capacitat tèrmica (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Capacitat_tèrmica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condiciones normalizadas de presión y temperatura (es)</title>
+      <url>https://es.wikipedia.org/wiki/Condiciones_normalizadas_de_presión_y_temperatura</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condicions estàndard (química) (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Condicions_estàndard_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condicions estàndard de pressió i temperatura (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Condicions_estàndard_de_pressió_i_temperatura</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condizioni standard (it)</title>
+      <url>https://it.wikipedia.org/wiki/Condizioni_standard</url>
+    </item>
+    <item>
+      <title>Wikipedia - Condições normais de temperatura e pressão (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Condições_normais_de_temperatura_e_pressão</url>
+    </item>
+    <item>
+      <title>Wikipedia - Daidaitaccen yanayin nasarar (ha)</title>
+      <url>https://ha.wikipedia.org/wiki/Daidaitaccen_yanayin_nasarar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Daidaitaccen zafin jiki da matsa lamba (ha)</title>
+      <url>https://ha.wikipedia.org/wiki/Daidaitaccen_zafin_jiki_da_matsa_lamba</url>
+    </item>
+    <item>
+      <title>Wikipedia - Energia de Gibbs (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Energia_de_Gibbs</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estado estándar (química) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Estado_estándar_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heat capacity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Heat_capacity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keadaan standar (id)</title>
+      <url>https://id.wikipedia.org/wiki/Keadaan_standar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keskustelu:NTP (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Keskustelu:NTP</url>
+    </item>
+    <item>
+      <title>Wikipedia - Khí quyển tiêu chuẩn (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Khí_quyển_tiêu_chuẩn</url>
+    </item>
+    <item>
+      <title>Wikipedia - NTP (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/NTP</url>
+    </item>
+    <item>
+      <title>Wikipedia - Norma premo (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Norma_premo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Normaali-ilmakehä (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Normaali-ilmakehä</url>
+    </item>
+    <item>
+      <title>Wikipedia - Normaaltingimused (et)</title>
+      <url>https://et.wikipedia.org/wiki/Normaaltingimused</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pascal (unidad) (es)</title>
+      <url>https://es.wikipedia.org/wiki/Pascal_(unidad)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pascal (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Pascal_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Plantilla Discussió:Infotaula química (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Plantilla_Discussió:Infotaula_química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Presio atmosferiko (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Presio_atmosferiko</url>
+    </item>
+    <item>
+      <title>Wikipedia - Presión atmosférica (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Presión_atmosférica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Presión atmosférica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Presión_atmosférica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Punto de ebullición (es)</title>
+      <url>https://es.wikipedia.org/wiki/Punto_de_ebullición</url>
+    </item>
+    <item>
+      <title>Wikipedia - Specific heat capacity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Specific_heat_capacity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spesifikk varmekapasitet (nn)</title>
+      <url>https://nn.wikipedia.org/wiki/Spesifikk_varmekapasitet</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard atmosphere (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_atmosphere_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard conditions for temperature and pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_conditions_for_temperature_and_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard cubic feet per minute (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_cubic_feet_per_minute</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard enthalpy of formation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard state (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_state</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standard temperature and pressure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Standard_temperature_and_pressure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Standardbedingungen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Standardbedingungen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stato standard (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_standard</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sıcaklık ve basınç için standart koşullar (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Sıcaklık_ve_basınç_için_standart_koşullar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Atmosphere (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Atmosphere_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Standard atmosphere (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Standard_atmosphere_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Thermodynamic temperature (en)</title>
+      <url>https://en.wikipedia.org/wiki/Thermodynamic_temperature</url>
+    </item>
+    <item>
+      <title>Wikipedia - Vrenje (fizika) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Vrenje_(fizika)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia talk:WikiProject Elements (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Elements</url>
+    </item>
+    <item>
+      <title>Wikipedia - Átmốtphe (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Átmốtphe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Átmốtphe tiêu chuẩn (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Átmốtphe_tiêu_chuẩn</url>
+    </item>
+    <item>
+      <title>Wikipedia - Атмосферное давление (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Атмосферное_давление</url>
+    </item>
+    <item>
+      <title>Wikipedia - Паскал (јединица) (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Паскал_(јединица)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Стандардни услови за температуру и притисак (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Стандардни_услови_за_температуру_и_притисак</url>
+    </item>
+    <item>
+      <title>Wikipedia - Тачка кључања (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Тачка_кључања</url>
+    </item>
+    <item>
+      <title>Wikipedia - Точка на вриење (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Точка_на_вриење</url>
+    </item>
+    <item>
+      <title>Wikipedia - جو (وحدة) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/جو_(وحدة)</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالة قياسية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حالة_قياسية</url>
+    </item>
+    <item>
+      <title>Wikipedia - شرایط استاندارد دما و فشار (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/شرایط_استاندارد_دما_و_فشار</url>
+    </item>
+    <item>
+      <title>Wikipedia - نقطة الغليان (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نقطة_الغليان</url>
+    </item>
+    <item>
+      <title>Wikipedia - نقطة غليان (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نقطة_غليان</url>
+    </item>
+    <item>
+      <title>Wikipedia - আদর্শ তাপমাত্রা ও চাপ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/আদর্শ_তাপমাত্রা_ও_চাপ</url>
+    </item>
+    <item>
+      <title>Wikipedia - 标准大气压 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/标准大气压</url>
+    </item>
+    <item>
+      <title>Wikipedia - 标准状态 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/标准状态</url>
+    </item>
+    <item>
+      <title>Wikipedia - 標準大氣壓 (zh-yue)</title>
+      <url>https://zh-yue.wikipedia.org/wiki/標準大氣壓</url>
+    </item>
+    <item>
+      <title>Wikipedia - 標準気圧 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/標準気圧</url>
+    </item>
+    <item>
+      <title>Wikipedia - 標準状態 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/標準状態</url>
+    </item>
+    <item>
+      <title>Wikipedia - 標準狀況 (zh-yue)</title>
+      <url>https://zh-yue.wikipedia.org/wiki/標準狀況</url>
+    </item>
+    <item>
+      <title>Wikipedia - 沸点 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/沸点</url>
+    </item>
+    <item>
+      <title>Wikipedia - 표준 생성 엔탈피 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/표준_생성_엔탈피</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05921/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05921/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05921/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05921/plain</plain>
+  </links>
+  <citation>Citation: 'standard pressure' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05921</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:21:54+00:00</accessed>
+</term>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00547</id>
+  <doi>10.1351/goldbook.A00547</doi>
+  <code>A00547</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - axial chirality</longtitle>
+  <title>axial chirality</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Term used to refer to stereoisomerism resulting from the non-planar arrangement of four groups in pairs about a chirality axis. It is exemplified by allenesabC=C=Ccd (or abC=C=Cab) and by the atropisomerism of ortho-substituted biphenyls. The configuration in molecular entities possessing axial chirality is specified by the stereodescriptors Ra and Sa (or by P or M). [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/A00547.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>stereoisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/S05983</url>
+        </item>
+        <item>
+          <title>allenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00238</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>stereoisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/S05983</url>
+        </item>
+        <item>
+          <title>allenes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00238</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>chirality axis</title>
+          <url>https://goldbook.iupac.org/terms/view/C01059</url>
+        </item>
+        <item>
+          <title>atropisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/A00511</url>
+        </item>
+        <item>
+          <title>configuration</title>
+          <url>https://goldbook.iupac.org/terms/view/C01249</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2201 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Allene (de)</title>
+      <url>https://de.wikipedia.org/wiki/Allene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atropisomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Atropisomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Axial chirality (en)</title>
+      <url>https://en.wikipedia.org/wiki/Axial_chirality</url>
+    </item>
+    <item>
+      <title>Wikipedia - Axiale Chiralität (de)</title>
+      <url>https://de.wikipedia.org/wiki/Axiale_Chiralität</url>
+    </item>
+    <item>
+      <title>Wikipedia - Axiális kiralitás (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Axiális_kiralitás</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chiralité axiale (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Chiralité_axiale</url>
+    </item>
+    <item>
+      <title>Wikipedia - Descriptor (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Descriptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deskriptor (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Deskriptor_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kiraalisuus (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Kiraalisuus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хиральность (химия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Хиральность_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - يدوية محورية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/يدوية_محورية</url>
+    </item>
+    <item>
+      <title>Wikipedia - 軸不斉 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/軸不斉</url>
+    </item>
+    <item>
+      <title>Wikipedia - 轴手性 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/轴手性</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00547/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00547/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00547/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00547/plain</plain>
+  </links>
+  <citation>Citation: 'axial chirality' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00547</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:04:16+00:00</accessed>
+</term>

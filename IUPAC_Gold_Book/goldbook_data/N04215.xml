@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04215</id>
+  <doi>10.1351/goldbook.N04215</doi>
+  <code>N04215</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - normal region (for electron transfer)</longtitle>
+  <title>normal region (for electron transfer)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Region for which the rate constants increase with increasing exergonicity of the reaction in plots relating rate constants for electron transfer, or quantities related to it, with the standard Gibbs energy for the reaction (ΔET.Go). This region is predicted by the Marcus theory for outer-sphere electron transfer for the case of -ΔETGo ≤ λ in the Marcus equation.</text>
+      <links>
+        <item>
+          <title>electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02011</url>
+        </item>
+        <item>
+          <title>outer-sphere electron transfer</title>
+          <url>https://goldbook.iupac.org/terms/view/O04351</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ΔET.Go</alttext>
+          <latex>\Delta _{\text{ET}}G^{\text{o}}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>-ΔETGo ≤ λ</alttext>
+          <latex>-\Delta_{\rm{ET}} G^{\circ} \leq \lambda </latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 375 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04215/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04215/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04215/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04215/plain</plain>
+  </links>
+  <citation>Citation: 'normal region (for electron transfer)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04215</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:59:56+00:00</accessed>
+</term>

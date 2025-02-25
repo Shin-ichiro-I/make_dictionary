@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01033</id>
+  <doi>10.1351/goldbook.C01033</doi>
+  <code>C01033</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical reaction</longtitle>
+  <title>chemical reaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A process that results in the interconversion of chemical species. Chemical reactions may be elementary reactions or stepwise reactions (It should be noted that this definition includes experimentally observable interconversions of conformers.) Detectable chemical reactions normally involve sets of molecular entities as indicated by this definition, but it is often conceptually convenient to use the term also for changes involving single molecular entities (i.e. 'microscopic chemical events').</text>
+      <links>
+        <item>
+          <title>identity reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/I02940</url>
+        </item>
+        <item>
+          <title>identity reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/I02940</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>elementary reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>stepwise reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/S05970</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1096 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Ceimic (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Ceimic</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemical reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemische Reaktion (de)</title>
+      <url>https://de.wikipedia.org/wiki/Chemische_Reaktion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemistry (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemistry</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chimie (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Chimie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Chemische Reaktion (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Chemische_Reaktion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Efnafræði (is)</title>
+      <url>https://is.wikipedia.org/wiki/Efnafræði</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: A–L (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_A–L</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemija (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Hemija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemija (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Hemija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hóa học (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Hóa_học</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemi (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Kemi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemiala reakto (io)</title>
+      <url>https://io.wikipedia.org/wiki/Kemiala_reakto</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemiallinen reaktio (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Kemiallinen_reaktio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemija (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemio (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Kemio</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kimia (id)</title>
+      <url>https://id.wikipedia.org/wiki/Kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kimyoviy reaksiya (uz)</title>
+      <url>https://uz.wikipedia.org/wiki/Kimyoviy_reaksiya</url>
+    </item>
+    <item>
+      <title>Wikipedia - Química (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Química (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reactio chemica (la)</title>
+      <url>https://la.wikipedia.org/wiki/Reactio_chemica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reacție chimică (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Reacție_chimică</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reakcja chemiczna (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Reakcja_chemiczna</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaksi kimia (id)</title>
+      <url>https://id.wikipedia.org/wiki/Reaksi_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaksyon na kimikal (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Reaksyon_na_kimikal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaksyong kimikal (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Reaksyong_kimikal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reazione chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Reazione_chimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sudhanshu Pandey (en)</title>
+      <url>https://en.wikipedia.org/wiki/Sudhanshu_Pandey</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tindak balas kimia (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Tindak_balas_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trợ giúp:Chỗ thử (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Trợ_giúp:Chỗ_thử</url>
+    </item>
+    <item>
+      <title>Wikipedia - Umchazatho (zu)</title>
+      <url>https://zu.wikipedia.org/wiki/Umchazatho</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хемиска реакција (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Хемиска_реакција</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хемијска реакција (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Хемијска_реакција</url>
+    </item>
+    <item>
+      <title>Wikipedia - Քիմիա (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Քիմիա</url>
+    </item>
+    <item>
+      <title>Wikipedia - Քիմիական ռեակցիաներ (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Քիմիական_ռեակցիաներ</url>
+    </item>
+    <item>
+      <title>Wikipedia - تفاعل كيميائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تفاعل_كيميائي</url>
+    </item>
+    <item>
+      <title>Wikipedia - রাসায়নিক বিক্রিয়া (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/রাসায়নিক_বিক্রিয়া</url>
+    </item>
+    <item>
+      <title>Wikipedia - ਰਸਾਇਣਕ ਕਿਰਿਆ (pa)</title>
+      <url>https://pa.wikipedia.org/wiki/ਰਸਾਇਣਕ_ਕਿਰਿਆ</url>
+    </item>
+    <item>
+      <title>Wikipedia - வேதி வினை (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/வேதி_வினை</url>
+    </item>
+    <item>
+      <title>Wikipedia - രാസപ്രവർത്തനം (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/രാസപ്രവർത്തനം</url>
+    </item>
+    <item>
+      <title>Wikipedia - ဓာတုဓာတ်ပြုမှု (my)</title>
+      <url>https://my.wikipedia.org/wiki/ဓာတုဓာတ်ပြုမှု</url>
+    </item>
+    <item>
+      <title>Wikipedia - 化学反応 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/化学反応</url>
+    </item>
+    <item>
+      <title>Wikipedia - 化學反應器 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/化學反應器</url>
+    </item>
+    <item>
+      <title>Wikipedia - 화학 반응 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/화학_반응</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01033/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01033/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01033/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01033/plain</plain>
+  </links>
+  <citation>Citation: 'chemical reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01033</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:30:31+00:00</accessed>
+</term>

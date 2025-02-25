@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04748</id>
+  <doi>10.1351/goldbook.P04748</doi>
+  <code>P04748</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymorphic transition</longtitle>
+  <title>polymorphic transition</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A reversible transition of a solid crystalline phase at a certain temperature and pressure (the inversion point) to another phase of the same chemical composition with a different crystal structure. Examples:   The transitions of SiO2 (quartz-type) at 1143 K to SiO2 (tridymite-type), and at 1743 K to SiO2 (cristobalite-type).   The transition of β-AgI (wurtzite-type structure) to α-AgI (body-centred-cubic structure) at 418 K. Synonymous with enantiotropic transition.  </text>
+      <notes>
+        <item>In a liquid-crystal transition, this term refers to phase changes in the smectic state (in phase transitions) or columnar discotic state.</item>
+      </notes>
+      <links>
+        <item>
+          <title>reversible transition</title>
+          <url>https://goldbook.iupac.org/terms/view/R05379</url>
+        </item>
+        <item>
+          <title>inversion point (in phase transitions)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03149</url>
+        </item>
+        <item>
+          <title>smectic state (in phase transitions)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05714</url>
+        </item>
+        <item>
+          <title>reversible transition</title>
+          <url>https://goldbook.iupac.org/terms/view/R05379</url>
+        </item>
+        <item>
+          <title>inversion point (in phase transitions)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03149</url>
+        </item>
+        <item>
+          <title>smectic state (in phase transitions)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05714</url>
+        </item>
+        <item>
+          <title>enantiotropic transition (in phase transitions)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02084</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>1143 K</alttext>
+          <latex>1143\ \text{K}</latex>
+        </item>
+        <item>
+          <alttext>1743 K</alttext>
+          <latex>1743\ \text{K}</latex>
+        </item>
+        <item>
+          <alttext>418 K</alttext>
+          <latex>418\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 588 (https://doi.org/10.1351/pac199466030577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Crystal polymorphism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Crystal_polymorphism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Polymorphism (materials science) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Polymorphism_(materials_science)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Selen (de)</title>
+      <url>https://de.wikipedia.org/wiki/Selen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Substância (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Substância</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04748/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04748/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04748/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04748/plain</plain>
+  </links>
+  <citation>Citation: 'polymorphic transition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04748</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:28:39+00:00</accessed>
+</term>

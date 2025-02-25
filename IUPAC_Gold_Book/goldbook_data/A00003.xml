@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00003</id>
+  <doi>10.1351/goldbook.A00003</doi>
+  <code>A00003</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - α (alpha), β (beta)</longtitle>
+  <title>α (alpha), β (beta)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <intro>@S05976@, used in a number of different ways.</intro>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Relative stereodescriptors used in carbohydrate nomenclature to describe the configuration at the anomeric carbon by relating it to the anomeric reference atom. For simple cases the anomeric reference atom is the same as the configurational reference atom. Thus in α-d-glucopyranose the reference atom is C-5 and the OH at C-1 is on the same side as the OH at C-5 in the Fischer projection. [image: β-D-glucose and β-L-rhamnose]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>β-D-glucose and β-L-rhamnose</title>
+          <file>https://goldbook.iupac.org/img/inline/A00003-1.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>Stereodescriptors</title>
+          <url>https://goldbook.iupac.org/terms/view/S05976</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>Relative stereodescriptors used by Chemical Abstracts Service to describe the configuration of a cyclic molecule (including suitable polycyclic systems) with several stereogenic centres whereby the α side of the reference plane is the side on which the substituent with CIP priority lies at the lowest numbered stereogenic centre. The other side is β. [image: tricyclo[3.2.1.0^2,4]octan-2-ol, 5-chloro, (1α,2α,4α,5β)-]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>tricyclo[3.2.1.0^2,4]octan-2-ol, 5-chloro, (1α,2α,4α,5β)-</title>
+          <file>https://goldbook.iupac.org/img/inline/A00003-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>CIP priority</title>
+          <url>https://goldbook.iupac.org/terms/view/C01082</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>Absolute stereodescriptors originally devised for steroid nomenclature. However in this sense it is only meaningful if there is an agreed absolute configuration and orientation of the structure so as to define the plane and which way up the molecule is represented. Substituents above the plane of the steroid are described as β and are shown as a solid line ([image: Solid wedge bond] or [image: Solid straight bond]); those below the plane are described as α and are shown by a broken line ( [image: Dotted wedge bond] or [image: Dotted straight bond]). The extension of this system to tetrapyrroles has been documented and it has been widely used elsewhere. [image: 5α-androstan-3β-ol] </text>
+      <chemicals>
+        <item>
+          <type>bond</type>
+          <title>Solid wedge bond</title>
+          <file>https://goldbook.iupac.org/img/inline/A00003-3.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>5α-androstan-3β-ol</title>
+          <file>https://goldbook.iupac.org/img/inline/A00003-6.png</file>
+        </item>
+        <item>
+          <type>bond</type>
+          <title>Solid straight bond</title>
+          <file>https://goldbook.iupac.org/img/inline/A00003-4.png</file>
+        </item>
+        <item>
+          <type>bond</type>
+          <title>Dotted wedge bond</title>
+          <file>https://goldbook.iupac.org/img/inline/A00003-5.png</file>
+        </item>
+        <item>
+          <type>bond</type>
+          <title>Dotted straight bond</title>
+          <file>https://goldbook.iupac.org/img/inline/A00003-7.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>absolute configuration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00020</url>
+        </item>
+        <item>
+          <title>tetrapyrroles</title>
+          <url>https://goldbook.iupac.org/terms/view/T06291</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' Moss, G.P.; Pure and Applied Chemistry 1996 68(12) 2193</sources>
+  <seealso>'Nomenclature of steroids (Recommendations 1989)' Moss, Gerry P.; Pure and Applied Chemistry 1989 61(10) 1783</seealso>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Anaboliset steroidit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Anaboliset_steroidit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Anomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anomer (hr)</title>
+      <url>https://hr.wikipedia.org/wiki/Anomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anomer (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Anomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anomer (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Anomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anomer (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Anomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anomeria (it)</title>
+      <url>https://it.wikipedia.org/wiki/Anomeria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anomér (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Anomér</url>
+    </item>
+    <item>
+      <title>Wikipedia - Anómero (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Anómero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Conversa:Anómero (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Conversa:Anómero</url>
+    </item>
+    <item>
+      <title>Wikipedia - Descriptor (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Descriptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deskriptor (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Deskriptor_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussione:Anomeria (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Anomeria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Glycosidische Bindung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Glycosidische_Bindung</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Alpha and beta carbon (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Alpha_and_beta_carbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - 아노머 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/아노머</url>
+    </item>
+    <item>
+      <title>Wikipedia - 토론:아노머 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/토론:아노머</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00003/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00003/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00003/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00003/plain</plain>
+  </links>
+  <citation>Citation: 'α (alpha), β (beta)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00003</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:05:27+00:00</accessed>
+</term>

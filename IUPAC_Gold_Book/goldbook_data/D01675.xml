@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01675</id>
+  <doi>10.1351/goldbook.D01675</doi>
+  <code>D01675</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - diastereoisomer (diastereoisomeric) excess</longtitle>
+  <title>diastereoisomer excess</title>
+  <contains>percent diastereoisomer excess</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This is defined by analogy with enantiomer excess, as D1 - D2 [and the percent diastereoisomer excess as 100(D1- D2)], where the mole fractions of two diastereoisomers in a mixture or the fractional yields of two diastereoisomers formed in a reaction are D1 and D2 ( D1 + D2 = 1) The term is not applicable if more than two diastereoisomers are present. Frequently this term is abbreviated to d.e.</text>
+      <links>
+        <item>
+          <title>enantiomer excess</title>
+          <url>https://goldbook.iupac.org/terms/view/E02070</url>
+        </item>
+        <item>
+          <title>enantiomer excess</title>
+          <url>https://goldbook.iupac.org/terms/view/E02070</url>
+        </item>
+        <item>
+          <title>mole</title>
+          <url>https://goldbook.iupac.org/terms/view/M03980</url>
+        </item>
+        <item>
+          <title>diastereoisomers</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>enantiomer excess</title>
+          <url>https://goldbook.iupac.org/terms/view/E02070</url>
+        </item>
+        <item>
+          <title>mole</title>
+          <url>https://goldbook.iupac.org/terms/view/M03980</url>
+        </item>
+        <item>
+          <title>diastereoisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/D01679</url>
+        </item>
+        <item>
+          <title>stereoselectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05991</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>D1 - D2</alttext>
+          <latex>D_{1}- D_{2}</latex>
+        </item>
+        <item>
+          <alttext>100(D1- D2)</alttext>
+          <latex>100\ (D_{1}-D_{2})</latex>
+        </item>
+        <item>
+          <alttext>D1</alttext>
+          <latex>D_{1}</latex>
+        </item>
+        <item>
+          <alttext>D2</alttext>
+          <latex>D_{2}</latex>
+        </item>
+        <item>
+          <alttext>D1 + D2 = 1</alttext>
+          <latex>D_{1}+D_{2}=1</latex>
+        </item>
+        <item>
+          <alttext>d.e.</alttext>
+          <latex>\text{d.e.}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2205 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - 非对映体过量 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/非对映体过量</url>
+    </item>
+    <item>
+      <title>Wikipedia - 非對映體過剩率 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/非對映體過剩率</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01675/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01675/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01675/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01675/plain</plain>
+  </links>
+  <citation>Citation: 'diastereoisomer excess' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01675</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:59:08+00:00</accessed>
+</term>

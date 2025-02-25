@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04624</id>
+  <doi>10.1351/goldbook.P04624</doi>
+  <code>P04624</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - photolysis</longtitle>
+  <title>photolysis</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The cleavage of one or more covalent bonds in a molecular entity resulting from absorption of light, or a photochemical process in which such cleavage is an essential part. For example: [image: Not defined] The term is used incorrectly to describe irradiation of a sample, although in the combination flash photolysis this usage is accepted.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/P04624.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>covalent bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>covalent bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>irradiation</title>
+          <url>https://goldbook.iupac.org/terms/view/I03255</url>
+        </item>
+        <item>
+          <title>flash photolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/F02418</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2206 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1150 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Fotolisi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Fotolisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotoliza (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Fotoliza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotolýza (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Fotolýza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fotolýza (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Fotolýza</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04624/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04624/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04624/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04624/plain</plain>
+  </links>
+  <citation>Citation: 'photolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04624</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:21:31+00:00</accessed>
+</term>

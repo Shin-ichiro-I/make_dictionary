@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02507</id>
+  <doi>10.1351/goldbook.F02507</doi>
+  <code>F02507</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fragmentation reaction in mass spectrometry</longtitle>
+  <title>fragmentation reaction</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A fragmentation reaction may be written: M1+ → M2+ + M3 into an ion of mass-to-charge ratio m 2 z 2 after electric acceleration of the metastable ion and before magnetic deflection gives rise to a peak in the mass spectrum at an apparent mass, m 2 2 z 1 m 1 z 2 2. The symbol m * should be used to indicate the apparent mass of the product ions giving rise to this peak. Traditionally, the peak itself has been called a metastable peak and this should preferably be expressed as metastable ion peak. It is nevertheless recommended that the former term should be retained. The word metastable should never be used as a noun. Its use as an adjective should be limited to such terms as metastable ion, where it is used correctly, and to the special case of metastable peak discussed above. It should never be used in such terms as metastable reaction, metastabledecomposition, metastable studies, etc. It should be clear that the metastable ion is the ion that undergoes fragmentation; it is not detected. When a reaction is written with an asterisk above the arrow as shown: M1+ (*)→ M2+ + M3,43 → 28, calcd. 18.2, obsd. 18.3) meaning 'for the fragmentationm/z 43 → m/z 28 a metastable peak at m/z 18.3 (calculated 18.2) has been observed'.</text>
+      <contexts>
+        <in>
+          <item>mass spectrometry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>fragmentation</title>
+          <url>https://goldbook.iupac.org/terms/view/F02506</url>
+        </item>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+        <item>
+          <title>metastable</title>
+          <url>https://goldbook.iupac.org/terms/view/M03872</url>
+        </item>
+        <item>
+          <title>acceleration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+        <item>
+          <title>mass spectrum</title>
+          <url>https://goldbook.iupac.org/terms/view/M03749</url>
+        </item>
+        <item>
+          <title>fragmentation</title>
+          <url>https://goldbook.iupac.org/terms/view/F02506</url>
+        </item>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+        <item>
+          <title>metastable</title>
+          <url>https://goldbook.iupac.org/terms/view/M03872</url>
+        </item>
+        <item>
+          <title>acceleration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00051</url>
+        </item>
+        <item>
+          <title>mass spectrum</title>
+          <url>https://goldbook.iupac.org/terms/view/M03749</url>
+        </item>
+        <item>
+          <title>metastable ion (in mass spectrometry)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03874</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Fragmentation reaction</meaning>
+          <type>reaction</type>
+          <alttext>M1+ → M2+ + M3</alttext>
+          <latex>\text{M}_{1}^{+}\rightarrow \text{M}_{2}^{+}+\text{M}_{3}</latex>
+        </item>
+        <item>
+          <alttext>m 1 z 1</alttext>
+          <latex>\frac{m_{1}}{z_{1}}</latex>
+        </item>
+        <item>
+          <alttext>m 2 z 2</alttext>
+          <latex>\frac{m_{2}}{z_{2}}</latex>
+        </item>
+        <item>
+          <alttext>m 2 2 z 1 m 1 z 2 2</alttext>
+          <latex>\frac{m_{2}^{2}\ z_{1}}{m_{1}\ z_{2}^{2}}</latex>
+        </item>
+        <item>
+          <alttext>m *</alttext>
+          <latex>m^{*}</latex>
+        </item>
+        <item>
+          <meaning>Fragmentation reaction</meaning>
+          <type>reaction</type>
+          <alttext>M1+ (*)→ M2+ + M3</alttext>
+          <latex>\text{M}_{1}^{+}\overset{\text{*}}{\rightarrow }\text{M}_{2}^{+}+\text{M}_{3}</latex>
+        </item>
+        <item>
+          <alttext>m *</alttext>
+          <latex>m^{*}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>43 → 28</alttext>
+          <latex>43\rightarrow 28</latex>
+        </item>
+        <item>
+          <type>reaction</type>
+          <alttext>m/z 43 → m/z 28</alttext>
+          <latex>\frac{m}{z}\ 43\rightarrow \frac{m}{z}\ 28</latex>
+        </item>
+        <item>
+          <alttext>m/z</alttext>
+          <latex>\frac{m}{z}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1557 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02507/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02507/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02507/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02507/plain</plain>
+  </links>
+  <citation>Citation: 'fragmentation reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02507</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:36:20+00:00</accessed>
+</term>

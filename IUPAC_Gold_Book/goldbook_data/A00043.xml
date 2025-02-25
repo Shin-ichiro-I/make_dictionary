@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00043</id>
+  <doi>10.1351/goldbook.A00043</doi>
+  <code>A00043</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - absorption spectrum</longtitle>
+  <title>absorption spectrum</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The wavelength dependence of the absorption cross-section (or absorption coefficient); usually represented as a plot of absorption cross-section versus wavelengthλ (or 1/λ) of the light.</text>
+      <links>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>absorption cross-section</title>
+          <url>https://goldbook.iupac.org/terms/view/A00038</url>
+        </item>
+        <item>
+          <title>absorption coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/A00037</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Wavelength</meaning>
+          <type>quantity</type>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+        <item>
+          <meaning>Reciprocal wavelength</meaning>
+          <type>math</type>
+          <alttext>1/λ</alttext>
+          <latex>\frac{1}{\lambda}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2169 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00043/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00043/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00043/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00043/plain</plain>
+  </links>
+  <citation>Citation: 'absorption spectrum' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00043</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:38:59+00:00</accessed>
+</term>

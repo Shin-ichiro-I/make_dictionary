@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03135</id>
+  <doi>10.1351/goldbook.I03135</doi>
+  <code>I03135</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - intrinsic barrier</longtitle>
+  <title>intrinsic barrier</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The Gibbs energy of activation(Δ‡G) in the limiting case where ΔG° = 0, i.e. when the effect of thermodynamic driving force is eliminated. According to the Marcus equation, the intrinsic barrier is related to the reorganization energy, λ, of the reaction by the equation: </text>
+      <links>
+        <item>
+          <title>energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02108</url>
+        </item>
+        <item>
+          <title>energy of activation</title>
+          <url>https://goldbook.iupac.org/terms/view/E02108</url>
+        </item>
+        <item>
+          <title>Marcus equation</title>
+          <url>https://goldbook.iupac.org/terms/view/M03702</url>
+        </item>
+        <item>
+          <title>reorganization energy (in electron transfer)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05292</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Δ‡G</alttext>
+          <latex>\Delta ^{\ddagger}G</latex>
+        </item>
+        <item>
+          <alttext>ΔG° = 0</alttext>
+          <latex>\Delta G^{\,\unicode{x26ac}} = 0</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda </latex>
+        </item>
+        <item>
+          <alttext>Δ‡G = λ/4</alttext>
+          <latex>\Delta ^{\ddagger}G = \frac{\lambda }{4}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1126 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03135/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03135/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03135/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03135/plain</plain>
+  </links>
+  <citation>Citation: 'intrinsic barrier' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03135</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:07:46+00:00</accessed>
+</term>

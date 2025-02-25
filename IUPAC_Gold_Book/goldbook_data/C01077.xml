@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01077</id>
+  <doi>10.1351/goldbook.C01077</doi>
+  <code>C01077</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chromosome</longtitle>
+  <title>chromosome</title>
+  <abbrevs>
+    <item>DNA</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A self-replicating structure consisting of DNA complexed with various proteins and involved in the storage and transmission of genetic information; the physical structure that contains genes (cf. plasmid). Eukaryotic cells have a characteristic number of chromosomes per cell (cf. ploidy) and contain DNA as linear duplexes. The chromosomes of bacteria consist of double-standed, circular DNA molecules.</text>
+      <links>
+        <item>
+          <title>DNA</title>
+          <url>https://goldbook.iupac.org/terms/view/D01597</url>
+        </item>
+        <item>
+          <title>genes</title>
+          <url>https://goldbook.iupac.org/terms/view/G02604</url>
+        </item>
+        <item>
+          <title>plasmid</title>
+          <url>https://goldbook.iupac.org/terms/view/P04689</url>
+        </item>
+        <item>
+          <title>ploidy</title>
+          <url>https://goldbook.iupac.org/terms/view/P04696</url>
+        </item>
+        <item>
+          <title>DNA</title>
+          <url>https://goldbook.iupac.org/terms/view/D01597</url>
+        </item>
+        <item>
+          <title>genes</title>
+          <url>https://goldbook.iupac.org/terms/view/G02604</url>
+        </item>
+        <item>
+          <title>plasmid</title>
+          <url>https://goldbook.iupac.org/terms/view/P04689</url>
+        </item>
+        <item>
+          <title>ploidy</title>
+          <url>https://goldbook.iupac.org/terms/view/P04696</url>
+        </item>
+        <item>
+          <title>proteins</title>
+          <url>https://goldbook.iupac.org/terms/view/P04898</url>
+        </item>
+        <item>
+          <title>transmission</title>
+          <url>https://goldbook.iupac.org/terms/view/T06477</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 150 (https://doi.org/10.1351/pac199264010143)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01077/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01077/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01077/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01077/plain</plain>
+  </links>
+  <citation>Citation: 'chromosome' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01077</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:33:08+00:00</accessed>
+</term>

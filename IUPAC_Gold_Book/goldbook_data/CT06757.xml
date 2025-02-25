@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06757</id>
+  <doi>10.1351/goldbook.CT06757</doi>
+  <code>CT06757</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical diffusion</longtitle>
+  <title>chemical diffusion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Diffusion under the influence of a gradient in chemical composition. In concentrated solid solutions, e.g. A1-xBx, or in diffusion couples, the motion of one constituent causes a counterflow of the other constituents(s) or vacancies. In this case one can define a diffusion coefficient for the intermixing, which is called the chemical diffusion coefficient or interdiffusion coefficient.</text>
+      <links>
+        <item>
+          <title>diffusion</title>
+          <url>https://goldbook.iupac.org/terms/view/D01716</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>diffusion</title>
+          <url>https://goldbook.iupac.org/terms/view/D01716</url>
+        </item>
+        <item>
+          <title>gradient</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>diffusion coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/D01719</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1307. 'Definitions of Terms for Diffusion in the Solid State' on page 1310 (https://doi.org/10.1351/pac199971071307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT06757/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT06757/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT06757/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT06757/plain</plain>
+  </links>
+  <citation>Citation: 'chemical diffusion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT06757</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:29:31+00:00</accessed>
+</term>

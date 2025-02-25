@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01120</id>
+  <doi>10.1351/goldbook.C01120</doi>
+  <code>C01120</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - coalification</longtitle>
+  <title>coalification</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A geological process of formation of materials with increasing content of the element carbon from organic materials that occurs in a first, biological stage into peats, followed by a gradual transformation into coal by action of moderate temperature (about 500 K) and high pressure in a geochemical stage.</text>
+      <notes>
+        <item>Coalification is a dehydrogenation process with a reaction rate slower by many orders of magnitude than that of carbonization. Some specific reactions approach completion before others have started. The dehydrogenation remains incomplete. The degree of coalification reached by an organic material in the process of coalification increases progressively and can be defined by means of the measured C/H ratio and of the residual contents of oxygen, sulfur and nitrogen.</item>
+      </notes>
+      <links>
+        <item>
+          <title>carbonization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00840</url>
+        </item>
+        <item>
+          <title>carbonization</title>
+          <url>https://goldbook.iupac.org/terms/view/C00840</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>500 K</alttext>
+          <latex>500\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 485 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussion Projet:Chimie (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion_Projet:Chimie</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01120/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01120/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01120/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01120/plain</plain>
+  </links>
+  <citation>Citation: 'coalification' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01120</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:35:21+00:00</accessed>
+</term>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05740</id>
+  <doi>10.1351/goldbook.S05740</doi>
+  <code>S05740</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - solubility</longtitle>
+  <title>solubility</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The analytical composition of a saturated solution, expressed in terms of the proportion of a designated solute in a designated solvent, is the solubility of that solute. The solubility may be expressed as a concentration, molality, mole fraction, mole ratio, etc.</text>
+      <links>
+        <item>
+          <title>saturated solution</title>
+          <url>https://goldbook.iupac.org/terms/view/S05471</url>
+        </item>
+        <item>
+          <title>mole fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/A00296</url>
+        </item>
+        <item>
+          <title>mole</title>
+          <url>https://goldbook.iupac.org/terms/view/M03980</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 84 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2214 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Lahustuvus (et)</title>
+      <url>https://et.wikipedia.org/wiki/Lahustuvus</url>
+    </item>
+    <item>
+      <title>Wikipedia - Löslichkeit (de)</title>
+      <url>https://de.wikipedia.org/wiki/Löslichkeit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rozpuszczalność (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Rozpuszczalność</url>
+    </item>
+    <item>
+      <title>Wikipedia - Solubilidad (es)</title>
+      <url>https://es.wikipedia.org/wiki/Solubilidad</url>
+    </item>
+    <item>
+      <title>Wikipedia - Solubilidad (tl)</title>
+      <url>https://tl.wikipedia.org/wiki/Solubilidad</url>
+    </item>
+    <item>
+      <title>Wikipedia - Solubilitat (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Solubilitat</url>
+    </item>
+    <item>
+      <title>Wikipedia - Solubility (en)</title>
+      <url>https://en.wikipedia.org/wiki/Solubility</url>
+    </item>
+    <item>
+      <title>Wikipedia - Topljivost (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Topljivost</url>
+    </item>
+    <item>
+      <title>Wikipedia - Растворљивост (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Растворљивост</url>
+    </item>
+    <item>
+      <title>Wikipedia - انحلالية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/انحلالية</url>
+    </item>
+    <item>
+      <title>Wikipedia - দ্রাব্যতা (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/দ্রাব্যতা</url>
+    </item>
+    <item>
+      <title>Wikipedia - கரைதிறன் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/கரைதிறன்</url>
+    </item>
+    <item>
+      <title>Wikipedia - การละลาย (th)</title>
+      <url>https://th.wikipedia.org/wiki/การละลาย</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05740/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05740/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05740/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05740/plain</plain>
+  </links>
+  <citation>Citation: 'solubility' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05740</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:13:47+00:00</accessed>
+</term>

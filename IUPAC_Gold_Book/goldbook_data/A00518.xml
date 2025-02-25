@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00518</id>
+  <doi>10.1351/goldbook.A00518</doi>
+  <code>A00518</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - attractive–mixed–repulsive (AMR) classification</longtitle>
+  <title>attractive–mixed–repulsive classification</title>
+  <abbrevs>
+    <item>AMR</item>
+  </abbrevs>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A classification of potential-energy surfaces in which a highly attractive surface is at one extreme and a highly repulsive surface is at the other. The energy release in intermediate cases is referred to as mixed.</text>
+      <links>
+        <item>
+          <title>potential-energy surfaces</title>
+          <url>https://goldbook.iupac.org/terms/view/P04780</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 153 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00518/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00518/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00518/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00518/plain</plain>
+  </links>
+  <citation>Citation: 'attractive–mixed–repulsive classification' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00518</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:02:44+00:00</accessed>
+</term>

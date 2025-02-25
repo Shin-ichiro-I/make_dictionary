@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01514</id>
+  <doi>10.1351/goldbook.D01514</doi>
+  <code>D01514</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - dalton</longtitle>
+  <title>dalton</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-SI unit of mass (symbol Da), equal to the unified atomic mass unit (atomic mass constant). It is often used in biochemistry and molecular biology although it was never approved by the Conférence Général des Poids et Mesures.</text>
+      <links>
+        <item>
+          <title>unified atomic mass unit</title>
+          <url>https://goldbook.iupac.org/terms/view/U06554</url>
+        </item>
+        <item>
+          <title>unified atomic mass unit</title>
+          <url>https://goldbook.iupac.org/terms/view/U06554</url>
+        </item>
+        <item>
+          <title>atomic mass constant</title>
+          <url>https://goldbook.iupac.org/terms/view/A00497</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Da</alttext>
+          <latex>\mathrm{Da}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 111 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 968 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atomimassayksikkö (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Atomimassayksikkö</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atommasseenhed (da)</title>
+      <url>https://da.wikipedia.org/wiki/Atommasseenhed</url>
+    </item>
+    <item>
+      <title>Wikipedia - Atomo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Atomo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dalton (satuan) (id)</title>
+      <url>https://id.wikipedia.org/wiki/Dalton_(satuan)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dalton (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Dalton_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Liste d'abréviations et de symboles en chimie (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Liste_d'abréviations_et_de_symboles_en_chimie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Massa atòmica (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Massa_atòmica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Dalton (unit) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Dalton_(unit)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Unified atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Unified_atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unidad de masa atómica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Unidad_de_masa_atómica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unified atomic mass unit (en)</title>
+      <url>https://en.wikipedia.org/wiki/Unified_atomic_mass_unit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unitat de massa atòmica (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Unitat_de_massa_atòmica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Дальтон, Джон (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Дальтон,_Джон</url>
+    </item>
+    <item>
+      <title>Wikipedia - وحدة كتل ذرية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/وحدة_كتل_ذرية</url>
+    </item>
+    <item>
+      <title>Wikipedia - 原子质量单位 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/原子质量单位</url>
+    </item>
+    <item>
+      <title>Wikipedia - 道尔顿 (单位) (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/道尔顿_(单位)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 원자 질량 단위 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/원자_질량_단위</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01514/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01514/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01514/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01514/plain</plain>
+  </links>
+  <citation>Citation: 'dalton' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01514</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:52:23+00:00</accessed>
+</term>

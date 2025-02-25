@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01776</id>
+  <doi>10.1351/goldbook.D01776</doi>
+  <code>D01776</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - disaccharides</longtitle>
+  <title>disaccharides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds in which two monosaccharides are joined by a glycosidic bond.</text>
+      <links>
+        <item>
+          <title>monosaccharides</title>
+          <url>https://goldbook.iupac.org/terms/view/M04021</url>
+        </item>
+        <item>
+          <title>monosaccharides</title>
+          <url>https://goldbook.iupac.org/terms/view/M04021</url>
+        </item>
+        <item>
+          <title>glycosides</title>
+          <url>https://goldbook.iupac.org/terms/view/G02661</url>
+        </item>
+        <item>
+          <title>saccharides</title>
+          <url>https://goldbook.iupac.org/terms/view/S05441</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1333 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Disaccaridi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Disaccaridi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disaccharide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Disaccharide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disackarid (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Disackarid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disaharid (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Disaharid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disaharid (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Disaharid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disaharid (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Disaharid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disakarida (id)</title>
+      <url>https://id.wikipedia.org/wiki/Disakarida</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disakkarid (da)</title>
+      <url>https://da.wikipedia.org/wiki/Disakkarid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Disaxarid (az)</title>
+      <url>https://az.wikipedia.org/wiki/Disaxarid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diszacharid (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Diszacharid</url>
+    </item>
+    <item>
+      <title>Wikipedia - Δισακχαρίτης (el)</title>
+      <url>https://el.wikipedia.org/wiki/Δισακχαρίτης</url>
+    </item>
+    <item>
+      <title>Wikipedia - سكر ثنائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/سكر_ثنائي</url>
+    </item>
+    <item>
+      <title>Wikipedia - டைசாக்ரைடுகள் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/டைசாக்ரைடுகள்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ඩයිසැකරයිඩ (si)</title>
+      <url>https://si.wikipedia.org/wiki/ඩයිසැකරයිඩ</url>
+    </item>
+    <item>
+      <title>Wikipedia - ไดแซ็กคาไรด์ (th)</title>
+      <url>https://th.wikipedia.org/wiki/ไดแซ็กคาไรด์</url>
+    </item>
+    <item>
+      <title>Wikipedia - 二糖 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/二糖</url>
+    </item>
+    <item>
+      <title>Wikipedia - 二糖 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/二糖</url>
+    </item>
+    <item>
+      <title>Wikipedia - 雙醣 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/雙醣</url>
+    </item>
+    <item>
+      <title>Wikipedia - 이당류 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/이당류</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01776/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01776/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01776/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01776/plain</plain>
+  </links>
+  <citation>Citation: 'disaccharides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01776</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:03:27+00:00</accessed>
+</term>

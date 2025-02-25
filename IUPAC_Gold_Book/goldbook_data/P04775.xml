@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04775</id>
+  <doi>10.1351/goldbook.P04775</doi>
+  <code>P04775</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - potential at the point of zero charge (p.z.c.)</longtitle>
+  <title>potential at the point of zero charge (p.z.c.)</title>
+  <abbrevs>
+    <item>p.z.c.</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The value of the electric potential of an electrode at which one of the charges defined is zero. The reference electrode against which this is measured should always be clearly stated. The potential difference with respect to the potential of zero charge is defined by  where the potential at the point of zero charge is that for the given electrode in the absence of specific adsorption (other than that of the solvent).</text>
+      <links>
+        <item>
+          <title>electric potential</title>
+          <url>https://goldbook.iupac.org/terms/view/E01935</url>
+        </item>
+        <item>
+          <title>specific adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/S05791</url>
+        </item>
+        <item>
+          <title>electric potential</title>
+          <url>https://goldbook.iupac.org/terms/view/E01935</url>
+        </item>
+        <item>
+          <title>specific adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/S05791</url>
+        </item>
+        <item>
+          <title>reference electrode</title>
+          <url>https://goldbook.iupac.org/terms/view/R05229</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>E pzc = E- E σ = 0</alttext>
+          <latex>E_{\text{pzc}}=E- E_{\sigma =0}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1974, 37, 499. 'Electrochemical nomenclature' on page 509 (https://doi.org/10.1351/pac197437040499)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Point of zero charge (en)</title>
+      <url>https://en.wikipedia.org/wiki/Point_of_zero_charge</url>
+    </item>
+    <item>
+      <title>Wikipedia - נקודת אפס (he)</title>
+      <url>https://he.wikipedia.org/wiki/נקודת_אפס</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04775/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04775/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04775/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04775/plain</plain>
+  </links>
+  <citation>Citation: 'potential at the point of zero charge (p.z.c.)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04775</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:29:45+00:00</accessed>
+</term>

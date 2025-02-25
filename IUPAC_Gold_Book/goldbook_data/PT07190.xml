@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07190</id>
+  <doi>10.1351/goldbook.PT07190</doi>
+  <code>PT07190</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymer sorbent</longtitle>
+  <title>polymer sorbent</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Polymer that adsorbs or absorbs a certain substance or certain substances from a liquid or a gas.</text>
+      <notes>
+        <item>A polymer sorbent may be a polymer adsorbent (in colloid chemistry) or a polymer absorbent. The former acts by surface sorption and the latter by bulk sorption.</item>
+      </notes>
+      <links>
+        <item>
+          <title>sorption (in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05769</url>
+        </item>
+        <item>
+          <title>adsorption (in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00155</url>
+        </item>
+        <item>
+          <title>absorption (in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00036</url>
+        </item>
+        <item>
+          <title>sorption (in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05769</url>
+        </item>
+        <item>
+          <title>adsorption (in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00155</url>
+        </item>
+        <item>
+          <title>absorption (in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00036</url>
+        </item>
+        <item>
+          <title>adsorbent (in colloid chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/A00153</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 902 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07190/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07190/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07190/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07190/plain</plain>
+  </links>
+  <citation>Citation: 'polymer sorbent' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07190</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:27:52+00:00</accessed>
+</term>

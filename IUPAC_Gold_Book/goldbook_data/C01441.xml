@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01441</id>
+  <doi>10.1351/goldbook.C01441</doi>
+  <code>C01441</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - cumulonimbus cloud in atmospheric chemistry</longtitle>
+  <title>cumulonimbus cloud</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Heavy masses of dense cloud whose cumuliform summits rise in the forms of towers, the upper parts having a fibrous texture and often spreading out into the shape of an anvil; these clouds generally produce showers of rain and sometimes of snow, hail or soft hail, and often develop into thunderstorms; up to 12000 m; summits may be as cold as -50°C; strong convective motions with vertical velocities of 3 to greater than 30 m s-1.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <math>
+        <item>
+          <alttext>12000 m</alttext>
+          <latex>12\ 000\ \text{m}</latex>
+        </item>
+        <item>
+          <type>numeric value with unit</type>
+          <alttext>-50°C</alttext>
+          <latex>\pu{-50 ^{\circ}C}</latex>
+        </item>
+        <item>
+          <alttext>3</alttext>
+          <latex>3</latex>
+        </item>
+        <item>
+          <alttext>30 m s-1</alttext>
+          <latex>30\ \text{m s}^{-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2180 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - مزن ركامي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مزن_ركامي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01441/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01441/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01441/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01441/plain</plain>
+  </links>
+  <citation>Citation: 'cumulonimbus cloud' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01441</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:49:56+00:00</accessed>
+</term>

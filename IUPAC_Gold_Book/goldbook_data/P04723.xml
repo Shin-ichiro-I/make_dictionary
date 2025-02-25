@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04723</id>
+  <doi>10.1351/goldbook.P04723</doi>
+  <code>P04723</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polycrystalline graphite</longtitle>
+  <title>polycrystalline graphite</title>
+  <abbrevs>
+    <item>HOPG</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A graphite material with coherent crystallographic domains of limited size regardless of the perfection and preferred orientation (texture) of their crystalline structure.</text>
+      <notes>
+        <item>The common use of the term polycrystalline graphite for polygranular graphite is in line with this definition but may be inexact because usually all grains of polygranular graphite are polycrystalline themselves. Polycrystalline graphite can exhibit a random orientation, more or less preferred orientation, or a highly oriented texture as in some pyrolytic graphites There is no sharp transition, however, between the typical polycrystalline texture and the 'single crystal-like' texture of highly oriented pyrolytic graphite (HOPG).</item>
+      </notes>
+      <links>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>polygranular graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/P04731</url>
+        </item>
+        <item>
+          <title>graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+        <item>
+          <title>polygranular graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/P04731</url>
+        </item>
+        <item>
+          <title>pyrolytic graphites</title>
+          <url>https://goldbook.iupac.org/terms/view/P04964</url>
+        </item>
+        <item>
+          <title>highly oriented pyrolytic graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/H02823</url>
+        </item>
+        <item>
+          <title>graphite material</title>
+          <url>https://goldbook.iupac.org/terms/view/G02687</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 500 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04723/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04723/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04723/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04723/plain</plain>
+  </links>
+  <citation>Citation: 'polycrystalline graphite' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04723</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:26:01+00:00</accessed>
+</term>

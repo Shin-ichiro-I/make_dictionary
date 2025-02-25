@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03564</id>
+  <doi>10.1351/goldbook.L03564</doi>
+  <code>L03564</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - line repetition groups</longtitle>
+  <title>line repetition groups</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The possible symmetries of arrays extending in one direction with a fixed repeating distance. Linear polymer chains in the crystalline state must belong to one of the line repetition groups. Permitted symmetry elements are: the identity operation (symbol l); the translation along the chain axis (symbol t); the mirror plane orthogonal to the chain axis (symbol m) and that containing the chain axis (symbol d); the glide plane containing the chain axis (symbol c); the inversion centre, placed on the chain axis (symbol i); the two-fold axis orthogonal to the chain axis (symbol 2); the helical, or screw, symmetry where the axis of the helix coincides with the chain axis. In the latter case, the symbol is s A * M / N, where s stands for the screw axis, A is the class of the helix, * and / are separators, and M is the integral number of residues contained in N turns, corresponding to the identity period (M and N must be prime to each other). The class index A may be dropped if deemed unnecessary, so that the helix may also be simply denoted as s M / N.</text>
+      <links>
+        <item>
+          <title>repeating distance (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/I00954</url>
+        </item>
+        <item>
+          <title>linear polymer (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03556</url>
+        </item>
+        <item>
+          <title>inversion (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03146</url>
+        </item>
+        <item>
+          <title>helix (of a polymer)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02769</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>m</alttext>
+          <latex>m</latex>
+        </item>
+        <item>
+          <alttext>d</alttext>
+          <latex>d</latex>
+        </item>
+        <item>
+          <alttext>c</alttext>
+          <latex>c</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>s A * M / N</alttext>
+          <latex>\text{s}\left(A*M/N\right)</latex>
+        </item>
+        <item>
+          <alttext>s</alttext>
+          <latex>\text{s}</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>M</alttext>
+          <latex>M</latex>
+        </item>
+        <item>
+          <alttext>N</alttext>
+          <latex>N</latex>
+        </item>
+        <item>
+          <alttext>M</alttext>
+          <latex>M</latex>
+        </item>
+        <item>
+          <alttext>N</alttext>
+          <latex>N</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>A</latex>
+        </item>
+        <item>
+          <alttext>s M / N</alttext>
+          <latex>\text{s}\left(M/N\right)</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Purple Book, 1st ed., p. 79 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03564/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03564/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03564/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03564/plain</plain>
+  </links>
+  <citation>Citation: 'line repetition groups' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03564</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:24:38+00:00</accessed>
+</term>

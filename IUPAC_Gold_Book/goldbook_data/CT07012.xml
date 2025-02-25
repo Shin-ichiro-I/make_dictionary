@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07012</id>
+  <doi>10.1351/goldbook.CT07012</doi>
+  <code>CT07012</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - conservation of orbital symmetry</longtitle>
+  <title>conservation of orbital symmetry</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The orbital symmetry control of concerted reactions; this requires transformation of the molecular orbitals of reactants into those of products to proceed continuously by following a reaction path along which the symmetry of these orbitals remains unchanged. Reactions which adhere to this requirement are classified as symmetry-allowed reactions, and those which do not as symmetry-forbidden reactions.</text>
+      <links>
+        <item>
+          <title>orbital symmetry</title>
+          <url>https://goldbook.iupac.org/terms/view/O04320</url>
+        </item>
+        <item>
+          <title>transformation</title>
+          <url>https://goldbook.iupac.org/terms/view/T06446</url>
+        </item>
+        <item>
+          <title>reaction path</title>
+          <url>https://goldbook.iupac.org/terms/view/R05174</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1931 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT07012/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT07012/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT07012/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT07012/plain</plain>
+  </links>
+  <citation>Citation: 'conservation of orbital symmetry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT07012</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:43:11+00:00</accessed>
+</term>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04009</id>
+  <doi>10.1351/goldbook.M04009</doi>
+  <code>M04009</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - monochromator</longtitle>
+  <title>monochromator</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Optical device that transmits a mechanically selectable narrow band of wavelengths of electromagnetic radiation chosen from a wider range of wavelengths available at the input.</text>
+      <notes>
+        <item>To spatially separate the wavelengths, a monochromator can use either the phenomenon of optical dispersion in a prism, or that of diffraction using a grating.</item>
+      </notes>
+      <links>
+        <item>
+          <title>diffraction</title>
+          <url>https://goldbook.iupac.org/terms/view/D01711</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 372 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Monocromatore (it)</title>
+      <url>https://it.wikipedia.org/wiki/Monocromatore</url>
+    </item>
+    <item>
+      <title>Wikipedia - مستوحد اللون (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مستوحد_اللون</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M04009/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M04009/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M04009/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M04009/plain</plain>
+  </links>
+  <citation>Citation: 'monochromator' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M04009</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:48:05+00:00</accessed>
+</term>

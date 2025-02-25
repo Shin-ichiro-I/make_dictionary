@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05359</id>
+  <doi>10.1351/goldbook.R05359</doi>
+  <code>R05359</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - retention factor, k in column chromatography</longtitle>
+  <title>retention factor</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A measure of the time the sample component resides in the stationary phase relative to the time it resides in the mobile phase; it expresses how much longer a sample component is retarded by the stationary phase than it would take to travel through the column with the velocity of the mobile phase. Mathematically, it is the ratio of the adjusted retention volume (time) and the hold-up volume (time): k = VR'/VM = tR'/tM, then the fraction in the stationary phase is 1- R; thus k = 1 - R/R is often used for the retention factor, particularly in liquid chromatography. The original reason for this was to clearly distinguish it from the partition coefficient (distribution constant) for which the symbol K had been utilized. Since, however, the distribution constants are all identified with a subscript, there is no reason to add the prime sign to this symbol. It should be emphasized that all the recognized nomenclatures (IUPAC, BS, ASTM) have always clearly identified the capacity factor with the symbol k and not k'. The logarithm of the retention factor is equivalent to the R M value used in planar chromatography. The symbol κ is suggested to express </text>
+      <contexts>
+        <in>
+          <item>column chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>adjusted retention volume (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05366</url>
+        </item>
+        <item>
+          <title>hold-up volume (in chromatography) (in column chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02833</url>
+        </item>
+        <item>
+          <title>distribution constant (in chromatography) (in column chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01814</url>
+        </item>
+        <item>
+          <title>adjusted retention volume (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05366</url>
+        </item>
+        <item>
+          <title>hold-up volume (in chromatography) (in column chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02833</url>
+        </item>
+        <item>
+          <title>distribution constant (in chromatography) (in column chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01814</url>
+        </item>
+        <item>
+          <title>partition ratio (in chromatography) (in column chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04440</url>
+        </item>
+        <item>
+          <title>mass distribution ratio (in chromatography) (in column chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02305</url>
+        </item>
+        <item>
+          <title>chromatography (in chromatography) (in column chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>partition coefficient (in chromatography) (in column chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04437</url>
+        </item>
+        <item>
+          <title>distribution constant (in chromatography) (in column chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01813</url>
+        </item>
+        <item>
+          <title>planar chromatography (in chromatography) (in column chromatography) (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04682</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Retention factor</meaning>
+          <type>equation</type>
+          <alttext>k = VR'/VM = tR'/tM</alttext>
+          <latex>k=\frac{V_{\text{R}}^{'}}{V_{\text{M}}}=\frac{t_{\text{R}}^{'}}{t_{\text{M}}}</latex>
+        </item>
+        <item>
+          <meaning>Retention factor</meaning>
+          <type>equation</type>
+          <alttext>k = amount of component in stationary phase/amount of component in mobile phase</alttext>
+          <latex>k=\frac{\text{amount of component in stationary phase}}{\text{amount of component in mobile phase}}</latex>
+        </item>
+        <item>
+          <alttext>R</alttext>
+          <latex>R</latex>
+        </item>
+        <item>
+          <alttext>1- R</alttext>
+          <latex>1 - R</latex>
+        </item>
+        <item>
+          <meaning>Retention factor</meaning>
+          <type>equation</type>
+          <alttext>k = 1 - R/R</alttext>
+          <latex>k=\frac{1- R}{R}</latex>
+        </item>
+        <item>
+          <meaning>Retention factor</meaning>
+          <type>quantity</type>
+          <alttext>k'</alttext>
+          <latex>k^{'}</latex>
+        </item>
+        <item>
+          <alttext>k</alttext>
+          <latex>k</latex>
+        </item>
+        <item>
+          <meaning>Retention factor</meaning>
+          <type>quantity</type>
+          <alttext>k'</alttext>
+          <latex>k^{'}</latex>
+        </item>
+        <item>
+          <alttext>R M</alttext>
+          <latex>R_{\text{M}}</latex>
+        </item>
+        <item>
+          <alttext>κ</alttext>
+          <latex>\kappa </latex>
+        </item>
+        <item>
+          <alttext>κ = log 10 k = log 10 1- R R</alttext>
+          <latex>\kappa =\log _{10}k=\log _{10}\left[\frac{1- R}{R}\right]</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 843 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Faktor retardasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Faktor_retardasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Paper chromatography (en)</title>
+      <url>https://en.wikipedia.org/wiki/Paper_chromatography</url>
+    </item>
+    <item>
+      <title>Wikipedia - Retardation factor (en)</title>
+      <url>https://en.wikipedia.org/wiki/Retardation_factor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Retardation factor (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Retardation_factor</url>
+    </item>
+    <item>
+      <title>Wikipedia - 保留因子 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/保留因子</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05359/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05359/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05359/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05359/plain</plain>
+  </links>
+  <citation>Citation: 'retention factor' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05359</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:55:52+00:00</accessed>
+</term>

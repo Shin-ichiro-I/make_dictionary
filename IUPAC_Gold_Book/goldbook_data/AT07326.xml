@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07326</id>
+  <doi>10.1351/goldbook.AT07326</doi>
+  <code>AT07326</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - amalgam lamp</longtitle>
+  <title>amalgam lamp</title>
+  <abbrevs>
+    <item>UV</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Intense source of ultraviolet(185 and 253.7 nm) radiation produced by an electrical discharge in a lamp with the inner side covered by an amalgam of mercury with another element such as indium or gallium to control the vapour pressure of the mercury. These lamps have 2-3 times the UV output for the same wavelength as the standard low-pressure mercury lamp.</text>
+      <links>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>lamp</title>
+          <url>https://goldbook.iupac.org/terms/view/L03447</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>lamp</title>
+          <url>https://goldbook.iupac.org/terms/view/L03447</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>low-pressure mercury lamp</title>
+          <url>https://goldbook.iupac.org/terms/view/H02825</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>185</alttext>
+          <latex>185</latex>
+        </item>
+        <item>
+          <alttext>253.7 nm</alttext>
+          <latex>253.7\ \text{nm}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 302 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/AT07326/html</html>
+    <json>https://goldbook.iupac.org/terms/view/AT07326/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/AT07326/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/AT07326/plain</plain>
+  </links>
+  <citation>Citation: 'amalgam lamp' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.AT07326</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:50:03+00:00</accessed>
+</term>

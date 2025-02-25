@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00001</id>
+  <doi>10.1351/goldbook.A00001</doi>
+  <code>A00001</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - α-addition (alpha-addition)</longtitle>
+  <title>α-addition</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A chemical reaction resulting in a single reaction product from two or three reacting chemical species, with formation of two new chemical bonds to the same atom in one of the reactant molecular entities. The synonymous term 1/1/addition is also used. For example: [image: α-additon reaction] (This particular example can also be viewed as an insertion reaction.). In inorganic chemistry such α-addition reactions, generally to a metallic central atom, are known as 'oxidative additions'. α-Addition is the reverse of α-elimination or 1/1/elimination.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>α-additon reaction</title>
+          <file>https://goldbook.iupac.org/img/inline/A00001-1.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>addition</title>
+          <url>https://goldbook.iupac.org/terms/view/A00132</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>addition</title>
+          <url>https://goldbook.iupac.org/terms/view/A00132</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>insertion</title>
+          <url>https://goldbook.iupac.org/terms/view/I03058</url>
+        </item>
+        <item>
+          <title>addition</title>
+          <url>https://goldbook.iupac.org/terms/view/A00132</url>
+        </item>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/B00697</url>
+        </item>
+        <item>
+          <title>molecular entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>insertion</title>
+          <url>https://goldbook.iupac.org/terms/view/I03058</url>
+        </item>
+        <item>
+          <title>central atom</title>
+          <url>https://goldbook.iupac.org/terms/view/C00930</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1087 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00001/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00001/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00001/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00001/plain</plain>
+  </links>
+  <citation>Citation: 'α-addition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00001</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:05:29+00:00</accessed>
+</term>

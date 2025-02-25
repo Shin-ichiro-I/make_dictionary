@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00296</id>
+  <doi>10.1351/goldbook.A00296</doi>
+  <code>A00296</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - amount fraction</longtitle>
+  <title>amount fraction <em>x</em> (<em>y</em> for gaseous mixtures)</title>
+  <synonyms>
+    <item>mole fraction</item>
+  </synonyms>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Amount of a constituent divided by the total amount of all constituents in the mixture. It is also called mole fraction. Amount fraction is equal to the number fraction: the number of entities of one constituent divided by the total number of entities in the mixture.</text>
+      <links>
+        <item>
+          <title>fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/F02494</url>
+        </item>
+        <item>
+          <title>fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/F02494</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>number fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/N04265</url>
+        </item>
+        <item>
+          <title>number of entities</title>
+          <url>https://goldbook.iupac.org/terms/view/N04266</url>
+        </item>
+        <item>
+          <title>fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/F02494</url>
+        </item>
+        <item>
+          <title>constituent</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+        <item>
+          <title>number fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/N04265</url>
+        </item>
+        <item>
+          <title>number of entities</title>
+          <url>https://goldbook.iupac.org/terms/view/N04266</url>
+        </item>
+        <item>
+          <title>entities</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 41 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Concentració (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Concentració</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fracció molar (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Fracció_molar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fraksi mol (id)</title>
+      <url>https://id.wikipedia.org/wiki/Fraksi_mol</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fraktion (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Fraktion_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Frazione molare (it)</title>
+      <url>https://it.wikipedia.org/wiki/Frazione_molare</url>
+    </item>
+    <item>
+      <title>Wikipedia - Fração molar (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Fração_molar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Koncentráció (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Koncentráció</url>
+    </item>
+    <item>
+      <title>Wikipedia - Konsentrasjon (kjemi) (no)</title>
+      <url>https://no.wikipedia.org/wiki/Konsentrasjon_(kjemi)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mole fraction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Mole_fraction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stoffmengenanteil (de)</title>
+      <url>https://de.wikipedia.org/wiki/Stoffmengenanteil</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stężenie (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stężenie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ułamek molowy (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Ułamek_molowy</url>
+    </item>
+    <item>
+      <title>Wikipedia - Концентрация смеси (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Концентрация_смеси</url>
+    </item>
+    <item>
+      <title>Wikipedia - Мольная доля (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Мольная_доля</url>
+    </item>
+    <item>
+      <title>Wikipedia - كسر مولي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كسر_مولي</url>
+    </item>
+    <item>
+      <title>Wikipedia - کسر مولی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/کسر_مولی</url>
+    </item>
+    <item>
+      <title>Wikipedia - மோல் பின்னம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/மோல்_பின்னம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - 摩尔分数 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/摩尔分数</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00296/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00296/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00296/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00296/plain</plain>
+  </links>
+  <citation>Citation: 'amount fraction <em>x</em> (<em>y</em> for gaseous mixtures)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00296</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:52:11+00:00</accessed>
+</term>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00578</id>
+  <doi>10.1351/goldbook.B00578</doi>
+  <code>B00578</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - background concentration (level), in atmospheric chemistry</longtitle>
+  <title>background concentration</title>
+  <synonyms>
+    <item>baseline concentration</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The concentration of a given species in a pristine air mass in which anthropogenic impurities of a relatively short lifetime are not present. The background concentrations of relatively long-lived molecules, methane, carbon dioxide, halocarbons (CF3Cl, CF2Cl2, etc.) and some other species continue to rise due to anthropogenic input, so the composition of background air is undergoing continual change. Background concentration of a given species is sometimes considered to be the concentration of that impurity in a given air mass when the contribution from anthropogenic sources under study is absent. Synonymous with baseline concentration.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>lifetime</title>
+          <url>https://goldbook.iupac.org/terms/view/L03515</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2175 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/B00578/html</html>
+    <json>https://goldbook.iupac.org/terms/view/B00578/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/B00578/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/B00578/plain</plain>
+  </links>
+  <citation>Citation: 'background concentration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.B00578</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:06:10+00:00</accessed>
+</term>

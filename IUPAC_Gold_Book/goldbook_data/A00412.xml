@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00412</id>
+  <doi>10.1351/goldbook.A00412</doi>
+  <code>A00412</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - apex current</longtitle>
+  <title>apex current</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In measurement of non-faradaic admittance (or tensammetry), a plot of alternating current against applied potential shows a minimum or maximum when a non-electroactive substance undergoes adsorption or desorption at the surface of the indicator electrode. Such a maximum or minimum may be called an apex to emphasize its non-faradaic origin and distinguish it from a 'summit', which would result from a charge-transfer process. The highest value of the current on such an apex may be called an apex current, and the corresponding applied potential may be called an apex potential.</text>
+      <links>
+        <item>
+          <title>alternating current</title>
+          <url>https://goldbook.iupac.org/terms/view/A00252</url>
+        </item>
+        <item>
+          <title>applied potential</title>
+          <url>https://goldbook.iupac.org/terms/view/A00424</url>
+        </item>
+        <item>
+          <title>electroactive substance</title>
+          <url>https://goldbook.iupac.org/terms/view/E01940</url>
+        </item>
+        <item>
+          <title>adsorption</title>
+          <url>https://goldbook.iupac.org/terms/view/A00155</url>
+        </item>
+        <item>
+          <title>desorption</title>
+          <url>https://goldbook.iupac.org/terms/view/D01620</url>
+        </item>
+        <item>
+          <title>indicator electrode</title>
+          <url>https://goldbook.iupac.org/terms/view/I03006</url>
+        </item>
+        <item>
+          <title>apex</title>
+          <url>https://goldbook.iupac.org/terms/view/A00411</url>
+        </item>
+        <item>
+          <title>apex potential</title>
+          <url>https://goldbook.iupac.org/terms/view/A00413</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1985, 57, 1491. 'Recommended terms, symbols, and definitions for electroanalytical chemistry (Recommendations 1985)' on page 1494 (https://doi.org/10.1351/pac198557101491)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00412/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00412/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00412/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00412/plain</plain>
+  </links>
+  <citation>Citation: 'apex current' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00412</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:57:19+00:00</accessed>
+</term>

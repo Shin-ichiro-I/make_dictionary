@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01129</id>
+  <doi>10.1351/goldbook.C01129</doi>
+  <code>C01129</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - coherence length, ζ in thin films</longtitle>
+  <title>coherence length</title>
+  <contains>electric coherence length <span class="in">in thin films</span>, @C01129-2@, magnetic coherence length <span class="in">in thin films</span>, @C01129-1@</contains>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The distance over which order is maintained. As an example, there can be long-range atomic or molecular order, i.e. coherence. Coherence lengths are significantly larger than molecular size. Normally, coherence length is estimated from electron, neutron or X-ray scattering and scales the size of ordered domains in material where long range ordering occurs (as in liquid crystals, for example). The term coherence length is also used for the scale characterizing the profile of molecular axis orientation in the distorted, so-called, transition layers formed at a solid/liquid-crystal boundary when an appropriate external field is applied (e.g. when the orientation of anchored surface molecules of a nematic liquid crystal is unaffected by an external field -- magnetic or electric -- whereas the bulk molecules reorient freely). This scale is referred to as electric coherence length, ζ E or magnetic coherence length, ζ M, depending on the nature of the applied field.</text>
+      <contexts>
+        <in>
+          <item>thin films</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>neutron</title>
+          <url>https://goldbook.iupac.org/terms/view/N04116</url>
+        </item>
+        <item>
+          <title>scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05487</url>
+        </item>
+        <item>
+          <title>liquid crystal</title>
+          <url>https://goldbook.iupac.org/terms/view/LT06856</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ζ E</alttext>
+          <latex>\zeta _{\text{E}}</latex>
+        </item>
+        <item>
+          <alttext>ζ M</alttext>
+          <latex>\zeta _{\text{M}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1667. 'Thin films including layers: terminology in relation to their preparation and characterization (IUPAC Recommendations 1994)' on page 1675 (https://doi.org/10.1351/pac199466081667)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01129/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01129/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01129/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01129/plain</plain>
+  </links>
+  <citation>Citation: 'coherence length' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01129</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:35:42+00:00</accessed>
+</term>

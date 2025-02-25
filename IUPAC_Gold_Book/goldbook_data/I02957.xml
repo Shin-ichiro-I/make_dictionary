@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02957</id>
+  <doi>10.1351/goldbook.I02957</doi>
+  <code>I02957</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - imines</longtitle>
+  <title>imines</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Compounds having the structure RN=CR2 (R = H, hydrocarbyl). Thus analogues of aldehydes or ketones, having NR doubly bonded to carbon; aldimines have the structure RCH=NR, ketimines have the structure R'2C=NR (R' ≠ H). Imines include azomethines and Schiff bases. Imine is used as a suffix in systematic nomenclature to denote the C=NH group excluding the carbon atom.</text>
+      <links>
+        <item>
+          <title>hydrocarbyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02891</url>
+        </item>
+        <item>
+          <title>aldehydes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00208</url>
+        </item>
+        <item>
+          <title>ketones</title>
+          <url>https://goldbook.iupac.org/terms/view/K03386</url>
+        </item>
+        <item>
+          <title>azomethines</title>
+          <url>https://goldbook.iupac.org/terms/view/A00564</url>
+        </item>
+        <item>
+          <title>Schiff bases</title>
+          <url>https://goldbook.iupac.org/terms/view/S05498</url>
+        </item>
+        <item>
+          <title>hydrocarbyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02891</url>
+        </item>
+        <item>
+          <title>aldehydes</title>
+          <url>https://goldbook.iupac.org/terms/view/A00208</url>
+        </item>
+        <item>
+          <title>ketones</title>
+          <url>https://goldbook.iupac.org/terms/view/K03386</url>
+        </item>
+        <item>
+          <title>azomethines</title>
+          <url>https://goldbook.iupac.org/terms/view/A00564</url>
+        </item>
+        <item>
+          <title>Schiff bases</title>
+          <url>https://goldbook.iupac.org/terms/view/S05498</url>
+        </item>
+        <item>
+          <title>aldimines</title>
+          <url>https://goldbook.iupac.org/terms/view/A00209</url>
+        </item>
+        <item>
+          <title>ketimines</title>
+          <url>https://goldbook.iupac.org/terms/view/K03381</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>2</id>
+      <text>[obsolete] An obsolete term for azacycloalkanes.</text>
+    </item>
+  </definitions>
+  <sources>'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' Moss, G.P.;Smith, P.A.S.;Tavernier, D.; Pure and Applied Chemistry 1995 67(8-9) 1307</sources>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Amina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Amina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imiinit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Imiinit</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (da)</title>
+      <url>https://da.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imin (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Imin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (es)</title>
+      <url>https://es.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (id)</title>
+      <url>https://id.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imina (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Imina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imine (de)</title>
+      <url>https://de.wikipedia.org/wiki/Imine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Imine (en)</title>
+      <url>https://en.wikipedia.org/wiki/Imine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Immine (it)</title>
+      <url>https://it.wikipedia.org/wiki/Immine</url>
+    </item>
+    <item>
+      <title>Wikipedia - Іміни (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Іміни</url>
+    </item>
+    <item>
+      <title>Wikipedia - Иминдер (kk)</title>
+      <url>https://kk.wikipedia.org/wiki/Иминдер</url>
+    </item>
+    <item>
+      <title>Wikipedia - Имины (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Имины</url>
+    </item>
+    <item>
+      <title>Wikipedia - إيمين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/إيمين</url>
+    </item>
+    <item>
+      <title>Wikipedia - 亚胺 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/亚胺</url>
+    </item>
+    <item>
+      <title>Wikipedia - 이민 (화학) (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/이민_(화학)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I02957/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I02957/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I02957/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I02957/plain</plain>
+  </links>
+  <citation>Citation: 'imines' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I02957</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:59:21+00:00</accessed>
+</term>

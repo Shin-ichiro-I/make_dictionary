@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01038</id>
+  <doi>10.1351/goldbook.CT01038</doi>
+  <code>CT01038</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical species</longtitle>
+  <title>chemical species</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An ensemble of chemically identical molecular entities that can explore the same set of molecular energy levels on the time scale of the experiment. The term is applied equally to a set of chemically identical atomic or molecular structural units in a solid array. For example, two conformational isomers may be interconverted sufficiently slowly to be detectable by separate NMR spectra and hence to be considered to be separate chemical species on a time scale governed by the radiofrequency of the spectrometer used. On the other hand, in a slow chemical reaction the same mixture of conformers may behave as a single chemical species, i.e. there is virtually complete equilibrium population of the total set of molecular energy levels belonging to the two conformers. Except where the context requires otherwise, the term is taken to refer to a set of molecular entities containing isotopes in their natural abundance. The wording of the definition given in the first paragraph is intended to embrace both cases such as graphite, sodium chloride or a surface oxide, where the basic structural units may not be capable of isolated existence, as well as those cases where they are. In common chemical usage generic and specific chemical names (such as radical or hydroxide ion) or chemical formulae refer either to a chemical species or to a molecular entity.</text>
+      <links>
+        <item>
+          <title>chemical species (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/CT06859</url>
+        </item>
+        <item>
+          <title>chemical species (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/CT06859</url>
+        </item>
+        <item>
+          <title>molecular entities (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>isomers (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03289</url>
+        </item>
+        <item>
+          <title>radical (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>chemical species (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/CT06859</url>
+        </item>
+        <item>
+          <title>molecular entities (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>isomers (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03289</url>
+        </item>
+        <item>
+          <title>radical (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05066</url>
+        </item>
+        <item>
+          <title>spectrometer (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05837</url>
+        </item>
+        <item>
+          <title>isotopes (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03331</url>
+        </item>
+        <item>
+          <title>graphite (of an element)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02684</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1096 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2202 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chemical species (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_species</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussion:Corps pur (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion:Corps_pur</url>
+    </item>
+    <item>
+      <title>Wikipedia - Dyskusja wikiprojektu:Chemia (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Dyskusja_wikiprojektu:Chemia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Especie química (es)</title>
+      <url>https://es.wikipedia.org/wiki/Especie_química</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hemijska vrsta (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Hemijska_vrsta</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kimyasal tür (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Kimyasal_tür</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kjemiske specier (no)</title>
+      <url>https://no.wikipedia.org/wiki/Kjemiske_specier</url>
+    </item>
+    <item>
+      <title>Wikipedia - Specie chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Specie_chimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Specie chimică (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Specie_chimică</url>
+    </item>
+    <item>
+      <title>Wikipedia - Species (kemi) (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Species_(kemi)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spesi kimia (id)</title>
+      <url>https://id.wikipedia.org/wiki/Spesi_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Spezies (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Spezies_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Chemical substance (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Chemical_substance</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia:Redaktion Chemie (de)</title>
+      <url>https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Chemie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Χημικό είδος (el)</title>
+      <url>https://el.wikipedia.org/wiki/Χημικό_είδος</url>
+    </item>
+    <item>
+      <title>Wikipedia - نوع كيميائي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نوع_كيميائي</url>
+    </item>
+    <item>
+      <title>Wikipedia - گونه‌های شیمیایی (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/گونه‌های_شیمیایی</url>
+    </item>
+    <item>
+      <title>Wikipedia - रासायनिक जाति (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/रासायनिक_जाति</url>
+    </item>
+    <item>
+      <title>Wikipedia - रासायनिक स्पीशीज़ (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/रासायनिक_स्पीशीज़</url>
+    </item>
+    <item>
+      <title>Wikipedia - 화학종 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/화학종</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/CT01038/html</html>
+    <json>https://goldbook.iupac.org/terms/view/CT01038/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/CT01038/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/CT01038/plain</plain>
+  </links>
+  <citation>Citation: 'chemical species' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.CT01038</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:30:55+00:00</accessed>
+</term>

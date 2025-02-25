@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04210</id>
+  <doi>10.1351/goldbook.N04210</doi>
+  <code>N04210</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - nor-</longtitle>
+  <title>nor-</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Affix used to denote the elimination of one methylene group from a side chain of a parent structure (including a methyl group).</text>
+      <links>
+        <item>
+          <title>elimination</title>
+          <url>https://goldbook.iupac.org/terms/view/E02038</url>
+        </item>
+        <item>
+          <title>methylene</title>
+          <url>https://goldbook.iupac.org/terms/view/M03881</url>
+        </item>
+        <item>
+          <title>side chain (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/B00720</url>
+        </item>
+      </links>
+      <sources>
+        <item>Blue Book, p. 497 (https://www.acdlabs.com/iupac/nomenclature/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Diskussion:Nor- (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Nor-</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nor- (de)</title>
+      <url>https://de.wikipedia.org/wiki/Nor-</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nor- (en)</title>
+      <url>https://en.wikipedia.org/wiki/Nor-</url>
+    </item>
+    <item>
+      <title>Wikipedia - Prefix (scheikunde) (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Prefix_(scheikunde)</url>
+    </item>
+    <item>
+      <title>Wikipedia - نور- (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نور-</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/N04210/html</html>
+    <json>https://goldbook.iupac.org/terms/view/N04210/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/N04210/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/N04210/plain</plain>
+  </links>
+  <citation>Citation: 'nor-' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.N04210</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:59:39+00:00</accessed>
+</term>

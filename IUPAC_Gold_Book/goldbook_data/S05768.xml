@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05768</id>
+  <doi>10.1351/goldbook.S05768</doi>
+  <code>S05768</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - soot</longtitle>
+  <title>soot</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A randomly formed particulate carbon material and may be coarse, fine and/or colloidal in proportions depending on its origin. Soot consists of variable quantities of carbonaceous and inorganic solids together with absorbed and occluded tars and resins.</text>
+      <notes>
+        <item>An unwanted by-product of incomplete combustion or pyrolysis. Soot generated within flames consists essentially of aggregates of spheres of carbon. Soot found in domestic fireplace chimneys contains few aggregates but may contain substantial amounts of particulate fragments of coke or char. Soot from diesel engines consists essentially of aggregates together with tars and resins. For historical reasons, the term soot is sometimes incorrectly used for carbon black. This misleading use should be avoided.</item>
+      </notes>
+      <links>
+        <item>
+          <title>pyrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04961</url>
+        </item>
+        <item>
+          <title>coke</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+        <item>
+          <title>colloidal</title>
+          <url>https://goldbook.iupac.org/terms/view/C01172</url>
+        </item>
+        <item>
+          <title>variable</title>
+          <url>https://goldbook.iupac.org/terms/view/V06600</url>
+        </item>
+        <item>
+          <title>pyrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04961</url>
+        </item>
+        <item>
+          <title>coke</title>
+          <url>https://goldbook.iupac.org/terms/view/C01142</url>
+        </item>
+        <item>
+          <title>colloidal</title>
+          <url>https://goldbook.iupac.org/terms/view/C01172</url>
+        </item>
+        <item>
+          <title>variable</title>
+          <url>https://goldbook.iupac.org/terms/view/V06600</url>
+        </item>
+        <item>
+          <title>char</title>
+          <url>https://goldbook.iupac.org/terms/view/C00974</url>
+        </item>
+        <item>
+          <title>carbon black</title>
+          <url>https://goldbook.iupac.org/terms/view/C00824</url>
+        </item>
+        <item>
+          <title>particulate carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/P04433</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2215 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 504 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Particolato carbonioso (it)</title>
+      <url>https://it.wikipedia.org/wiki/Particolato_carbonioso</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05768/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05768/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05768/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05768/plain</plain>
+  </links>
+  <citation>Citation: 'soot' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05768</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:15:13+00:00</accessed>
+</term>

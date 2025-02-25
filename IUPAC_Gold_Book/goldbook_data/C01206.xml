@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01206</id>
+  <doi>10.1351/goldbook.C01206</doi>
+  <code>C01206</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - complex-mode reaction</longtitle>
+  <title>complex-mode reaction</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An elementary reaction which proceeds via an intermediate species having a lifetime longer than a few rotational periods is known as a complex-mode reaction, or as an indirect reaction.</text>
+      <links>
+        <item>
+          <title>direct reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/D01773</url>
+        </item>
+        <item>
+          <title>direct reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/D01773</url>
+        </item>
+        <item>
+          <title>elementary reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02035</url>
+        </item>
+        <item>
+          <title>mode</title>
+          <url>https://goldbook.iupac.org/terms/view/M03958</url>
+        </item>
+        <item>
+          <title>indirect reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/I03011</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 160 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01206/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01206/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01206/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01206/plain</plain>
+  </links>
+  <citation>Citation: 'complex-mode reaction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01206</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:39:08+00:00</accessed>
+</term>

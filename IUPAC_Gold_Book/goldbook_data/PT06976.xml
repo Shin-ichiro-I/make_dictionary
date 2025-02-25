@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06976</id>
+  <doi>10.1351/goldbook.PT06976</doi>
+  <code>PT06976</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pattern recognition</longtitle>
+  <title>pattern recognition</title>
+  <abbrevs>
+    <item>ANN</item>
+    <item>PCA</item>
+    <item>PLS</item>
+    <item>SIMCA</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Pattern recognition is the identification of patterns in large data sets, using appropriate mathematical methodology. Examples are principal component analysis (PCA), SIMCA, partial least squares (PLS) and artificial neural networks (ANN).</text>
+      <links>
+        <item>
+          <title>artificial neural networks</title>
+          <url>https://goldbook.iupac.org/terms/view/AT06947</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1997, 69, 1137. 'Glossary of terms used in computational drug design (IUPAC Recommendations 1997)' on page 1148 (https://doi.org/10.1351/pac199769051137)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT06976/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT06976/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT06976/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT06976/plain</plain>
+  </links>
+  <citation>Citation: 'pattern recognition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT06976</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:12:02+00:00</accessed>
+</term>

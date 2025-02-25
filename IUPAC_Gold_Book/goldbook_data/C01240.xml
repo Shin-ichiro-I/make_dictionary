@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01240</id>
+  <doi>10.1351/goldbook.C01240</doi>
+  <code>C01240</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - conditional (formal) potential</longtitle>
+  <title>conditional (formal) potential</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Conditional (formal) potential, E0',is related to the potential of a cell reaction, E cell, by an equation analogous to that relating E cell to the standard potential E0, with the activity, ai, replaced by any composition variable, ci (to be indicated by a subscript). For example: </text>
+      <links>
+        <item>
+          <title>potential of a cell reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/P04783</url>
+        </item>
+        <item>
+          <title>variable</title>
+          <url>https://goldbook.iupac.org/terms/view/V06600</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>E0'</alttext>
+          <latex>E^{0'}</latex>
+        </item>
+        <item>
+          <alttext>E cell</alttext>
+          <latex>E_{\mathrm{cell}}</latex>
+        </item>
+        <item>
+          <alttext>E cell</alttext>
+          <latex>E_{\mathrm{cell}}</latex>
+        </item>
+        <item>
+          <alttext>E0</alttext>
+          <latex>E_{0}</latex>
+        </item>
+        <item>
+          <alttext>ai</alttext>
+          <latex>a_{i}</latex>
+        </item>
+        <item>
+          <alttext>ci</alttext>
+          <latex>c_{i}</latex>
+        </item>
+        <item>
+          <alttext>E cell = E c 0 '- R T n F ∑ i ν</alttext>
+          <latex>E_{\mathrm{cell}}=E_{\text{c}}^{0'}- \frac{R\ T}{n\ F}\ \sum _{\begin{array}{c}
+i
+\end{array}}\nu _{i}\ \ln c_{i}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1974, 37, 499. 'Electrochemical nomenclature' on page 505 (https://doi.org/10.1351/pac197437040499)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01240/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01240/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01240/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01240/plain</plain>
+  </links>
+  <citation>Citation: 'conditional (formal) potential' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01240</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:41:08+00:00</accessed>
+</term>

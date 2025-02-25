@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05737</id>
+  <doi>10.1351/goldbook.S05737</doi>
+  <code>S05737</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - solid support in column chromatography</longtitle>
+  <title>solid support</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Normally an inert porous solid, which sorbs the liquid phase. The particle-size range of the support affects column efficiency and the pressure differential necessary to achieve a given flow rate. Modifications have been introduced for the achievement of special separations, in which the solid support is not inert but is an active solid. In capillary columns the inner wall of the column serves as the solid support and obviates the use of additional porous solids for this purpose.</text>
+      <contexts>
+        <in>
+          <item>column chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>active solid</title>
+          <url>https://goldbook.iupac.org/terms/view/A00109</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 98 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 830 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05737/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05737/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05737/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05737/plain</plain>
+  </links>
+  <citation>Citation: 'solid support' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05737</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:13:33+00:00</accessed>
+</term>

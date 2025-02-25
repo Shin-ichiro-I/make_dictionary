@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04546</id>
+  <doi>10.1351/goldbook.P04546</doi>
+  <code>P04546</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - pH gradient in electrophoresis</longtitle>
+  <title>pH gradient</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The differential change of pH with distance (dpH/dI).</text>
+      <contexts>
+        <in>
+          <item>electrophoresis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>pH</title>
+          <url>https://goldbook.iupac.org/terms/view/P04524</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>dpH/dI</alttext>
+          <latex>\frac{\text{dpH}}{\text{d}I}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 891. 'Quantities and units for electrophoresis in the clinical laboratory (IUPAC Recommendations 1994)' on page 895 (https://doi.org/10.1351/pac199466040891)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04546/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04546/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04546/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04546/plain</plain>
+  </links>
+  <citation>Citation: 'pH gradient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04546</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:16:16+00:00</accessed>
+</term>

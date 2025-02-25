@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02582</id>
+  <doi>10.1351/goldbook.G02582</doi>
+  <code>G02582</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - gas-filled X-ray detector</longtitle>
+  <title>gas-filled X-ray detector</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A cylindrical cathode with a window, an axial wire anode and an ionizable gas. The gas may be continuously replenished giving a flow-through detector or the detector may be sealed. Following an original ionizing event, electron multiplication occurs through a process of gas amplification in the high electric field surrounding the anode wire. The gain of this process is defined as the number of electrons collected on the anode wire for each primary electron produced. For X-rays having energies higher than the excitation potential of the detector gas, the spectral responsivity function has a second peak in addition to the main peak that is called the escape peak. The escape peak has a mean pulse height proportional to the difference between the photon energy of the incident X-rays and of the spectral characteristic line of the detector gas. A quenching gas, a molecular gas, is added to the detector gas in order to neutralize the detector gas ions and to absorb secondary electrons as well as UV radiation resulting from neutralization of detector gas ions. According to the potential applied to the anode, the detector can work as an ionization chamber, proportional counter, or Geiger counter.</text>
+      <links>
+        <item>
+          <title>cathode</title>
+          <url>https://goldbook.iupac.org/terms/view/C00905</url>
+        </item>
+        <item>
+          <title>anode</title>
+          <url>https://goldbook.iupac.org/terms/view/A00370</url>
+        </item>
+        <item>
+          <title>quenching (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05007</url>
+        </item>
+        <item>
+          <title>ionization chamber (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03190</url>
+        </item>
+        <item>
+          <title>proportional counter (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04885</url>
+        </item>
+        <item>
+          <title>Geiger counter (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02598</url>
+        </item>
+        <item>
+          <title>cathode</title>
+          <url>https://goldbook.iupac.org/terms/view/C00905</url>
+        </item>
+        <item>
+          <title>anode</title>
+          <url>https://goldbook.iupac.org/terms/view/A00370</url>
+        </item>
+        <item>
+          <title>quenching (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/Q05007</url>
+        </item>
+        <item>
+          <title>ionization chamber (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03190</url>
+        </item>
+        <item>
+          <title>proportional counter (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04885</url>
+        </item>
+        <item>
+          <title>Geiger counter (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02598</url>
+        </item>
+        <item>
+          <title>spectral responsivity function (in detection of radiation)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05347</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1745. 'Nomenclature, symbols, units and their usage in spectrochemical analysis-XI. Detection of radiation (IUPAC Recommendations 1995)' on page 1753 (https://doi.org/10.1351/pac199567101745)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02582/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02582/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02582/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02582/plain</plain>
+  </links>
+  <citation>Citation: 'gas-filled X-ray detector' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02582</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:39:43+00:00</accessed>
+</term>

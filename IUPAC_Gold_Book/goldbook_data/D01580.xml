@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01580</id>
+  <doi>10.1351/goldbook.D01580</doi>
+  <code>D01580</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - delayed luminescence</longtitle>
+  <title>delayed luminescence</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>  triplet-triplet or singlet-singlet annihilation to form one molecular entity in its excited singlet state and another molecular entity in its electronic ground state (sometime referred to as P type),  thermally activated delayed fluorescence involving reversible intersystem crossing (sometimes referred to as E type), and   combination of oppositely charged ions or of an electron and a cation. For emission to be referred to in this case as delayed luminescence at least one of the two reaction partners must be generated in a photochemical process.  </text>
+      <links>
+        <item>
+          <title>delayed fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/D01579</url>
+        </item>
+        <item>
+          <title>delayed fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/D01579</url>
+        </item>
+        <item>
+          <title>luminescence</title>
+          <url>https://goldbook.iupac.org/terms/view/L03641</url>
+        </item>
+        <item>
+          <title>delayed fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/D01579</url>
+        </item>
+        <item>
+          <title>luminescence</title>
+          <url>https://goldbook.iupac.org/terms/view/L03641</url>
+        </item>
+        <item>
+          <title>singlet-singlet annihilation</title>
+          <url>https://goldbook.iupac.org/terms/view/S05697</url>
+        </item>
+        <item>
+          <title>singlet state</title>
+          <url>https://goldbook.iupac.org/terms/view/S05699</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>thermally activated delayed fluorescence</title>
+          <url>https://goldbook.iupac.org/terms/view/T06305</url>
+        </item>
+        <item>
+          <title>intersystem crossing</title>
+          <url>https://goldbook.iupac.org/terms/view/I03123</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 185 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1988, 60, 1055. 'Glossary of terms used in photochemistry (Recommendations 1988)' on page 1065 (https://doi.org/10.1351/pac198860071055)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01580/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01580/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01580/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01580/plain</plain>
+  </links>
+  <citation>Citation: 'delayed luminescence' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01580</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:55:18+00:00</accessed>
+</term>

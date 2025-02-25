@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03513</id>
+  <doi>10.1351/goldbook.L03513</doi>
+  <code>L03513</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Lewis formula (electron dot or Lewis structure)</longtitle>
+  <title>Lewis formula (electron dot or Lewis structure)</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Molecular structure in which the valency electrons are shown as dots so placed between the bonded atoms that one pair of dots represents two electrons or one covalent (single) bond, e.g. [image: Not defined] A double bond is represented by two pairs of dots, etc. Dots representing non-bonded outer-shell electrons are placed adjacent to the atoms with which they are associated, but not between the atoms. Formal charges (e.g. +, −, 2+, etc.) are attached to atoms to indicate the difference between the positive nuclear charge (atomic number) and the total number of electrons (including those in the inner shells), on the formal basis that bonding electrons are shared equally between atoms they join. (Bonding pairs of electrons are usually denoted by lines, representing covalent bonds, as in line formulae.)</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/L03513.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>atomic number</title>
+          <url>https://goldbook.iupac.org/terms/view/A00499</url>
+        </item>
+        <item>
+          <title>atomic number</title>
+          <url>https://goldbook.iupac.org/terms/view/A00499</url>
+        </item>
+        <item>
+          <title>covalent bonds</title>
+          <url>https://goldbook.iupac.org/terms/view/C01384</url>
+        </item>
+        <item>
+          <title>line formulae</title>
+          <url>https://goldbook.iupac.org/terms/view/L03561</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1135 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Elektronenformel (de)</title>
+      <url>https://de.wikipedia.org/wiki/Elektronenformel</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estructura de Lewis (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Estructura_de_Lewis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lewis structure (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/Lewis_structure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lewis structure (en)</title>
+      <url>https://en.wikipedia.org/wiki/Lewis_structure</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lewis yapısı (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Lewis_yapısı</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lewisstruktur (no)</title>
+      <url>https://no.wikipedia.org/wiki/Lewisstruktur</url>
+    </item>
+    <item>
+      <title>Wikipedia - Struchtúr Lewis (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Struchtúr_Lewis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Structură Lewis (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Structură_Lewis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Struktur Lewis (id)</title>
+      <url>https://id.wikipedia.org/wiki/Struktur_Lewis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Struttura di Lewis (it)</title>
+      <url>https://it.wikipedia.org/wiki/Struttura_di_Lewis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Люисова структура (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Люисова_структура</url>
+    </item>
+    <item>
+      <title>Wikipedia - Структура на Люис (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Структура_на_Люис</url>
+    </item>
+    <item>
+      <title>Wikipedia - Формула Льюїса (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Формула_Льюїса</url>
+    </item>
+    <item>
+      <title>Wikipedia - Լյուիսի կառուցվածք (hy)</title>
+      <url>https://hy.wikipedia.org/wiki/Լյուիսի_կառուցվածք</url>
+    </item>
+    <item>
+      <title>Wikipedia - تركيب لويس (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تركيب_لويس</url>
+    </item>
+    <item>
+      <title>Wikipedia - লুইস কাঠামো (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/লুইস_কাঠামো</url>
+    </item>
+    <item>
+      <title>Wikipedia - লুইস স্ট্রাকচার (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/লুইস_স্ট্রাকচার</url>
+    </item>
+    <item>
+      <title>Wikipedia - 路易斯結構 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/路易斯結構</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03513/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03513/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03513/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03513/plain</plain>
+  </links>
+  <citation>Citation: 'Lewis formula (electron dot or Lewis structure)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03513</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:23:04+00:00</accessed>
+</term>

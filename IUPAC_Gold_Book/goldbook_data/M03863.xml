@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03863</id>
+  <doi>10.1351/goldbook.M03863</doi>
+  <code>M03863</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - metal–insulator transition</longtitle>
+  <title>metal–insulator transition</title>
+  <synonyms>
+    <item>metal–nonmetal transition</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A transition characterized by a sudden change in electrical transport properties (conductivity) due to a reversible change from localized to itinerant behaviour of the electrons. Example: The transition at 339 K in VO2 where it changes from a high-temperature metallic behaviour to a low-temperature semiconductor behaviour. Synonymous with metal–nonmetal transition.</text>
+      <links>
+        <item>
+          <title>semiconductor</title>
+          <url>https://goldbook.iupac.org/terms/view/S05591</url>
+        </item>
+        <item>
+          <title>semiconductor</title>
+          <url>https://goldbook.iupac.org/terms/view/S05591</url>
+        </item>
+        <item>
+          <title>localized-itinerant transition</title>
+          <url>https://goldbook.iupac.org/terms/view/L03608</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>339 K</alttext>
+          <latex>339\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 577. 'Definitions of terms relating to phase transitions of the solid state (IUPAC Recommendations 1994)' on page 586 (https://doi.org/10.1351/pac199466030577)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Discussion:Non-métal (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Discussion:Non-métal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia talk:WikiProject Elements (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Elements</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wikipedia talk:WikiProject Physics (en)</title>
+      <url>https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Physics</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03863/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03863/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03863/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03863/plain</plain>
+  </links>
+  <citation>Citation: 'metal–insulator transition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03863</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:39:56+00:00</accessed>
+</term>

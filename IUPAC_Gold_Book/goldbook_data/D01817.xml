@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01817</id>
+  <doi>10.1351/goldbook.D01817</doi>
+  <code>D01817</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - distribution ratio, D in liquid-liquid distribution</longtitle>
+  <title>distribution ratio</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The ratio of the total analytical concentration of a solute in the extract (regardless of its chemical form) to its total analytical concentration in the other phase.</text>
+      <notes>
+        <item>If there is possible confusion with the extraction factor or (mass) distribution ratio the term concentration distribution ratio (symbol&amp;nbsp;Dc) should be used, but this is not common usage. This is reasonably compatible with chromatographic nomenclature.</item>
+        <item>The terms distribution coefficient, extraction coefficient and, where appropriate, scrubbing (in solvent extration, in atmospheric chemistry) coefficient (in solvent extration, in atmospheric chemistry), stripping (in solvent extration, in atmospheric chemistry) coefficient (in solvent extration, in atmospheric chemistry) are widely used alternatives but are not recommended. If they must be used in a given situation the term ratio is preferable to coefficient (in solvent extration, in atmospheric chemistry).</item>
+        <item>In equations relating to aqueous/organic systems the organic phase concentration is, by convention, the numerator and the aqueous phase concentration the denominator. In the case of stripping (in solvent extration, in atmospheric chemistry) ratio the opposite convention is sometimes used but should then be clearly specified.</item>
+        <item>In the past there has been much confusion between the distribution ratio as defined above, the value of which varies with experimental conditions, e.g. pH, presence of complexing agents, extent of achievement of equilibrium etc. and the true partition coefficient (in solvent extration, in atmospheric chemistry) which is by definition invariable or the partition coefficient (in solvent extration, in atmospheric chemistry) or distribution constant (in solvent extration, in atmospheric chemistry) which apply to a particular chemical species under specified conditions. For this reason the terms distribution constant (in solvent extration, in atmospheric chemistry), partition constant (in solvent extration, in atmospheric chemistry), partition coefficient (in solvent extration, in atmospheric chemistry), partition ratio (in solvent extration, in atmospheric chemistry) and extraction (in solvent extration, in atmospheric chemistry) constant should not be used in this context.</item>
+        <item>The use of the ratio: light phase concentration to heavy phase concentration is ambiguous and is not recommended.</item>
+        <item>The distribution ratio is an experimental parameter and its value does not necessarily imply that distribution equilibrium between the phases has been achieved.</item>
+      </notes>
+      <contexts>
+        <in>
+          <item>liquid-liquid distribution</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>extraction factor</title>
+          <url>https://goldbook.iupac.org/terms/view/E02305</url>
+        </item>
+        <item>
+          <title>distribution coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/D01812</url>
+        </item>
+        <item>
+          <title>extraction coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/E02303</url>
+        </item>
+        <item>
+          <title>scrubbing (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S05511</url>
+        </item>
+        <item>
+          <title>coefficient (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>stripping (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/S06054</url>
+        </item>
+        <item>
+          <title>partition coefficient (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04437</url>
+        </item>
+        <item>
+          <title>distribution constant (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01813</url>
+        </item>
+        <item>
+          <title>partition constant (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04438</url>
+        </item>
+        <item>
+          <title>partition ratio (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04440</url>
+        </item>
+        <item>
+          <title>extraction (in solvent extration, in atmospheric chemistry)</title>
+          <url>https://goldbook.iupac.org/terms/view/E02301</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Dc</alttext>
+          <latex>D_\text{c}</latex>
+        </item>
+        <item>
+          <alttext>pH</alttext>
+          <latex>\text{pH}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 89 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2382 (https://doi.org/10.1351/pac199365112373)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 970 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01817/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01817/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01817/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01817/plain</plain>
+  </links>
+  <citation>Citation: 'distribution ratio' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01817</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:05:24+00:00</accessed>
+</term>

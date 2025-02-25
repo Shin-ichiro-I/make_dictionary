@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02615</id>
+  <doi>10.1351/goldbook.G02615</doi>
+  <code>G02615</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - genetic code</longtitle>
+  <title>genetic code</title>
+  <abbrevs>
+    <item>mRNA</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The set of rules which governs the relationship between the linear order of the nucleotides in an mRNA molecule and the sequence of the amino acids in the protein which it encodes. The genetic code is a triplet code, nearly universal. It is not overlapping: a mutation which alters only a single nucleotide in a gene can change only one amino acid in the encoded protein. It is degenerate: it assigns each of the 20 amino acids to one or more of 61 of the 64 possible nucleotide triplets (cf. codon) that can be constructed from four nucleotides. The remaining three triplets are used to signal the termination of a genetic message.</text>
+      <links>
+        <item>
+          <title>nucleotides</title>
+          <url>https://goldbook.iupac.org/terms/view/N04255</url>
+        </item>
+        <item>
+          <title>mRNA</title>
+          <url>https://goldbook.iupac.org/terms/view/M03857</url>
+        </item>
+        <item>
+          <title>mutation</title>
+          <url>https://goldbook.iupac.org/terms/view/M04074</url>
+        </item>
+        <item>
+          <title>codon</title>
+          <url>https://goldbook.iupac.org/terms/view/C01123</url>
+        </item>
+        <item>
+          <title>nucleotides</title>
+          <url>https://goldbook.iupac.org/terms/view/N04255</url>
+        </item>
+        <item>
+          <title>mRNA</title>
+          <url>https://goldbook.iupac.org/terms/view/M03857</url>
+        </item>
+        <item>
+          <title>mutation</title>
+          <url>https://goldbook.iupac.org/terms/view/M04074</url>
+        </item>
+        <item>
+          <title>codon</title>
+          <url>https://goldbook.iupac.org/terms/view/C01123</url>
+        </item>
+        <item>
+          <title>sequence</title>
+          <url>https://goldbook.iupac.org/terms/view/ST06775</url>
+        </item>
+        <item>
+          <title>termination</title>
+          <url>https://goldbook.iupac.org/terms/view/T06274</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1992, 64, 143. 'Glossary for chemists of terms used in biotechnology (IUPAC Recommendations 1992)' on page 155 (https://doi.org/10.1351/pac199264010143)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - شيفرة جينية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/شيفرة_جينية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02615/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02615/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02615/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02615/plain</plain>
+  </links>
+  <citation>Citation: 'genetic code' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02615</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:41:23+00:00</accessed>
+</term>

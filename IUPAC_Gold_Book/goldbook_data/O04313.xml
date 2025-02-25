@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04313</id>
+  <doi>10.1351/goldbook.O04313</doi>
+  <code>O04313</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - optical rotatory power</longtitle>
+  <title>optical rotatory power</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Angle of optical rotation divided by the optical path length through the medium and by either the mass concentration of the substance giving the specific optical rotatory powerα λ θ or by amount concentration, giving the molar optical rotatory power, αm.</text>
+      <links>
+        <item>
+          <title>angle of optical rotation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00348</url>
+        </item>
+        <item>
+          <title>angle of optical rotation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00348</url>
+        </item>
+        <item>
+          <title>rotatory power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05415</url>
+        </item>
+        <item>
+          <title>amount concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00295</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>α λ θ</alttext>
+          <latex>\left[\alpha \right]_{\lambda }^{\theta }</latex>
+        </item>
+        <item>
+          <alttext>αm</alttext>
+          <latex>\alpha _{\text{m}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 33 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Spezifischer Drehwinkel (de)</title>
+      <url>https://de.wikipedia.org/wiki/Spezifischer_Drehwinkel</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04313/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04313/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04313/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04313/plain</plain>
+  </links>
+  <citation>Citation: 'optical rotatory power' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04313</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:05:31+00:00</accessed>
+</term>

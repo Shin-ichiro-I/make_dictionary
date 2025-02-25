@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03588</id>
+  <doi>10.1351/goldbook.L03588</doi>
+  <code>L03588</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - liquid-phase loading in chromatography</longtitle>
+  <title>liquid-phase loading</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A term used in partition chromatography to express the relative amount of the liquid stationary phase in the column packing. It is equal to the mass fraction (%) of liquid stationary phase in the total packing (liquid stationary phase plus support).</text>
+      <contexts>
+        <in>
+          <item>chromatography</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>partition chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/P04436</url>
+        </item>
+        <item>
+          <title>partition chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/P04436</url>
+        </item>
+        <item>
+          <title>mass fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/M03722</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 831 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03588/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03588/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03588/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03588/plain</plain>
+  </links>
+  <citation>Citation: 'liquid-phase loading' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03588</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:27:22+00:00</accessed>
+</term>

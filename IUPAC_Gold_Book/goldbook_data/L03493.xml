@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03493</id>
+  <doi>10.1351/goldbook.L03493</doi>
+  <code>L03493</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - leaving group</longtitle>
+  <title>leaving group</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An atom or group (charged or uncharged) that becomes detached from an atom in what is considered to be the residual or main part of the substrate in a specified reaction. For example, in the heterolytic solvolysis of benzyl bromide in acetic acid: [image: Not defined] the leaving group is Br−; in the reaction: [image: Not defined] the leaving group is NMe3 ; in the electrophilic nitration of benzene, it is H+. The term has meaning only in relation to a specified reaction. The leaving group is not, in general, the same as the substituent group present in the substrate (e.g. bromo and trimethylammonio in the substrates of the first two examples above.) A slightly different usage of the term prevails in the (non-mechanistic) naming of transformations, where the actual substituent group present in the substrate (and also in the product) is referred to as the leaving group.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/L03493-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/L03493-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>electrofuge</title>
+          <url>https://goldbook.iupac.org/terms/view/E01965</url>
+        </item>
+        <item>
+          <title>entering group</title>
+          <url>https://goldbook.iupac.org/terms/view/E02130</url>
+        </item>
+        <item>
+          <title>nucleofuge</title>
+          <url>https://goldbook.iupac.org/terms/view/N04246</url>
+        </item>
+        <item>
+          <title>electrofuge</title>
+          <url>https://goldbook.iupac.org/terms/view/E01965</url>
+        </item>
+        <item>
+          <title>entering group</title>
+          <url>https://goldbook.iupac.org/terms/view/E02130</url>
+        </item>
+        <item>
+          <title>nucleofuge</title>
+          <url>https://goldbook.iupac.org/terms/view/N04246</url>
+        </item>
+        <item>
+          <title>substrate</title>
+          <url>https://goldbook.iupac.org/terms/view/S06082</url>
+        </item>
+        <item>
+          <title>solvolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/S05762</url>
+        </item>
+        <item>
+          <title>electrophilic</title>
+          <url>https://goldbook.iupac.org/terms/view/E02020</url>
+        </item>
+        <item>
+          <title>substituent group</title>
+          <url>https://goldbook.iupac.org/terms/view/S06076</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1134 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Abgangsgruppe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Abgangsgruppe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grupo saliente (es)</title>
+      <url>https://es.wikipedia.org/wiki/Grupo_saliente</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gruppo uscente (it)</title>
+      <url>https://it.wikipedia.org/wiki/Gruppo_uscente</url>
+    </item>
+    <item>
+      <title>Wikipedia - Grupă fugace (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Grupă_fugace</url>
+    </item>
+    <item>
+      <title>Wikipedia - Gugus pergi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Gugus_pergi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Leaving group (en)</title>
+      <url>https://en.wikipedia.org/wiki/Leaving_group</url>
+    </item>
+    <item>
+      <title>Wikipedia - Lähtevä ryhmä (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Lähtevä_ryhmä</url>
+    </item>
+    <item>
+      <title>Wikipedia - Odcházející skupina (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Odcházející_skupina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Odstupující skupina (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Odstupující_skupina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Уходящая группа (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Уходящая_группа</url>
+    </item>
+    <item>
+      <title>Wikipedia - مجموعة مغادرة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مجموعة_مغادرة</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03493/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03493/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03493/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03493/plain</plain>
+  </links>
+  <citation>Citation: 'leaving group' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03493</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:21:56+00:00</accessed>
+</term>

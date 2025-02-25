@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03944</id>
+  <doi>10.1351/goldbook.M03944</doi>
+  <code>M03944</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mixed potential</longtitle>
+  <title>mixed potential</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The value of the potential of a given electrode with respect to a suitable reference electrode when appreciable contributions to the total anodic and/or cathodic partial currents are made by species belonging to two or more different couples, but the total current is zero, i.e. I = ∑(i) Ii = 0 (Ii ≠ 0) is the partial current of reaction i </text>
+      <links>
+        <item>
+          <title>reference electrode</title>
+          <url>https://goldbook.iupac.org/terms/view/R05229</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>I = ∑(i) Ii = 0 (Ii ≠ 0)</alttext>
+          <latex>I=\sum _{\begin{array}{c}
+i
+\end{array}}I_{i}=0\qquad (I_{i}\neq 0)</latex>
+        </item>
+        <item>
+          <meaning>Partial current of reaction i</meaning>
+          <type>quantity</type>
+          <alttext>Ii</alttext>
+          <latex>I_{i}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <meaning>Partial current of reaction i</meaning>
+          <type>equation</type>
+          <alttext>Ii = Ii,a + Ii,c</alttext>
+          <latex>I_{i}=I_{i,a}+I_{i,c}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1974, 37, 499. 'Electrochemical nomenclature' on page 513 (https://doi.org/10.1351/pac197437040499)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Mixed potential theory (en)</title>
+      <url>https://en.wikipedia.org/wiki/Mixed_potential_theory</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03944/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03944/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03944/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03944/plain</plain>
+  </links>
+  <citation>Citation: 'mixed potential' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03944</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:43:45+00:00</accessed>
+</term>

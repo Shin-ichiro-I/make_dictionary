@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05757</id>
+  <doi>10.1351/goldbook.S05757</doi>
+  <code>S05757</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - solvent parameter</longtitle>
+  <title>solvent parameter</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Quantitative measures of the capability of solvents for interaction with solutes. Such parameters have been based on numerous different physicochemical quantities, e.g. rate constants, solvatochromic shifts in ultraviolet/visible spectra, solvent-induced shifts in infrared frequencies, etc. Some solvent parameters are purely empirical in nature, i.e. they are based directly on some experimental measurement. It may be possible to interpret such a parameter as measuring some particular aspect of solvent–solute interaction or it may be regarded simply as a measure of solvent polarity. Other solvent parameters are based on analysing experimental results. Such a parameter is considered to quantify some particular aspect of solvent capability for interaction with solutes.</text>
+      <links>
+        <item>
+          <title>Dimroth–Reichardt ET parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/D01746</url>
+        </item>
+        <item>
+          <title>Grunwald–Winstein equation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02710</url>
+        </item>
+        <item>
+          <title>Kamlet–Taft solvent parameters</title>
+          <url>https://goldbook.iupac.org/terms/view/K03367</url>
+        </item>
+        <item>
+          <title>Koppel–Palm solvent parameters</title>
+          <url>https://goldbook.iupac.org/terms/view/K03412</url>
+        </item>
+        <item>
+          <title>solvophobicity parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/S05763</url>
+        </item>
+        <item>
+          <title>Z-value</title>
+          <url>https://goldbook.iupac.org/terms/view/Z06737</url>
+        </item>
+        <item>
+          <title>Dimroth–Reichardt ET parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/D01746</url>
+        </item>
+        <item>
+          <title>Grunwald–Winstein equation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02710</url>
+        </item>
+        <item>
+          <title>Kamlet–Taft solvent parameters</title>
+          <url>https://goldbook.iupac.org/terms/view/K03367</url>
+        </item>
+        <item>
+          <title>Koppel–Palm solvent parameters</title>
+          <url>https://goldbook.iupac.org/terms/view/K03412</url>
+        </item>
+        <item>
+          <title>solvophobicity parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/S05763</url>
+        </item>
+        <item>
+          <title>Z-value</title>
+          <url>https://goldbook.iupac.org/terms/view/Z06737</url>
+        </item>
+        <item>
+          <title>rate constants</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>Dimroth–Reichardt ET parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/D01746</url>
+        </item>
+        <item>
+          <title>Grunwald–Winstein equation</title>
+          <url>https://goldbook.iupac.org/terms/view/G02710</url>
+        </item>
+        <item>
+          <title>Kamlet–Taft solvent parameters</title>
+          <url>https://goldbook.iupac.org/terms/view/K03367</url>
+        </item>
+        <item>
+          <title>Koppel–Palm solvent parameters</title>
+          <url>https://goldbook.iupac.org/terms/view/K03412</url>
+        </item>
+        <item>
+          <title>solvophobicity parameter</title>
+          <url>https://goldbook.iupac.org/terms/view/S05763</url>
+        </item>
+        <item>
+          <title>Z-value</title>
+          <url>https://goldbook.iupac.org/terms/view/Z06737</url>
+        </item>
+        <item>
+          <title>rate constants</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>infrared</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07399</url>
+        </item>
+        <item>
+          <title>polarity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04710</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Dimroth–Reichardt parameter</meaning>
+          <type>quantity</type>
+          <alttext>E T</alttext>
+          <latex>E_{\text{T}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1164 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05757/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05757/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05757/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05757/plain</plain>
+  </links>
+  <citation>Citation: 'solvent parameter' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05757</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:14:35+00:00</accessed>
+</term>

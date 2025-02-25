@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00303</id>
+  <doi>10.1351/goldbook.A00303</doi>
+  <code>A00303</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - amphiphilic</longtitle>
+  <title>amphiphilic</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A term used to describe a compound containing a large organic cation or anion which possesses a long unbranched hydrocarbon chain, e.g. <br/>CH3(CH2)nCO2−M+<br/>CH3(CH2)nN+(CH3)3X− (n &amp;gt; 7 )<br/>CH3(CH2)nSO3−M+.<br/>The existence of distinct polar (hydrophilic) and nonpolar (hydrophobic) regions in the molecule promotes the formation of micelles in dilute aqueous solution.</text>
+      <links>
+        <item>
+          <title>amphipathic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00302</url>
+        </item>
+        <item>
+          <title>amphipathic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00302</url>
+        </item>
+        <item>
+          <title>cation</title>
+          <url>https://goldbook.iupac.org/terms/view/C00907</url>
+        </item>
+        <item>
+          <title>anion</title>
+          <url>https://goldbook.iupac.org/terms/view/A00358</url>
+        </item>
+        <item>
+          <title>hydrophilic</title>
+          <url>https://goldbook.iupac.org/terms/view/H02906</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1083 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Амфіфільність (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Амфіфільність</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00303/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00303/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00303/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00303/plain</plain>
+  </links>
+  <citation>Citation: 'amphiphilic' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00303</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:52:33+00:00</accessed>
+</term>

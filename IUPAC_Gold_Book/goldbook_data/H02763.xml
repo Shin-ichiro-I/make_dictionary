@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02763</id>
+  <doi>10.1351/goldbook.H02763</doi>
+  <code>H02763</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - helicity</longtitle>
+  <title>helicity</title>
+  <contains><i>M</i>, <span class="s"><i>P</i></span>, <span class="s"><i>M</i></span></contains>
+  <abbrevs>
+    <item>M</item>
+    <item>M</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The chirality of a helical, propeller or screw-shaped molecular entity. A right-handed helix is described as P (or plus), a left-handed one as M (or minus). [image: Not defined] [image: Not defined]  The application of this system to the description of conformations considers the torsion angle between two specified (fiducial) groups that are attached to the atoms linked by that bond. The sign of the smaller torsion angle between the fiducial groups defines the chirality sense of the helix. Rules for the selection of fiducial groups according to priority are given by R.S. Cahn, C.K. Ingold and V. Prelog, Angew. Chem. 78, 413-447 (1966), Angew. Chem. Internat. Ed. Eng. 5, 385-415, 511 (1966).</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02763-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02763-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>axial chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/A00547</url>
+        </item>
+        <item>
+          <title>Δ (delta), Λ (lambda)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01511</url>
+        </item>
+        <item>
+          <title>axial chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/A00547</url>
+        </item>
+        <item>
+          <title>Δ (delta), Λ (lambda)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01511</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>torsion angle</title>
+          <url>https://goldbook.iupac.org/terms/view/T06406</url>
+        </item>
+        <item>
+          <title>axial chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/A00547</url>
+        </item>
+        <item>
+          <title>Δ (delta), Λ (lambda)</title>
+          <url>https://goldbook.iupac.org/terms/view/D01511</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>torsion angle</title>
+          <url>https://goldbook.iupac.org/terms/view/T06406</url>
+        </item>
+        <item>
+          <title>helix</title>
+          <url>https://goldbook.iupac.org/terms/view/H02769</url>
+        </item>
+        <item>
+          <title>chirality sense</title>
+          <url>https://goldbook.iupac.org/terms/view/C01063</url>
+        </item>
+        <item>
+          <title>priority</title>
+          <url>https://goldbook.iupac.org/terms/view/P04854</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2209 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atropisomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Atropisomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Axial chirality (en)</title>
+      <url>https://en.wikipedia.org/wiki/Axial_chirality</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chiralité axiale (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Chiralité_axiale</url>
+    </item>
+    <item>
+      <title>Wikipedia - Descriptor (nl)</title>
+      <url>https://nl.wikipedia.org/wiki/Descriptor</url>
+    </item>
+    <item>
+      <title>Wikipedia - Deskriptor (Chemie) (de)</title>
+      <url>https://de.wikipedia.org/wiki/Deskriptor_(Chemie)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Helisowość (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Helisowość</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хиральность (химия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Хиральность_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 軸不斉 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/軸不斉</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02763/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02763/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02763/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02763/plain</plain>
+  </links>
+  <citation>Citation: 'helicity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02763</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:49:03+00:00</accessed>
+</term>

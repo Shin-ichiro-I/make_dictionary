@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07024</id>
+  <doi>10.1351/goldbook.ET07024</doi>
+  <code>ET07024</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electron density function</longtitle>
+  <title>electron density function</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The electron probability distribution function, ρ, defined as ρ r = n ∫ Ψ * r 1 r 2 ... r n Ψ  is an electronic wave-function and integration is made over the coordinates of all but the first electron of n. The physical interpretation of the electron density function is that ρ d r gives the probability of finding an electron in a volume element dr, i.e., electron density in this volume.</text>
+      <links>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+        <item>
+          <title>electron density</title>
+          <url>https://goldbook.iupac.org/terms/view/E01986</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ρ</alttext>
+          <latex>\rho </latex>
+        </item>
+        <item>
+          <alttext>ρ r = n ∫ Ψ * r 1 r 2 ... r n Ψ </alttext>
+          <latex>\rho (\mathbf{r}) = n\ \int \Psi ^{\text{*}}\left[\mathbf{r}(1),\mathbf{r}(2)\,\text{...}\,\mathbf{r}(n)\right]\ \Psi \left[\mathbf{r}(1),\mathbf{r}(2)\,\text{...}\,\mathbf{r}(n)\right]\text{d}\mathbf{r}(2)\,\text{...}\,\text{d}\mathbf{r}(n)</latex>
+        </item>
+        <item>
+          <alttext>Ψ</alttext>
+          <latex>\Psi </latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <alttext>ρ d r</alttext>
+          <latex>\rho \ \mathrm{d}\mathbf{\mathbf{r}}</latex>
+        </item>
+        <item>
+          <alttext>dr</alttext>
+          <latex>\mathrm{d}\mathbf{\mathbf{r}}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1937 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ET07024/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ET07024/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ET07024/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ET07024/plain</plain>
+  </links>
+  <citation>Citation: 'electron density function' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ET07024</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:13:25+00:00</accessed>
+</term>

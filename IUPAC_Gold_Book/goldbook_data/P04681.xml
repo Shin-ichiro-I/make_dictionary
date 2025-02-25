@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04681</id>
+  <doi>10.1351/goldbook.P04681</doi>
+  <code>P04681</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - planar chirality</longtitle>
+  <title>planar chirality</title>
+  <contains><span class="s"><i>R</i><sub>p</sub></span>, <span class="s"><i>S</i><sub>p</sub></span></contains>
+  <abbrevs>
+    <item>S</item>
+    <item>R</item>
+  </abbrevs>
+  <synonyms>
+    <item>planar stereoisomerism</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Term used by some authorities to refer to stereoisomerism resulting from the arrangement of out-of-plane groups with respect to a plane (chiralityplane). It is exemplified by the atropisomerism of (E)-cyclooctene (chiral plane = double bond and attached atoms) or monosubstituted paracyclophane (chiral plane = substituted ring). The configuration of molecular entities possessing planar chirality is specified by the stereodescriptors R p and S p (or P and M).[image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/P04681.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>stereoisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/S05983</url>
+        </item>
+        <item>
+          <title>plane</title>
+          <url>https://goldbook.iupac.org/terms/view/C01062</url>
+        </item>
+        <item>
+          <title>atropisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/A00511</url>
+        </item>
+        <item>
+          <title>stereoisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/S05983</url>
+        </item>
+        <item>
+          <title>plane</title>
+          <url>https://goldbook.iupac.org/terms/view/C01062</url>
+        </item>
+        <item>
+          <title>atropisomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/A00511</url>
+        </item>
+        <item>
+          <title>chirality</title>
+          <url>https://goldbook.iupac.org/terms/view/C01058</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>R p</alttext>
+          <latex>R_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>S p</alttext>
+          <latex>S_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>M</alttext>
+          <latex>M</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2213 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chiralité planaire (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Chiralité_planaire</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cyclooctene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cyclooctene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Planar chirality (en)</title>
+      <url>https://en.wikipedia.org/wiki/Planar_chirality</url>
+    </item>
+    <item>
+      <title>Wikipedia - Planare Chiralität (de)</title>
+      <url>https://de.wikipedia.org/wiki/Planare_Chiralität</url>
+    </item>
+    <item>
+      <title>Wikipedia - Planáris kiralitás (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Planáris_kiralitás</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trans-Cyclooctene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Trans-Cyclooctene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trans-cyklookten (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Trans-cyklookten</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хиральность (химия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Хиральность_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 面性キラリティー (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/面性キラリティー</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04681/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04681/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04681/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04681/plain</plain>
+  </links>
+  <citation>Citation: 'planar chirality' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04681</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:23:55+00:00</accessed>
+</term>

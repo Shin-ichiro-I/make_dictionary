@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00876</id>
+  <doi>10.1351/goldbook.C00876</doi>
+  <code>C00876</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - catalyst</longtitle>
+  <title>catalyst</title>
+  <termversion/>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A substance that increases the rate of a reaction without modifying the overall standard Gibbs energy change in the reaction; the process is called catalysis. The catalyst is both a reactant and product of the reaction. The words catalyst and catalysis should not be used when the added substance reduces the rate of reaction (see inhibitor ). Catalysis can be classified as homogeneous catalysis, in which only one phase is involved, and heterogeneous catalysis, in which the reaction occurs at or near an interface between phases. Catalysis brought about by one of the products of a reaction is called autocatalysis. Catalysis brought about by a group on a reactant molecule itself is called intramolecular catalysis. The term catalysis is also often used when the substance is consumed in the reaction (for example: base-catalysed hydrolysis of esters). Strictly, such a substance should be called an activator.</text>
+      <links>
+        <item>
+          <title>autocatalytic reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/A00525</url>
+        </item>
+        <item>
+          <title>bifunctional catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/B00642</url>
+        </item>
+        <item>
+          <title>catalytic coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C00885</url>
+        </item>
+        <item>
+          <title>electron-transfer catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/E02012</url>
+        </item>
+        <item>
+          <title>general acid catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/G02609</url>
+        </item>
+        <item>
+          <title>general base catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/G02610</url>
+        </item>
+        <item>
+          <title>intramolecular catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/I03131</url>
+        </item>
+        <item>
+          <title>micellar catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/M03885</url>
+        </item>
+        <item>
+          <title>Michaelis–Menten kinetics</title>
+          <url>https://goldbook.iupac.org/terms/view/M03892</url>
+        </item>
+        <item>
+          <title>phase-transfer catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04536</url>
+        </item>
+        <item>
+          <title>pseudo-catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04924</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>specific catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/S05796</url>
+        </item>
+        <item>
+          <title>autocatalytic reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/A00525</url>
+        </item>
+        <item>
+          <title>bifunctional catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/B00642</url>
+        </item>
+        <item>
+          <title>catalytic coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C00885</url>
+        </item>
+        <item>
+          <title>electron-transfer catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/E02012</url>
+        </item>
+        <item>
+          <title>general acid catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/G02609</url>
+        </item>
+        <item>
+          <title>general base catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/G02610</url>
+        </item>
+        <item>
+          <title>intramolecular catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/I03131</url>
+        </item>
+        <item>
+          <title>micellar catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/M03885</url>
+        </item>
+        <item>
+          <title>Michaelis–Menten kinetics</title>
+          <url>https://goldbook.iupac.org/terms/view/M03892</url>
+        </item>
+        <item>
+          <title>phase-transfer catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04536</url>
+        </item>
+        <item>
+          <title>pseudo-catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/P04924</url>
+        </item>
+        <item>
+          <title>rate of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/R05156</url>
+        </item>
+        <item>
+          <title>specific catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/S05796</url>
+        </item>
+        <item>
+          <title>catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/C00874</url>
+        </item>
+        <item>
+          <title>reactant</title>
+          <url>https://goldbook.iupac.org/terms/view/R05163</url>
+        </item>
+        <item>
+          <title>product</title>
+          <url>https://goldbook.iupac.org/terms/view/P04861</url>
+        </item>
+        <item>
+          <title>inhibitor</title>
+          <url>https://goldbook.iupac.org/terms/view/I03035</url>
+        </item>
+        <item>
+          <title>homogeneous catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/H02846</url>
+        </item>
+        <item>
+          <title>heterogeneous catalysis</title>
+          <url>https://goldbook.iupac.org/terms/view/H02804</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>hydrolysis</title>
+          <url>https://goldbook.iupac.org/terms/view/H02902</url>
+        </item>
+        <item>
+          <title>esters</title>
+          <url>https://goldbook.iupac.org/terms/view/E02219</url>
+        </item>
+        <item>
+          <title>activator</title>
+          <url>https://goldbook.iupac.org/terms/view/A00104</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1993, 65, 2291. 'Nomenclature of kinetic methods of analysis (IUPAC Recommendations 1993)' (https://doi.org/10.1351/pac199365102291)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Carbon nanotube supported catalyst (en)</title>
+      <url>https://en.wikipedia.org/wiki/Carbon_nanotube_supported_catalyst</url>
+    </item>
+    <item>
+      <title>Wikipedia - Catalisador (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Catalisador</url>
+    </item>
+    <item>
+      <title>Wikipedia - Catalisi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Catalisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cataliză (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Cataliză</url>
+    </item>
+    <item>
+      <title>Wikipedia - Catalysis (cy)</title>
+      <url>https://cy.wikipedia.org/wiki/Catalysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Catalysis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Catalysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Catalysis (ha)</title>
+      <url>https://ha.wikipedia.org/wiki/Catalysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Catalysis (la)</title>
+      <url>https://la.wikipedia.org/wiki/Catalysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Catàlisi (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Catàlisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Catálise (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Catálise</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemical reaction (en)</title>
+      <url>https://en.wikipedia.org/wiki/Chemical_reaction</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heterogeneous catalysis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Heterogeneous_catalysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homogeneous catalysis (en)</title>
+      <url>https://en.wikipedia.org/wiki/Homogeneous_catalysis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Homogenní katalýza (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Homogenní_katalýza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Katalisi (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Katalisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Katalisi homogeneo (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Katalisi_homogeneo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Katalisis (id)</title>
+      <url>https://id.wikipedia.org/wiki/Katalisis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kataliza (sh)</title>
+      <url>https://sh.wikipedia.org/wiki/Kataliza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Katalyse (no)</title>
+      <url>https://no.wikipedia.org/wiki/Katalyse</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemijska reakcija (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemijska_reakcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Kemična reakcija (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Kemična_reakcija</url>
+    </item>
+    <item>
+      <title>Wikipedia - Pembicaraan:Katalisis (id)</title>
+      <url>https://id.wikipedia.org/wiki/Pembicaraan:Katalisis</url>
+    </item>
+    <item>
+      <title>Wikipedia - Reaksi kimia (id)</title>
+      <url>https://id.wikipedia.org/wiki/Reaksi_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Réaksi kimia (jv)</title>
+      <url>https://jv.wikipedia.org/wiki/Réaksi_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Overman rearrangement (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Overman_rearrangement</url>
+    </item>
+    <item>
+      <title>Wikipedia - Tindak balas kimia (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Tindak_balas_kimia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Xúc tác (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Xúc_tác</url>
+    </item>
+    <item>
+      <title>Wikipedia - Катализа (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Катализа</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хемиска реакција (mk)</title>
+      <url>https://mk.wikipedia.org/wiki/Хемиска_реакција</url>
+    </item>
+    <item>
+      <title>Wikipedia - Хетерогена катализа (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Хетерогена_катализа</url>
+    </item>
+    <item>
+      <title>Wikipedia - کاتالیز ناهمگن (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/کاتالیز_ناهمگن</url>
+    </item>
+    <item>
+      <title>Wikipedia - வேதி வினை (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/வேதி_வினை</url>
+    </item>
+    <item>
+      <title>Wikipedia - ഉൽപ്രേരകം (ml)</title>
+      <url>https://ml.wikipedia.org/wiki/ഉൽപ്രേരകം</url>
+    </item>
+    <item>
+      <title>Wikipedia - การเร่งปฏิกิริยา (th)</title>
+      <url>https://th.wikipedia.org/wiki/การเร่งปฏิกิริยา</url>
+    </item>
+    <item>
+      <title>Wikipedia - 催化剂 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/催化剂</url>
+    </item>
+    <item>
+      <title>Wikipedia - 均相催化 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/均相催化</url>
+    </item>
+    <item>
+      <title>Wikipedia - 触媒 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/触媒</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00876/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00876/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00876/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00876/plain</plain>
+  </links>
+  <citation>Citation: 'catalyst' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00876</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:23:00+00:00</accessed>
+</term>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00858</id>
+  <doi>10.1351/goldbook.C00858</doi>
+  <code>C00858</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carotenoids</longtitle>
+  <title>carotenoids</title>
+  <termversion>2.0.2</termversion>
+  <lastupdated>2008-10-07</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Tetraterpenoids ( C40), formally derived from the acyclic parent, Ψ,Ψ-carotene I by hydrogenation, dehydrogenation, cyclization, oxidation, or combination of these processes. This class includes carotenes, xanthophylls and certain compounds that arise from rearrangement of the skeleton of I or by loss of part of this structure. Retinoids are excluded. [image: Not defined] [image: Not defined] [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C00858-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C00858-2.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C00858-3.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>retro</title>
+          <url>https://goldbook.iupac.org/terms/view/R05370</url>
+        </item>
+        <item>
+          <title>retro</title>
+          <url>https://goldbook.iupac.org/terms/view/R05370</url>
+        </item>
+        <item>
+          <title>tetraterpenoids</title>
+          <url>https://goldbook.iupac.org/terms/view/T06292</url>
+        </item>
+        <item>
+          <title>cyclization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01494</url>
+        </item>
+        <item>
+          <title>oxidation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04362</url>
+        </item>
+        <item>
+          <title>carotenes</title>
+          <url>https://goldbook.iupac.org/terms/view/C00857</url>
+        </item>
+        <item>
+          <title>xanthophylls</title>
+          <url>https://goldbook.iupac.org/terms/view/X06697</url>
+        </item>
+        <item>
+          <title>rearrangement</title>
+          <url>https://goldbook.iupac.org/terms/view/R05194</url>
+        </item>
+        <item>
+          <title>retinoids</title>
+          <url>https://goldbook.iupac.org/terms/view/R05369</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1326 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Carotenoidi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Carotenoidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Каротиноиды (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Каротиноиды</url>
+    </item>
+    <item>
+      <title>Wikipedia - أشباه كاروتينات (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أشباه_كاروتينات</url>
+    </item>
+    <item>
+      <title>Wikipedia - كاروتينات (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كاروتينات</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00858/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00858/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00858/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00858/plain</plain>
+  </links>
+  <citation>Citation: 'carotenoids' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00858</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:22:13+00:00</accessed>
+</term>

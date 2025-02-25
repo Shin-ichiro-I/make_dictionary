@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04339</id>
+  <doi>10.1351/goldbook.O04339</doi>
+  <code>O04339</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - oscillator strength, f_ij</longtitle>
+  <title>oscillator strength</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Measure for integrated intensity of electronic transitions and related to the Einstein transition probabilitycoefficientAi j by: fij = 1.4992 x 10E-14.(Aij/s^-1).(λ /nm)^2 is the transition wavelength. There are, however, differing uses of f.</text>
+      <links>
+        <item>
+          <title>Einstein</title>
+          <url>https://goldbook.iupac.org/terms/view/E01914</url>
+        </item>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Ai j</alttext>
+          <latex>A_{ij}</latex>
+        </item>
+        <item>
+          <alttext>fij = 1.4992 x 10E-14.(Aij/s^-1).(λ /nm)^2</alttext>
+          <latex>f_{ij} = 1.4992\times 10^{-14}\ \frac{A_{ij}}{s^{-1}}\ (\frac{\lambda }{\text{nm}})^{2}</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda </latex>
+        </item>
+        <item>
+          <alttext>f</alttext>
+          <latex>f</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 33 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2257 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - قوة تذبذب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/قوة_تذبذب</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04339/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04339/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04339/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04339/plain</plain>
+  </links>
+  <citation>Citation: 'oscillator strength' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04339</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:06:58+00:00</accessed>
+</term>

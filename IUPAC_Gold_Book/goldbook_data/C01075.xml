@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01075</id>
+  <doi>10.1351/goldbook.C01075</doi>
+  <code>C01075</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chromatography</longtitle>
+  <title>chromatography</title>
+  <termversion>2.3.2</termversion>
+  <lastupdated>2012-08-19</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A physical method of separation in which the components to be separated are distributed between two phases, one of which is stationary (stationary phase) while the other (the mobile phase) moves in a definite direction.</text>
+      <links>
+        <item>
+          <title>adsorption chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/A00157</url>
+        </item>
+        <item>
+          <title>affinity chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/A00177</url>
+        </item>
+        <item>
+          <title>column chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01182</url>
+        </item>
+        <item>
+          <title>displacement chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/D01797</url>
+        </item>
+        <item>
+          <title>elution chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/E02046</url>
+        </item>
+        <item>
+          <title>exclusion chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/E02261</url>
+        </item>
+        <item>
+          <title>frontal chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/F02532</url>
+        </item>
+        <item>
+          <title>gas chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/G02578</url>
+        </item>
+        <item>
+          <title>ion-exchange chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/I03168</url>
+        </item>
+        <item>
+          <title>isothermal chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/I03319</url>
+        </item>
+        <item>
+          <title>liquid chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/L03578</url>
+        </item>
+        <item>
+          <title>normal-phase chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/N04214</url>
+        </item>
+        <item>
+          <title>partition chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/P04436</url>
+        </item>
+        <item>
+          <title>planar chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/P04682</url>
+        </item>
+        <item>
+          <title>programmed-flow chromatography (flow programming)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04870</url>
+        </item>
+        <item>
+          <title>programmed-pressure chromatography (pressure programming)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04871</url>
+        </item>
+        <item>
+          <title>programmed-temperature chromatography (temperature programming)</title>
+          <url>https://goldbook.iupac.org/terms/view/P04872</url>
+        </item>
+        <item>
+          <title>pyrolysis-gas chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/P04962</url>
+        </item>
+        <item>
+          <title>reaction chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/R05167</url>
+        </item>
+        <item>
+          <title>reversed-phase chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/R05376</url>
+        </item>
+        <item>
+          <title>supercritical fluid chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/S06139</url>
+        </item>
+        <item>
+          <title>two-dimensional chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/T06540</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 92 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2179 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1993, 65, 819. 'Nomenclature for chromatography (IUPAC Recommendations 1993)' on page 823 (https://doi.org/10.1351/pac199365040819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cromatografia (it)</title>
+      <url>https://it.wikipedia.org/wiki/Cromatografia</url>
+    </item>
+    <item>
+      <title>Wikipedia - استشراب (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/استشراب</url>
+    </item>
+    <item>
+      <title>Wikipedia - كرماتوغرافيا (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كرماتوغرافيا</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01075/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01075/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01075/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01075/plain</plain>
+  </links>
+  <citation>Citation: 'chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01075</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:32:59+00:00</accessed>
+</term>

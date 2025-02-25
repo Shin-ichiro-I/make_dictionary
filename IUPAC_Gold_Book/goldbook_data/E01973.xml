@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01973</id>
+  <doi>10.1351/goldbook.E01973</doi>
+  <code>E01973</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - electromeric effect</longtitle>
+  <title>electromeric effect</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A molecular polarizability effect occurring by an intramolecular electron displacement (sometimes called the 'conjugative mechanism' and, previously, the 'tautomeric mechanism') characterized by the substitution of one electron pair for another within the same atomic octet of electrons. It can be indicated by curved arrows symbolizing the displacement of electron pairs, as in: [image: Not defined] which represents the hypothetical electron shift [image: Not defined] The term has been deemed obsolescent or even obsolete (see mesomeric effect, resonance effect). It has long been custom to use phrases such as 'enhanced substituent resonance effect' which imply the operation of the electromeric effect, without using the term, and various modern theoretical treatments parametrize the response of substituents to 'electronic demand', which amounts to considering the electromeric effect together with the inductomeric effect.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/E01973-1.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/E01973-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>polarizability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04711</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>conjugative mechanism</title>
+          <url>https://goldbook.iupac.org/terms/view/C01272</url>
+        </item>
+        <item>
+          <title>polarizability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04711</url>
+        </item>
+        <item>
+          <title>intramolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03130</url>
+        </item>
+        <item>
+          <title>conjugative mechanism</title>
+          <url>https://goldbook.iupac.org/terms/view/C01272</url>
+        </item>
+        <item>
+          <title>mesomeric effect</title>
+          <url>https://goldbook.iupac.org/terms/view/M03844</url>
+        </item>
+        <item>
+          <title>inductomeric effect</title>
+          <url>https://goldbook.iupac.org/terms/view/I03022</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1109 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Electromeric effect (en)</title>
+      <url>https://en.wikipedia.org/wiki/Electromeric_effect</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E01973/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E01973/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E01973/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E01973/plain</plain>
+  </links>
+  <citation>Citation: 'electromeric effect' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E01973</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:12:42+00:00</accessed>
+</term>

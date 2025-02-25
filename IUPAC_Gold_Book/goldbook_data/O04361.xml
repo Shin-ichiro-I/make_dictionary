@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04361</id>
+  <doi>10.1351/goldbook.O04361</doi>
+  <code>O04361</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - oxidant in atmospheric chemistry</longtitle>
+  <title>oxidant</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A very qualitative term which includes any and all trace gases which have a greater oxidation potential than oxygen (for example, ozone, peroxyacetyl nitrate, hydrogen peroxide, organic peroxides, NO3, etc.). It is recommended that alternative, more definitive terms be used which define the specific oxidant of interest whenever possible.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>oxidation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04362</url>
+        </item>
+        <item>
+          <title>peroxides</title>
+          <url>https://goldbook.iupac.org/terms/view/P04510</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2204 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Обговорення Вікіпедії:Проєкт:Хімія (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Обговорення_Вікіпедії:Проєкт:Хімія</url>
+    </item>
+    <item>
+      <title>Wikipedia - مؤكسد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مؤكسد</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04361/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04361/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04361/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04361/plain</plain>
+  </links>
+  <citation>Citation: 'oxidant' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04361</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:07:56+00:00</accessed>
+</term>

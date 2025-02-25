@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02661</id>
+  <doi>10.1351/goldbook.G02661</doi>
+  <code>G02661</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - glycosides</longtitle>
+  <title>glycosides</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Originally mixed acetals resulting from the attachment of a glycosyl group to a non-acyl group RO– (which itself may be derived from a saccharide and chalcogen replacements thereof (RS–, RSe–). [image: Not defined] The bond between the glycosyl group and the OR group is called a glycosidic bond. By extension, the terms N-glycosides and C-glycosides are used as class names for glycosylamines and for compounds having a glycosyl group attached to a hydrocarbyl group respectively. [image: Not defined] These terms are misnomers and should not be used. The preferred terms are glycosylamines and C-glycosyl compounds, respectively.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/G02661.png</file>
+        </item>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/G02661-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>acetals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00062</url>
+        </item>
+        <item>
+          <title>glycosyl group</title>
+          <url>https://goldbook.iupac.org/terms/view/G02665</url>
+        </item>
+        <item>
+          <title>saccharide</title>
+          <url>https://goldbook.iupac.org/terms/view/S05441</url>
+        </item>
+        <item>
+          <title>glycosylamines</title>
+          <url>https://goldbook.iupac.org/terms/view/G02663</url>
+        </item>
+        <item>
+          <title>acetals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00062</url>
+        </item>
+        <item>
+          <title>glycosyl group</title>
+          <url>https://goldbook.iupac.org/terms/view/G02665</url>
+        </item>
+        <item>
+          <title>saccharide</title>
+          <url>https://goldbook.iupac.org/terms/view/S05441</url>
+        </item>
+        <item>
+          <title>glycosylamines</title>
+          <url>https://goldbook.iupac.org/terms/view/G02663</url>
+        </item>
+        <item>
+          <title>attachment</title>
+          <url>https://goldbook.iupac.org/terms/view/A00512</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1338 (https://doi.org/10.1351/pac199567081307)</item>
+        <item>White Book, 2nd ed., p. 136 (https://iupac.qmul.ac.uk/bibliog/white.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Acetal (en)</title>
+      <url>https://en.wikipedia.org/wiki/Acetal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Acetal (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Acetal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Acetál (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Acetál</url>
+    </item>
+    <item>
+      <title>Wikipedia - Asetal (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Asetal</url>
+    </item>
+    <item>
+      <title>Wikipedia - Enlace glicosídico (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Enlace_glicosídico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glicosidi (it)</title>
+      <url>https://it.wikipedia.org/wiki/Glicosidi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glicosilamina (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Glicosilamina</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glikozidna veza (bs)</title>
+      <url>https://bs.wikipedia.org/wiki/Glikozidna_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glikozidna veza (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Glikozidna_veza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glycoside (de)</title>
+      <url>https://de.wikipedia.org/wiki/Glycoside</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glycoside (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glycoside</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glycoside (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Glycoside</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glycosidic bond (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glycosidic_bond</url>
+    </item>
+    <item>
+      <title>Wikipedia - Ligação glicosídica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Ligação_glicosídica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Wiązanie glikozydowe (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Wiązanie_glikozydowe</url>
+    </item>
+    <item>
+      <title>Wikipedia - غليكوسيد (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/غليكوسيد</url>
+    </item>
+    <item>
+      <title>Wikipedia - グリコシド結合 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/グリコシド結合</url>
+    </item>
+    <item>
+      <title>Wikipedia - 糖苷 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/糖苷</url>
+    </item>
+    <item>
+      <title>Wikipedia - 糖苷键 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/糖苷键</url>
+    </item>
+    <item>
+      <title>Wikipedia - 글리코사이드 결합 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/글리코사이드_결합</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02661/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02661/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02661/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02661/plain</plain>
+  </links>
+  <citation>Citation: 'glycosides' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02661</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:43:45+00:00</accessed>
+</term>

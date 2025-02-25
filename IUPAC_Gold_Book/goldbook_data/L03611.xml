@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03611</id>
+  <doi>10.1351/goldbook.L03611</doi>
+  <code>L03611</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - logarithmic normal distribution of a macromolecular assembly</longtitle>
+  <title>logarithmic normal distribution</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A continuous distribution with the differential mass-distribution function of the form: fw(x)dx = (1/(a.sqrt(π.x)).exp^(-1/a^).ln^2(x/b)).dxdx is a parameter characterizing the chain length, such as relative molecular mass or degree of polymerization and a and b are positive adjustable parameters.</text>
+      <contexts>
+        <of>
+          <item>a macromolecular assembly</item>
+        </of>
+      </contexts>
+      <links>
+        <item>
+          <title>mass-distribution function</title>
+          <url>https://goldbook.iupac.org/terms/view/M03716</url>
+        </item>
+        <item>
+          <title>chain length</title>
+          <url>https://goldbook.iupac.org/terms/view/C00956</url>
+        </item>
+        <item>
+          <title>relative molecular mass</title>
+          <url>https://goldbook.iupac.org/terms/view/R05271</url>
+        </item>
+        <item>
+          <title>degree of polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01569</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>fw(x)dx = (1/(a.sqrt(π.x)).exp^(-1/a^).ln^2(x/b)).dxdx</alttext>
+          <latex>f_{\text{w}}(x)\ \text{d}x = \frac{1}{a\ \sqrt{\pi \ x}}\ \exp (- \frac{1}{a^{2}}\ \ln ^{2}\frac{x}{b})\ \text{d}x</latex>
+        </item>
+        <item>
+          <alttext>x</alttext>
+          <latex>x</latex>
+        </item>
+        <item>
+          <alttext>a</alttext>
+          <latex>a</latex>
+        </item>
+        <item>
+          <alttext>b</alttext>
+          <latex>b</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Purple Book, 1st ed., p. 57 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03611/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03611/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03611/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03611/plain</plain>
+  </links>
+  <citation>Citation: 'logarithmic normal distribution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03611</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:28:28+00:00</accessed>
+</term>

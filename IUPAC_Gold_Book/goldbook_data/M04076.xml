@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04076</id>
+  <doi>10.1351/goldbook.M04076</doi>
+  <code>M04076</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mutual inductance, M</longtitle>
+  <title>mutual inductance</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For two thin conducting loops, the magnetic flux through one loop, caused by an electric current in the other loop, divided by that current.</text>
+      <links>
+        <item>
+          <title>magnetic flux</title>
+          <url>https://goldbook.iupac.org/terms/view/M03684</url>
+        </item>
+        <item>
+          <title>magnetic flux</title>
+          <url>https://goldbook.iupac.org/terms/view/M03684</url>
+        </item>
+        <item>
+          <title>electric current</title>
+          <url>https://goldbook.iupac.org/terms/view/E01927</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 15 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M04076/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M04076/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M04076/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M04076/plain</plain>
+  </links>
+  <citation>Citation: 'mutual inductance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M04076</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:51:32+00:00</accessed>
+</term>

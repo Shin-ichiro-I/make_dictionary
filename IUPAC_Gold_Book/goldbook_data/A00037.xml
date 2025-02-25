@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00037</id>
+  <doi>10.1351/goldbook.A00037</doi>
+  <code>A00037</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - absorption coefficient</longtitle>
+  <title>absorption coefficient</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Linear decadic (a,K) and Napierian absorption coefficients (α) are equal to the corresponding absorbances divided by the optical path length through the sample. The molar absorption coefficients (decadic ɛ, Napierian κ) are the linear absorption coefficients divided by the amount concentration.</text>
+      <links>
+        <item>
+          <title>absorbances</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>amount concentration</title>
+          <url>https://goldbook.iupac.org/terms/view/A00295</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Absorption coefficent</meaning>
+          <type>quantity</type>
+          <alttext>a</alttext>
+          <latex>a</latex>
+        </item>
+        <item>
+          <meaning>Absorption coefficent</meaning>
+          <type>quantity</type>
+          <alttext>K</alttext>
+          <latex>K</latex>
+        </item>
+        <item>
+          <meaning>Linear Napierian absorption coefficient</meaning>
+          <type>quantity</type>
+          <alttext>α</alttext>
+          <latex>\alpha </latex>
+        </item>
+        <item>
+          <meaning>Molar decadic absorption coefficient</meaning>
+          <type>quantity</type>
+          <alttext>ɛ</alttext>
+          <latex>\varepsilon</latex>
+        </item>
+        <item>
+          <meaning>Molar Napierian absorption coefficient</meaning>
+          <type>quantity</type>
+          <alttext>κ</alttext>
+          <latex>\kappa </latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 32 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2169 (https://doi.org/10.1351/pac199062112167)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2226 (https://doi.org/10.1351/pac199668122223)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 959 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Absorptivité molaire (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Absorptivité_molaire</url>
+    </item>
+    <item>
+      <title>Wikipedia - Attenuation coefficient (en)</title>
+      <url>https://en.wikipedia.org/wiki/Attenuation_coefficient</url>
+    </item>
+    <item>
+      <title>Wikipedia - Coefficient d'atténuation linéique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Coefficient_d'atténuation_linéique</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00037/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00037/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00037/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00037/plain</plain>
+  </links>
+  <citation>Citation: 'absorption coefficient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00037</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:38:42+00:00</accessed>
+</term>

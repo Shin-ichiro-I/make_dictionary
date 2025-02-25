@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01285</id>
+  <doi>10.1351/goldbook.C01285</doi>
+  <code>C01285</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - constitutional isomerism</longtitle>
+  <title>constitutional isomerism</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Isomerism between structures differing in constitution and described by different line formulae e.g. CH3OCH3 and CH3CH2OH.</text>
+      <links>
+        <item>
+          <title>isomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/I03294</url>
+        </item>
+        <item>
+          <title>isomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/I03294</url>
+        </item>
+        <item>
+          <title>constitution</title>
+          <url>https://goldbook.iupac.org/terms/view/C01282</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2205 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Isiméir struchtúrach (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Isiméir_struchtúrach</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomería estrutural (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Isomería_estrutural</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomérie (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Isomérie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Izomerie structurală (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Izomerie_structurală</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metamerism (Chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Metamerism_(Chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Metamerism (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Metamerism_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Structural isomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Structural_isomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Strukturní izomer (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Strukturní_izomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Алкин (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Алкин</url>
+    </item>
+    <item>
+      <title>Wikipedia - मध्यावयवता अथवा मेटामेरिज़्म (रसायन विज्ञान) (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/मध्यावयवता_अथवा_मेटामेरिज़्म_(रसायन_विज्ञान)</url>
+    </item>
+    <item>
+      <title>Wikipedia - 结构异构 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/结构异构</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01285/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01285/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01285/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01285/plain</plain>
+  </links>
+  <citation>Citation: 'constitutional isomerism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01285</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:43:32+00:00</accessed>
+</term>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05653</id>
+  <doi>10.1351/goldbook.S05653</doi>
+  <code>S05653</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - SI</longtitle>
+  <title>SI</title>
+  <synonyms>
+    <item>International system of units</item>
+  </synonyms>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Système International d'Unités, the international system of units established in 1960 and based on seven base units for the quantities: length, time, mass, electric current, thermodynamic temperature, amount of substance and luminous intensity.</text>
+      <links>
+        <item>
+          <title>Système International d'Unités</title>
+          <url>https://goldbook.iupac.org/terms/view/S06238</url>
+        </item>
+        <item>
+          <title>electric current</title>
+          <url>https://goldbook.iupac.org/terms/view/E01927</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>amount of substance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00297</url>
+        </item>
+        <item>
+          <title>luminous intensity</title>
+          <url>https://goldbook.iupac.org/terms/view/L03647</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 69 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 995 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Mole (it)</title>
+      <url>https://it.wikipedia.org/wiki/Mole</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mole (sc)</title>
+      <url>https://sc.wikipedia.org/wiki/Mole</url>
+    </item>
+    <item>
+      <title>Wikipedia - نظام الوحدات الدولي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/نظام_الوحدات_الدولي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05653/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05653/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05653/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05653/plain</plain>
+  </links>
+  <citation>Citation: 'SI' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05653</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:09:04+00:00</accessed>
+</term>

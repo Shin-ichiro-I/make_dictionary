@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03996</id>
+  <doi>10.1351/goldbook.M03996</doi>
+  <code>M03996</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - molecular orbital</longtitle>
+  <title>molecular orbital</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A one-electron wavefunction describing an electron moving in the effective field provided by the nuclei and all other electrons of a molecular entity of more than one atom. Such molecular orbitals can be transformed in prescribed ways into component functions to give 'localized molecular orbitals'. Molecular orbitals can also be described, in terms of the number of nuclei (or 'centres') encompassed, as two-centre, multi-centre, etc. molecular orbitals, and are often expressed as a linear combination of atomic orbitals. An orbital is usually depicted by sketching contours on which the wavefunction has a constant value (contour map) or by indicating schematically the envelope of the region of space in which there is an arbitrarily fixed high (say 96%) probability of finding the electron occupying the orbital, giving also the algebraic sign (+ or −) of the wavefunction in each part of that region.</text>
+      <links>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>atomic orbitals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00500</url>
+        </item>
+        <item>
+          <title>molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03986</url>
+        </item>
+        <item>
+          <title>atomic orbitals</title>
+          <url>https://goldbook.iupac.org/terms/view/A00500</url>
+        </item>
+        <item>
+          <title>probability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04855</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 18 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1142 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Molekyyliorbitaali (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Molekyyliorbitaali</url>
+    </item>
+    <item>
+      <title>Wikipedia - Orbital (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Orbital</url>
+    </item>
+    <item>
+      <title>Wikipedia - Orbitale molecolare (it)</title>
+      <url>https://it.wikipedia.org/wiki/Orbitale_molecolare</url>
+    </item>
+    <item>
+      <title>Wikipedia - مدار جزيئي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مدار_جزيئي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03996/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03996/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03996/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03996/plain</plain>
+  </links>
+  <citation>Citation: 'molecular orbital' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03996</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:47:01+00:00</accessed>
+</term>

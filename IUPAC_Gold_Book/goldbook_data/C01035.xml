@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01035</id>
+  <doi>10.1351/goldbook.C01035</doi>
+  <code>C01035</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemical relaxation</longtitle>
+  <title>chemical relaxation</title>
+  <contains>T-jump</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>If the equilibrium mixture of a chemical reaction is disturbed by a sudden change, especially of some external parameter (such as temperature, pressure or electrical field strength), the system will readjust itself to a new position of the chemical equilibrium or return to the original position, if the perturbation is temporary. The readjustment is known as chemical relaxation. In many cases, and in particular when the displacement from equilibrium is slight, the progress of the system towards equilibrium can be expressed as a first-order law: Ct - (Ceq)2 = [(Ceq)1 - (Ceq)2]e(-t/τ) and Ceq2 are the equilibrium concentrations of one of the chemical species involved in the reaction before and after the change in the external parameter, and Ct is its concentration at time t. The time parameter τ, named relaxation time, is related to the rate constants of the chemical reaction involved. Measurements of the relaxation times by relaxation methods [involving a temperature jump (T-jump), pressure jump, electric field jump or a periodic disturbance of an external parameter, as in ultrasonic techniques] are commonly used to follow the kinetics of very fast reactions.</text>
+      <links>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>relaxation time</title>
+          <url>https://goldbook.iupac.org/terms/view/R05287</url>
+        </item>
+        <item>
+          <title>chemical reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/C01033</url>
+        </item>
+        <item>
+          <title>relaxation time</title>
+          <url>https://goldbook.iupac.org/terms/view/R05287</url>
+        </item>
+        <item>
+          <title>chemical equilibrium</title>
+          <url>https://goldbook.iupac.org/terms/view/C01023</url>
+        </item>
+        <item>
+          <title>relaxation</title>
+          <url>https://goldbook.iupac.org/terms/view/R05285</url>
+        </item>
+        <item>
+          <title>temperature jump</title>
+          <url>https://goldbook.iupac.org/terms/view/T06265</url>
+        </item>
+        <item>
+          <title>pressure jump</title>
+          <url>https://goldbook.iupac.org/terms/view/P04823</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Ct - (Ceq)2 = [(Ceq)1 - (Ceq)2]e(-t/τ)</alttext>
+          <latex>C_{t}- \left(C_{\text{eq}}\right)_{2} = [\left(C_{\text{eq}}\right)_{1}- \left(C_{\text{eq}}\right)_{2}]\ \text{e}^{\frac{-t}{\tau }}</latex>
+        </item>
+        <item>
+          <alttext>Ceq1</alttext>
+          <latex>\left(C_{\text{eq}}\right)_{1}</latex>
+        </item>
+        <item>
+          <alttext>Ceq2</alttext>
+          <latex>\left(C_{\text{eq}}\right)_{2}</latex>
+        </item>
+        <item>
+          <alttext>Ct</alttext>
+          <latex>C_{t}</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <alttext>τ</alttext>
+          <latex>\tau </latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1096 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01035/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01035/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01035/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01035/plain</plain>
+  </links>
+  <citation>Citation: 'chemical relaxation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01035</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:30:43+00:00</accessed>
+</term>

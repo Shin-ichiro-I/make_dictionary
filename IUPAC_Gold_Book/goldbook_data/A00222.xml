@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00222</id>
+  <doi>10.1351/goldbook.A00222</doi>
+  <code>A00222</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - alkanes</longtitle>
+  <title>alkanes</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Acyclic branched or unbranched hydrocarbons having the general formula CnH2n+2 , and therefore consisting entirely of hydrogen atoms and saturated carbon atoms.</text>
+      <links>
+        <item>
+          <title>cycloalkanes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01497</url>
+        </item>
+        <item>
+          <title>cycloalkanes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01497</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1313 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Alcan (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Alcan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcani (it)</title>
+      <url>https://it.wikipedia.org/wiki/Alcani</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcà (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Alcà</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alcán (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Alcán</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkan (nds)</title>
+      <url>https://nds.wikipedia.org/wiki/Alkan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkan (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Alkan</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkana (id)</title>
+      <url>https://id.wikipedia.org/wiki/Alkana</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkana (ms)</title>
+      <url>https://ms.wikipedia.org/wiki/Alkana</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkanar (is)</title>
+      <url>https://is.wikipedia.org/wiki/Alkanar</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkane (de)</title>
+      <url>https://de.wikipedia.org/wiki/Alkane</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkane (en)</title>
+      <url>https://en.wikipedia.org/wiki/Alkane</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkaner (no)</title>
+      <url>https://no.wikipedia.org/wiki/Alkaner</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkano (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Alkano</url>
+    </item>
+    <item>
+      <title>Wikipedia - Alkany (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Alkany</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of civil engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_civil_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: A–L (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_A–L</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of structural engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_structural_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrokarbon (no)</title>
+      <url>https://no.wikipedia.org/wiki/Hydrokarbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Alkene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Alkene</url>
+    </item>
+    <item>
+      <title>Wikipedia - ألكان (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ألكان</url>
+    </item>
+    <item>
+      <title>Wikipedia - مسرد مصطلحات الهندسة المدنية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مسرد_مصطلحات_الهندسة_المدنية</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஆல்க்கேன் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஆல்க்கேன்</url>
+    </item>
+    <item>
+      <title>Wikipedia - アルカン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/アルカン</url>
+    </item>
+    <item>
+      <title>Wikipedia - ノート:アルカン (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ノート:アルカン</url>
+    </item>
+    <item>
+      <title>Wikipedia - 알케인 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/알케인</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00222/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00222/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00222/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00222/plain</plain>
+  </links>
+  <citation>Citation: 'alkanes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00222</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:48:06+00:00</accessed>
+</term>

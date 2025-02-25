@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02891</id>
+  <doi>10.1351/goldbook.H02891</doi>
+  <code>H02891</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - hydrocarbyl groups</longtitle>
+  <title>hydrocarbyl groups</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Univalent groups formed by removing a hydrogen atom from a hydrocarbon, e.g. ethyl, phenyl.</text>
+      <links>
+        <item>
+          <title>hydrocarbon</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>hydrocarbon</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>heterocyclyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02799</url>
+        </item>
+        <item>
+          <title>organoheteryl</title>
+          <url>https://goldbook.iupac.org/terms/view/O04327</url>
+        </item>
+        <item>
+          <title>organyl groups</title>
+          <url>https://goldbook.iupac.org/terms/view/O04329</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1341 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Hidreacarbón (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Hidreacarbón</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrocarbur (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Hidrocarbur</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrokarburo (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Hidrokarburo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrocarbon (en)</title>
+      <url>https://en.wikipedia.org/wiki/Hydrocarbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrocaurbon (sco)</title>
+      <url>https://sco.wikipedia.org/wiki/Hydrocaurbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Κατηγορία:Υδρογονάνθρακες (el)</title>
+      <url>https://el.wikipedia.org/wiki/Κατηγορία:Υδρογονάνθρακες</url>
+    </item>
+    <item>
+      <title>Wikipedia - Υδρογονάνθρακες (el)</title>
+      <url>https://el.wikipedia.org/wiki/Υδρογονάνθρακες</url>
+    </item>
+    <item>
+      <title>Wikipedia - Угљоводоник (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Угљоводоник</url>
+    </item>
+    <item>
+      <title>Wikipedia - هيدروكربون (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/هيدروكربون</url>
+    </item>
+    <item>
+      <title>Wikipedia - நீரகக்கரிமம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/நீரகக்கரிமம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - හයිඩ්‍රොකාබන (si)</title>
+      <url>https://si.wikipedia.org/wiki/හයිඩ්‍රොකාබන</url>
+    </item>
+    <item>
+      <title>Wikipedia - ไฮโดรคาร์บอน (th)</title>
+      <url>https://th.wikipedia.org/wiki/ไฮโดรคาร์บอน</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02891/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02891/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02891/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02891/plain</plain>
+  </links>
+  <citation>Citation: 'hydrocarbyl groups' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02891</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:55:33+00:00</accessed>
+</term>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00441</id>
+  <doi>10.1351/goldbook.A00441</doi>
+  <code>A00441</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - aromatic</longtitle>
+  <title>aromatic</title>
+  <abbrevs>
+    <item>NMR</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>In the traditional sense, 'having a chemistry typified by benzene'.</text>
+    </item>
+    <item>
+      <id>2</id>
+      <text>A cyclically conjugated molecular entity with a stability (due to delocalization) significantly greater than that of a hypothetical localized structure (e.g. Kekulé structure) is said to possess aromatic character. If the structure is of higher energy (less stable) than such a hypothetical classical structure, the molecular entity is 'antiaromatic'. The most widely used method for determining aromaticity is the observation of diatropicity in the 1HNMR spectrum.</text>
+      <links>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>Möbius aromaticity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03957</url>
+        </item>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>Möbius aromaticity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03957</url>
+        </item>
+        <item>
+          <title>conjugated molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01583</url>
+        </item>
+        <item>
+          <title>Kekulé structure</title>
+          <url>https://goldbook.iupac.org/terms/view/K03373</url>
+        </item>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>Möbius aromaticity</title>
+          <url>https://goldbook.iupac.org/terms/view/M03957</url>
+        </item>
+        <item>
+          <title>conjugated molecular entity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01267</url>
+        </item>
+        <item>
+          <title>delocalization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01583</url>
+        </item>
+        <item>
+          <title>Kekulé structure</title>
+          <url>https://goldbook.iupac.org/terms/view/K03373</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+        <item>
+          <title>aromaticity</title>
+          <url>https://goldbook.iupac.org/terms/view/A00442</url>
+        </item>
+      </links>
+    </item>
+    <item>
+      <id>3</id>
+      <text>The terms aromatic and antiaromatic have been extended to describe the stabilization or destabilization of transition states of pericyclic reactions. The hypothetical reference structure is here less clearly defined, and use of the term is based on application of the Hückel (4n + 2) rule and on consideration of the topology of orbital overlap in the transition state. Reactions of molecules in the ground state involving antiaromatic transition states proceed, if at all, much less easily than those involving aromatic transition states.</text>
+      <links>
+        <item>
+          <title>transition states</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>pericyclic reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04491</url>
+        </item>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+        <item>
+          <title>transition state</title>
+          <url>https://goldbook.iupac.org/terms/view/T06468</url>
+        </item>
+        <item>
+          <title>pericyclic reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/P04491</url>
+        </item>
+        <item>
+          <title>Hückel (4n + 2) rule</title>
+          <url>https://goldbook.iupac.org/terms/view/H02867</url>
+        </item>
+        <item>
+          <title>ground state</title>
+          <url>https://goldbook.iupac.org/terms/view/G02704</url>
+        </item>
+      </links>
+    </item>
+  </definitions>
+  <sources>'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' Muller, P.; Pure and Applied Chemistry 1994 66(5) 1077</sources>
+  <seealso>'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' Moss, G.P.;Smith, P.A.S.;Tavernier, D.; Pure and Applied Chemistry 1995 67(8-9) 1307</seealso>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aromatische Kohlenwasserstoffe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Aromatische_Kohlenwasserstoffe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composti aromatici (it)</title>
+      <url>https://it.wikipedia.org/wiki/Composti_aromatici</url>
+    </item>
+    <item>
+      <title>Wikipedia - 芳香族化合物 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/芳香族化合物</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00441/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00441/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00441/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00441/plain</plain>
+  </links>
+  <citation>Citation: 'aromatic' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00441</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:58:45+00:00</accessed>
+</term>

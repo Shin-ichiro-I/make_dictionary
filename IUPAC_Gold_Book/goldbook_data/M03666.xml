@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03666</id>
+  <doi>10.1351/goldbook.M03666</doi>
+  <code>M03666</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - macromolecular isomorphism</longtitle>
+  <title>macromolecular isomorphism</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Statistical co-crystallization of different constitutional repeating units which may either belong to the same copolymer chains (copolymer isomorphism) or originate from different homopolymer chains (homopolymer isomorphism). Isomorphism is a general term: in the strict sense, the crystal structure is essentially the same throughout the range of compositions; in isodimorphism or isopolymorphism, there are two or more crystal structures, respectively, depending on composition.</text>
+      <links>
+        <item>
+          <title>crystallization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01434</url>
+        </item>
+        <item>
+          <title>copolymer (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01335</url>
+        </item>
+        <item>
+          <title>homopolymer (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02854</url>
+        </item>
+        <item>
+          <title>crystallization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01434</url>
+        </item>
+        <item>
+          <title>copolymer (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01335</url>
+        </item>
+        <item>
+          <title>homopolymer (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/H02854</url>
+        </item>
+        <item>
+          <title>constitutional repeating units (in polymers)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01286</url>
+        </item>
+      </links>
+      <sources>
+        <item>Purple Book, 1st ed., p. 80 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03666/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03666/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03666/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03666/plain</plain>
+  </links>
+  <citation>Citation: 'macromolecular isomorphism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03666</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:30:51+00:00</accessed>
+</term>

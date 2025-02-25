@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03123</id>
+  <doi>10.1351/goldbook.I03123</doi>
+  <code>I03123</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - intersystem crossing</longtitle>
+  <title>intersystem crossing</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A photophysical process. An isoenergetic radiationless transition between two electronic states having different multiplicities. It often results in a vibrationally excited molecular entity in the lower electronic state, which then usually deactivates to its lowest vibrational level.</text>
+      <links>
+        <item>
+          <title>radiationless transition</title>
+          <url>https://goldbook.iupac.org/terms/view/R05057</url>
+        </item>
+        <item>
+          <title>electronic state</title>
+          <url>https://goldbook.iupac.org/terms/view/ET07026</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 187 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2248 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Conversion intersystème (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Conversion_intersystème</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cruce intersistema (es)</title>
+      <url>https://es.wikipedia.org/wiki/Cruce_intersistema</url>
+    </item>
+    <item>
+      <title>Wikipedia - Incrocio intersistema (it)</title>
+      <url>https://it.wikipedia.org/wiki/Incrocio_intersistema</url>
+    </item>
+    <item>
+      <title>Wikipedia - Intersystem crossing (en)</title>
+      <url>https://en.wikipedia.org/wiki/Intersystem_crossing</url>
+    </item>
+    <item>
+      <title>Wikipedia - Інтеркомбінаційна конверсія (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Інтеркомбінаційна_конверсія</url>
+    </item>
+    <item>
+      <title>Wikipedia - Интеркомбинационная конверсия (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Интеркомбинационная_конверсия</url>
+    </item>
+    <item>
+      <title>Wikipedia - 項間交差 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/項間交差</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03123/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03123/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03123/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03123/plain</plain>
+  </links>
+  <citation>Citation: 'intersystem crossing' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03123</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:07:11+00:00</accessed>
+</term>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07313</id>
+  <doi>10.1351/goldbook.AT07313</doi>
+  <code>AT07313</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - absorbed (spectral) radiant power density</longtitle>
+  <title>absorbed (spectral) radiant power density</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Spectral radiant energy per time interval (spectral radiant power, Pλ) absorbed by a system per volume, V. SI unit is W m-4; common unit is W cm-3 nm-1.</text>
+      <notes>
+        <item>Mathematical expression: Pλ0[1 - 10^(-A(λ))]/V, where Aλ is the absorbance at wavelength λ and superscript 0 (zero) indicates incident radiant power.</item>
+      </notes>
+      <links>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>spectral radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/S05828</url>
+        </item>
+        <item>
+          <title>absorbance</title>
+          <url>https://goldbook.iupac.org/terms/view/A00028</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>spectral radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/S05828</url>
+        </item>
+        <item>
+          <title>radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05046</url>
+        </item>
+        <item>
+          <title>Spectral radiant energy</title>
+          <url>https://goldbook.iupac.org/terms/view/ST07480</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Pλ</alttext>
+          <latex>P_{\lambda}</latex>
+        </item>
+        <item>
+          <alttext>V</alttext>
+          <latex>V</latex>
+        </item>
+        <item>
+          <alttext>W m-4</alttext>
+          <latex>\text{W m}^{-4}</latex>
+        </item>
+        <item>
+          <alttext>W cm-3 nm-1</alttext>
+          <latex>\text{W cm}^{-3}\ \text{nm}^{-1}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>Pλ0[1 - 10^(-A(λ))]/V</alttext>
+          <latex>\frac{P_{\lambda}^{0}[1 - 10^{-A(\lambda)}]}{V}</latex>
+        </item>
+        <item>
+          <alttext>Aλ</alttext>
+          <latex>A(\lambda)</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+        <item>
+          <alttext>0</alttext>
+          <latex>0</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 297 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/AT07313/html</html>
+    <json>https://goldbook.iupac.org/terms/view/AT07313/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/AT07313/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/AT07313/plain</plain>
+  </links>
+  <citation>Citation: 'absorbed (spectral) radiant power density' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.AT07313</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:38:19+00:00</accessed>
+</term>

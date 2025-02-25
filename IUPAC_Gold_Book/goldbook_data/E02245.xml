@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02245</id>
+  <doi>10.1351/goldbook.E02245</doi>
+  <code>E02245</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - excipient in toxicology</longtitle>
+  <title>excipient</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any more or less inert substance added to a drug to give suitable consistency or form to the drug.</text>
+      <contexts>
+        <in>
+          <item>toxicology</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>inert</title>
+          <url>https://goldbook.iupac.org/terms/view/I03026</url>
+        </item>
+        <item>
+          <title>drug</title>
+          <url>https://goldbook.iupac.org/terms/view/D01863</url>
+        </item>
+        <item>
+          <title>consistency</title>
+          <url>https://goldbook.iupac.org/terms/view/C01279</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2003. 'Glossary for chemists of terms used in toxicology (IUPAC Recommendations 1993)' on page 2046 (https://doi.org/10.1351/pac199365092003)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - سواغ (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/سواغ</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02245/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02245/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02245/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02245/plain</plain>
+  </links>
+  <citation>Citation: 'excipient' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02245</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:24:51+00:00</accessed>
+</term>

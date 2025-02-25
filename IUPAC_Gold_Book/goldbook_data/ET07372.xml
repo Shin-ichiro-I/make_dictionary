@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07372</id>
+  <doi>10.1351/goldbook.ET07372</doi>
+  <code>ET07372</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - excimer lamp</longtitle>
+  <title>excimer lamp</title>
+  <abbrevs>
+    <item>UV</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Non-coherent source of ultravioletradiation capable of producing quasi-monochromatic radiation from the near UV (λ = 354 nm) to the vacuum UV (λ = 126 nm). The operation of the excimer lamps relies on the radiative decomposition of excimers or exciplexes created by various types of discharges.</text>
+      <notes>
+        <item>Using noble gas, halogen, or noble gas / halogen mixtures with fill pressure ∼ 30 kPa, the radiative decomposition of the excimer or the exciplex produces nearly monochromatic radiation. Some of the commercially available wavelengths for the particular excimers or exciplexes are 126 nm with Ar2, 146 nm with Kr2, 172 nm with Xe2, 222 nm with KrCl, and 308 nm with XeCl, obtained with efficiencies of 5-15%. Pulsed Xe-excimer (Xe2) lamps may have up to 40 % efficiency. Good efficiencies are also obtained with XeBr at 291 nm and with XeI at 253 nm. Other wavelengths produced with much less efficiency are 207 nm (KrBr), 253 nm (XeI), 259 nm (Cl2), and 341 nm (I2) (see Table 1). <br/>Table 1: Peak wavelengths (nm) obtained in dielectric-barrier discharges with mixtures of noble gas (Ng) and halogen (X2). Wavelengths of commercially available lamps are shown in boldface type. The molecular species indicated are excimers or exciplexes.     X2 Ne Ar Kr Xe     Ng2   126 146 172   F 157 108193249354Cl259175222308Br291165207283I341190253</item>
+        <item>Phosphors are used to transform the UV radiation into visible radiation. This is the basis of mercury-free fluorescent lamps and of flat plasma-display panels with a large screen.</item>
+      </notes>
+      <links>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+        <item>
+          <title>excimer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02242</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>decomposition</title>
+          <url>https://goldbook.iupac.org/terms/view/D01547</url>
+        </item>
+        <item>
+          <title>excimer</title>
+          <url>https://goldbook.iupac.org/terms/view/E02242</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>ultraviolet</title>
+          <url>https://goldbook.iupac.org/terms/view/UT07492</url>
+        </item>
+        <item>
+          <title>exciplex</title>
+          <url>https://goldbook.iupac.org/terms/view/E02246</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>λ = 354 nm</alttext>
+          <latex>\lambda = 354\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>λ = 126 nm</alttext>
+          <latex>\lambda = 126\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>∼ 30 kPa</alttext>
+          <latex>\sim 30\ \text{kPa}</latex>
+        </item>
+        <item>
+          <alttext>126 nm</alttext>
+          <latex>126\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>146 nm</alttext>
+          <latex>146\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>172 nm</alttext>
+          <latex>172\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>222 nm</alttext>
+          <latex>222\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>308 nm</alttext>
+          <latex>308\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>291 nm</alttext>
+          <latex>291\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>253 nm</alttext>
+          <latex>253\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>207 nm</alttext>
+          <latex>207\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>253 nm</alttext>
+          <latex>253\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>259 nm</alttext>
+          <latex>259\ \text{nm}</latex>
+        </item>
+        <item>
+          <alttext>341 nm</alttext>
+          <latex>341\ \text{nm}</latex>
+        </item>
+        <item>
+          <type>unit</type>
+          <alttext>nm</alttext>
+          <latex>\text{nm}</latex>
+        </item>
+        <item>
+          <meaning>Five to fifteen percent</meaning>
+          <type>numeric value with unit</type>
+          <alttext>5-15%</alttext>
+          <latex>5{-}15\,\%</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 335 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/ET07372/html</html>
+    <json>https://goldbook.iupac.org/terms/view/ET07372/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/ET07372/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/ET07372/plain</plain>
+  </links>
+  <citation>Citation: 'excimer lamp' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.ET07372</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:24:43+00:00</accessed>
+</term>

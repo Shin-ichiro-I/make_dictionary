@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01164</id>
+  <doi>10.1351/goldbook.C01164</doi>
+  <code>C01164</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - collision efficiency, B_c</longtitle>
+  <title>collision efficiency</title>
+  <synonyms>
+    <item>de-energization efficiency</item>
+  </synonyms>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The collision efficiency, or de-energization efficiency, is defined by: k-1 = Bc.k-1scis the rate constant for a particular substance M when it brings about the de-energization process [image: Not defined] and k-1sc is the corresponding rate constant for a reference molecule M r that de-energizes A* on every collision; that is, the reference molecule M r undergoes strong collisions, and by definition has a collision efficiency Bc of unity. The species A* is usually in a vibrationally-excited state, and A has energy less than that required for reaction to occur.</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/C01164.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>strong collisions</title>
+          <url>https://goldbook.iupac.org/terms/view/S06059</url>
+        </item>
+        <item>
+          <title>rate constant</title>
+          <url>https://goldbook.iupac.org/terms/view/O04322</url>
+        </item>
+        <item>
+          <title>strong collisions</title>
+          <url>https://goldbook.iupac.org/terms/view/S06059</url>
+        </item>
+        <item>
+          <title>excited state</title>
+          <url>https://goldbook.iupac.org/terms/view/E02257</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>De-energizing rate constant (in collision efficiency)</meaning>
+          <type>equation</type>
+          <alttext>k-1 = Bc.k-1sc</alttext>
+          <latex>k_{\text{-1}} = B_{\text{c}}\ k_{\text{-1}}^{\text{sc}}</latex>
+        </item>
+        <item>
+          <meaning>De-energizing rate constant (in collision efficiency)</meaning>
+          <type>quantity</type>
+          <alttext>k-1</alttext>
+          <latex>k_{-1}</latex>
+        </item>
+        <item>
+          <alttext>M</alttext>
+          <latex>\text{M}</latex>
+        </item>
+        <item>
+          <meaning>De-energizing rate constant for reference molecule (in collision efficiency)</meaning>
+          <type>quantity</type>
+          <alttext>k-1sc</alttext>
+          <latex>k_{-1}^{\text{sc}}</latex>
+        </item>
+        <item>
+          <alttext>M r</alttext>
+          <latex>\text{M}_{\text{r}}</latex>
+        </item>
+        <item>
+          <alttext>A*</alttext>
+          <latex>\text{A}^{*}</latex>
+        </item>
+        <item>
+          <alttext>M r</alttext>
+          <latex>\text{M}_{\text{r}}</latex>
+        </item>
+        <item>
+          <alttext>Bc</alttext>
+          <latex>B_{\text{c}}</latex>
+        </item>
+        <item>
+          <alttext>A*</alttext>
+          <latex>\text{A}^{*}</latex>
+        </item>
+        <item>
+          <alttext>A</alttext>
+          <latex>\text{A}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 159 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01164/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01164/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01164/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01164/plain</plain>
+  </links>
+  <citation>Citation: 'collision efficiency' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01164</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:36:48+00:00</accessed>
+</term>

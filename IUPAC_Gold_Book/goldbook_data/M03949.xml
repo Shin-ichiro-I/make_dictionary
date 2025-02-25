@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03949</id>
+  <doi>10.1351/goldbook.M03949</doi>
+  <code>M03949</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - mixture</longtitle>
+  <title>mixture</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Portion of matter consisting of two or more chemical substances called constituents.</text>
+      <links>
+        <item>
+          <title>constituents</title>
+          <url>https://goldbook.iupac.org/terms/view/C01281</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 533. 'Standard quantities in chemical thermodynamics. Fugacities, activities and equilibrium constants for pure and mixed phases (IUPAC Recommendations 1994)' on page 535 (https://doi.org/10.1351/pac199466030533)</item>
+        <item>Physical Chemistry Division, unpublished</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Amiestu (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Amiestu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Campuran (id)</title>
+      <url>https://id.wikipedia.org/wiki/Campuran</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chimica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chimica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Keverékek (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Keverékek</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mes'ciada (chimica) (lmo)</title>
+      <url>https://lmo.wikipedia.org/wiki/Mes'ciada_(chimica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mezcla (es)</title>
+      <url>https://es.wikipedia.org/wiki/Mezcla</url>
+    </item>
+    <item>
+      <title>Wikipedia - Miscela (it)</title>
+      <url>https://it.wikipedia.org/wiki/Miscela</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mistura (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Mistura</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mixtura (la)</title>
+      <url>https://la.wikipedia.org/wiki/Mixtura</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mixture (en)</title>
+      <url>https://en.wikipedia.org/wiki/Mixture</url>
+    </item>
+    <item>
+      <title>Wikipedia - Mixture (simple)</title>
+      <url>https://simple.wikipedia.org/wiki/Mixture</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Chemical substance (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Chemical_substance</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Mixture (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Mixture</url>
+    </item>
+    <item>
+      <title>Wikipedia - Zmes (sl)</title>
+      <url>https://sl.wikipedia.org/wiki/Zmes</url>
+    </item>
+    <item>
+      <title>Wikipedia - Смесь (химия) (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Смесь_(химия)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Смеша (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Смеша</url>
+    </item>
+    <item>
+      <title>Wikipedia - Суміш (хімія) (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Суміш_(хімія)</url>
+    </item>
+    <item>
+      <title>Wikipedia - خليط (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/خليط</url>
+    </item>
+    <item>
+      <title>Wikipedia - مزيج (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مزيج</url>
+    </item>
+    <item>
+      <title>Wikipedia - মিশ্র পদার্থ (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/মিশ্র_পদার্থ</url>
+    </item>
+    <item>
+      <title>Wikipedia - கலவை (வேதியியல்) (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/கலவை_(வேதியியல்)</url>
+    </item>
+    <item>
+      <title>Wikipedia - ಮಿಶ್ರಣ (kn)</title>
+      <url>https://kn.wikipedia.org/wiki/ಮಿಶ್ರಣ</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03949/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03949/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03949/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03949/plain</plain>
+  </links>
+  <citation>Citation: 'mixture' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03949</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:44:01+00:00</accessed>
+</term>

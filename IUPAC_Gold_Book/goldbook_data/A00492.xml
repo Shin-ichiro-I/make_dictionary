@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00492</id>
+  <doi>10.1351/goldbook.A00492</doi>
+  <code>A00492</code>
+  <status>obsolete</status>
+  <longtitle>IUPAC Gold Book - atmospheric pressure ionization in mass spectrometry</longtitle>
+  <title>atmospheric pressure ionization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An ambiguous term; in essence, it is used to describe chemical ionization at atmospheric pressure. It is recommended that use of the term be discontinued.</text>
+      <contexts>
+        <in>
+          <item>mass  spectrometry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>ionization</title>
+          <url>https://goldbook.iupac.org/terms/view/I03183</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1991, 63, 1541. 'Recommendations for nomenclature and symbolism for mass spectroscopy (including an appendix of terms used in vacuum technology). (Recommendations 1991)' on page 1547 (https://doi.org/10.1351/pac199163101541)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Ion source (en)</title>
+      <url>https://en.wikipedia.org/wiki/Ion_source</url>
+    </item>
+    <item>
+      <title>Wikipedia - イオン源 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/イオン源</url>
+    </item>
+    <item>
+      <title>Wikipedia - 加速電圧 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/加速電圧</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00492/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00492/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00492/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00492/plain</plain>
+  </links>
+  <citation>Citation: 'atmospheric pressure ionization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00492</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:01:17+00:00</accessed>
+</term>

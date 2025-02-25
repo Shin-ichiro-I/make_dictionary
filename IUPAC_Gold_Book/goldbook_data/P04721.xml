@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04721</id>
+  <doi>10.1351/goldbook.P04721</doi>
+  <code>P04721</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polychromator</longtitle>
+  <title>polychromator</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An extension of a monochromator, a number of exit slits being placed in the focal plane, so allowing a number of discrete bands to pass through (to fall, for example, upon a number of photomultipliers).</text>
+      <links>
+        <item>
+          <title>monochromator</title>
+          <url>https://goldbook.iupac.org/terms/view/M04009</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 156 (https://media.iupac.org/publications/analytical_compendium/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04721/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04721/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04721/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04721/plain</plain>
+  </links>
+  <citation>Citation: 'polychromator' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04721</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:25:55+00:00</accessed>
+</term>

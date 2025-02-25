@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03524</id>
+  <doi>10.1351/goldbook.L03524</doi>
+  <code>L03524</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - light polarization</longtitle>
+  <title>light polarization</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A light beam is said to be linearly polarized if the end-point of the electric vector moves in a straight line when viewed along the direction of propagation of the beam. If it moves along a circle the beam is circularly polarized and if it moves along an ellipse the beam is elliptically polarized.</text>
+      <notes>
+        <item>Circular polarization is said to be right-handed if the direction of rotation is clockwise when viewed against the direction of propagation and left-handed if the sense of the rotation is opposite. When the position of the endpoint of the electric vector is viewed at a given time t as a function of distance along x, it forms a left-handed helix if the light polarization is left-handed and a right-handed helix if it is right-handed.</item>
+      </notes>
+      <links>
+        <item>
+          <title>polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04712</url>
+        </item>
+        <item>
+          <title>propagation</title>
+          <url>https://goldbook.iupac.org/terms/view/P04881</url>
+        </item>
+        <item>
+          <title>helix</title>
+          <url>https://goldbook.iupac.org/terms/view/H02769</url>
+        </item>
+        <item>
+          <title>end-point</title>
+          <url>https://goldbook.iupac.org/terms/view/E02096</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 364 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03524/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03524/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03524/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03524/plain</plain>
+  </links>
+  <citation>Citation: 'light polarization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03524</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:23:36+00:00</accessed>
+</term>

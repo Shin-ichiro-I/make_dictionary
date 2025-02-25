@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03963</id>
+  <doi>10.1351/goldbook.M03963</doi>
+  <code>M03963</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - modified Arrhenius equation</longtitle>
+  <title>modified Arrhenius equation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>This is an extension of the simple Arrhenius equation in which the pre-exponential factor is proportional to T n where T is the temperature and n a constant: k = BT^n.exp^(-Ea/R.T) is a temperature-independent constant.</text>
+      <links>
+        <item>
+          <title>Arrhenius equation</title>
+          <url>https://goldbook.iupac.org/terms/view/A00446</url>
+        </item>
+        <item>
+          <title>pre-exponential factor</title>
+          <url>https://goldbook.iupac.org/terms/view/P04811</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>T n</alttext>
+          <latex>T^{n}</latex>
+        </item>
+        <item>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <meaning>Rate constant</meaning>
+          <type>equation</type>
+          <alttext>k = BT^n.exp^(-Ea/R.T)</alttext>
+          <latex>k = B\ T^{n}\ \exp(-E_{\text{a}}/RT)</latex>
+        </item>
+        <item>
+          <alttext>B</alttext>
+          <latex>B</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 174 (https://doi.org/10.1351/pac199668010149)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Arrheniuksen yhtälö (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Arrheniuksen_yhtälö</url>
+    </item>
+    <item>
+      <title>Wikipedia - Arrhenius equation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Arrhenius_equation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Arrhenius-Gleichung (de)</title>
+      <url>https://de.wikipedia.org/wiki/Arrhenius-Gleichung</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/M03963/html</html>
+    <json>https://goldbook.iupac.org/terms/view/M03963/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/M03963/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/M03963/plain</plain>
+  </links>
+  <citation>Citation: 'modified Arrhenius equation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.M03963</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:44:37+00:00</accessed>
+</term>

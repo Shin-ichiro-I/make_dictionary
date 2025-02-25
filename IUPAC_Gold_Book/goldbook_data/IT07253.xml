@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07253</id>
+  <doi>10.1351/goldbook.IT07253</doi>
+  <code>IT07253</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - interfacial adhesion</longtitle>
+  <title>interfacial adhesion</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Adhesion in which interfaces between phases or components are maintained by intermolecular forces, chain entanglements, or both, across the interfaces.</text>
+      <notes>
+        <item>Interfacial adhesion is also referred to as tack.</item>
+        <item>Adhesive strength (recommended symbol: Fa, unit: N m-2) is the force required to separate one condensed phase domain from another at the interface between the two phase domains divided by the area of the interface.</item>
+        <item>Interfacial tension (recommended symbol: γ, unit: N m-1, J m-2) is the change in Gibbs energy per unit change in interfacial area for substances in physical contact.</item>
+        <item>Use of the term interfacial energy for interfacial tension is not recommended.</item>
+      </notes>
+      <links>
+        <item>
+          <title>phase domain</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07286</url>
+        </item>
+        <item>
+          <title>interface</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+        <item>
+          <title>Interfacial tension</title>
+          <url>https://goldbook.iupac.org/terms/view/I03088</url>
+        </item>
+        <item>
+          <title>intermolecular</title>
+          <url>https://goldbook.iupac.org/terms/view/I03098</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Adhesive strength</meaning>
+          <type>quantity</type>
+          <alttext>Fa</alttext>
+          <latex>F_{\text{a}}</latex>
+        </item>
+        <item>
+          <meaning>Adhesive strength</meaning>
+          <type>unit</type>
+          <alttext>N m-2</alttext>
+          <latex>\text{N m}^{-2}</latex>
+        </item>
+        <item>
+          <meaning>Interfacial tension</meaning>
+          <type>quantity</type>
+          <alttext>γ</alttext>
+          <latex>\gamma</latex>
+        </item>
+        <item>
+          <meaning>Interfacial tension</meaning>
+          <type>unit</type>
+          <alttext>N m-1</alttext>
+          <latex>\text{N m}^{-1}</latex>
+        </item>
+        <item>
+          <meaning>Interfacial tension</meaning>
+          <type>unit</type>
+          <alttext>J m-2</alttext>
+          <latex>\text{J m}^{-2}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2004, 76, 1985. 'Definition of terms related to polymer blends, composites, and multiphase polymeric materials (IUPAC Recommendations 2004)' on page 1992 (https://doi.org/10.1351/pac200476111985)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/IT07253/html</html>
+    <json>https://goldbook.iupac.org/terms/view/IT07253/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/IT07253/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/IT07253/plain</plain>
+  </links>
+  <citation>Citation: 'interfacial adhesion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.IT07253</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:05:22+00:00</accessed>
+</term>

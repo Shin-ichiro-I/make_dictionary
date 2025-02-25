@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>08042</id>
+  <doi>10.1351/goldbook.08042</doi>
+  <code>08042</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - sample pre-treatment</longtitle>
+  <title>sample pre-treatment</title>
+  <synonyms>
+    <item>sample preparation</item>
+  </synonyms>
+  <termversion>5.0.0</termversion>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Collective noun for all procedures used for conditioning a sample to a defined state which allows subsequent chemical analysis or long-term storage (see material stability).</text>
+      <notes>
+        <item>Sample pre-treatment includes, for example, mixing, splitting, drying, crushing, stabilization, dissolving, extracting, diluting, precipitating, and derivatizing.</item>
+      </notes>
+      <links>
+        <item>
+          <title>material stability</title>
+          <url>https://goldbook.iupac.org/terms/view/08027</url>
+        </item>
+        <item>
+          <title>chemical analysis</title>
+          <url>https://goldbook.iupac.org/terms/view/08004</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2021, 93, 997. 'Metrological and quality concepts in analytical chemistry (IUPAC Recommendations 2021)' on page 1016 (https://doi.org/10.1515/pac-2019-0819)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/08042/html</html>
+    <json>https://goldbook.iupac.org/terms/view/08042/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/08042/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/08042/plain</plain>
+  </links>
+  <citation>Citation: 'sample pre-treatment' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.08042</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:00:21+00:00</accessed>
+</term>

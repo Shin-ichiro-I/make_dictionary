@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07191</id>
+  <doi>10.1351/goldbook.PT07191</doi>
+  <code>PT07191</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymer support</longtitle>
+  <title>polymer support</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Polymer to or in which a reagent or catalyst is chemically bound, immobilized, dispersed, or associated.</text>
+      <notes>
+        <item>A polymer support is usually a network polymer.</item>
+        <item>A polymer support is usually prepared in bead form by suspension polymerization.</item>
+        <item>The location of active sites introduced into a polymer support depends on the type of polymer support. In a swollen-gel-bead polymer support the active sites are distributed uniformly throughout the beads, whereas in a macroporous-bead polymer support they are predominantly on the internal surfaces of the macropores.</item>
+      </notes>
+      <links>
+        <item>
+          <title>network polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/N04113</url>
+        </item>
+        <item>
+          <title>suspension</title>
+          <url>https://goldbook.iupac.org/terms/view/S06198</url>
+        </item>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+        <item>
+          <title>reagent</title>
+          <url>https://goldbook.iupac.org/terms/view/R05190</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 902 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07191/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07191/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07191/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07191/plain</plain>
+  </links>
+  <citation>Citation: 'polymer support' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07191</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:27:55+00:00</accessed>
+</term>

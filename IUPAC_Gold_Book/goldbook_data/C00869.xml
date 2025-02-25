@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00869</id>
+  <doi>10.1351/goldbook.C00869</doi>
+  <code>C00869</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - cascade impactor</longtitle>
+  <title>cascade impactor</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An instrument used for the classification of aerosols according to size and for possible subsequent chemical analysis. Air is drawn through a series of orifices of decreasing size; the air flow is normal to collecting surfaces on which aerosols are collected by inertial impaction. The particles, separated stepwise by their momentum differences into a number of size ranges, are collected simultaneously.</text>
+      <links>
+        <item>
+          <title>impaction</title>
+          <url>https://goldbook.iupac.org/terms/view/I02985</url>
+        </item>
+        <item>
+          <title>momentum</title>
+          <url>https://goldbook.iupac.org/terms/view/M04007</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2196 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00869/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00869/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00869/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00869/plain</plain>
+  </links>
+  <citation>Citation: 'cascade impactor' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00869</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:22:34+00:00</accessed>
+</term>

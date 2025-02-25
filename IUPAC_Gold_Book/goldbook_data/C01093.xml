@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01093</id>
+  <doi>10.1351/goldbook.C01093</doi>
+  <code>C01093</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - cis-trans isomers</longtitle>
+  <title><i>cis</i>-<i>trans</i> isomers</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Stereoisomeric olefins or cycloalkanes (or hetero-analogues) which differ in the positions of atoms (or groups) relative to a reference plane: in the cis-isomer the atoms are on the same side, in the trans-isomer they are on opposite sides. [image: molecular structures showing cis/trans isomerism]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>molecular structures showing cis/trans isomerism</title>
+          <file>https://goldbook.iupac.org/img/inline/C01093.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>Stereoisomeric</title>
+          <url>https://goldbook.iupac.org/terms/view/S05983</url>
+        </item>
+        <item>
+          <title>Stereoisomeric</title>
+          <url>https://goldbook.iupac.org/terms/view/S05983</url>
+        </item>
+        <item>
+          <title>olefins</title>
+          <url>https://goldbook.iupac.org/terms/view/O04281</url>
+        </item>
+        <item>
+          <title>cycloalkanes</title>
+          <url>https://goldbook.iupac.org/terms/view/C01497</url>
+        </item>
+        <item>
+          <title>isomer</title>
+          <url>https://goldbook.iupac.org/terms/view/I03289</url>
+        </item>
+        <item>
+          <title>trans</title>
+          <url>https://goldbook.iupac.org/terms/view/C01092</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2204 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Cis-trans izomerie (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Cis-trans_izomerie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cis-trans izoméria (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Cis-trans_izoméria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cis–trans isomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cis–trans_isomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomeria (it)</title>
+      <url>https://it.wikipedia.org/wiki/Isomeria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomeria cis-trans (it)</title>
+      <url>https://it.wikipedia.org/wiki/Isomeria_cis-trans</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomeria geométrica (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Isomeria_geométrica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomería cis-trans (es)</title>
+      <url>https://es.wikipedia.org/wiki/Isomería_cis-trans</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Isomer (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Isomer</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Stereoisomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Stereoisomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Цис-транс изомеризъм (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Цис-транс_изомеризъм</url>
+    </item>
+    <item>
+      <title>Wikipedia - Цис–транс ізомерія (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Цис–транс_ізомерія</url>
+    </item>
+    <item>
+      <title>Wikipedia - ایزومری سیس–ترانس (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ایزومری_سیس–ترانس</url>
+    </item>
+    <item>
+      <title>Wikipedia - 顺反异构 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/顺反异构</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01093/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01093/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01093/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01093/plain</plain>
+  </links>
+  <citation>Citation: '<i>cis</i>-<i>trans</i> isomers' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01093</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:33:47+00:00</accessed>
+</term>

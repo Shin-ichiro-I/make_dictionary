@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04907</id>
+  <doi>10.1351/goldbook.P04907</doi>
+  <code>P04907</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - proton affinity</longtitle>
+  <title>proton affinity</title>
+  <abbrevs>
+    <item>PA</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The negative of the enthalpy change in the gas phase reaction (real or hypothetical) between a proton (more appropriately hydron) and the chemical species concerned, usually an electrically neutral species to give the conjugate acid of that species. Proton affinity is often, but unofficially, abbreviated as PA.</text>
+      <links>
+        <item>
+          <title>gas-phase basicity</title>
+          <url>https://goldbook.iupac.org/terms/view/G02588</url>
+        </item>
+        <item>
+          <title>gas-phase basicity</title>
+          <url>https://goldbook.iupac.org/terms/view/G02588</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+        <item>
+          <title>gas-phase basicity</title>
+          <url>https://goldbook.iupac.org/terms/view/G02588</url>
+        </item>
+        <item>
+          <title>enthalpy</title>
+          <url>https://goldbook.iupac.org/terms/view/E02141</url>
+        </item>
+        <item>
+          <title>proton</title>
+          <url>https://goldbook.iupac.org/terms/view/P04906</url>
+        </item>
+        <item>
+          <title>hydron</title>
+          <url>https://goldbook.iupac.org/terms/view/H02904</url>
+        </item>
+        <item>
+          <title>chemical species</title>
+          <url>https://goldbook.iupac.org/terms/view/CT01038</url>
+        </item>
+        <item>
+          <title>conjugate acid</title>
+          <url>https://goldbook.iupac.org/terms/view/C01266</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1153 (https://doi.org/10.1351/pac199466051077)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Affinità protonica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Affinità_protonica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Affinité protonique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Affinité_protonique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Afinidad protónica (es)</title>
+      <url>https://es.wikipedia.org/wiki/Afinidad_protónica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Afinidade por próton (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Afinidade_por_próton</url>
+    </item>
+    <item>
+      <title>Wikipedia - Proton affinity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Proton_affinity</url>
+    </item>
+    <item>
+      <title>Wikipedia - Proton ilgisi (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Proton_ilgisi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Protone (it)</title>
+      <url>https://it.wikipedia.org/wiki/Protone</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04907/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04907/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04907/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04907/plain</plain>
+  </links>
+  <citation>Citation: 'proton affinity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04907</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:35:42+00:00</accessed>
+</term>

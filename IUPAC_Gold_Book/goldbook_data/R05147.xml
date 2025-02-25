@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05147</id>
+  <doi>10.1351/goldbook.R05147</doi>
+  <code>R05147</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - rate of conversion, ξ.</longtitle>
+  <title>rate of conversion</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The rate of conversion for a reaction occurring in a closed system is defined as the time derivative of the extent of reaction: ξ . = d ξ d t is the amount of the species at any time and ν i is its stoichiometric coefficient.</text>
+      <links>
+        <item>
+          <title>extent of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02283</url>
+        </item>
+        <item>
+          <title>stoichiometric</title>
+          <url>https://goldbook.iupac.org/terms/view/S06021</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>extent of reaction</title>
+          <url>https://goldbook.iupac.org/terms/view/E02283</url>
+        </item>
+        <item>
+          <title>stoichiometric</title>
+          <url>https://goldbook.iupac.org/terms/view/S06021</url>
+        </item>
+        <item>
+          <title>coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/C01124</url>
+        </item>
+        <item>
+          <title>stoichiometry</title>
+          <url>https://goldbook.iupac.org/terms/view/S06026</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>ξ . = d ξ d t</alttext>
+          <latex>\overset{\text{.}}{\xi }=\frac{\mathrm{d}\xi }{\mathrm{d}t}</latex>
+        </item>
+        <item>
+          <alttext>ξ . = d ξ d t = 1 ν i d n i d t</alttext>
+          <latex>\overset{\text{.}}{\xi }=\frac{\mathrm{d}\xi }{\mathrm{d}t}=\frac{1}{\nu _{i}}\ \frac{\mathrm{d}n_{i}}{\mathrm{d}t}</latex>
+        </item>
+        <item>
+          <alttext>n i</alttext>
+          <latex>n_{i}</latex>
+        </item>
+        <item>
+          <alttext>ν i</alttext>
+          <latex>\nu _{i}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 55 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1992, 64, 1569. 'Quantities and units for metabolic processes as a function of time (IUPAC Recommendations 1992)' on page 1573 (https://doi.org/10.1351/pac199264101569)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 180 (https://doi.org/10.1351/pac199668010149)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 989 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05147/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05147/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05147/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05147/plain</plain>
+  </links>
+  <citation>Citation: 'rate of conversion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05147</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:45:59+00:00</accessed>
+</term>

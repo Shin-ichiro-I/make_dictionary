@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04712</id>
+  <doi>10.1351/goldbook.P04712</doi>
+  <code>P04712</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polarization</longtitle>
+  <title>polarization</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The relevant material property that couples with the radiation field. May be called optical or dielectric polarization. Optical spectroscopies may be classified according to the dielectric polarizationpower-law dependence on the external electric field.</text>
+      <notes>
+        <item>Mathematically it is defined as the electric dipole moment change per volume resulting from absorption of radiation of optical frequencies, defined as P = D - ɛ0E, where D is the electric displacement, ɛ0 the electric constant (vacuum permittivity) , and E the strength of the radiation electric field. A dielectric medium is characterized by the constitutive relation D = ɛ0.χ(1) where χ(1) = ɛr - 1 is the linear 'susceptibility' for a transparent singly refracting medium. Depending on the molecular or atomic restoring force on the electron with respect to the displacement D, the field-induced motion of the electron can introduce other frequency components on the electron motion, and this in turn leads to non-linear optical effects.</item>
+        <item>The polarization component to the nth-order in the field is denoted as P(n) Thus, the following equations apply,<br/>P = P(1) + PNL and PNL = P(2) + P(3) + …<br/>P = ɛ 0[χe(1)E + (1/2)χe(2)E^{2} + (1/6)χe(3)E^{3} ...] where Ei is the i-th component of the electric field strength and χe(n) is the usual 'susceptibility' χ(1) = ɛr - 1 in the absence of higher terms and P(n) is the order of the field-induced polarization in the material.<br/>In an anisotropic medium, χe(1), χe(2) and χe(3) are the medium 'hyper-susceptibilities'; they are tensors of rank 2, 3, and 4, respectively.<br/>Linear optical responses such as absorption, light propagation, reflection, and refraction, involving a weak incoming field, are related to P(1). Non-linear techniques are connected to the non-linear polarization PNL. Low order non-linear techniques, such as three-wave mixing, are related to the second order optical polarization P(2). For a random isotropic medium (such as a liquid) or for a crystal with a centrosymmetric unit cell, χe(2) is zero by symmetry and then the lowest order non-linear techniques, as well as the higher order, are related to the third-order optical polarization, P(3), and the corresponding hyper-susceptibility.</item>
+      </notes>
+      <links>
+        <item>
+          <title>electric dipole moment</title>
+          <url>https://goldbook.iupac.org/terms/view/E01929</url>
+        </item>
+        <item>
+          <title>electric displacement</title>
+          <url>https://goldbook.iupac.org/terms/view/E01930</url>
+        </item>
+        <item>
+          <title>permittivity</title>
+          <url>https://goldbook.iupac.org/terms/view/P04507</url>
+        </item>
+        <item>
+          <title>propagation</title>
+          <url>https://goldbook.iupac.org/terms/view/P04881</url>
+        </item>
+        <item>
+          <title>isotropic</title>
+          <url>https://goldbook.iupac.org/terms/view/I03353</url>
+        </item>
+        <item>
+          <title>unit cell</title>
+          <url>https://goldbook.iupac.org/terms/view/U06562</url>
+        </item>
+        <item>
+          <title>dielectric polarization</title>
+          <url>https://goldbook.iupac.org/terms/view/D01698</url>
+        </item>
+        <item>
+          <title>power</title>
+          <url>https://goldbook.iupac.org/terms/view/P04792</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>P = D - ɛ0E</alttext>
+          <latex>P = D - \epsilon_{0}E</latex>
+        </item>
+        <item>
+          <alttext>D</alttext>
+          <latex>D</latex>
+        </item>
+        <item>
+          <alttext>ɛ0</alttext>
+          <latex>\varepsilon_{0}</latex>
+        </item>
+        <item>
+          <alttext>E</alttext>
+          <latex>E</latex>
+        </item>
+        <item>
+          <alttext>D = ɛ0.χ(1)</alttext>
+          <latex>D = \epsilon_{0}\, \chi ^{(1)}</latex>
+        </item>
+        <item>
+          <alttext>χ(1) = ɛr - 1</alttext>
+          <latex>\chi ^{(\text{1})} = \varepsilon_{r} - 1</latex>
+        </item>
+        <item>
+          <alttext>D</alttext>
+          <latex>D</latex>
+        </item>
+        <item>
+          <alttext>P(n)</alttext>
+          <latex>P^{(\text{n})}</latex>
+        </item>
+        <item>
+          <alttext>P = P(1) + PNL</alttext>
+          <latex>P = P^{(\text{1})} + P_{\text{NL}}</latex>
+        </item>
+        <item>
+          <alttext>PNL = P(2) + P(3) + …</alttext>
+          <latex>P_{\text{NL}} = P^{(\text{2})} + P^{(\text{3})} + \dots</latex>
+        </item>
+        <item>
+          <alttext>P = ɛ 0[χe(1)E + (1/2)χe(2)E^{2} + (1/6)χe(3)E^{3} ...]</alttext>
+          <latex>P = \epsilon _{0}\left [ \chi _{e}^{(1)}E\: + (1/2)\chi _{e}^{(2)}E^{2}\: + (1/6)\chi _{e}^{(3)}E^{3} + \dots \right ] = P^{(1)} + P^{(2)} + P^{(3)} + \dots</latex>
+        </item>
+        <item>
+          <alttext>Ei</alttext>
+          <latex>E^{\text{i}}</latex>
+        </item>
+        <item>
+          <alttext>χe(n)</alttext>
+          <latex>\chi _{\text{e}}^{(\text{n})}</latex>
+        </item>
+        <item>
+          <alttext>χ(1) = ɛr - 1</alttext>
+          <latex>\chi ^{(\text{1})} = \varepsilon_{r} - 1</latex>
+        </item>
+        <item>
+          <alttext>P(n)</alttext>
+          <latex>P^{(\text{n})}</latex>
+        </item>
+        <item>
+          <alttext>χe(1)</alttext>
+          <latex>\chi _{\text{e}}^{(1)}</latex>
+        </item>
+        <item>
+          <alttext>χe(2)</alttext>
+          <latex>\chi _{\text{e}}^{(2)}</latex>
+        </item>
+        <item>
+          <alttext>χe(3)</alttext>
+          <latex>\chi _{\text{e}}^{(3)}</latex>
+        </item>
+        <item>
+          <alttext>P(1)</alttext>
+          <latex>P^{(\text{1})}</latex>
+        </item>
+        <item>
+          <alttext>PNL</alttext>
+          <latex>P_{\text{NL}}</latex>
+        </item>
+        <item>
+          <alttext>P(2)</alttext>
+          <latex>P^{(\text{2})}</latex>
+        </item>
+        <item>
+          <alttext>χe(2)</alttext>
+          <latex>\chi _{\text{e}}^{(2)}</latex>
+        </item>
+        <item>
+          <alttext>P(3)</alttext>
+          <latex>P^{(\text{3})}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 402 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04712/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04712/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04712/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04712/plain</plain>
+  </links>
+  <citation>Citation: 'polarization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04712</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:25:28+00:00</accessed>
+</term>

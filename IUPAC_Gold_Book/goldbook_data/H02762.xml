@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02762</id>
+  <doi>10.1351/goldbook.H02762</doi>
+  <code>H02762</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - helicenes</longtitle>
+  <title>helicenes</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>ortho-Fused polycyclic aromatic or heteroaromatic compounds in which all rings (minimum five) are angularly arranged so as to give helically shaped molecules, which are thus chiral, e.g. hexahelicene. [image: Not defined]</text>
+      <chemicals>
+        <item>
+          <type>chemimage</type>
+          <title>Not defined</title>
+          <file>https://goldbook.iupac.org/img/inline/H02762.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>aromatic</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+        <item>
+          <title>chiral</title>
+          <url>https://goldbook.iupac.org/terms/view/C01057</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1339 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Eliceni (it)</title>
+      <url>https://it.wikipedia.org/wiki/Eliceni</url>
+    </item>
+    <item>
+      <title>Wikipedia - Helicen (ro)</title>
+      <url>https://ro.wikipedia.org/wiki/Helicen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Helicene (en)</title>
+      <url>https://en.wikipedia.org/wiki/Helicene</url>
+    </item>
+    <item>
+      <title>Wikipedia - Heliseenit (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Heliseenit</url>
+    </item>
+    <item>
+      <title>Wikipedia - هلیسن (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/هلیسن</url>
+    </item>
+    <item>
+      <title>Wikipedia - هيليسين (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/هيليسين</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02762/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02762/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02762/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02762/plain</plain>
+  </links>
+  <citation>Citation: 'helicenes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02762</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:49:00+00:00</accessed>
+</term>

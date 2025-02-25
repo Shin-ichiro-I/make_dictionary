@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07535</id>
+  <doi>10.1351/goldbook.GT07535</doi>
+  <code>GT07535</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - gel point</longtitle>
+  <title>gel point</title>
+  <contains>gelation point</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Point of incipient network formation in a process forming a chemical or physical polymer network.</text>
+      <notes>
+        <item>In both network-forming polymerization and the crosslinking of polymer chains, the gel point is expressed as an extent of chemical reaction (c.f., gel time).</item>
+        <item>At the gel point a solid (network) material spanning the entire system is formed.</item>
+        <item>The gel point is often detected using rheological methods. Different methods can give different gel points because viscosity is tending to infinity at the gel point and a unique value cannot be measured directly.</item>
+      </notes>
+      <links>
+        <item>
+          <title>gel fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/GT07551</url>
+        </item>
+        <item>
+          <title>gel fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/GT07551</url>
+        </item>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+        <item>
+          <title>polymerization</title>
+          <url>https://goldbook.iupac.org/terms/view/P04740</url>
+        </item>
+        <item>
+          <title>crosslinking</title>
+          <url>https://goldbook.iupac.org/terms/view/CT07136</url>
+        </item>
+        <item>
+          <title>gel</title>
+          <url>https://goldbook.iupac.org/terms/view/G02600</url>
+        </item>
+        <item>
+          <title>gel time</title>
+          <url>https://goldbook.iupac.org/terms/view/GT07536</url>
+        </item>
+        <item>
+          <title>viscosity</title>
+          <url>https://goldbook.iupac.org/terms/view/V06627</url>
+        </item>
+        <item>
+          <title>polymer network</title>
+          <url>https://goldbook.iupac.org/terms/view/P04742</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2007, 79, 1801. 'Definitions of terms relating to the structure and processing of sols, gels, networks, and inorganic-organic hybrid materials (IUPAC Recommendations 2007)' on page 1809 (https://doi.org/10.1351/pac200779101801)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/GT07535/html</html>
+    <json>https://goldbook.iupac.org/terms/view/GT07535/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/GT07535/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/GT07535/plain</plain>
+  </links>
+  <citation>Citation: 'gel point' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.GT07535</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:40:37+00:00</accessed>
+</term>

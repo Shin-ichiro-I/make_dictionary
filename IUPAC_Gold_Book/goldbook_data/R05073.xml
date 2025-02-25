@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05073</id>
+  <doi>10.1351/goldbook.R05073</doi>
+  <code>R05073</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - radical ion</longtitle>
+  <title>radical ion</title>
+  <contains>anion radical, cation radical, radical anion, radical cation</contains>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A radical that carries an electric charge. A positively charged radical is called a 'radical cation' (e.g. the benzene radical cation C6H6.+ ); a negatively charged radical is called a 'radical anion' (e.g. the benzene radical anion C6H6.− or the benzophenone radical anion Ph2C–O.− ). Commonly, but not necessarily, the odd electron and the charge are associated with the same atom. Unless the positions of unpaired spin and charge can be associated with specific atoms, superscript dot and charge designations should be placed in the order .+ or .− suggested by the name 'radical ion'. (e.g. C3H6.+ ).</text>
+      <notes>
+        <item>In the previous edition of this Compendium, it was recommended to place the charge designation directly above the centrally placed dot. However, this format is now discouraged because of the difficulty of extending it to ions bearing more than one charge, and/or more than one unpaired electron. In mass spectroscopic usage the symbol for the charge precedes the dot representing the unpaired electron.</item>
+      </notes>
+      <links>
+        <item>
+          <title>electric charge</title>
+          <url>https://goldbook.iupac.org/terms/view/E01923</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1077. 'Glossary of terms used in physical organic chemistry (IUPAC Recommendations 1994)' on page 1156 (https://doi.org/10.1351/pac199466051077)</item>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1363 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Ione radicalico (it)</title>
+      <url>https://it.wikipedia.org/wiki/Ione_radicalico</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radical anion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Radical_anion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Radical ion (en)</title>
+      <url>https://en.wikipedia.org/wiki/Radical_ion</url>
+    </item>
+    <item>
+      <title>Wikipedia - Rodniki (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Rodniki</url>
+    </item>
+    <item>
+      <title>Wikipedia - آنیون رادیکال (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/آنیون_رادیکال</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05073/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05073/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05073/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05073/plain</plain>
+  </links>
+  <citation>Citation: 'radical ion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05073</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:43:04+00:00</accessed>
+</term>

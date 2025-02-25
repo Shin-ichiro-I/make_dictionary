@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02236</id>
+  <doi>10.1351/goldbook.E02236</doi>
+  <code>E02236</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - excess Rayleigh ratio</longtitle>
+  <title>excess Rayleigh ratio</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The difference between the Rayleigh ratio for a dilute solution and for pure solvent. If the scattering intensity is not reduced to the Rayleigh ratio, the difference between the scattering intensities for a dilute solution and that for pure solvent is named 'excess scattering'.</text>
+      <links>
+        <item>
+          <title>Rayleigh ratio</title>
+          <url>https://goldbook.iupac.org/terms/view/R05159</url>
+        </item>
+        <item>
+          <title>Rayleigh ratio</title>
+          <url>https://goldbook.iupac.org/terms/view/R05159</url>
+        </item>
+        <item>
+          <title>dilute solution</title>
+          <url>https://goldbook.iupac.org/terms/view/D01739</url>
+        </item>
+        <item>
+          <title>scattering</title>
+          <url>https://goldbook.iupac.org/terms/view/S05487</url>
+        </item>
+      </links>
+      <sources>
+        <item>Purple Book, 1st ed., p. 66 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/E02236/html</html>
+    <json>https://goldbook.iupac.org/terms/view/E02236/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/E02236/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/E02236/plain</plain>
+  </links>
+  <citation>Citation: 'excess Rayleigh ratio' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.E02236</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:24:21+00:00</accessed>
+</term>

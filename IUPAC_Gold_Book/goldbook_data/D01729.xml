@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01729</id>
+  <doi>10.1351/goldbook.D01729</doi>
+  <code>D01729</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - diffusion potential</longtitle>
+  <title>diffusion potential</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>For an ideal dilute solution, Δ Φ d is the integral of ∇Φ (given by the following equation) across the boundary between two regions of different concentrations. ∇Φ = R.T∑Di.zi.∇ci/F∑si2.Di.ci is the diffusion coefficient of species i,z i is the charge number of species i,ci is the concentration of species i,R is the gas constant, T is the thermodynamic temperature, and F is the Faraday constant.</text>
+      <links>
+        <item>
+          <title>dilute solution</title>
+          <url>https://goldbook.iupac.org/terms/view/D01739</url>
+        </item>
+        <item>
+          <title>charge number</title>
+          <url>https://goldbook.iupac.org/terms/view/C00993</url>
+        </item>
+        <item>
+          <title>dilute solution</title>
+          <url>https://goldbook.iupac.org/terms/view/D01739</url>
+        </item>
+        <item>
+          <title>charge number</title>
+          <url>https://goldbook.iupac.org/terms/view/C00993</url>
+        </item>
+        <item>
+          <title>diffusion coefficient</title>
+          <url>https://goldbook.iupac.org/terms/view/D01719</url>
+        </item>
+        <item>
+          <title>gas constant</title>
+          <url>https://goldbook.iupac.org/terms/view/G02579</url>
+        </item>
+        <item>
+          <title>thermodynamic temperature</title>
+          <url>https://goldbook.iupac.org/terms/view/T06321</url>
+        </item>
+        <item>
+          <title>Faraday constant</title>
+          <url>https://goldbook.iupac.org/terms/view/F02325</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Δ Φ d</alttext>
+          <latex>\Delta \mathit{\Phi }_{\text{d}}</latex>
+        </item>
+        <item>
+          <alttext>∇Φ</alttext>
+          <latex>\nabla \mathit{\Phi }</latex>
+        </item>
+        <item>
+          <alttext>∇Φ = R.T∑Di.zi.∇ci/F∑si2.Di.ci</alttext>
+          <latex>\nabla \mathit{\Phi }=\frac{R\ T\ \sum D_{i}\ z_{i}\ \nabla c_{i}}{F\ \sum s_{i}^{2}\ D_{i}\ c_{i}}</latex>
+        </item>
+        <item>
+          <alttext>Di</alttext>
+          <latex>D_{i}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>z i</alttext>
+          <latex>z_{i}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>ci</alttext>
+          <latex>c_{i}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>R</alttext>
+          <latex>R</latex>
+        </item>
+        <item>
+          <alttext>T</alttext>
+          <latex>T</latex>
+        </item>
+        <item>
+          <alttext>F</alttext>
+          <latex>F</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1981, 53, 1827. 'Nomenclature for transport phenomena in electrolytic systems' on page 1838 (https://doi.org/10.1351/pac198153101827)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/D01729/html</html>
+    <json>https://goldbook.iupac.org/terms/view/D01729/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/D01729/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/D01729/plain</plain>
+  </links>
+  <citation>Citation: 'diffusion potential' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.D01729</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:01:16+00:00</accessed>
+</term>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>06732</id>
+  <doi>10.1351/goldbook.Y06732</doi>
+  <code>Y06732</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - yotta</longtitle>
+  <title>yotta</title>
+  <index>prefix</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>SI prefix for 10E24 (symbol: Y).</text>
+      <math>
+        <item>
+          <alttext>10E24</alttext>
+          <latex>10^{24}</latex>
+        </item>
+        <item>
+          <alttext>Y</alttext>
+          <latex>\mathrm{Y}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Green Book, 2nd ed., p. 74 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Yotta (it)</title>
+      <url>https://it.wikipedia.org/wiki/Yotta</url>
+    </item>
+    <item>
+      <title>Wikipedia - يوتا (سابقة) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/يوتا_(سابقة)</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/Y06732/html</html>
+    <json>https://goldbook.iupac.org/terms/view/Y06732/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/Y06732/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/Y06732/plain</plain>
+  </links>
+  <citation>Citation: 'yotta' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.Y06732</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:59:28+00:00</accessed>
+</term>

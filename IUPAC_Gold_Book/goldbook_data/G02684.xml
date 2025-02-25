@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02684</id>
+  <doi>10.1351/goldbook.G02684</doi>
+  <code>G02684</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - graphite</longtitle>
+  <title>graphite</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An allotropic form of the element carbon consisting of layers of hexagonally arranged carbon atoms in a planar condensed ring system graphene layers The layers are stacked parallel to each other in a three-dimensional crystalline long-range order. There are two allotropic forms with different stacking arrangements, hexagonal and rhombohedral. The chemical bonds within the layers are covalent with sp2hybridization and with a C–C distance of 141.7 pm. The weak bonds between the layers are metallic with a strength comparable to van der Waals bonding only.</text>
+      <notes>
+        <item>The term graphite is also used often but incorrectly to describe graphite materials, i.e. materials consisting of graphitic carbon made from carbon materials by processing to temperatures greater than 2500 K, even though no perfect graphite structure is present.</item>
+      </notes>
+      <links>
+        <item>
+          <title>graphite materials</title>
+          <url>https://goldbook.iupac.org/terms/view/G02687</url>
+        </item>
+        <item>
+          <title>graphitic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02689</url>
+        </item>
+        <item>
+          <title>graphene layers</title>
+          <url>https://goldbook.iupac.org/terms/view/G02683</url>
+        </item>
+        <item>
+          <title>graphite materials</title>
+          <url>https://goldbook.iupac.org/terms/view/G02687</url>
+        </item>
+        <item>
+          <title>graphitic carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/G02689</url>
+        </item>
+        <item>
+          <title>graphene layers</title>
+          <url>https://goldbook.iupac.org/terms/view/G02683</url>
+        </item>
+        <item>
+          <title>hybridization</title>
+          <url>https://goldbook.iupac.org/terms/view/H02874</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>sp2</alttext>
+          <latex>\text{sp}^{2}</latex>
+        </item>
+        <item>
+          <alttext>141.7 pm</alttext>
+          <latex>141.7\ \text{pm}</latex>
+        </item>
+        <item>
+          <alttext>2500 K</alttext>
+          <latex>2500\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 491 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Grafite (it)</title>
+      <url>https://it.wikipedia.org/wiki/Grafite</url>
+    </item>
+    <item>
+      <title>Wikipedia - غرافيت (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/غرافيت</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02684/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02684/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02684/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02684/plain</plain>
+  </links>
+  <citation>Citation: 'graphite' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02684</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:44:57+00:00</accessed>
+</term>

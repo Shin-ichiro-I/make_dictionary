@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01245</id>
+  <doi>10.1351/goldbook.C01245</doi>
+  <code>C01245</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - conductivity, γ , σ</longtitle>
+  <title>conductivity</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Reciprocal of resistivity. This quantity is a tensor in an anisotropic medium. It was formerly called specific conductance.</text>
+      <links>
+        <item>
+          <title>resistivity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05316</url>
+        </item>
+        <item>
+          <title>resistivity</title>
+          <url>https://goldbook.iupac.org/terms/view/R05316</url>
+        </item>
+        <item>
+          <title>specific conductance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05797</url>
+        </item>
+      </links>
+      <sources>
+        <item>Green Book, 2nd ed., p. 15 (https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)</item>
+        <item>PAC, 1996, 68, 957. 'Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)' on page 967 (https://doi.org/10.1351/pac199668040957)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Conductivité molaire (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Conductivité_molaire</url>
+    </item>
+    <item>
+      <title>Wikipedia - Conduttività elettrica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Conduttività_elettrica</url>
+    </item>
+    <item>
+      <title>Wikipedia - Molar conductivity (en)</title>
+      <url>https://en.wikipedia.org/wiki/Molar_conductivity</url>
+    </item>
+    <item>
+      <title>Wikipedia - موصلية (كهرباء) (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/موصلية_(كهرباء)</url>
+    </item>
+    <item>
+      <title>Wikipedia - موصلية كهربائية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/موصلية_كهربائية</url>
+    </item>
+    <item>
+      <title>Wikipedia - موصلية مولية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/موصلية_مولية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01245/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01245/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01245/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01245/plain</plain>
+  </links>
+  <citation>Citation: 'conductivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01245</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:41:26+00:00</accessed>
+</term>

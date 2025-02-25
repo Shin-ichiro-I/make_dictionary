@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05511</id>
+  <doi>10.1351/goldbook.S05511</doi>
+  <code>S05511</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - scrubbing</longtitle>
+  <title>scrubbing</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The process of selectively removing contaminating solutes (impurities) from an extract that contains these as well as the main extractable solute by treatment with a new immiscible liquid phase. The term stripping has a different meaning and should not be used in this sense although this usage has been customary in certain industries.</text>
+      <contexts>
+        <in>
+          <item>solvent extration</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>crowding, stripping (in solvent extraction)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01420</url>
+        </item>
+        <item>
+          <title>crowding, stripping (in solvent extraction)</title>
+          <url>https://goldbook.iupac.org/terms/view/C01420</url>
+        </item>
+        <item>
+          <title>stripping (in solvent extraction)</title>
+          <url>https://goldbook.iupac.org/terms/view/S06054</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1993, 65, 2373. 'Nomenclature for liquid-liquid distribution (solvent extraction) (IUPAC Recommendations 1993)' on page 2388 (https://doi.org/10.1351/pac199365112373)</item>
+      </sources>
+    </item>
+    <item>
+      <id>2</id>
+      <text>A process used in gas sampling or gas cleaning in which components in the gas stream are removed by contact with a liquid surface or a wetted packing, on spray drops, droplets, or in a bubbler, etc.</text>
+      <contexts>
+        <in>
+          <item>atmospheric chemistry</item>
+        </in>
+      </contexts>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2213 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05511/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05511/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05511/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05511/plain</plain>
+  </links>
+  <citation>Citation: 'scrubbing' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05511</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:02:36+00:00</accessed>
+</term>

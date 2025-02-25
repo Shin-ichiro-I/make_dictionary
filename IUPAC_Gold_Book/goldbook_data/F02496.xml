@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02496</id>
+  <doi>10.1351/goldbook.F02496</doi>
+  <code>F02496</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - fractional selectivity in catalysis</longtitle>
+  <title>fractional selectivity</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The term selectivity(S) is used to describe the relative rates of two or more competing reactions on a catalyst. Such competition includes cases of different reactants undergoing simultaneous reactions or of a single reactant taking part in two or more reactions. For the latter case, S may be defined in two ways. The first of these defines a fractional selectivity, S F, for each product by the equation S F = ξ i ∑ ξ i, for each pair of products by S R = ξ i ξ j and ξ j are the rates of increase of the extent of reactionsi and j respectively, i.e. ξ i = d ξ i d t and ξ j are the extents of reactions i and j respectively.</text>
+      <contexts>
+        <in>
+          <item>catalysis</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>selectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05563</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>competition</title>
+          <url>https://goldbook.iupac.org/terms/view/C01198</url>
+        </item>
+        <item>
+          <title>extent of reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/E02283</url>
+        </item>
+        <item>
+          <title>selectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/S05563</url>
+        </item>
+        <item>
+          <title>catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>competition</title>
+          <url>https://goldbook.iupac.org/terms/view/C01198</url>
+        </item>
+        <item>
+          <title>extent of reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/E02283</url>
+        </item>
+        <item>
+          <title>simultaneous reactions</title>
+          <url>https://goldbook.iupac.org/terms/view/S05680</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>S</alttext>
+          <latex>S</latex>
+        </item>
+        <item>
+          <alttext>S</alttext>
+          <latex>S</latex>
+        </item>
+        <item>
+          <alttext>S F</alttext>
+          <latex>S_{\text{F}}</latex>
+        </item>
+        <item>
+          <alttext>S F = ξ i ∑ ξ i</alttext>
+          <latex>S_{\text{F}}=\frac{\xi _{i}}{\sum \xi _{i}}</latex>
+        </item>
+        <item>
+          <alttext>S R</alttext>
+          <latex>S_{\text{R}}</latex>
+        </item>
+        <item>
+          <alttext>S R = ξ i ξ j</alttext>
+          <latex>S_{\text{R}}=\frac{\xi _{i}}{\xi _{j}}</latex>
+        </item>
+        <item>
+          <alttext>ξ i</alttext>
+          <latex>\xi _{i}</latex>
+        </item>
+        <item>
+          <alttext>ξ j</alttext>
+          <latex>\xi _{j}</latex>
+        </item>
+        <item>
+          <alttext>ξ i = d ξ i d t</alttext>
+          <latex>\xi _{i}=\frac{\mathrm{d}\xi _{i}}{\mathrm{d}t}</latex>
+        </item>
+        <item>
+          <alttext>ξ j = d ξ j d t</alttext>
+          <latex>\xi _{j}=\frac{\mathrm{d}\xi _{j}}{\mathrm{d}t}</latex>
+        </item>
+        <item>
+          <alttext>ξ i</alttext>
+          <latex>\xi _{i}</latex>
+        </item>
+        <item>
+          <alttext>ξ j</alttext>
+          <latex>\xi _{j}</latex>
+        </item>
+        <item>
+          <alttext>i</alttext>
+          <latex>i</latex>
+        </item>
+        <item>
+          <alttext>j</alttext>
+          <latex>j</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1976, 46, 71. 'Manual of Symbols and Terminology for Physicochemical Quantities and Units - Appendix II. Definitions, Terminology and Symbols in Colloid and Surface Chemistry. Part II: Heterogeneous Catalysis' on page 81 (https://doi.org/10.1351/pac197646010071)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/F02496/html</html>
+    <json>https://goldbook.iupac.org/terms/view/F02496/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/F02496/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/F02496/plain</plain>
+  </links>
+  <citation>Citation: 'fractional selectivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.F02496</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:36:05+00:00</accessed>
+</term>

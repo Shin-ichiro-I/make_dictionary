@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04365</id>
+  <doi>10.1351/goldbook.O04365</doi>
+  <code>O04365</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - oxidation state</longtitle>
+  <title>oxidation state</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>gives the degree of oxidation of an atom in terms of counting electrons. The higher the oxidation state (OS) of a given atom, the greater is its degree of oxidation. Definition:<br/> OS of an atom is the charge of this atom after ionic approximation of its heteronuclear bonds. The underlying principle is that the ionic sign in an AB molecule is deduced from the electron allegiance in a LCAO-MO model: The bond's electrons are assigned to its main atomic contributor. Homonuclear AA bonds are divided equally. In practical use, the ionic-approximation sign follows Allen electronegativities (see Source). There are two general algorithms to calculate OS:   Algorithm of assigning bonds, which works on a Lewis formula showing all valence electrons in a molecule: OS equals the charge of an atom after its heteronuclear bonds have been assigned to the more electronegative partner (except when that partner is a reversibly bonded Lewis-acid ligand) and homonuclear bonds have been divided equally: [image: Oxidation number - organic example] Algorithm of summing bond orders: Heteronuclear-bond orders are summed at the atom as positive if that atom is the electropositive partner in a particular bond and as negative if not, and the atom's formal charge (if any) is added to that sum, yielding the OS. This algorithm works on Lewis formulas and on bond graphs of atom connectivities for an extended solid: [image: Oxidation number - inorganic example]</text>
+      <notes>
+        <item>Specific uses may require modified OS values: Electrochemical OS is nominally adjusted to represent a redox-active molecule or ion in Latimer or Frost diagrams. Nominal OS values may also be chosen from close alternatives for systematic-chemistry descriptions.</item>
+        <item>Some OS may be ambiguous, typically when two or more redox-prone atoms enter bonding compromises and nearest integer values have to be chosen for the OS.  The caveat of reversibly bonded Lewis-acid ligands originates from the simplifying use of electronegativity instead of the MO-based electron allegiance to decide the ionic sign. Typical examples are the transition-metal complexes with so called Z ligands in the CBC ligand-classification scheme (see Source).</item>
+        <item>When used in chemical nomenclature as a symbol, the OS value is in roman numerals.</item>
+        <item>At the introductory teaching level, prior to the bonding-based definition and algorithms: OS for an element in a chemical formula is calculated from the overall charge and postulated OS values for all the other atoms. For example, postulating OS = +1 for H and -2 for O yields correct OS in oxides, hydroxides, and acids like H2SO4; with coverage extended to H2O2 via decreasing priority along the sequence of the two postulates. Additional postulates may expand the range of compounds to fit a textbook's scope.</item>
+      </notes>
+      <chemicals>
+        <item>
+          <type>molecule</type>
+          <title>Oxidation number - organic example</title>
+          <file>https://goldbook.iupac.org/img/inline/O04365-1.png</file>
+        </item>
+        <item>
+          <type>crystal</type>
+          <title>Oxidation number - inorganic example</title>
+          <file>https://goldbook.iupac.org/img/inline/O04365-2.png</file>
+        </item>
+      </chemicals>
+      <links>
+        <item>
+          <title>oxidation</title>
+          <url>https://goldbook.iupac.org/terms/view/O04362</url>
+        </item>
+        <item>
+          <title>Lewis formula (electron dot or Lewis structure)</title>
+          <url>https://goldbook.iupac.org/terms/view/L03513</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2014, 86, 1017. 'Toward a Comprehensive Definition of Oxidation State' (https://doi.org/10.1515/pac-2013-0505)</item>
+        <item>PAC, 2016, 88, 831. 'Comprehensive definition of oxidation state' (https://doi.org/10.1515/pac-2015-1204)</item>
+        <item>Red Book, 3rd ed., p. 34 (https://doi.org/10.1515/pac-2014-0718)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Balentzia (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Balentzia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Bilangan oksidasi (id)</title>
+      <url>https://id.wikipedia.org/wiki/Bilangan_oksidasi</url>
+    </item>
+    <item>
+      <title>Wikipedia - Discussione:Stato di ossidazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Discussione:Stato_di_ossidazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Diskussion:Oxidationszahl (de)</title>
+      <url>https://de.wikipedia.org/wiki/Diskussion:Oxidationszahl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estado de oxidación (es)</title>
+      <url>https://es.wikipedia.org/wiki/Estado_de_oxidación</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estado de oxidação (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Estado_de_oxidação</url>
+    </item>
+    <item>
+      <title>Wikipedia - Estat d'oxidació (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/Estat_d'oxidació</url>
+    </item>
+    <item>
+      <title>Wikipedia - Free element (en)</title>
+      <url>https://en.wikipedia.org/wiki/Free_element</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hapetusluku (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Hapetusluku</url>
+    </item>
+    <item>
+      <title>Wikipedia - Nombre d'oxydation (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Nombre_d'oxydation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxidation state (en)</title>
+      <url>https://en.wikipedia.org/wiki/Oxidation_state</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxidationszahl (de)</title>
+      <url>https://de.wikipedia.org/wiki/Oxidationszahl</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxidazio-egoera (eu)</title>
+      <url>https://eu.wikipedia.org/wiki/Oxidazio-egoera</url>
+    </item>
+    <item>
+      <title>Wikipedia - Oxidační číslo (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Oxidační_číslo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Peroxide (en)</title>
+      <url>https://en.wikipedia.org/wiki/Peroxide</url>
+    </item>
+    <item>
+      <title>Wikipedia - Peróxido (es)</title>
+      <url>https://es.wikipedia.org/wiki/Peróxido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Peróxido (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Peróxido</url>
+    </item>
+    <item>
+      <title>Wikipedia - Peróxidu (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Peróxidu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stato di ossidazione (it)</title>
+      <url>https://it.wikipedia.org/wiki/Stato_di_ossidazione</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stopień utlenienia (pl)</title>
+      <url>https://pl.wikipedia.org/wiki/Stopień_utlenienia</url>
+    </item>
+    <item>
+      <title>Wikipedia - Talk:Oxidation state (en)</title>
+      <url>https://en.wikipedia.org/wiki/Talk:Oxidation_state</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trạng thái oxy hóa (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Trạng_thái_oxy_hóa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Trạng thái ôxy hóa (vi)</title>
+      <url>https://vi.wikipedia.org/wiki/Trạng_thái_ôxy_hóa</url>
+    </item>
+    <item>
+      <title>Wikipedia - Unsur bebas (id)</title>
+      <url>https://id.wikipedia.org/wiki/Unsur_bebas</url>
+    </item>
+    <item>
+      <title>Wikipedia - Valence (chemistry) (en)</title>
+      <url>https://en.wikipedia.org/wiki/Valence_(chemistry)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Valento (kemio) (eo)</title>
+      <url>https://eo.wikipedia.org/wiki/Valento_(kemio)</url>
+    </item>
+    <item>
+      <title>Wikipedia - València (química) (ca)</title>
+      <url>https://ca.wikipedia.org/wiki/València_(química)</url>
+    </item>
+    <item>
+      <title>Wikipedia - Пероксид (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Пероксид</url>
+    </item>
+    <item>
+      <title>Wikipedia - حالة الأكسدة (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/حالة_الأكسدة</url>
+    </item>
+    <item>
+      <title>Wikipedia - پراکسید (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/پراکسید</url>
+    </item>
+    <item>
+      <title>Wikipedia - জারণ সংখ্যা (bn)</title>
+      <url>https://bn.wikipedia.org/wiki/জারণ_সংখ্যা</url>
+    </item>
+    <item>
+      <title>Wikipedia - ஆக்சிசனேற்ற நிலை (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/ஆக்சிசனேற்ற_நிலை</url>
+    </item>
+    <item>
+      <title>Wikipedia - தனித் தனிமம் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/தனித்_தனிமம்</url>
+    </item>
+    <item>
+      <title>Wikipedia - 化合价 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/化合价</url>
+    </item>
+    <item>
+      <title>Wikipedia - 单体元素 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/单体元素</url>
+    </item>
+    <item>
+      <title>Wikipedia - 酸化数 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/酸化数</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04365/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04365/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04365/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04365/plain</plain>
+  </links>
+  <citation>Citation: 'oxidation state' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04365</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:08:10+00:00</accessed>
+</term>

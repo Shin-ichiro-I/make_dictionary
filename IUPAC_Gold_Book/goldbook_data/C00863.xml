@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00863</id>
+  <doi>10.1351/goldbook.C00863</doi>
+  <code>C00863</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - carrier gas</longtitle>
+  <title>carrier gas</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A gas introduced in order to transport a sample for analytical purposes. In gas chromatography it is the gas which is passed continuously through the column and whose passage promotes the elution of the components of the sample. The carrier gas together with the portions of the sample present in this phase constitutes the mobile phase.</text>
+      <links>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>elution</title>
+          <url>https://goldbook.iupac.org/terms/view/E02042</url>
+        </item>
+        <item>
+          <title>carrier</title>
+          <url>https://goldbook.iupac.org/terms/view/C00859</url>
+        </item>
+        <item>
+          <title>chromatography</title>
+          <url>https://goldbook.iupac.org/terms/view/C01075</url>
+        </item>
+        <item>
+          <title>elution</title>
+          <url>https://goldbook.iupac.org/terms/view/E02042</url>
+        </item>
+        <item>
+          <title>carrier</title>
+          <url>https://goldbook.iupac.org/terms/view/C00859</url>
+        </item>
+        <item>
+          <title>mobile phase (in chromatography)</title>
+          <url>https://goldbook.iupac.org/terms/view/M03952</url>
+        </item>
+      </links>
+      <sources>
+        <item>Orange Book, 2nd ed., p. 97 (https://media.iupac.org/publications/analytical_compendium/)</item>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2178 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Gaz vecteur (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Gaz_vecteur</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C00863/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C00863/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C00863/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C00863/plain</plain>
+  </links>
+  <citation>Citation: 'carrier gas' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C00863</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:22:20+00:00</accessed>
+</term>

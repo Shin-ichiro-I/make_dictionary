@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00545</id>
+  <doi>10.1351/goldbook.A00545</doi>
+  <code>A00545</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - Avrami equation</longtitle>
+  <title>Avrami equation</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An equation, describing crystallization kinetics, of the form: 1- φc = e(-K.tn) is the crystalline volume fraction developed at time t and constant temperature, K and n are suitable parameters. K is temperature dependent. According to the original theory, n should be an integer from 1 to 4, the value of which should depend only on the type of the statistical model; however, it has become customary to regard it as an adjustable parameter that may be non-integral.</text>
+      <links>
+        <item>
+          <title>crystallization</title>
+          <url>https://goldbook.iupac.org/terms/view/C01434</url>
+        </item>
+        <item>
+          <title>volume fraction</title>
+          <url>https://goldbook.iupac.org/terms/view/V06643</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Avrami equation</meaning>
+          <type>equation</type>
+          <alttext>1- φc = e(-K.tn)</alttext>
+          <latex>1 - \varphi _{c} = \text{e}^{K\ t^{n}}</latex>
+        </item>
+        <item>
+          <alttext>φ c</alttext>
+          <latex>\varphi _{c}</latex>
+        </item>
+        <item>
+          <alttext>t</alttext>
+          <latex>t</latex>
+        </item>
+        <item>
+          <alttext>K</alttext>
+          <latex>K</latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+        <item>
+          <alttext>K</alttext>
+          <latex>K</latex>
+        </item>
+        <item>
+          <alttext>n</alttext>
+          <latex>n</latex>
+        </item>
+      </math>
+      <sources>
+        <item>Purple Book, 1st ed., p. 85 (http://old.iupac.org/publications/books/author/metanomski.html)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Avrami equation (en)</title>
+      <url>https://en.wikipedia.org/wiki/Avrami_equation</url>
+    </item>
+    <item>
+      <title>Wikipedia - Avramiekvationen (sv)</title>
+      <url>https://sv.wikipedia.org/wiki/Avramiekvationen</url>
+    </item>
+    <item>
+      <title>Wikipedia - Equazione di Avrami (it)</title>
+      <url>https://it.wikipedia.org/wiki/Equazione_di_Avrami</url>
+    </item>
+    <item>
+      <title>Wikipedia - Équation d'Avrami (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Équation_d'Avrami</url>
+    </item>
+    <item>
+      <title>Wikipedia - معادلة أفرامي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/معادلة_أفرامي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00545/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00545/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00545/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00545/plain</plain>
+  </links>
+  <citation>Citation: 'Avrami equation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00545</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:04:10+00:00</accessed>
+</term>

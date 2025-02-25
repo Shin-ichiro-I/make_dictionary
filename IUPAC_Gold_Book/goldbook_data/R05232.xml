@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05232</id>
+  <doi>10.1351/goldbook.R05232</doi>
+  <code>R05232</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - reference procedure, in analysis of trace air constituents</longtitle>
+  <title>reference procedure</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Agreed method for determining one or more air quality characteristics where it is not practical to produce a reference material; the result obtained is defined as the measure of the air quality characteristic. For example, a gas such as NO2 may be somewhat unstable when stored in a tank at low mixing ratios, so that the use of a more stableNO standard mixture in N2 may be oxidized to NO2 by O3 in a specified manner referred to as the NO2 reference procedure.</text>
+      <contexts>
+        <in>
+          <item>analysis of trace air constituents</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>reference material</title>
+          <url>https://goldbook.iupac.org/terms/view/R05230</url>
+        </item>
+        <item>
+          <title>unstable</title>
+          <url>https://goldbook.iupac.org/terms/view/U06569</url>
+        </item>
+        <item>
+          <title>stable</title>
+          <url>https://goldbook.iupac.org/terms/view/S05900</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2210 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/R05232/html</html>
+    <json>https://goldbook.iupac.org/terms/view/R05232/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/R05232/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/R05232/plain</plain>
+  </links>
+  <citation>Citation: 'reference procedure' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.R05232</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:50:05+00:00</accessed>
+</term>

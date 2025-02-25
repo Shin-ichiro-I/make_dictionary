@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05983</id>
+  <doi>10.1351/goldbook.S05983</doi>
+  <code>S05983</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - stereoisomerism</longtitle>
+  <title>stereoisomerism</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Isomerism due to differences in the spatial arrangement of atoms without any differences in connectivity or bond multiplicity between the isomers.</text>
+      <links>
+        <item>
+          <title>isomerism</title>
+          <url>https://goldbook.iupac.org/terms/view/I03294</url>
+        </item>
+        <item>
+          <title>connectivity</title>
+          <url>https://goldbook.iupac.org/terms/view/C01274</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1996, 68, 2193. 'Basic terminology of stereochemistry (IUPAC Recommendations 1996)' on page 2219 (https://doi.org/10.1351/pac199668122193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Arbutin (en)</title>
+      <url>https://en.wikipedia.org/wiki/Arbutin</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cis-trans izomerie (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Cis-trans_izomerie</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cis-trans izoméria (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Cis-trans_izoméria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Cis–trans isomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Cis–trans_isomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Isomeria espacial (pt)</title>
+      <url>https://pt.wikipedia.org/wiki/Isomeria_espacial</url>
+    </item>
+    <item>
+      <title>Wikipedia - Steiré-isiméireacht (ga)</title>
+      <url>https://ga.wikipedia.org/wiki/Steiré-isiméireacht</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stereoisomeria (fi)</title>
+      <url>https://fi.wikipedia.org/wiki/Stereoisomeria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stereoisomerism (en)</title>
+      <url>https://en.wikipedia.org/wiki/Stereoisomerism</url>
+    </item>
+    <item>
+      <title>Wikipedia - Stereoizoméria (sk)</title>
+      <url>https://sk.wikipedia.org/wiki/Stereoizoméria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Sztereoizoméria (hu)</title>
+      <url>https://hu.wikipedia.org/wiki/Sztereoizoméria</url>
+    </item>
+    <item>
+      <title>Wikipedia - Цис-транс изомеризъм (bg)</title>
+      <url>https://bg.wikipedia.org/wiki/Цис-транс_изомеризъм</url>
+    </item>
+    <item>
+      <title>Wikipedia - Цис–транс ізомерія (uk)</title>
+      <url>https://uk.wikipedia.org/wiki/Цис–транс_ізомерія</url>
+    </item>
+    <item>
+      <title>Wikipedia - ایزومری سیس–ترانس (fa)</title>
+      <url>https://fa.wikipedia.org/wiki/ایزومری_سیس–ترانس</url>
+    </item>
+    <item>
+      <title>Wikipedia - تصاوغ فراغي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تصاوغ_فراغي</url>
+    </item>
+    <item>
+      <title>Wikipedia - त्रिविमसमावयवता (hi)</title>
+      <url>https://hi.wikipedia.org/wiki/त्रिविमसमावयवता</url>
+    </item>
+    <item>
+      <title>Wikipedia - 分子 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/分子</url>
+    </item>
+    <item>
+      <title>Wikipedia - 立体异构 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/立体异构</url>
+    </item>
+    <item>
+      <title>Wikipedia - 顺反异构 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/顺反异构</url>
+    </item>
+    <item>
+      <title>Wikipedia - 입체 이성질체 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/입체_이성질체</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05983/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05983/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05983/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05983/plain</plain>
+  </links>
+  <citation>Citation: 'stereoisomerism' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05983</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:24:43+00:00</accessed>
+</term>

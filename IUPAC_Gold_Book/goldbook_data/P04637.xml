@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04637</id>
+  <doi>10.1351/goldbook.P04637</doi>
+  <code>P04637</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - photon irradiance</longtitle>
+  <title>photon irradiance</title>
+  <abbrevs>
+    <item>SI</item>
+  </abbrevs>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Number of photons (quanta of radiation, Np) per time interval (photon flux), qp, incident from all upward directions on a small element of surface containing the point under consideration divided by the area of the element. SI unit is m-2 s-1. Equivalent definition: Integral, taken over the hemisphere visible from the given point, of the expression Lp.cos θ.dΩ the photon radiance at the given point in the various directions of the incident beam of solid angleΩ and θ the angle between any of these beams and the normal to the surface at the given point.</text>
+      <notes>
+        <item>Mathematical definition: Ep = dqp/dS. If the photon flux is constant over the surface considered, Ep = qp/S. Equivalent definition: Ep = ∫ 2π Lp cosθ ⁢dΩ.</item>
+        <item>This term refers to a beam not scattered or reflected by the target or its surroundings. For a beam incident from all directions photon fluence rate (Ep,o) is an equivalent term.</item>
+        <item>This quantity can be used on a chemical amount basis by dividing Ep by the Avogadro constant, the symbol then being En,p, the name 'photon irradiance, amount basis', SI unit is mol m-2 s-1; common unit is einstein m-2 s-1.</item>
+      </notes>
+      <links>
+        <item>
+          <title>photon fluence rate</title>
+          <url>https://goldbook.iupac.org/terms/view/P04635</url>
+        </item>
+        <item>
+          <title>chemical amount</title>
+          <url>https://goldbook.iupac.org/terms/view/C01019</url>
+        </item>
+        <item>
+          <title>Avogadro constant</title>
+          <url>https://goldbook.iupac.org/terms/view/A00543</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>photon radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/P04639</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>Np</alttext>
+          <latex>N_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>qp</alttext>
+          <latex>q_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>m-2 s-1</alttext>
+          <latex>\text{m}^{-2}\ \text{s}^{-1}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>Lp.cos θ.dΩ</alttext>
+          <latex>L_{\text{p}}\, \text{cos}\:\theta\, \text{d}\varOmega</latex>
+        </item>
+        <item>
+          <alttext>Ω</alttext>
+          <latex>\varOmega</latex>
+        </item>
+        <item>
+          <alttext>θ</alttext>
+          <latex>\theta</latex>
+        </item>
+        <item>
+          <alttext>Ep = dqp/dS</alttext>
+          <latex>E_{\text{p}} = \text{d}q_{\text{p}}/\text{d}S</latex>
+        </item>
+        <item>
+          <alttext>Ep = qp/S</alttext>
+          <latex>E_{\text{p}} = q_{\text{p}}/S</latex>
+        </item>
+        <item>
+          <alttext>Ep = ∫ 2π Lp cosθ ⁢dΩ</alttext>
+          <latex>E_{\text{p}} = \int_{2\pi} L_{\text{p}}\, \text{cos}\:\theta\, \text{d}\varOmega</latex>
+        </item>
+        <item>
+          <alttext>Ep,o</alttext>
+          <latex>E_{\text{p,o}}</latex>
+        </item>
+        <item>
+          <alttext>Ep</alttext>
+          <latex>E_{\text{p}}</latex>
+        </item>
+        <item>
+          <alttext>En,p</alttext>
+          <latex>E_{n\text{,p}}</latex>
+        </item>
+        <item>
+          <alttext>mol m-2 s-1</alttext>
+          <latex>\pu{mol m-2 s-1}</latex>
+        </item>
+        <item>
+          <alttext>einstein m-2 s-1</alttext>
+          <latex>\text{einstein m}^{-2}\ \text{s}^{-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 396 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/P04637/html</html>
+    <json>https://goldbook.iupac.org/terms/view/P04637/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/P04637/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/P04637/plain</plain>
+  </links>
+  <citation>Citation: 'photon irradiance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.P04637</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:22:06+00:00</accessed>
+</term>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00504</id>
+  <doi>10.1351/goldbook.A00504</doi>
+  <code>A00504</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - atomic units</longtitle>
+  <title>atomic units</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The units designed to simplify the form of the fundamental equations of quantum mechanics by eliminating from them fundamental constants. The atomic unit of length is the Bohr radius, ao = h2/4π2.m.e2 = 5.29177249E-11 m (0.529177249 Å). Energy is measured in hartrees, where 1 hartree = e2/ao = 4.3597482 x 10E-18 J. Masses are specified in terms of atomic mass unit, amu = 1.6605402 x 10E-27 kg and of the electron mass unit, me = 0.910953 x 10E-30 kg. The advantage of atomic units is that if all calculations are directly expressed in such units, the results do not vary with any revision of the numerical values of the fundamental constants.</text>
+      <links>
+        <item>
+          <title>Bohr radius</title>
+          <url>https://goldbook.iupac.org/terms/view/B00693</url>
+        </item>
+        <item>
+          <title>atomic mass unit</title>
+          <url>https://goldbook.iupac.org/terms/view/A00498</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>Atomic length unit</meaning>
+          <type>unit</type>
+          <alttext>ao = h2/4π2.m.e2 = 5.29177249E-11 m</alttext>
+          <latex>a_{\text{o}}=\frac{h^{2}}{4\ \pi ^{2}\ m\ e^{2}}=5.291\ 77249\times 10^{-11}\ \text{m}</latex>
+        </item>
+        <item>
+          <alttext>0.529177249 Å</alttext>
+          <latex>0.529177249\ \mathring{\text{A}}</latex>
+        </item>
+        <item>
+          <meaning>Hartree</meaning>
+          <type>unit</type>
+          <alttext>1 hartree = e2/ao = 4.3597482 x 10E-18 J</alttext>
+          <latex>1\ \text{hartree} = \frac{e^{2}}{a_{\text{o}}}=4.359\ 7482\times 10^{-18}\ \text{J}</latex>
+        </item>
+        <item>
+          <meaning>Atomic mass unit (amu)</meaning>
+          <type>unit</type>
+          <alttext>amu = 1.6605402 x 10E-27 kg</alttext>
+          <latex>\pu{amu} = \pu{1.6605402E-27 kg}</latex>
+        </item>
+        <item>
+          <meaning>Mass of the electron</meaning>
+          <type>constant</type>
+          <alttext>me = 0.910953 x 10E-30 kg</alttext>
+          <latex>m_{\rm{e}} = \pu{0.910953E-30 kg}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1999, 71, 1919. 'Glossary of terms used in theoretical organic chemistry' on page 1924 (https://doi.org/10.1351/pac199971101919)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Atomare Einheiten (de)</title>
+      <url>https://de.wikipedia.org/wiki/Atomare_Einheiten</url>
+    </item>
+    <item>
+      <title>Wikipedia - وحدة ذرية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/وحدة_ذرية</url>
+    </item>
+    <item>
+      <title>Wikipedia - 原子単位系 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/原子単位系</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00504/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00504/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00504/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00504/plain</plain>
+  </links>
+  <citation>Citation: 'atomic units' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00504</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:02:08+00:00</accessed>
+</term>

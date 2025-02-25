@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>04329</id>
+  <doi>10.1351/goldbook.O04329</doi>
+  <code>O04329</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - organyl groups</longtitle>
+  <title>organyl groups</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Any organic substituent group, regardless of functional type, having one free valence at a carbon atom, e.g. CH3CH2–, ClCH2– , CH3C(=O)– , 4-pyridylmethyl. Organyl is also used in conjunction with other terms, as in organylthio- (e.g. MeS– ) and organyloxy.</text>
+      <links>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>valence</title>
+          <url>https://goldbook.iupac.org/terms/view/V06588</url>
+        </item>
+        <item>
+          <title>heterocyclyl groups</title>
+          <url>https://goldbook.iupac.org/terms/view/H02799</url>
+        </item>
+        <item>
+          <title>hydrocarbyl</title>
+          <url>https://goldbook.iupac.org/terms/view/H02891</url>
+        </item>
+        <item>
+          <title>organoheteryl</title>
+          <url>https://goldbook.iupac.org/terms/view/O04327</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1354 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Composé organique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Composé_organique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Groupe organyle (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Groupe_organyle</url>
+    </item>
+    <item>
+      <title>Wikipedia - Organic compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Organic_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Organikong kompuwesto (bcl)</title>
+      <url>https://bcl.wikipedia.org/wiki/Organikong_kompuwesto</url>
+    </item>
+    <item>
+      <title>Wikipedia - Organyl group (en)</title>
+      <url>https://en.wikipedia.org/wiki/Organyl_group</url>
+    </item>
+    <item>
+      <title>Wikipedia - Organylgruppe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Organylgruppe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Органильная группа (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Органильная_группа</url>
+    </item>
+    <item>
+      <title>Wikipedia - مركب عضوي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/مركب_عضوي</url>
+    </item>
+    <item>
+      <title>Wikipedia - 유기기 (ko)</title>
+      <url>https://ko.wikipedia.org/wiki/유기기</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/O04329/html</html>
+    <json>https://goldbook.iupac.org/terms/view/O04329/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/O04329/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/O04329/plain</plain>
+  </links>
+  <citation>Citation: 'organyl groups' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.O04329</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:06:32+00:00</accessed>
+</term>

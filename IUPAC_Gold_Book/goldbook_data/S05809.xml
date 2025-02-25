@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>05809</id>
+  <doi>10.1351/goldbook.S05809</doi>
+  <code>S05809</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - specimen in analytical chemistry</longtitle>
+  <title>specimen</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>A specifically selected portion of a material taken from a dynamic system and assumed to be representative of the parent material at the time it is taken. Although the specimen may not be reproducible in time, e.g. it may be taken from a flowing stream or a portion of blood, no separable sampling error exists since this error is unavoidably included with the corresponding error of the estimate of the property, function or analyte being studied. A specimen may be considered as a special type of sample, taken primarily in time rather than in space. The term 'specimen' has been used both as a representative unit and as a nonrepresentative (often better than most) unit of a population, usually in clinical, biological and mineralogical collections. 'Collections' in this case is used as either a noun or verb. This usage is almost always self-evident, and thus would not be confused with a time-type sample.</text>
+      <contexts>
+        <in>
+          <item>analytical chemistry</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>sampling error</title>
+          <url>https://goldbook.iupac.org/terms/view/S05463</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1990, 62, 1193. 'Nomenclature for sampling in analytical chemistry (Recommendations 1990)' on page 1202 (https://doi.org/10.1351/pac199062061193)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/S05809/html</html>
+    <json>https://goldbook.iupac.org/terms/view/S05809/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/S05809/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/S05809/plain</plain>
+  </links>
+  <citation>Citation: 'specimen' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.S05809</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T11:16:53+00:00</accessed>
+</term>

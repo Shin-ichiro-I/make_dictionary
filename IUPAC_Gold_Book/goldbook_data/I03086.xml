@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03086</id>
+  <doi>10.1351/goldbook.I03086</doi>
+  <code>I03086</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - interfacial layer width, σSin thin films</longtitle>
+  <title>interfacial layer width</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>The characteristic length defined by the variance of the Gaussian function fitted to the gradient of the electron density profile established by X-ray specular reflectivity studies of the liquid interface.</text>
+      <contexts>
+        <in>
+          <item>thin films</item>
+        </in>
+      </contexts>
+      <links>
+        <item>
+          <title>characteristic length (in thin films)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00977</url>
+        </item>
+        <item>
+          <title>characteristic length (in thin films)</title>
+          <url>https://goldbook.iupac.org/terms/view/C00977</url>
+        </item>
+        <item>
+          <title>gradient (in thin films)</title>
+          <url>https://goldbook.iupac.org/terms/view/G02669</url>
+        </item>
+        <item>
+          <title>electron density (in thin films)</title>
+          <url>https://goldbook.iupac.org/terms/view/E01986</url>
+        </item>
+        <item>
+          <title>reflectivity (in thin films)</title>
+          <url>https://goldbook.iupac.org/terms/view/R05235</url>
+        </item>
+        <item>
+          <title>interface (in thin films)</title>
+          <url>https://goldbook.iupac.org/terms/view/I03082</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1994, 66, 1667. 'Thin films including layers: terminology in relation to their preparation and characterization (IUPAC Recommendations 1994)' on page 1674 (https://doi.org/10.1351/pac199466081667)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03086/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03086/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03086/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03086/plain</plain>
+  </links>
+  <citation>Citation: 'interfacial layer width' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03086</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:05:32+00:00</accessed>
+</term>

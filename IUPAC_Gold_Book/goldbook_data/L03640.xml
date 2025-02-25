@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03640</id>
+  <doi>10.1351/goldbook.L03640</doi>
+  <code>L03640</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - luminance</longtitle>
+  <title>luminance</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Photometric counterpart of radiance, producing the visual sensation called brightness. Typical units are: candela m-2(nit),candela cm-2(stilb),foot lambert (2.426 nit). As with all photometric quantities, luminance does not refer to a specific wavelength, but applies to light emitted by a standard source (formerly a 'standard international candle', now a blackbody radiator emitting at the temperature of solidifying platinum, 2042 K). Conversion from photometric units to radiometric units (e.g. J s-1) requires convolution over wavelength of the relative spectral response of the human eye (photopic response tables).</text>
+      <links>
+        <item>
+          <title>radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05037</url>
+        </item>
+        <item>
+          <title>brightness</title>
+          <url>https://goldbook.iupac.org/terms/view/BT07337</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>candela m-2</alttext>
+          <latex>\text{candela}\ \text{m}^{-2}</latex>
+        </item>
+        <item>
+          <alttext>nit</alttext>
+          <latex>\mathrm{nit}</latex>
+        </item>
+        <item>
+          <alttext>candela cm-2</alttext>
+          <latex>\text{candela}\ \text{cm}^{-2}</latex>
+        </item>
+        <item>
+          <alttext>stilb</alttext>
+          <latex>\mathrm{stilb}</latex>
+        </item>
+        <item>
+          <alttext>foot lambert</alttext>
+          <latex>\mathrm{foot}\ \mathrm{lambert}</latex>
+        </item>
+        <item>
+          <alttext>2.426 nit</alttext>
+          <latex>2.426\ \text{nit}</latex>
+        </item>
+        <item>
+          <alttext>2042 K</alttext>
+          <latex>2042\ \text{K}</latex>
+        </item>
+        <item>
+          <meaning>Radiant power</meaning>
+          <type>unit</type>
+          <alttext>J s-1</alttext>
+          <latex>\text{J s}^{-1}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1990, 62, 2167. 'Glossary of atmospheric chemistry terms (Recommendations 1990)' on page 2199 (https://doi.org/10.1351/pac199062112167)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Luminanza (fisica) (it)</title>
+      <url>https://it.wikipedia.org/wiki/Luminanza_(fisica)</url>
+    </item>
+    <item>
+      <title>Wikipedia - استضواء (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/استضواء</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/L03640/html</html>
+    <json>https://goldbook.iupac.org/terms/view/L03640/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/L03640/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/L03640/plain</plain>
+  </links>
+  <citation>Citation: 'luminance' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.L03640</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:29:44+00:00</accessed>
+</term>

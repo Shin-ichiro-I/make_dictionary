@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00435</id>
+  <doi>10.1351/goldbook.A00435</doi>
+  <code>A00435</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - arenes</longtitle>
+  <title>arenes</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Monocyclic and polycyclic aromatic hydrocarbons.</text>
+      <links>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>hydrocarbons</title>
+          <url>https://goldbook.iupac.org/terms/view/H02889</url>
+        </item>
+        <item>
+          <title>aromatic compounds</title>
+          <url>https://goldbook.iupac.org/terms/view/A00441</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 1307. 'Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)' on page 1318 (https://doi.org/10.1351/pac199567081307)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Aromatic compound (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aromatic_compound</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aromatic hydrocarbon (en)</title>
+      <url>https://en.wikipedia.org/wiki/Aromatic_hydrocarbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aromatik hidrokarbon (tr)</title>
+      <url>https://tr.wikipedia.org/wiki/Aromatik_hidrokarbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Aromatische Kohlenwasserstoffe (de)</title>
+      <url>https://de.wikipedia.org/wiki/Aromatische_Kohlenwasserstoffe</url>
+    </item>
+    <item>
+      <title>Wikipedia - Composti aromatici (it)</title>
+      <url>https://it.wikipedia.org/wiki/Composti_aromatici</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glossary of engineering: A–L (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glossary_of_engineering:_A–L</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrocarburo aromático (es)</title>
+      <url>https://es.wikipedia.org/wiki/Hidrocarburo_aromático</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrocarburo aromático (gl)</title>
+      <url>https://gl.wikipedia.org/wiki/Hidrocarburo_aromático</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hidrocarburu arumosu (ast)</title>
+      <url>https://ast.wikipedia.org/wiki/Hidrocarburu_arumosu</url>
+    </item>
+    <item>
+      <title>Wikipedia - Hydrocarbure aromatique (fr)</title>
+      <url>https://fr.wikipedia.org/wiki/Hydrocarbure_aromatique</url>
+    </item>
+    <item>
+      <title>Wikipedia - Idrocarburi aromatici (it)</title>
+      <url>https://it.wikipedia.org/wiki/Idrocarburi_aromatici</url>
+    </item>
+    <item>
+      <title>Wikipedia - هيدروكربون عطري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/هيدروكربون_عطري</url>
+    </item>
+    <item>
+      <title>Wikipedia - அரோமாட்டிக் ஐதரோகார்பன் (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/அரோமாட்டிக்_ஐதரோகார்பன்</url>
+    </item>
+    <item>
+      <title>Wikipedia - ノート:芳香族炭化水素 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/ノート:芳香族炭化水素</url>
+    </item>
+    <item>
+      <title>Wikipedia - 芳香族炭化水素 (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/芳香族炭化水素</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00435/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00435/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00435/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00435/plain</plain>
+  </links>
+  <citation>Citation: 'arenes' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00435</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:58:29+00:00</accessed>
+</term>

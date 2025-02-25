@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>01045</id>
+  <doi>10.1351/goldbook.C01045</doi>
+  <code>C01045</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - chemiluminescence</longtitle>
+  <title>chemiluminescence</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Emission of radiation resulting from a chemical reaction. The emitting species may be a reaction product or a species excited by energy transfer from an excited reaction product. The excitation may be electronic, vibrational or rotational; if the luminescence occurs in the infrared the expression infrared chemiluminescence is used.</text>
+      <links>
+        <item>
+          <title>luminescence</title>
+          <url>https://goldbook.iupac.org/terms/view/L03641</url>
+        </item>
+        <item>
+          <title>infrared</title>
+          <url>https://goldbook.iupac.org/terms/view/IT07399</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1984, 56, 231. 'Nomenclature, symbols, units and their usage in spectrochemical analysis-Part VI: molecular luminescence spectroscopy' on page 234 (https://doi.org/10.1351/pac198456020231)</item>
+        <item>PAC, 1996, 68, 149. 'A glossary of terms used in chemical kinetics, including reaction dynamics (IUPAC Recommendations 1996)' on page 158 (https://doi.org/10.1351/pac199668010149)</item>
+        <item>PAC, 1996, 68, 2223. 'Glossary of terms used in photochemistry (IUPAC Recommendations 1996)' on page 2232 (https://doi.org/10.1351/pac199668122223)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Chemiluminescenza (it)</title>
+      <url>https://it.wikipedia.org/wiki/Chemiluminescenza</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemilumineszenz (de)</title>
+      <url>https://de.wikipedia.org/wiki/Chemilumineszenz</url>
+    </item>
+    <item>
+      <title>Wikipedia - Chemiluminiscence (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Chemiluminiscence</url>
+    </item>
+    <item>
+      <title>Wikipedia - ضيائية كيميائية (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/ضيائية_كيميائية</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/C01045/html</html>
+    <json>https://goldbook.iupac.org/terms/view/C01045/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/C01045/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/C01045/plain</plain>
+  </links>
+  <citation>Citation: 'chemiluminescence' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.C01045</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T07:31:32+00:00</accessed>
+</term>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>00300</id>
+  <doi>10.1351/goldbook.A00300</doi>
+  <code>A00300</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - ampere</longtitle>
+  <title>ampere</title>
+  <index>unit</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2021-01-01</lastupdated>
+  <definitions>
+    <item>
+      <id>2</id>
+      <text>The ampere, symbol A, is the SI unit of electric current. It is defined by taking the fixed numerical value of the elementary charge e to be 1.602 176 634 × 10−19 when expressed in the unit C, which is equal to A s, where the second is defined in terms of ∆νCs.</text>
+      <links>
+        <item>
+          <title>elementary charge</title>
+          <url>https://goldbook.iupac.org/terms/view/E02032</url>
+        </item>
+        <item>
+          <title>ΔνCs</title>
+          <url>https://goldbook.iupac.org/terms/view/S05854</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <meaning>elementary charge (electron/proton)</meaning>
+          <type>numeric value</type>
+          <alttext>1.602 176 634 x 10E-19</alttext>
+          <latex>1.602\ 176\ 634\times10^{-19}</latex>
+        </item>
+        <item>
+          <meaning>elementary charge (electron/proton)</meaning>
+          <type>symbol</type>
+          <alttext>e</alttext>
+          <latex>e</latex>
+        </item>
+        <item>
+          <meaning>ampere second</meaning>
+          <type>unit</type>
+          <alttext>A s</alttext>
+          <latex>\text{A s}</latex>
+        </item>
+        <item>
+          <meaning>coulomb (charge)</meaning>
+          <type>symbol</type>
+          <alttext>C</alttext>
+          <latex>\text{C}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>BIPM, The International System of Units, SI Brochure, 9th ed. (2019), p. 132 (https://www.bipm.org/en/publications/si-brochure/)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Corrente elettrica (it)</title>
+      <url>https://it.wikipedia.org/wiki/Corrente_elettrica</url>
+    </item>
+    <item>
+      <title>Wikipedia - أمبير (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/أمبير</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/A00300/html</html>
+    <json>https://goldbook.iupac.org/terms/view/A00300/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/A00300/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/A00300/plain</plain>
+  </links>
+  <citation>Citation: 'ampere' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.A00300</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T06:52:25+00:00</accessed>
+</term>

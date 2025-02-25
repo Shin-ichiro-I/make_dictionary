@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>03254</id>
+  <doi>10.1351/goldbook.I03254</doi>
+  <code>I03254</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - irradiance (at a point of a surface), E</longtitle>
+  <title>irradiance (at a point of a surface)</title>
+  <index>quantity</index>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Radiant power, P, of all wavelengths incident from all upward directions on a small element of surface containing the point under consideration divided by the area of the element. SI unit is W m-2.</text>
+      <notes>
+        <item>Mathematical definition: E = dP/dS. If the radiant power is constant over the surface area considered, E = P/S.</item>
+        <item>Alternative definition: Integral, taken over the hemisphere visible from the given point, of the expression L.cosθ.dΩ, where L is the radiance at the given point in the various directions of the incident elementary beams of solid angle Ω and θ is the angle between any of the beams and the normal to the surface at the given point. E = ∫(2π)L.cos θ.⁢dΩ</item>
+        <item>This term refers to a beam not scattered or reflected by the target or its surroundings. For a beam incident from all directions, fluence rate (Eo) is an equivalent term.</item>
+        <item>E = ∫(λ)Eλ.dλ where Eλ is the spectral irradiance at wavelength λ.</item>
+      </notes>
+      <links>
+        <item>
+          <title>radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05046</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05037</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>fluence rate</title>
+          <url>https://goldbook.iupac.org/terms/view/FT07376</url>
+        </item>
+        <item>
+          <title>spectral irradiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05817</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+        <item>
+          <title>radiant power</title>
+          <url>https://goldbook.iupac.org/terms/view/R05046</url>
+        </item>
+        <item>
+          <title>visible</title>
+          <url>https://goldbook.iupac.org/terms/view/VT07496</url>
+        </item>
+        <item>
+          <title>radiance</title>
+          <url>https://goldbook.iupac.org/terms/view/R05037</url>
+        </item>
+        <item>
+          <title>angle</title>
+          <url>https://goldbook.iupac.org/terms/view/A00346</url>
+        </item>
+        <item>
+          <title>fluence rate</title>
+          <url>https://goldbook.iupac.org/terms/view/FT07376</url>
+        </item>
+        <item>
+          <title>spectral irradiance</title>
+          <url>https://goldbook.iupac.org/terms/view/S05817</url>
+        </item>
+        <item>
+          <title>wavelength</title>
+          <url>https://goldbook.iupac.org/terms/view/W06659</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>P</alttext>
+          <latex>P</latex>
+        </item>
+        <item>
+          <alttext>W m-2</alttext>
+          <latex>\text{W m}^{-2}</latex>
+        </item>
+        <item>
+          <alttext>E = dP/dS</alttext>
+          <latex>E = \frac{\text{d}P}{\text{d}S}</latex>
+        </item>
+        <item>
+          <alttext>E = P/S</alttext>
+          <latex>E = \frac{P}{S}</latex>
+        </item>
+        <item>
+          <type>math</type>
+          <alttext>L.cosθ.dΩ</alttext>
+          <latex>L\, \text{cos}\,\theta\,\text{d}\varOmega</latex>
+        </item>
+        <item>
+          <alttext>L</alttext>
+          <latex>L</latex>
+        </item>
+        <item>
+          <alttext>Ω</alttext>
+          <latex>\varOmega</latex>
+        </item>
+        <item>
+          <alttext>θ</alttext>
+          <latex>\theta</latex>
+        </item>
+        <item>
+          <alttext>E = ∫(2π)L.cos θ.⁢dΩ</alttext>
+          <latex>E = \int_{2\pi}L\, \text{cos}\,\theta\, \text{d}\varOmega</latex>
+        </item>
+        <item>
+          <alttext>Eo</alttext>
+          <latex>E_{o}</latex>
+        </item>
+        <item>
+          <alttext>E = ∫(λ)Eλ.dλ</alttext>
+          <latex>E = \int_{\lambda}E_{\lambda}\, \text{d}\lambda</latex>
+        </item>
+        <item>
+          <alttext>Eλ</alttext>
+          <latex>E_{\lambda}</latex>
+        </item>
+        <item>
+          <alttext>λ</alttext>
+          <latex>\lambda</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 2007, 79, 293. 'Glossary of terms used in photochemistry, 3rd edition (IUPAC Recommendations 2006)' on page 357 (https://doi.org/10.1351/pac200779030293)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - تشعيع (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/تشعيع</url>
+    </item>
+    <item>
+      <title>Wikipedia - كثافة التدفق الإشعاعي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كثافة_التدفق_الإشعاعي</url>
+    </item>
+    <item>
+      <title>Wikipedia - كثافة التدفق الاشعاعي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كثافة_التدفق_الاشعاعي</url>
+    </item>
+    <item>
+      <title>Wikipedia - كثافة تدفق إشعاعي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كثافة_تدفق_إشعاعي</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/I03254/html</html>
+    <json>https://goldbook.iupac.org/terms/view/I03254/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/I03254/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/I03254/plain</plain>
+  </links>
+  <citation>Citation: 'irradiance (at a point of a surface)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.I03254</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T09:11:22+00:00</accessed>
+</term>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02823</id>
+  <doi>10.1351/goldbook.H02823</doi>
+  <code>H02823</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - highly oriented pyrolytic graphite</longtitle>
+  <title>highly oriented pyrolytic graphite</title>
+  <abbrevs>
+    <item>HOPG</item>
+  </abbrevs>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Highly oriented pyrolytic graphite (HOPG) is a pyrolytic graphite with an angular spread of the c-axes of the crystallites of less than 1 degree.</text>
+      <notes>
+        <item>Commercial HOPG is usually produced by stress annealing at approximately 3300 K.</item>
+      </notes>
+      <links>
+        <item>
+          <title>pyrolytic graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/P04964</url>
+        </item>
+        <item>
+          <title>pyrolytic graphite</title>
+          <url>https://goldbook.iupac.org/terms/view/P04964</url>
+        </item>
+      </links>
+      <math>
+        <item>
+          <alttext>3300 K</alttext>
+          <latex>3300\ \text{K}</latex>
+        </item>
+      </math>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 495 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Grafito (es)</title>
+      <url>https://es.wikipedia.org/wiki/Grafito</url>
+    </item>
+    <item>
+      <title>Wikipedia - Graphite (en)</title>
+      <url>https://en.wikipedia.org/wiki/Graphite</url>
+    </item>
+    <item>
+      <title>Wikipedia - Highly oriented pyrolytic graphite (en)</title>
+      <url>https://en.wikipedia.org/wiki/Highly_oriented_pyrolytic_graphite</url>
+    </item>
+    <item>
+      <title>Wikipedia - Высокоориентированный пиролитический графит (ru)</title>
+      <url>https://ru.wikipedia.org/wiki/Высокоориентированный_пиролитический_графит</url>
+    </item>
+    <item>
+      <title>Wikipedia - Графит (sr)</title>
+      <url>https://sr.wikipedia.org/wiki/Графит</url>
+    </item>
+    <item>
+      <title>Wikipedia - الجرافيت عالي التحلل الحراري (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/الجرافيت_عالي_التحلل_الحراري</url>
+    </item>
+    <item>
+      <title>Wikipedia - கடுங்கரி (ta)</title>
+      <url>https://ta.wikipedia.org/wiki/கடுங்கரி</url>
+    </item>
+    <item>
+      <title>Wikipedia - గ్రాఫైట్ (te)</title>
+      <url>https://te.wikipedia.org/wiki/గ్రాఫైట్</url>
+    </item>
+    <item>
+      <title>Wikipedia - ಗ್ರ್ಯಾಫೈಟ್‌ (kn)</title>
+      <url>https://kn.wikipedia.org/wiki/ಗ್ರ್ಯಾಫೈಟ್‌</url>
+    </item>
+    <item>
+      <title>Wikipedia - 高配向性熱分解グラファイト (ja)</title>
+      <url>https://ja.wikipedia.org/wiki/高配向性熱分解グラファイト</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/H02823/html</html>
+    <json>https://goldbook.iupac.org/terms/view/H02823/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/H02823/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/H02823/plain</plain>
+  </links>
+  <citation>Citation: 'highly oriented pyrolytic graphite' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.H02823</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:52:14+00:00</accessed>
+</term>

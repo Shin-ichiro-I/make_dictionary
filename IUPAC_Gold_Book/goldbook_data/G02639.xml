@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>02639</id>
+  <doi>10.1351/goldbook.G02639</doi>
+  <code>G02639</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - glass-like carbon</longtitle>
+  <title>glass-like carbon</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>An agranular non-graphitizable carbon with a very high isotropy of its structural and physical properties and with a very low permeability for liquids and gases. The original surfaces and the fracture surfaces have a pseudo-glassy appearance.</text>
+      <notes>
+        <item>The often used synonyms 'glassy carbon' and 'vitreous carbon' have been introduced as trademarks and should not be used as terms. From a scientific viewpoint, all synonymous terms suggest a similiarity with the structure of silicate glasses which does not exist in glass-like carbon, except for the pseudo-glassy appearance of the surface. Glass-like carbon cannot be described as amorphous carbon because it consists of two-dimensional structural elements and does not exhibit 'dangling' bonds.</item>
+      </notes>
+      <links>
+        <item>
+          <title>amorphous carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/A00294</url>
+        </item>
+        <item>
+          <title>non-graphitizable carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/N04194</url>
+        </item>
+        <item>
+          <title>amorphous carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/A00294</url>
+        </item>
+        <item>
+          <title>non-graphitizable carbon</title>
+          <url>https://goldbook.iupac.org/terms/view/N04194</url>
+        </item>
+        <item>
+          <title>permeability</title>
+          <url>https://goldbook.iupac.org/terms/view/P04503</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 1995, 67, 473. 'Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995)' on page 490 (https://doi.org/10.1351/pac199567030473)</item>
+      </sources>
+    </item>
+  </definitions>
+  <referencedin>
+    <item>
+      <title>Wikipedia - Carbonio vitreo (it)</title>
+      <url>https://it.wikipedia.org/wiki/Carbonio_vitreo</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glaskohlenstoff (de)</title>
+      <url>https://de.wikipedia.org/wiki/Glaskohlenstoff</url>
+    </item>
+    <item>
+      <title>Wikipedia - Glassy carbon (en)</title>
+      <url>https://en.wikipedia.org/wiki/Glassy_carbon</url>
+    </item>
+    <item>
+      <title>Wikipedia - Klaasjas süsinik (et)</title>
+      <url>https://et.wikipedia.org/wiki/Klaasjas_süsinik</url>
+    </item>
+    <item>
+      <title>Wikipedia - Skelný uhlík (cs)</title>
+      <url>https://cs.wikipedia.org/wiki/Skelný_uhlík</url>
+    </item>
+    <item>
+      <title>Wikipedia - كربون زجاجي (ar)</title>
+      <url>https://ar.wikipedia.org/wiki/كربون_زجاجي</url>
+    </item>
+    <item>
+      <title>Wikipedia - 玻璃碳 (zh)</title>
+      <url>https://zh.wikipedia.org/wiki/玻璃碳</url>
+    </item>
+  </referencedin>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/G02639/html</html>
+    <json>https://goldbook.iupac.org/terms/view/G02639/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/G02639/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/G02639/plain</plain>
+  </links>
+  <citation>Citation: 'glass-like carbon' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.G02639</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T08:42:36+00:00</accessed>
+</term>

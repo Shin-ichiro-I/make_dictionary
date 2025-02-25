@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<term>
+  <id>07161</id>
+  <doi>10.1351/goldbook.PT07161</doi>
+  <code>PT07161</code>
+  <status>current</status>
+  <longtitle>IUPAC Gold Book - polymer-supported catalyst</longtitle>
+  <title>polymer-supported catalyst</title>
+  <termversion>2.3.3</termversion>
+  <lastupdated>2014-02-24</lastupdated>
+  <definitions>
+    <item>
+      <id>1</id>
+      <text>Catalyst system comprising a polymer support in which catalytically active species are immobilized through chemical bonds or weaker interactions such as hydrogen bonds or donor–acceptor interactions.</text>
+      <notes>
+        <item>Polymer-supported catalysts are often based on network polymers in the form of beads. They are easy to separate from reaction media and can be used repeatedly.</item>
+        <item>Examples of polymer-supported catalysts are: (a) a polymer-metal complex that can coordinate reactants, (b) colloidal palladium dispersed in a swollen network polymer that can act as a hydrogenation catalyst.</item>
+        <item>Polymer-supported enzymes are a type of polymer-supported catalysts.</item>
+      </notes>
+      <links>
+        <item>
+          <title>network</title>
+          <url>https://goldbook.iupac.org/terms/view/NT07562</url>
+        </item>
+        <item>
+          <title>polymer-metal complex</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07159</url>
+        </item>
+        <item>
+          <title>colloidal</title>
+          <url>https://goldbook.iupac.org/terms/view/C01172</url>
+        </item>
+        <item>
+          <title>network polymer</title>
+          <url>https://goldbook.iupac.org/terms/view/N04113</url>
+        </item>
+        <item>
+          <title>enzymes</title>
+          <url>https://goldbook.iupac.org/terms/view/E02159</url>
+        </item>
+        <item>
+          <title>Catalyst</title>
+          <url>https://goldbook.iupac.org/terms/view/C00876</url>
+        </item>
+        <item>
+          <title>polymer support</title>
+          <url>https://goldbook.iupac.org/terms/view/PT07191</url>
+        </item>
+        <item>
+          <title>active species</title>
+          <url>https://goldbook.iupac.org/terms/view/A00110</url>
+        </item>
+      </links>
+      <sources>
+        <item>PAC, 2004, 76, 889. 'Definitions of terms relating to reactions of polymers and to functional polymeric materials (IUPAC Recommendations 2003)' on page 896 (https://doi.org/10.1351/pac200476040889)</item>
+      </sources>
+    </item>
+  </definitions>
+  <links>
+    <html>https://goldbook.iupac.org/terms/view/PT07161/html</html>
+    <json>https://goldbook.iupac.org/terms/view/PT07161/json</json>
+    <xml>https://goldbook.iupac.org/terms/view/PT07161/xml</xml>
+    <plain>https://goldbook.iupac.org/terms/view/PT07161/plain</plain>
+  </links>
+  <citation>Citation: 'polymer-supported catalyst' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. 10.1351/goldbook.PT07161</citation>
+  <license>The IUPAC Gold Book is licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) for individual terms.</license>
+  <collection>If you are interested in licensing the Gold Book for commercial use, please contact the IUPAC Executive Director at executivedirector@iupac.org .</collection>
+  <disclaimer>The International Union of Pure and Applied Chemistry (IUPAC) is continuously reviewing and, where needed, updating terms in the Compendium of Chemical Terminology (the IUPAC Gold Book). Users of these terms are encouraged to include the version of a term with its use and to check regularly for updates to term definitions that you are using.</disclaimer>
+  <accessed>2025-02-25T10:28:09+00:00</accessed>
+</term>

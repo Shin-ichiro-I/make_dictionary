@@ -5,7 +5,6 @@ Powered by Gemini Advanced 2.0 Flash
 ## Data Source
 
 - Wikidata :https://www.wikidata.org/wiki/Wikidata:Main_Page
-- Wikidata Query Service :https://query.wikidata.org/
 - IUPAC Gold Book :https://goldbook.iupac.org/
 
 ## Total Design of Making Dictionary

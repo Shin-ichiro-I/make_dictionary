@@ -25,9 +25,9 @@ for gb_entry in goldbook_data:
             "title": gb_title,
             "definitions": gb_entry.get("definitions", []),
             # Wikidataのlabel_ja, altLabel_ja, altLabel_enを追加
-            "label_ja": wd_entry["label_ja"].tolist() if len(wd_entry["label_ja"]) > 0 else "",
-            "altLabel_ja": wd_entry["altLabel_ja"].tolist() if len(wd_entry["altLabel_ja"]) > 0 else "",
-            "altLabel_en": wd_entry["altLabel_en"].tolist() if len(wd_entry["altLabel_en"]) > 0 else "",
+            "label_ja": wd_entry["label_ja"].values[0] if pd.notna(wd_entry["label_ja"].values[0]) else "",
+            "altLabel_ja": wd_entry["altLabel_ja"].values[0] if pd.notna(wd_entry["altLabel_ja"].values[0]) else "",
+            "altLabel_en": wd_entry["altLabel_en"].values[0] if pd.notna(wd_entry["altLabel_en"].values[0]) else "",
             # その他のGold Bookの情報を追加
             "id": gb_entry["id"],
             "altLabels": gb_entry.get("altLabels", []),
@@ -47,6 +47,10 @@ for gb_entry in goldbook_data:
             "@id": gb_entry["id"],
             "title": gb_title,
             "definitions": gb_entry.get("definitions", []),
+            # Gold Bookにエントリがないlabel_ja, altLabel_ja, altLabel_enは空で追加
+            "label_ja": "",
+            "altLabel_ja": "",
+            "altLabel_en": "",
             # その他のGold Bookの情報を追加
             "altLabels": gb_entry.get("altLabels", []),
             "relatedTerms": gb_entry.get("relatedTerms", []),
@@ -58,6 +62,33 @@ for gb_entry in goldbook_data:
             "math": gb_entry.get("math", []),
             "symbols": gb_entry.get("symbols", []),
             "processes": gb_entry.get("processes", []),
+        })
+
+# WikidataのエントリでGold Bookにないものを追加
+for index, wd_row in wikidata_df.iterrows():
+    wd_label = wd_row["label_en"]
+    # Gold Bookのtitleに一致するエントリがないか確認
+    if not any(gb_entry["title"] == wd_label for gb_entry in goldbook_data):
+        knowledge_graph.append({
+            "@id": wd_row["item"],
+            "title": wd_label,
+            "definitions": "",  # wikidataにエントリがないので空で追加
+            # Wikidataのlabel_ja, altLabel_ja, altLabel_enを追加
+            "label_ja": wd_row["label_ja"] if pd.notna(wd_row["label_ja"]) else "",
+            "altLabel_ja": wd_row["altLabel_ja"] if pd.notna(wd_row["altLabel_ja"]) else "",
+            "altLabel_en": wd_row["altLabel_en"] if pd.notna(wd_row["altLabel_en"]) else "",
+            # その他でGold BookにはあってWikidataにない項目は空で追加
+            "id": "",
+            "altLabels": "",
+            "relatedTerms": "",
+            "chemicals": "",
+            "abbrevs": "",
+            "contains": "",
+            "synonyms": "",
+            "contexts": "",
+            "math": "",
+            "symbols": "",
+            "processes": "",
         })
 
 # JSON-LD形式で保存

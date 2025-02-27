@@ -3,6 +3,7 @@ import pandas as pd
 from time import sleep, time
 import logging
 import argparse
+import os
 
 # セッションの作成
 session = requests.Session()
@@ -11,7 +12,7 @@ session = requests.Session()
 logging.basicConfig(filename='wikidata_download_polymer_restrict.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # SPARQL クエリでアイテムのリストを取得
-def get_item_list(offset, limit=100):
+def get_item_list(offset, limit=100, retries=3):
 
     query = f"""
     SELECT?item WHERE {{
@@ -29,18 +30,20 @@ def get_item_list(offset, limit=100):
         'query': query,
         'format': 'json'
     }
-    try:
-        response = requests.get(url, headers=headers, params=params)  # セッションを使用
-        response.raise_for_status()
-        data = response.json()
-        item_ids = [item['item']['value'].split('/')[-1] for item in data['results']['bindings']]
-        return item_ids
-    except requests.exceptions.RequestException as e:
-        print(f"Error: {e}")
-        return None
+    for attempt in range(retries):
+        try:
+            response = requests.get(url, headers=headers, params=params)  # セッションを使用
+            response.raise_for_status()
+            data = response.json()
+            item_ids = [item['item']['value'].split('/')[-1] for item in data['results']['bindings']]
+            return item_ids
+        except requests.exceptions.RequestException as e:
+            print(f"Error: {e}, Retrying... ({attempt + 1}/{retries})")
+            sleep(2 ** attempt)  # エクスポネンシャルバックオフ
+    return None
 
 # Wikidata API でアイテムの詳細情報を取得
-def get_item_data(item_ids):
+def get_item_data(item_ids, retries=3):
     url = 'https://www.wikidata.org/w/api.php'
     params = {
         'action': 'wbgetentities',
@@ -49,18 +52,20 @@ def get_item_data(item_ids):
         'props': 'labels|aliases|claims',
         'format': 'json'
     }
-    try:
-        response = requests.get(url, params=params)  # セッションを使用
-        response.raise_for_status()
-        data = response.json()
-        result = {} # 結果を格納する辞書
-        for item_id in item_ids: # item_idsの各要素に対して処理
-            if item_id in data['entities']: # item_idが存在するか確認
-                result[item_id] = data['entities'][item_id]
-        return result # 辞書を返す
-    except requests.exceptions.RequestException as e:
-        print(f"Error: {e}")
-        return None
+    for attempt in range(retries):
+        try:
+            response = requests.get(url, params=params)  # セッションを使用
+            response.raise_for_status()
+            data = response.json()
+            result = {} # 結果を格納する辞書
+            for item_id in item_ids: # item_idsの各要素に対して処理
+                if item_id in data['entities']: # item_idが存在するか確認
+                    result[item_id] = data['entities'][item_id]
+            return result # 辞書を返す
+        except requests.exceptions.RequestException as e:
+            print(f"Error: {e}, Retrying... ({attempt + 1}/{retries})")
+            sleep(2 ** attempt)  # エクスポネンシャルバックオフ
+    return None
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Wikidataから高分子データをダウンロードし、CSVファイルに保存する')
@@ -75,6 +80,11 @@ if __name__ == '__main__':
     offset = start_index - 1  # オフセットを開始位置から計算
     file_count = start_index // step + 1  # ファイル番号を開始位置から計算
     max_count = 114867 # 全アイテム数1148676を上限に設定
+
+    # ディレクトリが存在しない場合は作成
+    output_dir = 'wikidata_restrict'
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
     while offset <= end_index:  # end_index を上限として繰り返す
         all_data = []
@@ -126,11 +136,12 @@ if __name__ == '__main__':
 
             elapsed_time = time() - start_time
             logging.info(f"処理済みアイテム数: {len(all_data)}, 経過時間: {elapsed_time:.2f}秒")
-            sleep(0.1)
+            sleep(0.15) # Wikidataのアクセス制限1秒間に10回以下厳守
 
             # 次のアイテムIDを取得
             offset += limit
-            offset = min(offset, end_index)  # offset が end_index を超えないように制限
+            if offset >= end_index:
+                break
             item_ids = get_item_list(offset, limit)
 
         # 残りのデータをCSVファイル出力
@@ -142,9 +153,5 @@ if __name__ == '__main__':
             df.to_csv(csv_filename, index=False, encoding="utf-8-sig")
             all_data =[] # all_dataをリセット
             file_count += 1  # ファイル番号をインクリメント
-
-            # 次の範囲を設定
-            start_index = end_index + 1
-            end_index = min(start_index + step - 1, max_count)  # 上限を超えないように調整
-            offset = start_index - 1  # offsetを更新
-            file_count = start_index // step + 1  # ファイル番号を更新
+        if offset >= end_index:
+            break

@@ -87,11 +87,19 @@ SELECT (COUNT(?item) AS ?count) WHERE {
 ```
 
 - Q178593 (高分子): 1148429
-- Q11173 (化合物)：
-- Q35758 (物質)：
+- Q11173 (化合物)：timeout
+- Q35758 (物質)：timeout
 - Q214609 (材料)： 1245339
-- Q79529 (化学物質)：
+- Q79529 (化学物質)：timeout
 - Q11344 (元素)： 369
+- Q113145171 (chemical entity): 1277616
+- Q81163（重合体）: 1148916
+- Q55640599(chemical entities)： 149218
+- Q170409(functional group)： 178
+- Q36534 (chemical reaction)： 3773
+- Q107715（physical quantity）： 443212
+- Q21077852 (Wikidata property for physical quantities): 158
+- Q33104303 (pyhsics): 28
 
 ### Reference
 

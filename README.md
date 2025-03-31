@@ -9,9 +9,9 @@ Powered by Gemini Advanced 2.0 Flash
 
 ## Total Design of Making Dictionary
 
-1. [Extract from Wikidata](wikidata_restrict\README_wikidata.md)
-2. [Extract from IUPAC Gold Book](IUPAC_Gold_Book\README_goldbook.md)
-3. [Merge Wikidata and Gold Book](knowledge_graph\merge.py)
+1. [Extract from Wikidata](wikidata_restrict/README_wikidata.md)
+2. [Extract from IUPAC Gold Book](IUPAC_Gold_Book/README_goldbook.md)
+3. [Merge Wikidata and Gold Book](knowledge_graph/merge.py)
 4. Make original knowledegraph with above data
 
 ### Othre Possible Data Source

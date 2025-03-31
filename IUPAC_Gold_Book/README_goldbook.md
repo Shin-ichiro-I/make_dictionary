@@ -2,11 +2,11 @@
 
 ## Attention
 
-Gold Bookは、化合物名の国際標準を策定している **International Union of Pure and Applied Chemistry (IUPAC)** が編纂していた辞書であるが、2019年以降は改定が行われていないので、注意が必要である。
+Note that the Gold Book is a dictionary compiled by the **International Union of Pure and Applied Chemistry (IUPAC)**, which sets international standards for compound names, but has not been revised since 2019.
 
-登録内容に関する信頼性はWikidataよりも高いと思われるが、収録内容に抜け漏れが多く、辞書としての使い勝手はWikidataよりも悪い。
+The reliability of the registered contents seems to be higher than that of Wikidata, but the usability as a dictionary is worse than that of Wikidata due to many omissions in the recorded contents.
 
-従って、Wikidataを補完する目的で利用する。
+Therefore, it is intended to complement Wikidata.
 
 ```
 from :https://iupac.org/what-we-do/databases/
@@ -18,16 +18,16 @@ An interactive version of IUPAC Compendium of Chemical Terminology, informally k
 
 ## Functional Design for Gold Book
 
-1. １語句につき１ファイルとなっているXMLファイルを、全てダウンロードする (7,096ファイル)
-2. ダウンロードしたXMLファイルの中身を解析し、必要な項目を抽出
-3. 抽出したデータをJSON形式で保存
+1. Download all XML files with one file per phrase (7,096 files)
+2. Analyze the contents of the downloaded XML file and extract necessary items
+3. Save extracted data in JSON format
 
-## Gold BookからのXMLファイル抽出方法（Procedure）
+## How to extract XML files from the Gold Book (Procedure)
 
-1. ULR直叩きで全用語リストをJSON形式で取得 `https://goldbook.iupac.org/terms/index/all/json/`
-2. JSONから`term_id`を抽出
-3. `term_id`毎にXMLファイル呼び出してダウンロード `https://goldbook.iupac.org/terms/view/{term_id}/xml/download`
+1. Get a list of all terms in JSON format by tapping directly on the ULR `https://goldbook.iupac.org/terms/index/all/json/`
+2. Extract `term_id` from JSON
+3. XML file call and download for each `term_id `https://goldbook.iupac.org/terms/view/{term_id}/xml/download`
 
-## XMLファイルから必要項目を抽出する方法
+## How to extract required items from an XML file
 
-省略
+omission

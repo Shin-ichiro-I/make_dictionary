@@ -1,30 +1,67 @@
 # Extract from Wikidata
 
+## Building a python environment
+
+Installed python-3.7.4 after installing penv
+```python-3.7.4
+pyenv install 3.7.4
+```
+
+Building a virtual environment
+```venv
+python3..7 -m venv venv
+```
+
+Activate Virtual Environment
+```venv activation
+venv\Scripts\activate # windows
+source venv/bin/activate # Mac, Linux
+```
+
+package installation
+```pandas, request
+pip install pandas==1.3.5 requests==2.31.0
+```
+
+## Python Execution Command
+
+Features
+- Data download takes time and can be downloaded in installments
+- `start_index` : First `index` of words to be extracted
+- `stop_index` : The `index` of the word or phrase that completes the extraction
+- Since data is output to a CSV file every 5,000 words, the difference between `start_index` and `stop_index` should be a multiple of 5,000
+
+```Execution code example
+poetry run python main_restrict.py {start_index} {stop_index}
+poetry run python main_restrict.py 1 40000
+```
+
+
 ## Functional Design for Wikidata
 
-1. 辞書のスコープ：高分子化学に特化する（のちに有機化学、無機化学などに拡張）
-2. Wikidataから抽出するデータ：
-    - 化学物質の名称（日本語、英語の両方）
-    - 化学物質の同義語、類義語（慣用句とIUPAC名も類義語とみなす）
-    - 上位と下位概念
-3. 出力する辞書の形式：CSV形式
-4. データ抽出・加工ツール：Python
+1. scope of the dictionary: specializing in polymer chemistry (later expanded to include organic and inorganic chemistry)
+2. Data to be extracted from Wikidata:
+    - Names of chemical substances (both Japanese and English)
+    - Synonyms and synonyms of chemicals (idioms and IUPAC names are also considered synonyms)
+    - superordinate and subordinate concepts
+3. Output dictionary format: CSV format
+4. Data extraction and processing tools: Python
 
-## Wikidataからの抽出手順 (Procedure)
+## Procedure for extraction from Wikidata
 
-1. SPARQL クエリでアイテムのリストを取得
+1. get a list of items in a SPARQL query
 
-    ```get_item_list関数
+    ```get_item_list function
     def get_item_list(offset, limit=100):
 
         query = f"""
         SELECT?item WHERE {{
-        ?item wdt:P279/wdt:P279* wd:Q81163.  # 高分子
+        ?item wdt:P279/wdt:P279* wd:Q81163.  # polymer
         }}
         """
         url = 'https://query.wikidata.org/sparql'
         headers = {
-            'User-Agent': 'MyMakeDic/1.0 (xxxxx@xxxxx.co.jp)' #e-mail本物を入力しないとタイムアウトが起こるので注意！
+            'User-Agent': 'MyMakeDic/1.0 (xxxxx@xxxxx.co.jp)' # Note that if you do not enter your e-mail real name, a timeout will occur!
             }
         params = {
             'query': query,
@@ -32,24 +69,24 @@
         }
     ```
 
-2. Wikidata APIでアイテムid毎に詳細データを抽出
+2. Extract detailed data for each item id with Wikidata API
 
-    ```get_item_data関数
+    ```get_item_data function
     def get_item_data(item_ids):
         url = 'https://www.wikidata.org/w/api.php'
         params = {
             'action': 'wbgetentities',
-            'ids': '|'.join(item_ids),  # 複数のIDを|で区切って指定
+            'ids': '|'.join(item_ids),  # Specify multiple IDs separated by |
             'languages': 'ja|en',
             'props': 'labels|aliases|claims',
             'format': 'json'
         }
     ```  
 
-3. 抽出データをファイルに出力
+3. Output extracted data to file
 
-    ```概略のみ記載
-    # 抽出データ項目
+    ```Outline only
+    # extracted data item
     'http://www.wikidata.org/entity/' + item_id,
     data['labels'].get('ja', {}).get('value'),
     data['labels'].get('en', {}).get('value'),
@@ -57,61 +94,37 @@
     altLabel_en = [alias['value'] for alias in data['aliases']['en']]
     claims_p31 = data.get('claims', {}).get('P31')
 
-    # csvファイルの構成
+    # Composition of csv files
     df = pd.DataFrame(all_data, columns=[
                             "item", "label_ja", "label_en", "altLabel_ja", "altLabel_en", "instance of"
                         ])
 
     ```
 
-## Python Execution Command
+### Number of items in Wikidata (2025.02.19)
 
-- データダウンロードに時間がかかるため、分割ダウンロードができる
-- `start_index` : 抽出する語句の最初の`index`
-- `stop_index` : 抽出を修了する語句の`index`
-- データは2万語毎にCSVファイルに出力されるため、`start_index`と`stop_index`の差が、2万の倍数であることが好ましい
+- Searchable via the Wikidata Query Service :https://query.wikidata.org/
 
-```実行コード例
-poetry run python main_restrict.py {start_index} {stop_index}
-poetry run python main_restrict.py 1 40000
-```
-
-### Wikidata収録アイテム数 (2025.02.19)
-
-- Wikidata Query Serviceから検索可能 :https://query.wikidata.org/
-
-```アイテム数カウント用クエリ
+```Query for item count
 SELECT (COUNT(?item) AS ?count) WHERE {
-?item wdt:P31/wdt:P279* wd:Q178593 .  # インスタンス(P31)が高分子、またはそのサブクラス(P279)であるアイテムをカウント
+?item wdt:P31/wdt:P279* wd:Q178593 .  # Count items whose instance (P31) is a polymer or its subclass (P279)
 }
 ```
 
-- Q178593 (高分子): 1148429 → 1148917
-- Q11173 (化合物)：timeout
-- Q35758 (物質)：timeout
-- Q214609 (材料)： 1245339
-- Q79529 (化学物質)：timeout
-- Q11344 (元素)： 369
-- Q113145171 (chemical entity): 1277616
-- Q81163（重合体）: 1148916
-- Q55640599(chemical entities)： 149218
-- Q170409(functional group)： 178
-- Q36534 (chemical reaction)： 3773
-- Q107715（physical quantity）： 443212
-- Q21077852 (Wikidata property for physical quantities): 158
-- Q33104303 (pyhsics): 28
+- Q178593 (macromolecule): 1148429 → 1148917
+- Q81163（polymer）: 1148916
+
 
 ### Reference
 
-#### SPARQLクエリのプロパティ
+#### SPARQL Query Properties
 
-```- wdt:P460 (類義語): 最も直接的な類義語を表すプロパティ
-- wdt:P1889 (同義語): ほぼ同じ意味を持つ語を表す
-- wdt:P1424 (別名): 異なる名称で呼ばれる場合に使われ、慣用名、略称、商品名なども含まれる可能性がある
-- wdt:P1709 (ブランド): 商品名を表し、高分子材料の商品名も含まれる可能性がある
-- IUPAC名と慣用名は、同じ物質を指す場合は類義語とみなす
-- 略称は、正式名称の類義語とみなす
-- 商品名は、正式名称(または慣用名)の類義語とみなす
-
+```- wdt:P460 (synonym): property representing the most direct synonym
+- wdt:P1889 (synonyms): Represents words that have approximately the same meaning
+- wdt:P1424 (alias): Used to refer to something by a different name, which may include a conventional name, abbreviation, product name, etc.
+- wdt:P1709 (brand): Represents a trade name and may include trade names of polymeric materials
+- IUPAC and conventional names are considered synonyms if they refer to the same substance
+- Abbreviations are considered synonyms of the official name
+- Product names are considered synonyms of the official (or customary) name
 - wdt:P31 :instance of
 - wdt:P279 :subclass of```
